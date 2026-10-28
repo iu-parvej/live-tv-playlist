@@ -1,0 +1,736 @@
+#EXTM3U
+# Last Updated: 2026-10-28 05:45 PM (Local Time)
+# Curated VIP Playlist: BD Sports, Kolkata/Hindi Ent & Movies, All Sports, Docs, BD News/Drama, Kids & Music
+# Total Curated Channels: 244
+
+#EXTINF:-1 group-title="1. BD Sports 🇧🇩" tvg-id="GTVHD.bd" tvg-name="GTVHD.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png",GAZI TV HD (284ms)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="1. BD Sports 🇧🇩" tvg-id="GaziTV.bd" tvg-name="GaziTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Gazi_TV_logo.svg/330px-Gazi_TV_logo.svg.png",GTV (Gazi TV) (556ms [BDIX])
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="1. BD Sports 🇧🇩" tvg-id="TSports.bd" tvg-name="TSports.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/T_Sports_logo.svg/330px-T_Sports_logo.svg.png",T Sports HD (3174ms)
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="B4U Movies (Server 1 - 383ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigt0nGC7CikfRA7QSQp5MKBpDg-G8YSHL-xa1sXq9_8X25R7RRN1aJdN_VD8OW_uHzRDENU6pzGa3tCTOqkdGBEvmlQ8_ymva95CO_Z5xpv6geQBo9GO1amoXVjMfNEg_d5BYhQ0z3KI5gjfsYn-xnyOu71cs3vJfr6ratfarDSqw2i4lCL5MQmaCrUQ/s600/Nur_20251219_134839_0000.png",B4U Movies (Server 1 - 383ms)
+https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="B4U Movies (Server 2 - 1049ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigt0nGC7CikfRA7QSQp5MKBpDg-G8YSHL-xa1sXq9_8X25R7RRN1aJdN_VD8OW_uHzRDENU6pzGa3tCTOqkdGBEvmlQ8_ymva95CO_Z5xpv6geQBo9GO1amoXVjMfNEg_d5BYhQ0z3KI5gjfsYn-xnyOu71cs3vJfr6ratfarDSqw2i4lCL5MQmaCrUQ/s600/Nur_20251219_134839_0000.png",B4U Movies (Server 2 - 1049ms)
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="B4UMovies.in@India" tvg-name="B4UMovies.in@India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png",B4U Movies 2 (65ms [BDIX])
+https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="Bhojpuri Cinema (442ms)",Bhojpuri Cinema (442ms)
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="BhojpuriCinema.in" tvg-name="BhojpuriCinema.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Bhojpuri_cinema.png",Bhojpuri Cinema (95ms)
+https://live-bhojpuri.akamaized.net/liveabr/pub-iobhojpuqbu6yj/live_720p/chunks.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="Colors Bangla Cinema (103ms [BDIX])" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png",Colors Bangla Cinema (103ms [BDIX])
+http://103.151.60.162:2122/play/a02m/index.m3u8?hls
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="colorsBangla.in" tvg-name="colorsBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg",Colors Bangla HD (543ms)
+https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="ColorsBangla.in" tvg-name="ColorsBangla.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Colors_Bangla_logo.svg/330px-Colors_Bangla_logo.svg.png",Colors Bangla HD (Server 1 - 462ms)
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="ColorsBangla.in" tvg-name="ColorsBangla.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Colors_Bangla_logo.svg/330px-Colors_Bangla_logo.svg.png",Colors Bangla HD (Server 2 - 834ms)
+https://live20.bozztv.com/giatvplayout7/giatv-209627/index.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="Colors Cineplex (440ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX/images/LOGO_HD/image.png",Colors Cineplex (440ms)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="ColorsTV.in" tvg-name="ColorsTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Colors_TV_logo.svg/330px-Colors_TV_logo.svg.png",Colors HD (Server 1 - 54ms [BDIX])
+http://103.151.60.162:2122/play/a02q/index.m3u8?hls
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="ColorsTV.in" tvg-name="ColorsTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Colors_TV_logo.svg/330px-Colors_TV_logo.svg.png",Colors HD (Server 2 - 178ms)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="ColorsTV.in" tvg-name="ColorsTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Colors_TV_logo.svg/330px-Colors_TV_logo.svg.png",Colors HD (Server 3 - 3160ms)
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/colorshd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="56217203-21d2-4ca8-af74-b5b037a6f7f0" tvg-name="56217203-21d2-4ca8-af74-b5b037a6f7f0" tvg-logo="https://s3.aynaott.com/storage/cb1c3e153b951760fb0396cd27b8a715",Dangal (Server 1 - 158ms)
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="56217203-21d2-4ca8-af74-b5b037a6f7f0" tvg-name="56217203-21d2-4ca8-af74-b5b037a6f7f0" tvg-logo="https://s3.aynaott.com/storage/cb1c3e153b951760fb0396cd27b8a715",Dangal (Server 2 - 409ms [BDIX])
+https://tvsen6.aynaott.com/uS9QwrbB/index.m3u8?e=1784102594&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=1f2a210560b673b66b0d398f2d6fc2fd
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="DANGAL2" tvg-name="DANGAL2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png",DANGAL 2 (204ms)
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="DangalTV.in" tvg-name="DangalTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png",Dangal TV (157ms)
+https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="dhoommusic.bd" tvg-name="dhoommusic.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/68/Dhoom_Music_Bangla_logo_%282014%29.png",DHOOM MUSIC Bangla (325ms)
+https://cdn.pishow.tv/ott/live/1456/master.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="FilamchiBhojpuri.in@SD" tvg-name="FilamchiBhojpuri.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Filamchi_Bhojpuri_new.png",Filamchi Bhojpuri (327ms)
+https://epiconvh.akamaized.net/live/filamchi/master.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="Goldmines.in" tvg-name="Goldmines.in" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png",Goldmines (386ms)
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="Goldmines 2 (302ms)" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Goldmines 2 (302ms)
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="Goldmines Action (289ms)" tvg-logo="https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj",Goldmines Action (289ms)
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="Goldmines Bollywood (323ms)" tvg-logo="https://i.imgur.com/6mNQ9mM.png",Goldmines Bollywood (323ms)
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="Goldmines Movies (122ms [BDIX])" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540",Goldmines Movies (122ms [BDIX])
+http://103.175.73.12:8080/live/51/51_0.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="Manoranjan Grand (359ms)" tvg-logo="https://dtil.tmsimg.com/assets/s143302_ld_h15_aa.png?lock=720x540",Manoranjan Grand (359ms)
+https://cdn.pishow.tv/ott/live/1011/master.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="Manoranjan Movies (292ms)" tvg-logo="https://dtil.tmsimg.com/assets/s143303_ld_h15_aa.png?lock=720x540",Manoranjan Movies (292ms)
+https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="ManoranjanMovies" tvg-name="ManoranjanMovies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Manoranjan_Movies.jpg",Manoranjan Movies (318ms)
+https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="Manoranjan TV (272ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MANORANJAN_TV/images/LOGO_HD/image.png",Manoranjan TV (272ms)
+https://cdn.pishow.tv/ott/live/1013/master.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="Rupasi Bangla" tvg-name="Rupasi Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Ruposhi_Bangla_new.jpeg",Ruposhi Bangla (520ms [BDIX])
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="75412270-ce20-4376-8e7f-21fc76f84ed4" tvg-name="75412270-ce20-4376-8e7f-21fc76f84ed4" tvg-logo="https://s3.aynaott.com/storage/80424ce0682e14e7d51e28de33d5f380",Sangeet Bangla (Server 1 - 297ms [BDIX])
+https://tvsen6.aynaott.com/hT5jHczt/index.m3u8?e=1784102630&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36c90e8e5a1cee8374378d93fb7c4971
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="75412270-ce20-4376-8e7f-21fc76f84ed4" tvg-name="75412270-ce20-4376-8e7f-21fc76f84ed4" tvg-logo="https://s3.aynaott.com/storage/80424ce0682e14e7d51e28de33d5f380",Sangeet Bangla (Server 2 - 370ms)
+https://cdn.pishow.tv/ott/live/1143/master.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="Shemaroo Josh (318ms)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540",Shemaroo Josh (318ms)
+https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="Shemaroo Marathi Bana (502ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA/images/LOGO_HD/image.png",Shemaroo Marathi Bana (502ms)
+https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="ShemarooTV.in@SD" tvg-name="ShemarooTV.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Shemaroo_TV.svg",Shemaroo TV (187ms)
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="Shemaroo Umang (336ms)" tvg-logo="https://dtil.tmsimg.com/assets/s143779_ld_h15_aa.png?lock=720x540",Shemaroo Umang (336ms)
+https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="Shubh Cinema TV (352ms)" tvg-logo="https://i.imgur.com/RQhorAG.png",Shubh Cinema TV (352ms)
+https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="Sony Entertainment Television (83ms [BDIX])" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png?lock=720x540",Sony Entertainment Television (83ms [BDIX])
+http://103.151.60.162:2122/play/a015/index.m3u8?hls
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="SonySET.in" tvg-name="SonySET.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Sony_Entertainment_Television_logo.svg/330px-Sony_Entertainment_Television_logo.svg.png",Sony Entertainment Television HD (509ms)
+http://38.96.178.205/SONYHD/index.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="SonyMAX.in" tvg-name="SonyMAX.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Sony_MAX_logo.svg/330px-Sony_MAX_logo.svg.png",Sony MAX HD (Server 1 - 1224ms [BDIX])
+http://103.151.60.162:2122/play/a014/index.m3u8?hls
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="SonyMAX.in" tvg-name="SonyMAX.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Sony_MAX_logo.svg/330px-Sony_MAX_logo.svg.png",Sony MAX HD (Server 2 - 3153ms)
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/sonymax/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="Sony Pix HD (56ms [BDIX])" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",Sony Pix HD (56ms [BDIX])
+http://103.151.60.162:2122/play/a01d/index.m3u8?hls
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="SonySAB.in" tvg-name="SonySAB.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Sony_SAB_logo.svg/330px-Sony_SAB_logo.svg.png",Sony SAB HD (182ms [BDIX])
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-name="Star Gold 2 HD (105ms [BDIX])" tvg-logo="https://i.imgur.com/G0ZfzZr.png",Star Gold 2 HD (105ms [BDIX])
+http://103.151.60.162:2122/play/a01v/index.m3u8?hls
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="StarGold.in" tvg-name="StarGold.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Star_Gold_logo.svg/330px-Star_Gold_logo.svg.png",Star Gold HD (3034ms)
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/stargold/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="starjalsha.in" tvg-name="starjalsha.in" tvg-logo="http://openboxv8s.com/india/star_jalsha.png",STAR JALSHA HD (Server 1 - 215ms)
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="StarJalsha.in" tvg-name="StarJalsha.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Star_Jalsha_logo.svg/330px-Star_Jalsha_logo.svg.png",Star Jalsha HD (Server 1 - 289ms)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="StarJalsha.in" tvg-name="StarJalsha.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Star_Jalsha_logo.svg/330px-Star_Jalsha_logo.svg.png",Star Jalsha HD (Server 2 - 1437ms [BDIX])
+http://103.151.60.162:2122/play/a00w/index.m3u8?hls
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="starjalsha.in" tvg-name="starjalsha.in" tvg-logo="http://openboxv8s.com/india/star_jalsha.png",STAR JALSHA HD (Server 2 - 274ms)
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="StarJalsha.in" tvg-name="StarJalsha.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Star_Jalsha_logo.svg/330px-Star_Jalsha_logo.svg.png",Star Jalsha HD (Server 3 - 3083ms)
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/starjalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="StarPlus.in" tvg-name="StarPlus.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Star_Plus_logo.svg/330px-Star_Plus_logo.svg.png",Star Plus HD (2993ms)
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/starplus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="zeebanglacinema.in" tvg-name="zeebanglacinema.in" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg",ZEE BANGLA CINEMA (47ms [BDIX])
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="ZeeBangla.in" tvg-name="ZeeBangla.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee_Bangla_logo.svg/330px-Zee_Bangla_logo.svg.png",Zee Bangla HD (Server 1 - 19ms [BDIX])
+http://103.151.60.162:2122/play/a011/index.m3u8?hls
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="ZeeBangla.in" tvg-name="ZeeBangla.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee_Bangla_logo.svg/330px-Zee_Bangla_logo.svg.png",Zee Bangla HD (Server 2 - 19ms [BDIX])
+http://103.151.60.162:2122/play/a02p/index.m3u8?hls
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="ZeeBangla.in" tvg-name="ZeeBangla.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee_Bangla_logo.svg/330px-Zee_Bangla_logo.svg.png",Zee Bangla HD (Server 3 - 61ms [BDIX])
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="ff14d64f-0fcb-45af-8313-9ae3ff788052" tvg-name="ff14d64f-0fcb-45af-8313-9ae3ff788052" tvg-logo="https://s3.aynaott.com/storage/1f25888b68626ed736acf35824905916",Zee Bangla Sonar (Server 1 - 47ms [BDIX])
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="ff14d64f-0fcb-45af-8313-9ae3ff788052" tvg-name="ff14d64f-0fcb-45af-8313-9ae3ff788052" tvg-logo="https://s3.aynaott.com/storage/1f25888b68626ed736acf35824905916",Zee Bangla Sonar (Server 2 - 602ms)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="ZeeCinema.in" tvg-name="ZeeCinema.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Zee_Cinema_logo.svg/330px-Zee_Cinema_logo.svg.png",Zee Cinema HD (1228ms [BDIX])
+http://103.151.60.162:2122/play/a024/index.m3u8?hls
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="ZeeTV.in" tvg-name="ZeeTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Zee_TV_logo.svg/330px-Zee_TV_logo.svg.png",Zee TV HD (Server 1 - 18ms [BDIX])
+http://103.151.60.162:2122/play/a01u/index.m3u8?hls
+
+#EXTINF:-1 group-title="2. Indian & Kolkata Entertainment & Movies 🎬" tvg-id="ZeeTV.in" tvg-name="ZeeTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Zee_TV_logo.svg/330px-Zee_TV_logo.svg.png",Zee TV HD (Server 2 - 614ms)
+http://41.205.93.154/ZEE-TV/index.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="starsportsselect1.in" tvg-name="starsportsselect1.in" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png",---Live(STAR SPORTS SELECT 2 HD)--- (139ms)
+http://tvsen7.aynascope.net/ssport2hd/index.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="157.Bein Sports Xtra HD (728ms)",157.Bein Sports Xtra HD (728ms)
+https://chostv.mobie.in/choos/sports/beinxtra.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="2TV Sport (668ms)",2TV Sport (668ms)
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="ASports.pk" tvg-name="ASports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/A_Sports_logo.svg/330px-A_Sports_logo.svg.png",A Sports HD (Server 1 - 110ms [BDIX])
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="ASports.pk" tvg-name="ASports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/A_Sports_logo.svg/330px-A_Sports_logo.svg.png",A Sports HD (Server 2 - 316ms [BDIX])
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102655&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=833b5dd42540ad3eaf690e4b371d5fec
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="ASports.pk" tvg-name="ASports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/A_Sports_logo.svg/330px-A_Sports_logo.svg.png",A Sports HD (Server 3 - 391ms [BDIX])
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="live" tvg-name="live" tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp",A Sports)-- (167ms)
+https://playztv-apps.pages.dev/a-sports/index.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="Bahrain Sports 1 (1293ms)" tvg-logo="https://s3.aynaott.com/storage/f55bea3263be1af187fe1122e4f44142",Bahrain Sports 1 (1293ms)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="Bein Sport HD 1" tvg-name="Bein Sport HD 1" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Bein Sport HD 1 (2724ms)
+http://ua102.online24.pm:8222/1101/video.m3u8?token=350B326FB34F4B8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="ca3fc4a9-af30-4a81-b915-239d8f975a85" tvg-name="ca3fc4a9-af30-4a81-b915-239d8f975a85" tvg-logo="https://s3.aynaott.com/storage/3f60ee0c945319f264361f201a52ed49",Bein Sports 1 (1424ms)
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="BeINSPORTS1" tvg-name="BeINSPORTS1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg",beIN SPORTS 1)-- (70ms [BDIX])
+http://27.124.71.27/beIN_Sports_1/index.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="BeiNSportsExtra" tvg-name="BeiNSportsExtra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",beIN SPORTS XTRA)-- (904ms)
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="Dazn 1 (2357ms)",Dazn 1 (2357ms)
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="Dazn 2 (1336ms)",Dazn 2 (1336ms)
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="Dazn 5 (2358ms)",Dazn 5 (2358ms)
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="DD Sports (Server 1 - 323ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvJ1HtheTbTZjOoXTO9KRK1fIhh1uXhyvSckbf05J7yIcdT4ZucX1fvfjnyiv9QK-m0pBK6MoY6KhcVPQpsRSXdgBFU612nmbKpY864gsoMvMaCyu_fOdNVbx6ADMbz2dftZ7-0Arzx81kC8nqbeduSEsquwrPpzNGm2wZw6rXHe79vlF7DokCavubWA/s600/Nur_20251107_160202_0000.png",DD Sports (Server 1 - 323ms)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="DD Sports (Server 2 - 1068ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvJ1HtheTbTZjOoXTO9KRK1fIhh1uXhyvSckbf05J7yIcdT4ZucX1fvfjnyiv9QK-m0pBK6MoY6KhcVPQpsRSXdgBFU612nmbKpY864gsoMvMaCyu_fOdNVbx6ADMbz2dftZ7-0Arzx81kC8nqbeduSEsquwrPpzNGm2wZw6rXHe79vlF7DokCavubWA/s600/Nur_20251107_160202_0000.png",DD Sports (Server 2 - 1068ms)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="DD Sports HD (301ms)" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",DD Sports HD (301ms)
+https://cdn.pishow.tv/ott/live/1161/master.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="DSPORTS 1 (755ms)",DSPORTS 1 (755ms)
+http://190.117.20.37:8000/play/a08d/index.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="ESPN 2 (Server 1 - 675ms)",ESPN 2 (Server 1 - 675ms)
+http://200.10.30.241:8000/play/a01r/index.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="ESPN 2 (Server 2 - 701ms)",ESPN 2 (Server 2 - 701ms)
+http://181.205.130.194:4000/play/a07i
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="ESPN 2 (Server 3 - 844ms)",ESPN 2 (Server 3 - 844ms)
+http://191.97.49.82:8001/play/a00m/index.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-logo="https://i.imgur.com/Plcqlr7.jpg",Jordan Sports ARB (1320ms)
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="MAX SPORT 1 (392ms)",MAX SPORT 1 (392ms)
+http://77.46.130.252:99/maxsport1
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="MAX SPORT 2 (388ms)",MAX SPORT 2 (388ms)
+http://77.46.130.252:99/maxsport2
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="MAX SPORT 3 (368ms)",MAX SPORT 3 (368ms)
+http://77.46.130.252:99/maxsport3
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="MAX SPORT 4 (379ms)",MAX SPORT 4 (379ms)
+http://77.46.130.252:99/maxsport4
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="PTVSports.pk" tvg-name="PTVSports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/PTV_Sports_logo.svg/330px-PTV_Sports_logo.svg.png",PTV Sports HD (Server 1 - 261ms [BDIX])
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102658&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=b75669e4aa0dd58c602b637ab66af304
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="PTVSports.pk" tvg-name="PTVSports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/PTV_Sports_logo.svg/330px-PTV_Sports_logo.svg.png",PTV Sports HD (Server 2 - 340ms [BDIX])
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="SonyTen1.in" tvg-name="SonyTen1.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Sony_Sports_Ten_1_logo.svg/330px-Sony_Sports_Ten_1_logo.svg.png",Sony Sports Ten 1 HD (Server 1 - 67ms [BDIX])
+http://103.151.60.162:2122/play/a01c/index.m3u8?hls
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="SonyTen1.in" tvg-name="SonyTen1.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Sony_Sports_Ten_1_logo.svg/330px-Sony_Sports_Ten_1_logo.svg.png",Sony Sports Ten 1 HD (Server 2 - 2063ms)
+https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="SonyTen2.in" tvg-name="SonyTen2.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Sony_Sports_Ten_2_logo.svg/330px-Sony_Sports_Ten_2_logo.svg.png",Sony Sports Ten 2 HD (59ms [BDIX])
+http://103.151.60.162:2122/play/a01b/index.m3u8?hls
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="Sony Sports Ten 3 Hindi (61ms [BDIX])" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",Sony Sports Ten 3 Hindi (61ms [BDIX])
+http://103.151.60.162:2122/play/a01t/index.m3u8?hls
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="SonyTen5.in" tvg-name="SonyTen5.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Sony_Sports_Ten_5_logo.svg/330px-Sony_Sports_Ten_5_logo.svg.png",Sony Sports Ten 5 HD (60ms [BDIX])
+http://103.151.60.162:2122/play/a028/index.m3u8?hls
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="StarSports1.in" tvg-name="StarSports1.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Star_Sports_1_logo.svg/330px-Star_Sports_1_logo.svg.png",Star Sports 1 HD (3167ms)
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/sonyten5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="starsports1hindi.in" tvg-name="starsports1hindi.in" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png",Star Sports 1 Hindi (116ms)
+https://starsportshindiii.pages.dev/index.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="StarSports2.in" tvg-name="StarSports2.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Star_Sports_2_logo.svg/330px-Star_Sports_2_logo.svg.png",Star Sports 2 HD (Server 1 - 59ms [BDIX])
+http://103.151.60.162:2122/play/a00v/index.m3u8?hls
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="StarSports2.in" tvg-name="StarSports2.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Star_Sports_2_logo.svg/330px-Star_Sports_2_logo.svg.png",Star Sports 2 HD (Server 2 - 3169ms)
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="Star Sports Select 1 (3168ms)" tvg-logo="https://i.imgur.com/Uf9kaSQ.jpeg",Star Sports Select 1 (3168ms)
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/starselect1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="Star Sports Select 1 HD (78ms [BDIX])" tvg-logo="https://i.imgur.com/Mh9tKPx.png",Star Sports Select 1 HD (78ms [BDIX])
+http://103.151.60.162:2122/play/a026/index.m3u8?hls
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="Star Sports Select 2 (3168ms)" tvg-logo="https://i.imgur.com/H5wcIUZ.png",Star Sports Select 2 (3168ms)
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/starselect2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="Star Sports Select 2 HD (120ms [BDIX])" tvg-logo="https://i.imgur.com/FtRT73R.png",Star Sports Select 2 HD (120ms [BDIX])
+http://103.151.60.162:2122/play/a027/index.m3u8?hls
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="TNT SPORTS PREMIUM (626ms)",TNT SPORTS PREMIUM (626ms)
+http://200.115.120.1:8000/play/ca040/index.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-name="Willow Extra (96ms)",Willow Extra (96ms)
+http://27.124.71.27/Willow_Extra/index.m3u8
+
+#EXTINF:-1 group-title="3. All Sports (Cricket, Football & HD) ⚽" tvg-id="WillowExtraHD" tvg-name="WillowExtraHD" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WiLLoW HD)-- (884ms)
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="Alone By History (720p)" tvg-name="Alone By History (720p)",Alone By History (1064ms)
+https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-name="Animal Planet (India) (212ms [BDIX])" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",Animal Planet (India) (212ms [BDIX])
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="AnimalPlanet.in" tvg-name="AnimalPlanet.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Animal_Planet_logo.svg/330px-Animal_Planet_logo.svg.png",Animal Planet HD (Server 1 - 45ms [BDIX])
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="AnimalPlanet.in" tvg-name="AnimalPlanet.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Animal_Planet_logo.svg/330px-Animal_Planet_logo.svg.png",Animal Planet HD (Server 2 - 92ms [BDIX])
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="AnimalPlanet.in" tvg-name="AnimalPlanet.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Animal_Planet_logo.svg/330px-Animal_Planet_logo.svg.png",Animal Planet HD (Server 3 - 1614ms)
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="AutenticHistory.de@SD" tvg-name="AutenticHistory.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png",Autentic History (1421ms)
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-name="Discovery Channel (India) (163ms [BDIX])" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540",Discovery Channel (India) (163ms [BDIX])
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-name="Discovery Channel (India) HD (140ms [BDIX])" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",Discovery Channel (India) HD (140ms [BDIX])
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="Discovery.in" tvg-name="Discovery.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Discovery_Channel_logo.svg/330px-Discovery_Channel_logo.svg.png",Discovery Channel HD (631ms)
+https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-name="Discovery ids (175ms [BDIX])" tvg-logo="https://i.imgur.com/0iNQvoL.png",Discovery ids (175ms [BDIX])
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-name="Discovery Science (142ms [BDIX])" tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540",Discovery Science (142ms [BDIX])
+https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-name="Discovery Turbo (India) (142ms [BDIX])" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png",Discovery Turbo (India) (142ms [BDIX])
+https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="History & Warfare Now (1080p)" tvg-name="History & Warfare Now (1080p)",History & Warfare Now (728ms)
+https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="GBBA2200005ZA" tvg-name="GBBA2200005ZA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA2200005ZA_20250107T022602SQUARE.png",History Hit (1085ms)
+https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/ts-eu-w1-n2/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="History Hunters" tvg-name="History Hunters",History Hunters (1429ms)
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="History TV18 HD Hindi" tvg-name="History TV18 HD Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/History_TV18_HD_2022.png",History TV18 HD Hindi (145ms)
+https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-name="Investigation Discovery (India) (165ms [BDIX])" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png",Investigation Discovery (India) (165ms [BDIX])
+https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="INWILD" tvg-name="INWILD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA220000751_20250107T022608SQUARE.png",INWILD (1107ms)
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="INWILD" tvg-name="INWILD" tvg-logo="https://d26ztvr3v93474.cloudfront.net/img/logo.inwild.svg",INWILD DIGITAL/ OTT (1083ms)
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="NatGeo.in" tvg-name="NatGeo.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/National_Geographic_logo.svg/330px-National_Geographic_logo.svg.png",National Geographic HD (2548ms)
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/natgeo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="REALWILD" tvg-name="REALWILD" tvg-logo="https://i.ibb.co/sRhcqHT/realwild.png",REAL WILD (Server 1 - 594ms)
+https://amg00426-littledotstudio-realwild-tcl-fzsi1.amagi.tv/playlist/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="REALWILD" tvg-name="REALWILD" tvg-logo="https://i.ibb.co/sRhcqHT/realwild.png",REAL WILD (Server 2 - 1458ms)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="SonyBBCEarthHD" tvg-name="SonyBBCEarthHD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp",Sony BBC Earth HD (1273ms)
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-name="TLC (India) (125ms [BDIX])" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",TLC (India) (125ms [BDIX])
+https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-name="TLC (India) HD (124ms [BDIX])" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",TLC (India) HD (124ms [BDIX])
+https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="TrueHistory" tvg-name="TrueHistory" tvg-logo="https://a.jsrdn.com/hls/23001/true-history/logo_20231219_223655_68.png",True History (1488ms)
+https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="WildEarth" tvg-name="WildEarth" tvg-logo="https://wildearth.tv/wp-content/uploads/2024/11/WE-LOGO-2025-WHITE-WEB-1.png",Wild Earth (691ms)
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-name="Wild Nature (807ms)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlCh5kON8yENw9yJfeVtZ-PvFOfbWPyVCFmA&s",Wild Nature (807ms)
+https://wildearth-plex.amagi.tv/master.m3u8
+
+#EXTINF:-1 group-title="4. Documentary & Wildlife 🌍" tvg-id="GBBB5000002PL" tvg-name="GBBB5000002PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png",Wild Planet (1027ms)
+https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
+
+#EXTINF:-1 group-title="5. BD News & National 🇧🇩" tvg-id="ATNNews.bd" tvg-name="ATNNews.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/ATN_News_logo.svg/330px-ATN_News_logo.svg.png",ATN News HD (Server 1 - 226ms [BDIX])
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+
+#EXTINF:-1 group-title="5. BD News & National 🇧🇩" tvg-id="ATNNews.bd" tvg-name="ATNNews.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/ATN_News_logo.svg/330px-ATN_News_logo.svg.png",ATN News HD (Server 2 - 414ms [BDIX])
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8?e=1784102557&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=11c7f2ed16c910de7308032faaf7a7ec
+
+#EXTINF:-1 group-title="5. BD News & National 🇧🇩" tvg-name="BTV Chattogram (218ms [BDIX])",BTV Chattogram (218ms [BDIX])
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
+
+#EXTINF:-1 group-title="5. BD News & National 🇧🇩" tvg-id="BTV Chattogram.tv" tvg-name="BTV Chattogram.tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/BTV_Chattogram_Logo.svg",BTV CHITTAGONG (37ms [BDIX])
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="5. BD News & National 🇧🇩" tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-logo="https://s3.aynaott.com/storage/00da8a07fb26b2fb79359ee535e4c7bc",BTV CTG (376ms [BDIX])
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8?e=1784102576&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=901c0ca2f1ba54041a543dce43641c12
+
+#EXTINF:-1 group-title="5. BD News & National 🇧🇩" tvg-id="btv.bd" tvg-name="btv.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Bangladesh_Television_Logo_1971_Alt.svg",BTV HD (50ms [BDIX])
+http://103.135.253.32:8080/BTV/index.m3u8
+
+#EXTINF:-1 group-title="5. BD News & National 🇧🇩" tvg-id="Channel24.bd" tvg-name="Channel24.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Channel_24_logo.svg/330px-Channel_24_logo.svg.png",Channel 24 HD (23ms [BDIX])
+http://103.135.253.32:8080/Channel-24/index.m3u8
+
+#EXTINF:-1 group-title="5. BD News & National 🇧🇩" tvg-id="DBCNews.bd" tvg-name="DBCNews.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/DBC_News_logo.svg/330px-DBC_News_logo.svg.png",DBC News HD (Server 1 - 45ms [BDIX])
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
+
+#EXTINF:-1 group-title="5. BD News & National 🇧🇩" tvg-id="DBCNews.bd" tvg-name="DBCNews.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/DBC_News_logo.svg/330px-DBC_News_logo.svg.png",DBC News HD (Server 2 - 431ms [BDIX])
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8?e=1784102535&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d1848b7fd84cef719a89b61f0f5704ee
+
+#EXTINF:-1 group-title="5. BD News & National 🇧🇩" tvg-name="Jago News 24 (234ms)" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/pran-RFL.png",Jago News 24 (234ms)
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="5. BD News & National 🇧🇩" tvg-id="JamunaTV.bd" tvg-name="JamunaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Jamuna_Television_logo.svg/330px-Jamuna_Television_logo.svg.png",Jamuna TV HD (Server 1 - 47ms [BDIX])
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+
+#EXTINF:-1 group-title="5. BD News & National 🇧🇩" tvg-id="JamunaTV.bd" tvg-name="JamunaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Jamuna_Television_logo.svg/330px-Jamuna_Television_logo.svg.png",Jamuna TV HD (Server 2 - 419ms [BDIX])
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8?e=1784102531&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d17e86aa2e6745043e84e0547d4fb69a
+
+#EXTINF:-1 group-title="5. BD News & National 🇧🇩" tvg-id="NEWS 21 BANGLA" tvg-name="NEWS 21 BANGLA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/news21.jpg",NEWS 21 BANGLA (28ms [BDIX])
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+
+#EXTINF:-1 group-title="5. BD News & National 🇧🇩" tvg-id="News24.bd" tvg-name="News24.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/News24_logo.svg/330px-News24_logo.svg.png",News 24 HD (Server 1 - 424ms [BDIX])
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8?e=1784102534&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ff40b53535a0e90b724ac25ff41c590c
+
+#EXTINF:-1 group-title="5. BD News & National 🇧🇩" tvg-id="News24.bd" tvg-name="News24.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/News24_logo.svg/330px-News24_logo.svg.png",News 24 HD (Server 2 - 521ms)
+https://amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c1-amgplt0016/playlist.m3u8
+
+#EXTINF:-1 group-title="5. BD News & National 🇧🇩" tvg-id="NEWS24.bd" tvg-name="NEWS24.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a9/News24_HD_logo_2021.png",NEWS 24 Television (45ms [BDIX])
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="AnandaTV.bd" tvg-name="AnandaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Ananda_TV_logo.svg/330px-Ananda_TV_logo.svg.png",Ananda TV HD (Server 1 - 23ms [BDIX])
+http://103.135.253.32:8080/Anando-TV/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="AnandaTV.bd" tvg-name="AnandaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Ananda_TV_logo.svg/330px-Ananda_TV_logo.svg.png",Ananda TV HD (Server 2 - 228ms [BDIX])
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="AnandaTV.bd" tvg-name="AnandaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Ananda_TV_logo.svg/330px-Ananda_TV_logo.svg.png",Ananda TV HD (Server 3 - 379ms [BDIX])
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8?e=1784102574&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ca7c19dec6024bf61b0aa2c509cf45df
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="AnandaTV.bd" tvg-name="AnandaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Ananda_TV_logo.svg/330px-Ananda_TV_logo.svg.png",Ananda TV HD (Server 4 - 843ms [BDIX])
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-name="Asian TV (Server 1 - 46ms [BDIX])" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",Asian TV (Server 1 - 46ms [BDIX])
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-name="Asian TV (Server 2 - 438ms [BDIX])" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",Asian TV (Server 2 - 438ms [BDIX])
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=e4293f68c5bc8aa8e6ac3e088ca754f4
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-name="Asian TV (Server 3 - 608ms [BDIX])" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",Asian TV (Server 3 - 608ms [BDIX])
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="ATNBangla.bd" tvg-name="ATNBangla.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/ATN_Bangla_logo.svg/330px-ATN_Bangla_logo.svg.png",ATN Bangla HD (Server 1 - 34ms [BDIX])
+http://tvsen5.aynascope.net/atnbangla/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="ATNBangla.bd" tvg-name="ATNBangla.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/ATN_Bangla_logo.svg/330px-ATN_Bangla_logo.svg.png",ATN Bangla HD (Server 2 - 479ms [BDIX])
+https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1784102561&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=a4c195d9bcdfa5daa8df1dfd6b28455b
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="ATNBangla.bd" tvg-name="ATNBangla.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/ATN_Bangla_logo.svg/330px-ATN_Bangla_logo.svg.png",ATN Bangla HD (Server 3 - 528ms [BDIX])
+https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779283752&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e20058ae495a80a83ec09cb9d82b9253
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="ATNBangla.bd" tvg-name="ATNBangla.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/ATN_Bangla_logo.svg/330px-ATN_Bangla_logo.svg.png",ATN Bangla HD (Server 4 - 857ms)
+https://iptvlive.ahmed-bd-org.workers.dev/atn-bangla-1/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="ATN Bangla UK" tvg-name="ATN Bangla UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Logo_of_ATN_Bangla.svg",ATN Bangla U (Server 1 - 215ms)
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="ATN Bangla UK" tvg-name="ATN Bangla UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Logo_of_ATN_Bangla.svg",ATN Bangla U (Server 2 - 299ms)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="BanglaTV.bd" tvg-name="BanglaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Bangla_TV_logo.svg/330px-Bangla_TV_logo.svg.png",Bangla TV HD (Server 1 - 17ms [BDIX])
+http://116.204.149.16/banglatv/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="BanglaTV.bd" tvg-name="BanglaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Bangla_TV_logo.svg/330px-Bangla_TV_logo.svg.png",Bangla TV HD (Server 2 - 288ms)
+https://tv.kbhub.online/Bangladesh/Bangla-Tv-NF.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="BanglaTV.bd" tvg-name="BanglaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Bangla_TV_logo.svg/330px-Bangla_TV_logo.svg.png",Bangla TV HD (Server 3 - 423ms [BDIX])
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8?e=1784102569&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=fb1f6e0c49c7406611ea2bbd605ed275
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="Banglavision.bd" tvg-name="Banglavision.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Banglavision_logo.svg/330px-Banglavision_logo.svg.png",Banglavision HD (Server 1 - 42ms [BDIX])
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="Banglavision.bd" tvg-name="Banglavision.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Banglavision_logo.svg/330px-Banglavision_logo.svg.png",Banglavision HD (Server 2 - 46ms [BDIX])
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="Banglavision.bd" tvg-name="Banglavision.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Banglavision_logo.svg/330px-Banglavision_logo.svg.png",Banglavision HD (Server 3 - 284ms)
+https://tv.kbhub.online/Bangladesh/Bangla-Vision.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="Banglavision.bd" tvg-name="Banglavision.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Banglavision_logo.svg/330px-Banglavision_logo.svg.png",Banglavision HD (Server 4 - 485ms [BDIX])
+https://tvsen5.aynaott.com/banglavision/index.m3u8?e=1784102560&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ddcd867c4b5ff4b8041ee4e513423464
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="BijoyTV.bd" tvg-name="BijoyTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Bijoy_TV_logo.svg/330px-Bijoy_TV_logo.svg.png",Bijoy TV HD (Server 1 - 372ms)
+https://tv.kbhub.online/Ayna-OTT/Bijoy-Tv.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="BijoyTV.bd" tvg-name="BijoyTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Bijoy_TV_logo.svg/330px-Bijoy_TV_logo.svg.png",Bijoy TV HD (Server 2 - 375ms [BDIX])
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8?e=1784102572&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=e11a2b199c36c7359982e55ec018196d
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="Channeli.bd" tvg-name="Channeli.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Channel_i_logo.svg/330px-Channel_i_logo.svg.png",Channel i HD (Server 1 - 108ms)
+https://tv.kbhub.online/Bangladesh/Channel-I.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="Channeli.bd" tvg-name="Channeli.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Channel_i_logo.svg/330px-Channel_i_logo.svg.png",Channel i HD (Server 2 - 209ms [BDIX])
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="Channeli.bd" tvg-name="Channeli.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Channel_i_logo.svg/330px-Channel_i_logo.svg.png",Channel i HD (Server 3 - 230ms)
+https://tv.kbhub.online/Ayna-OTT/Channel-I.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="Channeli.bd" tvg-name="Channeli.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Channel_i_logo.svg/330px-Channel_i_logo.svg.png",Channel i HD (Server 4 - 413ms [BDIX])
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8?e=1784102558&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=1b6ef0107d8addd36bcab3ca1175877a
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="DeeptoTV.bd" tvg-name="DeeptoTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Deepto_TV_logo.svg/330px-Deepto_TV_logo.svg.png",Deepto TV HD (Server 1 - 46ms [BDIX])
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="DeeptoTV.bd" tvg-name="DeeptoTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Deepto_TV_logo.svg/330px-Deepto_TV_logo.svg.png",Deepto TV HD (Server 2 - 483ms [BDIX])
+https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8?e=1784102563&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=89a6bfdee0a7ecb358080b2c44f18b41
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="DeshTV.bd" tvg-name="DeshTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Desh_TV_logo.svg/330px-Desh_TV_logo.svg.png",Desh TV HD (Server 1 - 228ms [BDIX])
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="DeshTV.bd" tvg-name="DeshTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Desh_TV_logo.svg/330px-Desh_TV_logo.svg.png",Desh TV HD (Server 2 - 423ms [BDIX])
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8?e=1784102570&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=78b23c868a34420397be9c985d04db9b
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="DeshTV.bd" tvg-name="DeshTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Desh_TV_logo.svg/330px-Desh_TV_logo.svg.png",Desh TV HD (Server 3 - 654ms [BDIX])
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="MaasrangaTV.bd" tvg-name="MaasrangaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Maasranga_Television_logo.svg/330px-Maasranga_Television_logo.svg.png",Maasranga TV HD (Server 1 - 258ms [BDIX])
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="MaasrangaTV.bd" tvg-name="MaasrangaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Maasranga_Television_logo.svg/330px-Maasranga_Television_logo.svg.png",Maasranga TV HD (Server 2 - 432ms)
+http://tvsen5.aynascope.net/maasrangatv/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="MaasrangaTV.bd" tvg-name="MaasrangaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Maasranga_Television_logo.svg/330px-Maasranga_Television_logo.svg.png",Maasranga TV HD (Server 3 - 479ms [BDIX])
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8?e=1784102562&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=2044540ee613d44b1175f2885b2ab1ee
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="MaasrangaTV.bd" tvg-name="MaasrangaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Maasranga_Television_logo.svg/330px-Maasranga_Television_logo.svg.png",Maasranga TV HD (Server 4 - 517ms [BDIX])
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8?e=1779283753&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d29aadd6d2d6f7a0a28fabc7830ae6e3
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-name="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92",Mohona TV (Server 1 - 39ms [BDIX])
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-name="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92",Mohona TV (Server 2 - 386ms [BDIX])
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8?e=1784102571&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=8b1f5c5cb085762a45bd961bb900f98a
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-name="Movie Bangla (627ms [BDIX])" tvg-logo="https://i.postimg.cc/wBN1BtXk/20251127_095813.png",Movie Bangla (627ms [BDIX])
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="MovieBanglaTV" tvg-name="MovieBanglaTV" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie Bangla TV (63ms [BDIX])
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-name="MY TV (Server 1 - 113ms [BDIX])" tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529_103226.png",MY TV (Server 1 - 113ms [BDIX])
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-name="MY TV (Server 2 - 380ms [BDIX])" tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529_103226.png",MY TV (Server 2 - 380ms [BDIX])
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8?e=1784102573&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ae3f9c12e1d065b5ae78d27fb2e192fc
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-name="MY TV (Server 3 - 671ms [BDIX])" tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529_103226.png",MY TV (Server 3 - 671ms [BDIX])
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="mytv.bd" tvg-name="mytv.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Logo_of_My_TV_%28Bangladesh%29.svg",MY TV HD (215ms)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="NTV.bd" tvg-name="NTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/NTV_logo.svg/330px-NTV_logo.svg.png",NTV HD (Server 1 - 45ms [BDIX])
+https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="NTV.bd" tvg-name="NTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/NTV_logo.svg/330px-NTV_logo.svg.png",NTV HD (Server 2 - 127ms [BDIX])
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="NTV.bd" tvg-name="NTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/NTV_logo.svg/330px-NTV_logo.svg.png",NTV HD (Server 3 - 258ms [BDIX])
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="NTV.bd" tvg-name="NTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/NTV_logo.svg/330px-NTV_logo.svg.png",NTV HD (Server 4 - 482ms [BDIX])
+https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/index.m3u8?e=1784102559&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d26add1c49d848c9199b708427134979
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="NTVtvUK" tvg-name="NTVtvUK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/NTV_logo_with_slogan_%28Bangladesh%29.png",NTV TV U (194ms)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="OrangeBanglaTV.in" tvg-name="OrangeBanglaTV.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/Orange_Bangla_logo_%282018%29.png",Orange Bangla TV (246ms)
+https://cdn.pishow.tv/ott/live/1499/master.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="RTV.bd" tvg-name="RTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Rtv_logo.svg/330px-Rtv_logo.svg.png",Rtv HD (Server 1 - 48ms [BDIX])
+https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="RTV.bd" tvg-name="RTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Rtv_logo.svg/330px-Rtv_logo.svg.png",Rtv HD (Server 2 - 167ms)
+http://tvsen5.aynascope.net/RtvHD/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="RTV.bd" tvg-name="RTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Rtv_logo.svg/330px-Rtv_logo.svg.png",Rtv HD (Server 3 - 383ms)
+http://tvsen5.aynascope.net/RtvHD/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="RTV.bd" tvg-name="RTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Rtv_logo.svg/330px-Rtv_logo.svg.png",Rtv HD (Server 4 - 416ms)
+http://iptv.rtv-ooe.at/stream.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3",SA TV (Server 1 - 109ms [BDIX])
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3",SA TV (Server 2 - 440ms [BDIX])
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8?e=1784102564&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ed25297bf867135d78cb6ad3e1c2b495
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-name="Sananda TV (Server 1 - 65ms [BDIX])" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Sananda_TV_logo.jpeg",Sananda TV (Server 1 - 65ms [BDIX])
+https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-name="Sananda TV (Server 2 - 200ms)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Sananda_TV_logo.jpeg",Sananda TV (Server 2 - 200ms)
+http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="6. BD Entertainment & Drama 🇧🇩" tvg-name="Sananda TV (Server 3 - 500ms)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Sananda_TV_logo.jpeg",Sananda TV (Server 3 - 500ms)
+https://live.sanandatelevision.in/sananda/index.m3u8
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-id="DisneyChannel.LatinAmerica" tvg-name="DisneyChannel.LatinAmerica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/DISNEYCHANNEL-2025.svg",0. Disney Channel Latin America (653ms)
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-id="DISNEYJR" tvg-name="DISNEYJR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png",0. Disney Jr. (752ms)
+http://190.93.224.42/DISNEY-JR/index.m3u8
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-id="Sonic The Hedgehog" tvg-name="Sonic The Hedgehog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Classic_Sonic_01_copy.png",0. Sonic The Hedgehog (440ms)
+https://dtwdcugadwtnw.cloudfront.net/master.m3u8
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-name="86.Sony Yay (1960ms)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",86.Sony Yay (1960ms)
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6627/index.m3u8
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-id="9XM.in" tvg-name="9XM.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/9x_media.png",9XM (446ms)
+https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-name="B4U Music (1184ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilXOuGttq9F58UPTuH3QZx-eSpH2qlunCRfruR4y9lPNr_D-5goUxfNOZzdj0cLwj89VCOwlaiz2ju4TjoZ2GhXQC1hOjhZVz2gFX9PjQl-BxJos3dq2WJQFl2oluHg-_1T9ES4Hs6LJ5QMcxsvkQFymYXZUV2vLvgACYc3aeahNDXSmap2ES7s5D94w/s600/Nur_20251219_134908_0000.png",B4U Music (1184ms)
+https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-id="B4UMusic.in" tvg-name="B4UMusic.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png",B4U Music India (169ms)
+https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-name="DELUXE MUSIC (1646ms)" tvg-logo="https://i.imgur.com/E65GQN9.png",DELUXE MUSIC (1646ms)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-name="DELUXE MUSIC DANCE BY ONTOR (1605ms)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/666px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png",DELUXE MUSIC DANCE BY ONTOR (1605ms)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-name="DELUXE MUSIC RAP (1586ms)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Deluxe_Rap_Logo_2023.svg/666px-Deluxe_Rap_Logo_2023.svg.png",DELUXE MUSIC RAP (1586ms)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-name="Disney International HD (20ms [BDIX])" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png",Disney International HD (20ms [BDIX])
+http://103.151.60.162:2122/play/a018/index.m3u8?hls
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-name="Disney Junior (India) (134ms [BDIX])" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",Disney Junior (India) (134ms [BDIX])
+http://103.151.60.162:2122/play/a016/index.m3u8?hls
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-id="DurontoTV.bd" tvg-name="DurontoTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Duronto_TV_logo.svg/330px-Duronto_TV_logo.svg.png",Duronto TV HD (Server 1 - 228ms [BDIX])
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-id="DurontoTV.bd" tvg-name="DurontoTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Duronto_TV_logo.svg/330px-Duronto_TV_logo.svg.png",Duronto TV HD (Server 2 - 457ms [BDIX])
+https://tvsen5.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.fmp4.m3u8?token=26849003e1fe1bed0b0c40f6d3be853eb9a2b4f7-6a6a5971089a426fc1829aad7d929e8a-1784095967-1784095067&remote=no_check_ip
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-name="Mastiii (375ms)" tvg-logo="https://i.imgur.com/lxgXHx4.png",Mastiii (375ms)
+https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-name="MTV (India) (1040ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",MTV (India) (1040ms)
+https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-name="Pogo (39ms [BDIX])" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png",Pogo (39ms [BDIX])
+http://103.151.60.162:2122/play/a01e/index.m3u8?hls
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-id="TraceUrban" tvg-name="TraceUrban" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Trace_Urban.svg",Trace Urban (Server 1 - 473ms)
+https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
+
+#EXTINF:-1 group-title="7. Music & Kids (Cartoons & Songs) 🎵" tvg-id="TraceUrban" tvg-name="TraceUrban" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Trace_Urban.svg",Trace Urban (Server 2 - 715ms)
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="8. Islamic & Devotional 🕌" tvg-name="Al Quran Al areem TV (Server 1 - 312ms)" tvg-logo="https://i.imgur.com/A2fJysM.png",Al Quran Al areem TV (Server 1 - 312ms)
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+
+#EXTINF:-1 group-title="8. Islamic & Devotional 🕌" tvg-name="Al Quran Al areem TV (Server 2 - 911ms)" tvg-logo="https://i.imgur.com/A2fJysM.png",Al Quran Al areem TV (Server 2 - 911ms)
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+
+#EXTINF:-1 group-title="8. Islamic & Devotional 🕌" tvg-name="Al Quran Radio (599ms)" tvg-logo="https://i.pinimg.com/474x/de/fc/23/defc2375723ec0e5d75ad1c7595e7dce.jpg",Al Quran Radio (599ms)
+http://66.45.232.131:9994/;stream.mp3
+
+#EXTINF:-1 group-title="8. Islamic & Devotional 🕌" tvg-id="BAHRAINQURAN" tvg-name="BAHRAINQURAN" tvg-logo="https://i.ibb.co/cygNtwH/bahrain-quaran.png",BAHRAIN QURAN (1024ms)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+
+#EXTINF:-1 group-title="8. Islamic & Devotional 🕌" tvg-name="Islamic TV (775ms [BDIX])" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRXM2J7y2LkoE63vv2He9SF1dMo3pS9hmEC23wzJv3maIccQ1e912eTGNSN74Riwx03whZi5tyKXHKEDSFl4AO1JrwjCIlMhglN-nOjmGhBHBnhp1EqdLB5hwV3jHgKUDlzNFW1Cv8qrMylfmiIosSwFmK72-h-LTinSr1bpDVfNm1p8SlrILxKesdgw/s1080/1000008187.png",Islamic TV (775ms [BDIX])
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="8. Islamic & Devotional 🕌" tvg-id="MakkahLive.sa" tvg-name="MakkahLive.sa" tvg-logo="https://i.imgur.com/WpMA9kC.png",Maah Live HD (Server 1 - 225ms)
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
+
+#EXTINF:-1 group-title="8. Islamic & Devotional 🕌" tvg-id="MakkahLive.sa" tvg-name="MakkahLive.sa" tvg-logo="https://i.imgur.com/WpMA9kC.png",Maah Live HD (Server 2 - 921ms)
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="8. Islamic & Devotional 🕌" tvg-id="MadinahLive.sa" tvg-name="MadinahLive.sa" tvg-logo="https://i.imgur.com/WpMA9kC.png",Madinah Live HD (524ms)
+http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
+
+#EXTINF:-1 group-title="8. Islamic & Devotional 🕌" tvg-id="PeaceTVBangla.bd" tvg-name="PeaceTVBangla.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Peace_TV_logo.svg/330px-Peace_TV_logo.svg.png",Peace TV Bangla (Server 1 - 1242ms)
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+
+#EXTINF:-1 group-title="8. Islamic & Devotional 🕌" tvg-id="PeaceTVBangla.bd" tvg-name="PeaceTVBangla.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Peace_TV_logo.svg/330px-Peace_TV_logo.svg.png",Peace TV Bangla (Server 2 - 2584ms)
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="8. Islamic & Devotional 🕌" tvg-id="PeaceTVEnglish" tvg-name="PeaceTVEnglish" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/Q/k_/169572/logo_50.png",Peace TV English (1240ms)
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 group-title="8. Islamic & Devotional 🕌" tvg-id="PeaceTVUrdu" tvg-name="PeaceTVUrdu" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/J/kE/169575/logo_50.png",Peace TV Urdu (Server 1 - 1251ms)
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 group-title="8. Islamic & Devotional 🕌" tvg-id="PeaceTVUrdu" tvg-name="PeaceTVUrdu" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/J/kE/169575/logo_50.png",Peace TV Urdu (Server 2 - 1384ms)
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+
+#EXTINF:-1 group-title="8. Islamic & Devotional 🕌" tvg-id="QURAN" tvg-name="QURAN",QURAN (637ms)
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 group-title="8. Islamic & Devotional 🕌" tvg-id="QURAN RADIOTV SMC" tvg-name="QURAN RADIOTV SMC" tvg-logo="https://i.ibb.co/2qdGPCh/Sharjahtvquran.png",QURAN RADIOTV SMC (250ms)
+https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8

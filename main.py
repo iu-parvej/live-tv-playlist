@@ -63,6 +63,7 @@ def run_pipeline(auto_push: bool = True, concurrency: int = 60) -> Dict[str, Any
     # 3. Normalize & Deduplicate & Rank by Latency
     normalizer = ChannelNormalizer()
     channels = normalizer.group_and_rank(active_streams)
+    curated_channels = normalizer.group_and_rank_curated(active_streams)
 
     # Calculate statistics
     avg_latency = int(sum(s.get("latency_ms", 0) for s in active_streams) / max(len(active_streams), 1))
@@ -80,7 +81,7 @@ def run_pipeline(auto_push: bool = True, concurrency: int = 60) -> Dict[str, Any
 
     # 4. Generate Output Playlists
     generator = PlaylistGenerator()
-    generator.generate_all(channels, stats)
+    generator.generate_all(channels, stats, curated_channels=curated_channels)
 
     # 5. Push to GitHub
     github_urls = None
@@ -95,19 +96,22 @@ def run_pipeline(auto_push: bool = True, concurrency: int = 60) -> Dict[str, Any
     print(f"Total Sources Checked:      {stats['total_sources_scanned']}")
     print(f"Total Candidate Streams:    {stats['total_unique_streams_tested']:,}")
     print(f"Active Working Streams:     {stats['total_active_streams']:,} ({stats['success_rate_percent']}%)")
+    print(f"Curated VIP Channels:       {len(curated_channels)}")
+    print(f"Total All Channels:         {len(channels)}")
     print(f"Ultra-Fast BDIX Streams:    {stats['total_bdix_streams']:,}")
-    print(f"Unique Curated Channels:    {len(channels)}")
     print(f"Average Response Latency:   {stats['average_latency_ms']} ms")
     print(f"Time Taken:                 {stats['execution_time_sec']} seconds")
     print("-" * 65)
     print("📁 Generated Local Playlists:")
+    print("   ★ output/playlist_curated.m3u      (VIP Curated - BD Sports, Kolkata/Hindi, All Sports, Docs, BD News/Ent, Music/Kids)")
     print("   • output/playlist.m3u              (Primary - 1 best stream per channel)")
     print("   • output/playlist_multiserver.m3u  (Multi-Server - Backup streams labeled)")
     print("   • output/playlist_bdix.m3u         (Ultra-Fast BDIX channels only)")
     print("   • output/playlist_sports.m3u       (Live Sports only)")
 
     if github_urls:
-        print("\n🌐 Cloud URLs for Android IPTV Pro / TiviMate:")
+        print("\n🌐 Cloud URLs for Android IPTV Pro / Televizo / TiviMate:")
+        print(f"   ► VIP Curated Playlist URL (RECOMMENDED):\n     {github_urls['curated']}")
         print(f"   ► Primary Playlist URL:\n     {github_urls['primary']}")
         print(f"   ► Multi-Server Playlist URL:\n     {github_urls['multiserver']}")
         print(f"   ► BDIX Playlist URL:\n     {github_urls['bdix']}")

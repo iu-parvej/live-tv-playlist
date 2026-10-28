@@ -30,18 +30,42 @@ Free public IPTV playlists contain thousands of channels, but **only 20% to 35% 
 
 ---
 
-## 📱 How to Use in Android IPTV Pro / TiviMate
+## 📱 How to Use in Android IPTV Pro / Televizo / TiviMate
 
-1. Open **IPTV Pro** on your Android smartphone, tablet, or Android TV.
-2. Tap the **+** (Add) icon and select **Add URL**.
-3. Paste your raw GitHub playlist link:
+1. Open **IPTV Pro** or **Televizo** on your Android smartphone, tablet, or Android TV.
+2. Tap the **+** (Add) icon and select **Add URL** / **M3U Playlist**.
+3. Paste the **Curated VIP Playlist** (Recommended):
    ```text
-   https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/playlist.m3u
+   https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/playlist_curated.m3u
    ```
-4. Enter any playlist name (e.g., `Live TV BD & Sports`).
-5. (Recommended) In IPTV Pro settings, enable:
-   * **Auto-refresh playlist on start** (or set refresh interval to 1 day).
-6. Enjoy buffer-free BDIX and international live TV!
+4. Enter any playlist name (e.g., `VIP Live TV BD & Sports`).
+5. In your IPTV player settings, turn on **"Auto-refresh playlist on start"** (or set refresh interval to 1 day).
+
+---
+
+### 📑 Playlists Directory & Links
+
+| Playlist | Raw GitHub URL | Description & Categories |
+| :--- | :--- | :--- |
+| **Curated VIP** ⭐ *(Recommended)* | `https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/playlist_curated.m3u` | **Pristine Curation:** BD Sports, Kolkata & Indian Movies/Natok, All Sports, Docs, BD News/Natok, Music & Kids. *(Zero Indian News, Zero foreign filler)* |
+| **Primary (Fastest)** | `https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/playlist.m3u` | Full list: single fastest stream per channel (<12ms - 150ms BDIX first) |
+| **Multi-Server** | `https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/playlist_multiserver.m3u` | Full channel list with backup streams labeled with ping & BDIX |
+| **BDIX Only** | `https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/playlist_bdix.m3u` | Ultra-fast BDIX channels only (<90ms) |
+| **Sports Live** | `https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/playlist_sports.m3u` | Dedicated sports only (Cricket, Football, HD) |
+
+---
+
+### 🎯 Curated VIP Playlist Category Structure
+
+In the Curated VIP playlist, channels appear in this exact order:
+1. `1. BD Sports 🇧🇩` (T Sports, GTV / Gazi TV)
+2. `2. Indian & Kolkata Entertainment & Movies 🎬` (Zee Bangla, Star Jalsha, Jalsha Movies, Colors Bangla, Sony SAB, Star Plus, Zee Cinema, Sony MAX, Goldmines, Filamchi, Bhojpuri Cinema)
+3. `3. All Sports (Cricket, Football & HD) ⚽` (Star Sports, Sony Sports Ten 1/2/3/5, Willow TV, A Sports, beIN Sports, Sky Sports, TNT, SuperSport)
+4. `4. Documentary & Wildlife 🌍` (Discovery HD, Animal Planet HD, Nat Geo, History TV18, TLC, Real Wild)
+5. `5. BD News & National 🇧🇩` (Somoy, Jamuna, DBC, Ekattor, Channel 24, Independent, BTV, ATN News)
+6. `6. BD Entertainment & Drama 🇧🇩` (Channel i, NTV, Rtv, Banglavision, Maasranga, Deepto, ATN Bangla, Nagorik)
+7. `7. Music & Kids (Cartoons & Songs) 🎵` (Duronto TV, Cartoon Network, Nick, Pogo, Gaan Bangla, 9XM, MTV, B4U Music, Mastiii)
+8. `8. Islamic & Devotional 🕌` (Makkah Live HD, Madinah Live HD, Peace TV Bangla, Quran TV)
 
 ---
 

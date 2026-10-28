@@ -2,6 +2,7 @@
 core/generator.py
 Generates clean, standardized M3U / M3U8 playlist files:
 - playlist.m3u: Primary fastest stream per channel
+- playlist_curated.m3u: Curated VIP Playlist (BD Sports, Kolkata/Hindi, All Sports, Docs, BD News/Ent, Music & Kids)
 - playlist_multiserver.m3u: All backup servers labeled with latency
 - playlist_bdix.m3u: Pure BDIX & ultra-low latency streams
 - playlist_sports.m3u: Dedicated sports channels
@@ -11,7 +12,7 @@ import os
 import json
 import logging
 from datetime import datetime
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 logger = logging.getLogger("Generator")
@@ -32,14 +33,19 @@ class PlaylistGenerator:
             attrs.append(f'tvg-logo="{logo}"')
         return f'#EXTINF:-1 {" ".join(attrs)},{ch_name}'
 
-    def generate_all(self, channels: List[Dict[str, Any]], stats: Dict[str, Any]):
+    def generate_all(
+        self,
+        channels: List[Dict[str, Any]],
+        stats: Dict[str, Any],
+        curated_channels: Optional[List[Dict[str, Any]]] = None
+    ):
         now_str = datetime.now().strftime("%Y-%m-%d %I:%M %p")
         
         # 1. Primary Playlist (Fastest stream per channel)
         primary_lines = [
             "#EXTM3U",
             f"# Last Updated: {now_str} (Local Time)",
-            "# Optimized for Android IPTV Pro / TiviMate / OTT Navigator",
+            "# Optimized for Android IPTV Pro / Televizo / TiviMate",
             f"# Total Active Channels: {len(channels)}",
             ""
         ]
@@ -68,6 +74,15 @@ class PlaylistGenerator:
             ""
         ]
 
+        # 5. Curated VIP Playlist (The exact categories requested)
+        curated_lines = [
+            "#EXTM3U",
+            f"# Last Updated: {now_str} (Local Time)",
+            "# Curated VIP Playlist: BD Sports, Kolkata/Hindi Ent & Movies, All Sports, Docs, BD News/Drama, Kids & Music",
+            f"# Total Curated Channels: {len(curated_channels or [])}",
+            ""
+        ]
+
         bdix_count = 0
         sports_count = 0
         multi_stream_count = 0
@@ -85,7 +100,6 @@ class PlaylistGenerator:
             # --- Primary Playlist: Best (fastest) stream ---
             best = streams[0]
             primary_lines.append(self._format_extinf(name, cat, logo, tvg_id))
-            # Inject custom User-Agent if required
             if "User-Agent" in best.get("headers", {}):
                 primary_lines.append(f'#EXTVLCOPT:http-user-agent={best["headers"]["User-Agent"]}')
             primary_lines.append(best["url"])
@@ -126,14 +140,36 @@ class PlaylistGenerator:
                 sports_lines.append("")
                 sports_count += 1
 
+        # --- Build Curated VIP Playlist ---
+        if curated_channels:
+            for ch in curated_channels:
+                name = ch["name"]
+                cat = ch["category"]
+                logo = ch["logo"]
+                tvg_id = ch["tvg_id"]
+                streams = ch.get("streams", [])
+                if not streams:
+                    continue
+                # Best stream
+                best = streams[0]
+                curated_lines.append(self._format_extinf(name, cat, logo, tvg_id))
+                if "User-Agent" in best.get("headers", {}):
+                    curated_lines.append(f'#EXTVLCOPT:http-user-agent={best["headers"]["User-Agent"]}')
+                curated_lines.append(best["url"])
+                curated_lines.append("")
+
         # Write files
         primary_path = os.path.join(self.output_dir, "playlist.m3u")
+        curated_path = os.path.join(self.output_dir, "playlist_curated.m3u")
         multi_path = os.path.join(self.output_dir, "playlist_multiserver.m3u")
         bdix_path = os.path.join(self.output_dir, "playlist_bdix.m3u")
         sports_path = os.path.join(self.output_dir, "playlist_sports.m3u")
 
         with open(primary_path, "w", encoding="utf-8") as f:
             f.write("\n".join(primary_lines))
+
+        with open(curated_path, "w", encoding="utf-8") as f:
+            f.write("\n".join(curated_lines))
 
         with open(multi_path, "w", encoding="utf-8") as f:
             f.write("\n".join(multi_lines))
@@ -146,6 +182,7 @@ class PlaylistGenerator:
 
         # Write stats summary
         stats["channels_count"] = len(channels)
+        stats["curated_channels_count"] = len(curated_channels or [])
         stats["multi_stream_count"] = multi_stream_count
         stats["bdix_channels_count"] = bdix_count
         stats["sports_channels_count"] = sports_count
@@ -156,6 +193,7 @@ class PlaylistGenerator:
             json.dump(stats, f, indent=2, ensure_ascii=False)
 
         logger.info(f"Playlists written to '{self.output_dir}/':")
+        logger.info(f"  - playlist_curated.m3u ({len(curated_channels or [])} channels)")
         logger.info(f"  - playlist.m3u ({len(channels)} channels)")
         logger.info(f"  - playlist_multiserver.m3u ({multi_stream_count} streams)")
         logger.info(f"  - playlist_bdix.m3u ({bdix_count} channels)")

@@ -41,6 +41,7 @@ class GitHubPublisher:
     def sync_output_to_root(self):
         """Copies generated files to root directory for ultra-clean raw GitHub links."""
         files_to_copy = [
+            "playlist_curated.m3u",
             "playlist.m3u",
             "playlist_multiserver.m3u",
             "playlist_bdix.m3u",
@@ -112,6 +113,7 @@ class GitHubPublisher:
         # Generate URLs
         raw_base = f"https://raw.githubusercontent.com/{self.full_repo}/{self.branch}"
         urls = {
+            "curated": f"{raw_base}/playlist_curated.m3u",
             "primary": f"{raw_base}/playlist.m3u",
             "multiserver": f"{raw_base}/playlist_multiserver.m3u",
             "bdix": f"{raw_base}/playlist_bdix.m3u",

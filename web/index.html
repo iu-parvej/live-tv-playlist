@@ -56,6 +56,11 @@
           <span>Check & Push</span>
         </button>
 
+        <button onclick="copyUrl('curated')" class="px-3.5 py-2.5 rounded-xl bg-amber-500/20 border border-amber-500/40 hover:bg-amber-500/30 text-amber-300 text-sm font-semibold transition flex items-center gap-2 shadow-lg shadow-amber-500/10">
+          <i class="fa-solid fa-star text-amber-400"></i>
+          <span>Curated VIP M3U</span>
+        </button>
+
         <button onclick="copyUrl('primary')" class="px-3.5 py-2.5 rounded-xl glass hover:bg-slate-700/60 text-slate-200 text-sm font-medium transition flex items-center gap-2">
           <i class="fa-solid fa-link text-emerald-400"></i>
           <span>Primary M3U</span>
@@ -354,6 +359,7 @@
     function copyUrl(type) {
       const base = `https://raw.githubusercontent.com/${githubRepo}/main`;
       let url = `${base}/playlist.m3u`;
+      if (type === 'curated') url = `${base}/playlist_curated.m3u`;
       if (type === 'multiserver') url = `${base}/playlist_multiserver.m3u`;
       if (type === 'bdix') url = `${base}/playlist_bdix.m3u`;
       if (type === 'sports') url = `${base}/playlist_sports.m3u`;
