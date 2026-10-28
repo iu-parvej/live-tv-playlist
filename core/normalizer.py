@@ -20,6 +20,7 @@ CLEAN_PATTERNS = [
     r'^\s*cr\s*\|\s*', r'^\s*mov\s*\|\s*', r'^\s*mu\s*\|\s*', r'^\s*mixer\s*\|\s*',
     r'^\s*bhoj\s*\|\s*', r'^\s*in\s*\|\s*', r'^\s*en\s*\|\s*',
     r'^\s*--?live\(?', r'\)?---?$',
+    r'\s*\((?:server\s*\d+\s*[-:]\s*)?\d+ms.*?\)',
     r'\s*\((?:1080p|720p|576p|480p|hd|fhd|4k|sd|ads only)\)',
     r'\s*\[(?:1080p|720p|576p|480p|hd|fhd|4k|sd)\]',
     r'\s*\|\s*(?:bdix|1080p|720p|hd|fhd|sd|4k)',

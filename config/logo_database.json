@@ -30,6 +30,7 @@
     "Islamic TV": "https://i.ibb.co/2qdGPCh/Sharjahtvquran.png"
   },
   "keyword_patterns": [
+    {"keyword": "2tv", "logo": "https://i.imgur.com/FJBL6zI.png"},
     {"keyword": "bhojpuri cinema", "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png"},
     {"keyword": "bein sport", "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-xtra-us.png"},
     {"keyword": "dazn", "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dazn-1-es.png"},
