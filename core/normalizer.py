@@ -116,11 +116,15 @@ RE_ISLAMIC = [
 ]
 
 class ChannelNormalizer:
-    def __init__(self, mapping_path: str = "config/channel_mapping.json"):
+    def __init__(self, mapping_path: str = "config/channel_mapping.json", logo_db_path: str = "config/logo_database.json"):
         self.mapping_path = mapping_path
+        self.logo_db_path = logo_db_path
         self.canonical_channels = []
         self.categories = []
+        self.logo_exact = {}
+        self.logo_patterns = []
         self.load_mapping()
+        self.load_logo_db()
 
     def load_mapping(self):
         try:
@@ -131,10 +135,56 @@ class ChannelNormalizer:
         except Exception as e:
             logger.warning(f"Could not load channel mapping: {e}")
 
+    def load_logo_db(self):
+        try:
+            with open(self.logo_db_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                self.logo_exact = data.get("exact_matches", {})
+                self.logo_patterns = data.get("keyword_patterns", [])
+        except Exception as e:
+            logger.warning(f"Could not load logo database: {e}")
+
+    def resolve_logo(self, name: str, current_logo: str) -> str:
+        # If current logo is valid and not a placeholder, keep it
+        is_placeholder = (
+            not current_logo or
+            current_logo == "https://i.imgur.com/WpMA9kC.png" or
+            "placeholder" in current_logo.lower() or
+            current_logo.endswith(".m3u8")
+        )
+        if not is_placeholder:
+            return current_logo
+
+        # Check exact matches in logo db
+        for k, url in self.logo_exact.items():
+            if k.lower() == name.lower():
+                return url
+
+        # Check keyword patterns
+        nl = name.lower()
+        for pat in self.logo_patterns:
+            if pat["keyword"].lower() in nl:
+                return pat["logo"]
+
+        return current_logo or "https://i.imgur.com/WpMA9kC.png"
+
     def clean_name(self, raw_name: str) -> str:
         name = raw_name
         for p in CLEAN_PATTERNS:
             name = re.sub(p, "", name, flags=re.IGNORECASE)
+        # Fix specific typos
+        if re.search(r'\bmaah\s*live\b', name, re.I):
+            name = "Makkah Live HD"
+        if re.search(r'\b157\.?\s*bein\b', name, re.I):
+            name = "beIN Sports Xtra HD"
+        if re.search(r'\b0\.\s*sonic\b', name, re.I):
+            name = "Sonic The Hedgehog"
+        if re.search(r'\b0\.\s*disney\s*jr\b', name, re.I):
+            name = "Disney Junior"
+        if re.search(r'\b0\.\s*disney\s*channel\b', name, re.I):
+            name = "Disney Channel"
+        if re.search(r'\b86\.?\s*sony\s*yay\b', name, re.I):
+            name = "Sony YAY HD"
         return re.sub(r"\s+", " ", name).strip()
 
     def find_canonical(self, cleaned_name: str) -> Optional[Dict[str, Any]]:
@@ -272,6 +322,7 @@ class ChannelNormalizer:
 
         results = []
         for bucket in channel_buckets.values():
+            bucket["logo"] = self.resolve_logo(bucket["name"], bucket["logo"])
             bucket["streams"].sort(key=lambda x: x.get("latency_ms", 9999))
             bucket["streams"] = bucket["streams"][:max_servers]
             results.append(bucket)
@@ -336,6 +387,8 @@ class ChannelNormalizer:
 
         results = []
         for bucket in curated_buckets.values():
+            # Resolve logo to ensure no placeholder or missing logo remains
+            bucket["logo"] = self.resolve_logo(bucket["name"], bucket["logo"])
             # Sort streams by latency ascending (fastest first)
             bucket["streams"].sort(key=lambda x: x.get("latency_ms", 9999))
             # Take the best 2 streams (primary + backup)

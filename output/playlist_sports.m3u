@@ -1,438 +1,438 @@
 #EXTM3U
-# Last Updated: 2026-10-28 05:45 PM (Local Time)
+# Last Updated: 2026-10-28 05:59 PM (Local Time)
 # Dedicated Sports Live Playlist
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="GO 3 sport 3" tvg-name="GO 3 sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg",---Live(GO 3 sport 1)--- (1316ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="GO 3 sport 3" tvg-name="GO 3 sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg",---Live(GO 3 sport 1)--- (1316ms) (1316ms)
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/18000/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="GO 3 sport 3" tvg-name="GO 3 sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Go3_Sport_2_II.svg",---Live(GO 3 sport 2)--- (1308ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="GO 3 sport 3" tvg-name="GO 3 sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Go3_Sport_2_II.svg",---Live(GO 3 sport 2)--- (1308ms) (1308ms)
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/18012/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="GO 3 sport 3" tvg-name="GO 3 sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Go3_Sport_3_II.svg",---Live(GO 3 sport 3)--- (2305ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="GO 3 sport 3" tvg-name="GO 3 sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Go3_Sport_3_II.svg",---Live(GO 3 sport 3)--- (2305ms) (2305ms)
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/18025/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="starsportsselect1.in" tvg-name="starsportsselect1.in" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png",---Live(STAR SPORTS SELECT 2 HD)--- (139ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="starsportsselect1.in" tvg-name="starsportsselect1.in" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png",---Live(STAR SPORTS SELECT 2 HD)--- (139ms) (139ms)
 http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="157.Bein Sports Xtra HD (728ms)",157.Bein Sports Xtra HD (728ms)
-https://chostv.mobie.in/choos/sports/beinxtra.m3u8
-
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="2TV Sport (668ms)",2TV Sport (668ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="2TV Sport (668ms) (668ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",2TV Sport (668ms) (668ms)
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="5 SPORT (1267ms)",5 SPORT (1267ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="5 SPORT (1267ms) (1267ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",5 SPORT (1267ms) (1267ms)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ASports.pk" tvg-name="ASports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/A_Sports_logo.svg/330px-A_Sports_logo.svg.png",A Sports HD (Server 1 - 110ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ASports.pk" tvg-name="ASports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/A_Sports_logo.svg/330px-A_Sports_logo.svg.png",A Sports HD (Server 1 - 110ms [BDIX]) (110ms [BDIX])
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ASports.pk" tvg-name="ASports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/A_Sports_logo.svg/330px-A_Sports_logo.svg.png",A Sports HD (Server 2 - 316ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ASports.pk" tvg-name="ASports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/A_Sports_logo.svg/330px-A_Sports_logo.svg.png",A Sports HD (Server 2 - 316ms [BDIX]) (316ms [BDIX])
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102655&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=833b5dd42540ad3eaf690e4b371d5fec
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ASports.pk" tvg-name="ASports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/A_Sports_logo.svg/330px-A_Sports_logo.svg.png",A Sports HD (Server 3 - 391ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ASports.pk" tvg-name="ASports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/A_Sports_logo.svg/330px-A_Sports_logo.svg.png",A Sports HD (Server 3 - 391ms [BDIX]) (391ms [BDIX])
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="live" tvg-name="live" tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp",A Sports)-- (167ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="live" tvg-name="live" tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp",A Sports)-- (167ms) (167ms)
 https://playztv-apps.pages.dev/a-sports/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="abaddi 24x7 (299ms)" tvg-logo="https://papaji.freetvindia.com/media/kabaddi_24x7.png",abaddi 24x7 (299ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="abaddi 24x7 (299ms) (299ms)" tvg-logo="https://papaji.freetvindia.com/media/kabaddi_24x7.png",abaddi 24x7 (299ms) (299ms)
 https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ABCSportin90Seconds" tvg-name="ABCSportin90Seconds" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/ABC_News_2021_%28stacked%29.svg",ABC Sport in 90 Seconds (847ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ABCSportin90Seconds" tvg-name="ABCSportin90Seconds" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/ABC_News_2021_%28stacked%29.svg",ABC Sport in 90 Seconds (847ms) (847ms)
 https://c.mjh.nz/sport_in_90_seconds
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ACETV" tvg-name="ACETV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a0198825-7700-4a3a-8399-338e8e1d9c64",ACE TV (501ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ACETV" tvg-name="ACETV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a0198825-7700-4a3a-8399-338e8e1d9c64",ACE TV (501ms) (501ms)
 https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Bahrain Sports 1 (1293ms)" tvg-logo="https://s3.aynaott.com/storage/f55bea3263be1af187fe1122e4f44142",Bahrain Sports 1 (1293ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Bahrain Sports 1 (1293ms) (1293ms)" tvg-logo="https://s3.aynaott.com/storage/f55bea3263be1af187fe1122e4f44142",Bahrain Sports 1 (1293ms) (1293ms)
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Bein Sport HD 1" tvg-name="Bein Sport HD 1" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Bein Sport HD 1 (2724ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Bein Sport HD 1" tvg-name="Bein Sport HD 1" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Bein Sport HD 1 (2724ms) (2724ms)
 http://ua102.online24.pm:8222/1101/video.m3u8?token=350B326FB34F4B8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ca3fc4a9-af30-4a81-b915-239d8f975a85" tvg-name="ca3fc4a9-af30-4a81-b915-239d8f975a85" tvg-logo="https://s3.aynaott.com/storage/3f60ee0c945319f264361f201a52ed49",Bein Sports 1 (1424ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ca3fc4a9-af30-4a81-b915-239d8f975a85" tvg-name="ca3fc4a9-af30-4a81-b915-239d8f975a85" tvg-logo="https://s3.aynaott.com/storage/3f60ee0c945319f264361f201a52ed49",Bein Sports 1 (1424ms) (1424ms)
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="BeINSPORTS1" tvg-name="BeINSPORTS1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg",beIN SPORTS 1)-- (70ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="BeINSPORTS1" tvg-name="BeINSPORTS1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg",beIN SPORTS 1)-- (70ms [BDIX]) (70ms [BDIX])
 http://27.124.71.27/beIN_Sports_1/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="BeiNSportsExtra" tvg-name="BeiNSportsExtra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",beIN SPORTS XTRA)-- (904ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="beIN Sports Xtra HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-xtra-us.png",beIN Sports Xtra HD
+https://chostv.mobie.in/choos/sports/beinxtra.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="BeiNSportsExtra" tvg-name="BeiNSportsExtra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",beIN SPORTS XTRA)-- (904ms) (904ms)
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Bein Tv (1188ms)" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png",Bein Tv (1188ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Bein Tv (1188ms) (1188ms)" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png",Bein Tv (1188ms) (1188ms)
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Bloomberg TV (339ms [BDIX])" tvg-logo="https://s3.aynaott.com/storage/253dcc8b5951160d6aa26bc5ac65ddb8",Bloomberg TV (339ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Bloomberg TV (339ms [BDIX]) (339ms [BDIX])" tvg-logo="https://s3.aynaott.com/storage/253dcc8b5951160d6aa26bc5ac65ddb8",Bloomberg TV (339ms [BDIX]) (339ms [BDIX])
 https://tvsen6.aynaott.com/bloombergtv/index.m3u8?e=1779283799&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ecba4c0cf6ffc82d2d0dfc78f69c1061
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Cornhole TV" tvg-name="Cornhole TV" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/47355675-c7fe-49b7-943a-507b3fa938e4",Cornhole TV (556ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Cornhole TV" tvg-name="Cornhole TV" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/47355675-c7fe-49b7-943a-507b3fa938e4",Cornhole TV (556ms) (556ms)
 https://bbb-aclco-freelivesports.otteravision.com/bbb/aclco/aclco.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="CricketGold" tvg-name="CricketGold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Cricket-Gold-Channel_black.png",Cricet Gold (949ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="CricketGold" tvg-name="CricketGold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Cricket-Gold-Channel_black.png",Cricet Gold (949ms) (949ms)
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-name="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-logo="https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",Cricet Gold (Server 1 - 90ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-name="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-logo="https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",Cricet Gold (Server 1 - 90ms [BDIX]) (90ms [BDIX])
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-name="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-logo="https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",Cricet Gold (Server 2 - 316ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-name="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-logo="https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",Cricet Gold (Server 2 - 316ms [BDIX]) (316ms [BDIX])
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8?e=1784102657&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=46102f1b8150e3d7fda5eb1ee9ffd94e
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-name="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-logo="https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",Cricet Gold (Server 3 - 439ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-name="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-logo="https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",Cricet Gold (Server 3 - 439ms [BDIX]) (439ms [BDIX])
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8?e=1784102529&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ae32567acc583949116a1ea5f4410044
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="DD Sports (Server 1 - 323ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvJ1HtheTbTZjOoXTO9KRK1fIhh1uXhyvSckbf05J7yIcdT4ZucX1fvfjnyiv9QK-m0pBK6MoY6KhcVPQpsRSXdgBFU612nmbKpY864gsoMvMaCyu_fOdNVbx6ADMbz2dftZ7-0Arzx81kC8nqbeduSEsquwrPpzNGm2wZw6rXHe79vlF7DokCavubWA/s600/Nur_20251107_160202_0000.png",DD Sports (Server 1 - 323ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="DD Sports (Server 1 - 323ms) (323ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvJ1HtheTbTZjOoXTO9KRK1fIhh1uXhyvSckbf05J7yIcdT4ZucX1fvfjnyiv9QK-m0pBK6MoY6KhcVPQpsRSXdgBFU612nmbKpY864gsoMvMaCyu_fOdNVbx6ADMbz2dftZ7-0Arzx81kC8nqbeduSEsquwrPpzNGm2wZw6rXHe79vlF7DokCavubWA/s600/Nur_20251107_160202_0000.png",DD Sports (Server 1 - 323ms) (323ms)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="DD Sports (Server 2 - 1068ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvJ1HtheTbTZjOoXTO9KRK1fIhh1uXhyvSckbf05J7yIcdT4ZucX1fvfjnyiv9QK-m0pBK6MoY6KhcVPQpsRSXdgBFU612nmbKpY864gsoMvMaCyu_fOdNVbx6ADMbz2dftZ7-0Arzx81kC8nqbeduSEsquwrPpzNGm2wZw6rXHe79vlF7DokCavubWA/s600/Nur_20251107_160202_0000.png",DD Sports (Server 2 - 1068ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="DD Sports (Server 2 - 1068ms) (1068ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvJ1HtheTbTZjOoXTO9KRK1fIhh1uXhyvSckbf05J7yIcdT4ZucX1fvfjnyiv9QK-m0pBK6MoY6KhcVPQpsRSXdgBFU612nmbKpY864gsoMvMaCyu_fOdNVbx6ADMbz2dftZ7-0Arzx81kC8nqbeduSEsquwrPpzNGm2wZw6rXHe79vlF7DokCavubWA/s600/Nur_20251107_160202_0000.png",DD Sports (Server 2 - 1068ms) (1068ms)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="DD Sports HD (301ms)" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",DD Sports HD (301ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="DD Sports HD (301ms) (301ms)" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",DD Sports HD (301ms) (301ms)
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Digi Sport 2 (431ms)",Digi Sport 2 (431ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Digi Sport 2 (431ms) (431ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Digi Sport 2 (431ms) (431ms)
 http://91.201.172.14:35006/
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="DSPORTS 1 (755ms)",DSPORTS 1 (755ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="DSPORTS 1 (755ms) (755ms)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/eurosport-in.png",DSPORTS 1 (755ms) (755ms)
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Eurosport(src07).in(m3u4u)" tvg-name="Eurosport(src07).in(m3u4u)" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/eurosport-vector-logo.png",Euro Sports 4 (3118ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Eurosport(src07).in(m3u4u)" tvg-name="Eurosport(src07).in(m3u4u)" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/eurosport-vector-logo.png",Euro Sports 4 (3118ms) (3118ms)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="A SPOR" tvg-name="A SPOR" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",FB | A SPOR (1584ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="A SPOR" tvg-name="A SPOR" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",FB | A SPOR (1584ms) (1584ms)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="FIFA+" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png",FB | FIFA+ (801ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="FIFA+" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png",FB | FIFA+ (801ms) (801ms)
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="0a652ee3-b148-46d8-8cea-bed74d997b6c" tvg-name="0a652ee3-b148-46d8-8cea-bed74d997b6c" tvg-logo="https://s3.aynaott.com/storage/dc25a8382341855cd9847537971d869c",FIFA+ (2203ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="0a652ee3-b148-46d8-8cea-bed74d997b6c" tvg-name="0a652ee3-b148-46d8-8cea-bed74d997b6c" tvg-logo="https://s3.aynaott.com/storage/dc25a8382341855cd9847537971d869c",FIFA+ (2203ms) (2203ms)
 https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="FIGHT NETWORK" tvg-name="FIGHT NETWORK" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/7607dd92-7305-4bab-886e-c38fe745fff7",FIGHT | FIGHT NETWOR (357ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="FIGHT NETWORK" tvg-name="FIGHT NETWORK" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/7607dd92-7305-4bab-886e-c38fe745fff7",FIGHT | FIGHT NETWOR (357ms) (357ms)
 https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Lucha Plus" tvg-name="Lucha Plus" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/2cf051b6-a8b1-46ed-ac4c-2d0ef812dc90",FIGHT | Lucha Plus (563ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Lucha Plus" tvg-name="Lucha Plus" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/2cf051b6-a8b1-46ed-ac4c-2d0ef812dc90",FIGHT | Lucha Plus (563ms) (563ms)
 https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="MMA TV" tvg-name="MMA TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/9cb9b4ff-2958-4179-bd0b-bc9a44888cc7",FIGHT | MMA TV (1054ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="MMA TV" tvg-name="MMA TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/9cb9b4ff-2958-4179-bd0b-bc9a44888cc7",FIGHT | MMA TV (1054ms) (1054ms)
 https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="MVMT Culture" tvg-name="MVMT Culture" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/98403785-3bba-4f7d-bee8-0eada4d790c8",FIGHT | MVMT Culture (1048ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="MVMT Culture" tvg-name="MVMT Culture" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/98403785-3bba-4f7d-bee8-0eada4d790c8",FIGHT | MVMT Culture (1048ms) (1048ms)
 https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="US350000231" tvg-name="US350000231" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US350000231_20241119T020436SQUARE.png",FIGHT | PFL (1026ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="US350000231" tvg-name="US350000231" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US350000231_20241119T020436SQUARE.png",FIGHT | PFL (1026ms) (1026ms)
 https://d2w9b8sam7j3zv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5g55ahrn9ajah/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="TNA Wrestling Channel" tvg-name="TNA Wrestling Channel" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/67c2dd14-d8c7-47fa-99e5-452f2715e404",FIGHT | TNA Wrestling Channel (423ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="TNA Wrestling Channel" tvg-name="TNA Wrestling Channel" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/67c2dd14-d8c7-47fa-99e5-452f2715e404",FIGHT | TNA Wrestling Channel (423ms) (423ms)
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="FoxCricket501" tvg-name="FoxCricket501" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg",Fox Cricet 501 HD (1185ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="FoxCricket501" tvg-name="FoxCricket501" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg",Fox Cricet 501 HD (1185ms) (1185ms)
 http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/19146/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="FUELTV" tvg-name="FUELTV" tvg-logo="https://a.jsrdn.com/hls/23055/fuel-tv-ww/logo_20231219_202054_68.png",FUEL TV (459ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="FUELTV" tvg-name="FUELTV" tvg-logo="https://a.jsrdn.com/hls/23055/fuel-tv-ww/logo_20231219_202054_68.png",FUEL TV (459ms) (459ms)
 https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/ts-eu-w1-n2/playlist/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Golf Network" tvg-name="Golf Network" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/aef93e60-809c-4253-8a6f-012ad4a18842",GOLF | Golf Networ (341ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Golf Network" tvg-name="Golf Network" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/aef93e60-809c-4253-8a6f-012ad4a18842",GOLF | Golf Networ (341ms) (341ms)
 https://streams2.sofast.tv/ptnr-sportstribal/genre-Sports/lang-English/ctgr-Sport/title-Golf_Network/sofastplayout/b7500c3f-bd94-4725-abfd-2644e004132c/manifest.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="GOLFPASS" tvg-name="GOLFPASS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20240924T225013SQUARE.png",GOLF | GOLFPASS (1158ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="GOLFPASS" tvg-name="GOLFPASS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20240924T225013SQUARE.png",GOLF | GOLFPASS (1158ms) (1158ms)
 https://d2icntm6fhxrry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-egqimi4i6n3rh/master.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Unbeaten" tvg-name="Unbeaten" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/09fa93ff-a539-4d81-bbbf-da599e11e77c",GOLF | Unbeaten (Worldwide) (415ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Unbeaten" tvg-name="Unbeaten" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/09fa93ff-a539-4d81-bbbf-da599e11e77c",GOLF | Unbeaten (Worldwide) (415ms) (415ms)
 https://amg00721-amg00721c6-freelivesports-emea-9595.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00721-inverleigh-unbtn3row-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="GaziTV.bd" tvg-name="GaziTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Gazi_TV_logo.svg/330px-Gazi_TV_logo.svg.png",GTV (Gazi TV) (556ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="GaziTV.bd" tvg-name="GaziTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Gazi_TV_logo.svg/330px-Gazi_TV_logo.svg.png",GTV (Gazi TV) (556ms [BDIX]) (556ms [BDIX])
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="HOOP TV" tvg-name="HOOP TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/4454e89b-ea81-4752-a9bb-6db85b40a194",HOOP TV (800ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="HOOP TV" tvg-name="HOOP TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/4454e89b-ea81-4752-a9bb-6db85b40a194",HOOP TV (800ms) (800ms)
 https://amg00585-amg00585c9-sportstribal-emea-5518.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-hooptv-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Horse & Country (1241ms)",Horse & Country (1241ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Horse & Country (1241ms) (1241ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Horse & Country (1241ms) (1241ms)
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Horse & Country" tvg-name="Horse & Country" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/403787aa-0d0a-440c-9056-84226a5c4a82",Horse & Country (831ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Horse & Country" tvg-name="Horse & Country" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/403787aa-0d0a-440c-9056-84226a5c4a82",Horse & Country (831ms) (831ms)
 https://sportstri-hncfree-sportstribal-rb7j8.amagi.tv/playlist/sportstri-hncfree-sportstribal/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Hunt Fish TV (916ms)" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3b03051b-d5ae-4e42-b41d-b2d338db5a91",Hunt Fish TV (916ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Hunt Fish TV (916ms) (916ms)" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3b03051b-d5ae-4e42-b41d-b2d338db5a91",Hunt Fish TV (916ms) (916ms)
 https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="InTrouble" tvg-name="InTrouble" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/be5d5d67-3049-4ab3-829e-eadac9a1c986",InTrouble (780ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="InTrouble" tvg-name="InTrouble" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/be5d5d67-3049-4ab3-829e-eadac9a1c986",InTrouble (780ms) (780ms)
 https://amg00861-terninternation-introuble-sportstribal-sog8f.amagi.tv/ts-us-e2-n1/playlist/amg00861-terninternation-introuble-sportstribal/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-logo="https://i.imgur.com/Plcqlr7.jpg",Jordan Sports ARB (1320ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-logo="https://i.imgur.com/Plcqlr7.jpg",Jordan Sports ARB (1320ms) (1320ms)
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonySports-3HD" tvg-name="SonySports-3HD" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",Marquee Sports Networ (43ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonySports-3HD" tvg-name="SonySports-3HD" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",Marquee Sports Networ (43ms [BDIX]) (43ms [BDIX])
 https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Marquee Sports Networ (Server 1 - 344ms [BDIX])" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",Marquee Sports Networ (Server 1 - 344ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Marquee Sports Networ (Server 1 - 344ms [BDIX]) (344ms [BDIX])" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",Marquee Sports Networ (Server 1 - 344ms [BDIX]) (344ms [BDIX])
 https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8?e=1779283796&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a91e537a0eb1a24ed472a508e90fefcc
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Marquee Sports Networ (Server 2 - 437ms [BDIX])" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",Marquee Sports Networ (Server 2 - 437ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Marquee Sports Networ (Server 2 - 437ms [BDIX]) (437ms [BDIX])" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",Marquee Sports Networ (Server 2 - 437ms [BDIX]) (437ms [BDIX])
 https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8?e=1784102523&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=93bce8c31c0b8ab66f85c4aa716baae0
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MAX SPORT 1 (392ms)",MAX SPORT 1 (392ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MAX SPORT 1 (392ms) (392ms)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/max-sport-1-bg.png",MAX SPORT 1 (392ms) (392ms)
 http://77.46.130.252:99/maxsport1
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MAX SPORT 2 (388ms)",MAX SPORT 2 (388ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MAX SPORT 2 (388ms) (388ms)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/max-sport-1-bg.png",MAX SPORT 2 (388ms) (388ms)
 http://77.46.130.252:99/maxsport2
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MAX SPORT 3 (368ms)",MAX SPORT 3 (368ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MAX SPORT 3 (368ms) (368ms)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/max-sport-1-bg.png",MAX SPORT 3 (368ms) (368ms)
 http://77.46.130.252:99/maxsport3
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MAX SPORT 4 (379ms)",MAX SPORT 4 (379ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MAX SPORT 4 (379ms) (379ms)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/max-sport-1-bg.png",MAX SPORT 4 (379ms) (379ms)
 http://77.46.130.252:99/maxsport4
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MMN Sport (522ms)",MMN Sport (522ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MMN Sport (522ms) (522ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",MMN Sport (522ms) (522ms)
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MORE THEN SPORTS TV (1974ms)" tvg-logo="https://s3.aynaott.com/storage/39174e32d4f8d29a95c881637fe1ecdb",MORE THEN SPORTS TV (1974ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MORE THEN SPORTS TV (1974ms) (1974ms)" tvg-logo="https://s3.aynaott.com/storage/39174e32d4f8d29a95c881637fe1ecdb",MORE THEN SPORTS TV (1974ms) (1974ms)
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MTRSPT (1220ms)",MTRSPT (1220ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MTRSPT (1220ms) (1220ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",MTRSPT (1220ms) (1220ms)
 https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="NBC Sports (1566ms)" tvg-logo="https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086",NBC Sports (1566ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="NBC Sports (1566ms) (1566ms)" tvg-logo="https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086",NBC Sports (1566ms) (1566ms)
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Oman Sports TV (670ms)" tvg-logo="https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9",Oman Sports TV (670ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Oman Sports TV (670ms) (670ms)" tvg-logo="https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9",Oman Sports TV (670ms) (670ms)
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="ON Sports+ (765ms)",ON Sports+ (765ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="ON Sports+ (765ms) (765ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",ON Sports+ (765ms) (765ms)
 https://freem3u.xyz/api/live/play.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="BEKSportsWest.us" tvg-name="BEKSportsWest.us" tvg-logo="https://appcmsprod.viewlift.com/eae092c0-d256-11ed-9371-6da166a39e0f/images/bek-tv-plus-web-logo-noc-1280X728.png",OTHER | BE TV Sports West (710ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="BEKSportsWest.us" tvg-name="BEKSportsWest.us" tvg-logo="https://appcmsprod.viewlift.com/eae092c0-d256-11ed-9371-6da166a39e0f/images/bek-tv-plus-web-logo-noc-1280X728.png",OTHER | BE TV Sports West (710ms) (710ms)
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="CowboyTV" tvg-name="CowboyTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Cowboy_Channel_logo.png",OTHER | Cowboy TV (693ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="CowboyTV" tvg-name="CowboyTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Cowboy_Channel_logo.png",OTHER | Cowboy TV (693ms) (693ms)
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="PK Sport" tvg-name="PK Sport" tvg-logo="https://yt3.googleusercontent.com/XX0FFJh-IXSzbl9Q6AOJXDvRRrb-himkBB4YWsbuDYoS7ICvjrdQ5-JkJV8bsNcP1w7GoM-lJw=s900-c-k-c0x00ffffff-no-rj",P Sports HD)-- (869ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="PK Sport" tvg-name="PK Sport" tvg-logo="https://yt3.googleusercontent.com/XX0FFJh-IXSzbl9Q6AOJXDvRRrb-himkBB4YWsbuDYoS7ICvjrdQ5-JkJV8bsNcP1w7GoM-lJw=s900-c-k-c0x00ffffff-no-rj",P Sports HD)-- (869ms) (869ms)
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Poker Night In America" tvg-name="Poker Night In America" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/1d91fc37-a75c-4490-8739-f9c79a8f9432",POER | Poer Night In America (1009ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Poker Night In America" tvg-name="Poker Night In America" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/1d91fc37-a75c-4490-8739-f9c79a8f9432",POER | Poer Night In America (1009ms) (1009ms)
 https://e8d2c508ef1e469db82ceacd3c2685bc.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1068-Poker-Night-in-America-FREELIVESPORTS/mt/freelivesports/1068/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c4779d42-4a0d-4a4d-a455-df67f3151d8f",POER | World Poer Tour (597ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c4779d42-4a0d-4a4d-a455-df67f3151d8f",POER | World Poer Tour (597ms) (597ms)
 https://amg00218-wptenterprises-amg00218c1-sportstribal-emea-1900.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="PTVSports.pk" tvg-name="PTVSports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/PTV_Sports_logo.svg/330px-PTV_Sports_logo.svg.png",PTV Sports HD (Server 1 - 261ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="PTVSports.pk" tvg-name="PTVSports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/PTV_Sports_logo.svg/330px-PTV_Sports_logo.svg.png",PTV Sports HD (Server 1 - 261ms [BDIX]) (261ms [BDIX])
 https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102658&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=b75669e4aa0dd58c602b637ab66af304
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="PTVSports.pk" tvg-name="PTVSports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/PTV_Sports_logo.svg/330px-PTV_Sports_logo.svg.png",PTV Sports HD (Server 2 - 340ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="PTVSports.pk" tvg-name="PTVSports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/PTV_Sports_logo.svg/330px-PTV_Sports_logo.svg.png",PTV Sports HD (Server 2 - 340ms [BDIX]) (340ms [BDIX])
 https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="FloRacing" tvg-name="FloRacing" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3ae62aeb-63b4-4f70-966b-16b0c39dd0c2",RACING | FloRacing (505ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="FloRacing" tvg-name="FloRacing" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3ae62aeb-63b4-4f70-966b-16b0c39dd0c2",RACING | FloRacing (505ms) (505ms)
 https://amg02278-amg02278c1-freelivesports-emea-7535.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02278-flosports-floracing24x7-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Hagerty" tvg-name="Hagerty" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200011W4_20240709T002126SQUARE.png",RACING | Hagerty (1101ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Hagerty" tvg-name="Hagerty" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200011W4_20240709T002126SQUARE.png",RACING | Hagerty (1101ms) (1101ms)
 https://dqw6u0upa8l21.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0etl87ne2tj77/Hagerty.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Motor Vision" tvg-name="Motor Vision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Motorvision_2023.svg",RACING | Motor Vision (688ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Motor Vision" tvg-name="Motor Vision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Motorvision_2023.svg",RACING | Motor Vision (688ms) (688ms)
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="RACER International" tvg-name="RACER International" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/9fc17fec-6c99-4dc0-9fe5-abe85faeab49",RACING | RACER International (708ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="RACER International" tvg-name="RACER International" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/9fc17fec-6c99-4dc0-9fe5-abe85faeab49",RACING | RACER International (708ms) (708ms)
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJ0u_f7qrlarYoOVcyaPfUCKApEXWmQRU7-Q&usqp=CAU",Rad Bull TV (258ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJ0u_f7qrlarYoOVcyaPfUCKApEXWmQRU7-Q&usqp=CAU",Rad Bull TV (258ms) (258ms)
 http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Rai Sport %C (859ms)" tvg-logo="https://i.imgur.com/xsGljsb.png",Rai Sport %C (859ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Rai Sport %C (859ms) (859ms)" tvg-logo="https://i.imgur.com/xsGljsb.png",Rai Sport %C (859ms) (859ms)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Real Madrid (644ms)" tvg-logo="https://pbs.twimg.com/profile_images/896773300667461633/F75hrQfN_400x400.jpg",Real Madrid (644ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Real Madrid (644ms) (644ms)" tvg-logo="https://pbs.twimg.com/profile_images/896773300667461633/F75hrQfN_400x400.jpg",Real Madrid (644ms) (644ms)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="RealMadrid TV (386ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIrYIZ_ikoVf53Qy0W15x4R_7pAhLBz-evNTXx7pP8pgrUwyifH6IQiD3juwyCKhwP9itQ3DRuTJMQKY-j_14JSXoo8a8lwAOUUaqk6mJYG-ln7MqPhYzhszfvrf-IoJ23AGNt4Vic_PpK_o6gXvr4YAD1Bd4ob-TwzO_e0Nj1-e7JfYQqivhDMbwC3A/s1080/1000059179.png",RealMadrid TV (386ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="RealMadrid TV (386ms) (386ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIrYIZ_ikoVf53Qy0W15x4R_7pAhLBz-evNTXx7pP8pgrUwyifH6IQiD3juwyCKhwP9itQ3DRuTJMQKY-j_14JSXoo8a8lwAOUUaqk6mJYG-ln7MqPhYzhszfvrf-IoJ23AGNt4Vic_PpK_o6gXvr4YAD1Bd4ob-TwzO_e0Nj1-e7JfYQqivhDMbwC3A/s1080/1000059179.png",RealMadrid TV (386ms) (386ms)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV (34ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV (34ms [BDIX]) (34ms [BDIX])
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?@amarnettv.live
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Red Bull TV UK" tvg-name="Red Bull TV UK" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=redbull.com",Red Bull TV U (231ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Red Bull TV UK" tvg-name="Red Bull TV UK" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=redbull.com",Red Bull TV U (231ms) (231ms)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Redbull TV (541ms)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I_gjgaJYlqDQGjAj96xh8S-5GZe_CZQK3w&usqp=CAU",Redbull TV (541ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Redbull TV (541ms) (541ms)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I_gjgaJYlqDQGjAj96xh8S-5GZe_CZQK3w&usqp=CAU",Redbull TV (541ms) (541ms)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="redbull.tv" tvg-name="redbull.tv" tvg-logo="https://openpaddock.net/wp-content/uploads/2014/11/RedbullTV_blue.jpg",Redbull TV (Server 1 - 236ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="redbull.tv" tvg-name="redbull.tv" tvg-logo="https://openpaddock.net/wp-content/uploads/2014/11/RedbullTV_blue.jpg",Redbull TV (Server 1 - 236ms) (236ms)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="redbull.tv" tvg-name="redbull.tv" tvg-logo="https://openpaddock.net/wp-content/uploads/2014/11/RedbullTV_blue.jpg",Redbull TV (Server 2 - 268ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="redbull.tv" tvg-name="redbull.tv" tvg-logo="https://openpaddock.net/wp-content/uploads/2014/11/RedbullTV_blue.jpg",Redbull TV (Server 2 - 268ms) (268ms)
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Rete 8 Sport (924ms)" tvg-logo="https://i.imgur.com/uUAjWlF.png",Rete 8 Sport (924ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Rete 8 Sport (924ms) (924ms)" tvg-logo="https://i.imgur.com/uUAjWlF.png",Rete 8 Sport (924ms) (924ms)
 https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="RugbyPass TV" tvg-name="RugbyPass TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB330000144_20250624T020553SQUARE.png",RugbyPass TV (1191ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="RugbyPass TV" tvg-name="RugbyPass TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB330000144_20250624T020553SQUARE.png",RugbyPass TV (1191ms) (1191ms)
 https://97bf7b92.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9SdWdieVBhc3NUVl9ITFM/playlist.m3u8?ads.wurl_channel=1872&ads.wurl_name=RugbyPassTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Setanta Sport (464ms)",Setanta Sport (464ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Setanta Sport (464ms) (464ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Setanta Sport (464ms) (464ms)
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Setenta Sport 2 (1073ms)",Setenta Sport 2 (1073ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Setenta Sport 2 (1073ms) (1073ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Setenta Sport 2 (1073ms) (1073ms)
 http://cdntv.online/low/9mlxywika2/1022.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonyTen1.in" tvg-name="SonyTen1.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Sony_Sports_Ten_1_logo.svg/330px-Sony_Sports_Ten_1_logo.svg.png",Sony Sports Ten 1 HD (Server 1 - 67ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonyTen1.in" tvg-name="SonyTen1.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Sony_Sports_Ten_1_logo.svg/330px-Sony_Sports_Ten_1_logo.svg.png",Sony Sports Ten 1 HD (Server 1 - 67ms [BDIX]) (67ms [BDIX])
 http://103.151.60.162:2122/play/a01c/index.m3u8?hls
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonyTen1.in" tvg-name="SonyTen1.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Sony_Sports_Ten_1_logo.svg/330px-Sony_Sports_Ten_1_logo.svg.png",Sony Sports Ten 1 HD (Server 2 - 2063ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonyTen1.in" tvg-name="SonyTen1.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Sony_Sports_Ten_1_logo.svg/330px-Sony_Sports_Ten_1_logo.svg.png",Sony Sports Ten 1 HD (Server 2 - 2063ms) (2063ms)
 https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonyTen2.in" tvg-name="SonyTen2.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Sony_Sports_Ten_2_logo.svg/330px-Sony_Sports_Ten_2_logo.svg.png",Sony Sports Ten 2 HD (59ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonyTen2.in" tvg-name="SonyTen2.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Sony_Sports_Ten_2_logo.svg/330px-Sony_Sports_Ten_2_logo.svg.png",Sony Sports Ten 2 HD (59ms [BDIX]) (59ms [BDIX])
 http://103.151.60.162:2122/play/a01b/index.m3u8?hls
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sony Sports Ten 3 Hindi (61ms [BDIX])" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",Sony Sports Ten 3 Hindi (61ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sony Sports Ten 3 Hindi (61ms [BDIX]) (61ms [BDIX])" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",Sony Sports Ten 3 Hindi (61ms [BDIX]) (61ms [BDIX])
 http://103.151.60.162:2122/play/a01t/index.m3u8?hls
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonyTen5.in" tvg-name="SonyTen5.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Sony_Sports_Ten_5_logo.svg/330px-Sony_Sports_Ten_5_logo.svg.png",Sony Sports Ten 5 HD (60ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonyTen5.in" tvg-name="SonyTen5.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Sony_Sports_Ten_5_logo.svg/330px-Sony_Sports_Ten_5_logo.svg.png",Sony Sports Ten 5 HD (60ms [BDIX]) (60ms [BDIX])
 http://103.151.60.162:2122/play/a028/index.m3u8?hls
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sony Sports2 HD (3178ms)" tvg-logo="https://i.imgur.com/ES4Aq69.png",Sony Sports2 HD (3178ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sony Sports2 HD (3178ms) (3178ms)" tvg-logo="https://i.imgur.com/ES4Aq69.png",Sony Sports2 HD (3178ms) (3178ms)
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/sonyten2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="speed sports 1 (1221ms)" tvg-logo="https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e",speed sports 1 (1221ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="speed sports 1 (1221ms) (1221ms)" tvg-logo="https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e",speed sports 1 (1221ms) (1221ms)
 https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sport2U (1205ms)" tvg-logo="https://i.imgur.com/WW0lNk1.png",Sport2U (1205ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sport2U (1205ms) (1205ms)" tvg-logo="https://i.imgur.com/WW0lNk1.png",Sport2U (1205ms) (1205ms)
 https://stream9.xdevel.com/video0s976916-1685/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sport5 (Server 1 - 430ms)",Sport5 (Server 1 - 430ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sport5 (Server 1 - 430ms) (430ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Sport5 (Server 1 - 430ms) (430ms)
 https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sport5 (Server 2 - 670ms)",Sport5 (Server 2 - 670ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sport5 (Server 2 - 670ms) (670ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Sport5 (Server 2 - 670ms) (670ms)
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sportdigital (2484ms)",Sportdigital (2484ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sportdigital (2484ms) (2484ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Sportdigital (2484ms) (2484ms)
 https://jmp2.uk/stvp-ATAJ0500433A
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="SportOutdoor.tv (1945ms)" tvg-logo="https://i.imgur.com/fwOuEBl.png",SportOutdoor.tv (1945ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="SportOutdoor.tv (1945ms) (1945ms)" tvg-logo="https://i.imgur.com/fwOuEBl.png",SportOutdoor.tv (1945ms) (1945ms)
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="SPORTS FIRST TV (1176ms)" tvg-logo="https://s3.aynaott.com/storage/748d28752dcf95740561f1ac39e15fc3",SPORTS FIRST TV (1176ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="SPORTS FIRST TV (1176ms) (1176ms)" tvg-logo="https://s3.aynaott.com/storage/748d28752dcf95740561f1ac39e15fc3",SPORTS FIRST TV (1176ms) (1176ms)
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Sports Fishing" tvg-name="Sports Fishing" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/4f11d7b4-99e6-447e-b517-10dbb827a67c",Sports Fishing (516ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Sports Fishing" tvg-name="Sports Fishing" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/4f11d7b4-99e6-447e-b517-10dbb827a67c",Sports Fishing (516ms) (516ms)
 https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Fishing TV (976ms)",Sports Fishing TV (976ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Fishing TV (976ms) (976ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Sports Fishing TV (976ms) (976ms)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Grid (Server 1 - 342ms [BDIX])" tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",Sports Grid (Server 1 - 342ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Grid (Server 1 - 342ms [BDIX]) (342ms [BDIX])" tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",Sports Grid (Server 1 - 342ms [BDIX]) (342ms [BDIX])
 https://tvsen6.aynaott.com/SportsGrid/index.m3u8?e=1779283798&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=652ed8ae174a9efdb335fb31355f0fb5
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Grid (Server 2 - 448ms [BDIX])" tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",Sports Grid (Server 2 - 448ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Grid (Server 2 - 448ms [BDIX]) (448ms [BDIX])" tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",Sports Grid (Server 2 - 448ms [BDIX]) (448ms [BDIX])
 https://tvsen6.aynaott.com/SportsGrid/index.m3u8?e=1784102516&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=805223f37eb8e43994f002e68e736eea
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Live (427ms [BDIX])",Sports Live (427ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Live (427ms [BDIX]) (427ms [BDIX])" tvg-logo="https://i.imgur.com/WpMA9kC.png",Sports Live (427ms [BDIX]) (427ms [BDIX])
 https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102508&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=58eaaf823b8b124213229ac251f2efbc
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SportsGrid" tvg-name="SportsGrid" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/SPORTSGRID_LOGO_BLACK_RED_LOGO.svg",SportsGrid (1032ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SportsGrid" tvg-name="SportsGrid" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/SPORTSGRID_LOGO_BLACK_RED_LOGO.svg",SportsGrid (1032ms) (1032ms)
 https://sportsgrid-tribal.amagi.tv/playlistR432p.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="StarSports1.in" tvg-name="StarSports1.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Star_Sports_1_logo.svg/330px-Star_Sports_1_logo.svg.png",Star Sports 1 HD (3167ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="StarSports1.in" tvg-name="StarSports1.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Star_Sports_1_logo.svg/330px-Star_Sports_1_logo.svg.png",Star Sports 1 HD (3167ms) (3167ms)
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/sonyten5/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="starsports1hindi.in" tvg-name="starsports1hindi.in" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png",Star Sports 1 Hindi (116ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="starsports1hindi.in" tvg-name="starsports1hindi.in" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png",Star Sports 1 Hindi (116ms) (116ms)
 https://starsportshindiii.pages.dev/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="StarSports2.in" tvg-name="StarSports2.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Star_Sports_2_logo.svg/330px-Star_Sports_2_logo.svg.png",Star Sports 2 HD (Server 1 - 59ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="StarSports2.in" tvg-name="StarSports2.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Star_Sports_2_logo.svg/330px-Star_Sports_2_logo.svg.png",Star Sports 2 HD (Server 1 - 59ms [BDIX]) (59ms [BDIX])
 http://103.151.60.162:2122/play/a00v/index.m3u8?hls
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="StarSports2.in" tvg-name="StarSports2.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Star_Sports_2_logo.svg/330px-Star_Sports_2_logo.svg.png",Star Sports 2 HD (Server 2 - 3169ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="StarSports2.in" tvg-name="StarSports2.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Star_Sports_2_logo.svg/330px-Star_Sports_2_logo.svg.png",Star Sports 2 HD (Server 2 - 3169ms) (3169ms)
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 1 (3168ms)" tvg-logo="https://i.imgur.com/Uf9kaSQ.jpeg",Star Sports Select 1 (3168ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 1 (3168ms) (3168ms)" tvg-logo="https://i.imgur.com/Uf9kaSQ.jpeg",Star Sports Select 1 (3168ms) (3168ms)
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/starselect1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 1 HD (78ms [BDIX])" tvg-logo="https://i.imgur.com/Mh9tKPx.png",Star Sports Select 1 HD (78ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 1 HD (78ms [BDIX]) (78ms [BDIX])" tvg-logo="https://i.imgur.com/Mh9tKPx.png",Star Sports Select 1 HD (78ms [BDIX]) (78ms [BDIX])
 http://103.151.60.162:2122/play/a026/index.m3u8?hls
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 2 (3168ms)" tvg-logo="https://i.imgur.com/H5wcIUZ.png",Star Sports Select 2 (3168ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 2 (3168ms) (3168ms)" tvg-logo="https://i.imgur.com/H5wcIUZ.png",Star Sports Select 2 (3168ms) (3168ms)
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/starselect2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 2 HD (120ms [BDIX])" tvg-logo="https://i.imgur.com/FtRT73R.png",Star Sports Select 2 HD (120ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 2 HD (120ms [BDIX]) (120ms [BDIX])" tvg-logo="https://i.imgur.com/FtRT73R.png",Star Sports Select 2 HD (120ms [BDIX]) (120ms [BDIX])
 http://103.151.60.162:2122/play/a027/index.m3u8?hls
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Strongman Champions League" tvg-name="Strongman Champions League" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001089_20250107T153921SQUARE.png",Strongman Champions League (1129ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Strongman Champions League" tvg-name="Strongman Champions League" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001089_20250107T153921SQUARE.png",Strongman Champions League (1129ms) (1129ms)
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/playlist.m3u8?ads.wurl_channel=1102&ads.wurl_name=StrongmanChampionsLeague&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Suspilne Sport (1637ms)" tvg-logo="https://i.imgur.com/16IhU0M.png",Suspilne Sport (1637ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Suspilne Sport (1637ms) (1637ms)" tvg-logo="https://i.imgur.com/16IhU0M.png",Suspilne Sport (1637ms) (1637ms)
 http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="SY SPORT LALIGA (1673ms)",SY SPORT LALIGA (1673ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="SY SPORT LALIGA (1673ms) (1673ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",SY SPORT LALIGA (1673ms) (1673ms)
 http://179.60.224.196:8000/play/a0i7/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="TSports.bd" tvg-name="TSports.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/T_Sports_logo.svg/330px-T_Sports_logo.svg.png",T Sports HD (3174ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="TSports.bd" tvg-name="TSports.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/T_Sports_logo.svg/330px-T_Sports_logo.svg.png",T Sports HD (3174ms) (3174ms)
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Tal Sport (Server 1 - 317ms [BDIX])" tvg-logo="https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd",Tal Sport (Server 1 - 317ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Tal Sport (Server 1 - 317ms [BDIX]) (317ms [BDIX])" tvg-logo="https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd",Tal Sport (Server 1 - 317ms [BDIX]) (317ms [BDIX])
 https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1779283794&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=24b590ae2b7927c00a9acc3a97bc5d86
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Tal Sport (Server 2 - 441ms [BDIX])" tvg-logo="https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd",Tal Sport (Server 2 - 441ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Tal Sport (Server 2 - 441ms [BDIX]) (441ms [BDIX])" tvg-logo="https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd",Tal Sport (Server 2 - 441ms [BDIX]) (441ms [BDIX])
 https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1784102522&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=a3506be66a1595e3d3572c6fc3547dc7
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Pickle TV" tvg-name="Pickle TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/63fba2fd-ea9b-485f-bc45-44b1eef221a5",TANNIS | Picle TV (1501ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Pickle TV" tvg-name="Pickle TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/63fba2fd-ea9b-485f-bc45-44b1eef221a5",TANNIS | Picle TV (1501ms) (1501ms)
 https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Ten Cricet (114ms [BDIX])" tvg-logo="https://i.imgur.com/K5XIFuW.png",Ten Cricet (114ms [BDIX])
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Ten Cricet (114ms [BDIX]) (114ms [BDIX])" tvg-logo="https://i.imgur.com/K5XIFuW.png",Ten Cricet (114ms [BDIX]) (114ms [BDIX])
 http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Tennis TV Classics" tvg-name="Tennis TV Classics" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ea15b263-636c-4536-9a75-bde70ab88423",TENNIS | Tennis TV Classics (537ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Tennis TV Classics" tvg-name="Tennis TV Classics" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ea15b263-636c-4536-9a75-bde70ab88423",TENNIS | Tennis TV Classics (537ms) (537ms)
 https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="TNT SPORTS PREMIUM (626ms)",TNT SPORTS PREMIUM (626ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="TNT SPORTS PREMIUM (626ms) (626ms)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-1-uk.png",TNT SPORTS PREMIUM (626ms) (626ms)
 http://200.115.120.1:8000/play/ca040/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="TR Sport (1425ms)",TR Sport (1425ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="TR Sport (1425ms) (1425ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",TR Sport (1425ms) (1425ms)
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Trace Sport (1083ms)",Trace Sport (1083ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Trace Sport (1083ms) (1083ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Trace Sport (1083ms) (1083ms)
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="TraceSportsStars" tvg-name="TraceSportsStars" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Trace_Sport_Stars_%282022%29.svg",Trace Sports Stars (836ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="TraceSportsStars" tvg-name="TraceSportsStars" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Trace_Sport_Stars_%282022%29.svg",Trace Sports Stars (836ms) (836ms)
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Turmenistan Sport (Server 1 - 438ms)",Turmenistan Sport (Server 1 - 438ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Turmenistan Sport (Server 1 - 438ms) (438ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Turmenistan Sport (Server 1 - 438ms) (438ms)
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Turmenistan Sport (Server 2 - 1633ms)",Turmenistan Sport (Server 2 - 1633ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Turmenistan Sport (Server 2 - 1633ms) (1633ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Turmenistan Sport (Server 2 - 1633ms) (1633ms)
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="TV Sport Plus (1276ms)" tvg-logo="https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488",TV Sport Plus (1276ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="TV Sport Plus (1276ms) (1276ms)" tvg-logo="https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488",TV Sport Plus (1276ms) (1276ms)
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Unbeaten.us@SD" tvg-name="Unbeaten.us@SD" tvg-logo="https://i.imgur.com/LmkNt3v.png",Unbeaten Sports Channel (548ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Unbeaten.us@SD" tvg-name="Unbeaten.us@SD" tvg-logo="https://i.imgur.com/LmkNt3v.png",Unbeaten Sports Channel (548ms) (548ms)
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ext" tvg-name="ext",US Sports (1437ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ext" tvg-name="ext" tvg-logo="https://i.imgur.com/WpMA9kC.png",US Sports (1437ms) (1437ms)
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Willow Extra (96ms)",Willow Extra (96ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Willow Extra (96ms) (96ms)" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",Willow Extra (96ms) (96ms)
 http://27.124.71.27/Willow_Extra/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="WillowExtraHD" tvg-name="WillowExtraHD" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WiLLoW HD)-- (884ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="WillowExtraHD" tvg-name="WillowExtraHD" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WiLLoW HD)-- (884ms) (884ms)
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="WOF 1 (1983ms)" tvg-logo="https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6",WOF 1 (1983ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="WOF 1 (1983ms) (1983ms)" tvg-logo="https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6",WOF 1 (1983ms) (1983ms)
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="WOF 1 (275ms)" tvg-logo="https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6",WOF 1 (275ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="WOF 1 (275ms) (275ms)" tvg-logo="https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6",WOF 1 (275ms) (275ms)
 https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="World of Freesports" tvg-name="World of Freesports" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/ef4c576d-49fb-4997-afe1-55f0b11d7982",World of Freesports (650ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="World of Freesports" tvg-name="World of Freesports" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/ef4c576d-49fb-4997-afe1-55f0b11d7982",World of Freesports (650ms) (650ms)
 https://amg01866-mainstreammedia-freesportsinc-sportstribal-b3zdo.amagi.tv/ts-eu-w1-n2/playlist/amg01866-mainstreammedia-freesportsinc-sportstribal/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="X SPORT (798ms)",X SPORT (798ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="X SPORT (798ms) (798ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",X SPORT (798ms) (798ms)
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="XSport %8 (1630ms)" tvg-logo="https://i.imgur.com/CHDcfrT.png",XSport %8 (1630ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="XSport %8 (1630ms) (1630ms)" tvg-logo="https://i.imgur.com/CHDcfrT.png",XSport %8 (1630ms) (1630ms)
 http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Xtream Sports (1069ms)" tvg-logo="https://s3.aynaott.com/storage/e1749cf3040f11c63e722c941f213927",Xtream Sports (1069ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Xtream Sports (1069ms) (1069ms)" tvg-logo="https://s3.aynaott.com/storage/e1749cf3040f11c63e722c941f213927",Xtream Sports (1069ms) (1069ms)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="ZIGGO SPORT 3 HD (1203ms)",ZIGGO SPORT 3 HD (1203ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="ZIGGO SPORT 3 HD (1203ms) (1203ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",ZIGGO SPORT 3 HD (1203ms) (1203ms)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="ZIGGO SPORT LIVE (584ms)",ZIGGO SPORT LIVE (584ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="ZIGGO SPORT LIVE (584ms) (584ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",ZIGGO SPORT LIVE (584ms) (584ms)
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8

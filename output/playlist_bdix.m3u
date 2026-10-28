@@ -1,630 +1,630 @@
 #EXTM3U
-# Last Updated: 2026-10-28 05:45 PM (Local Time)
+# Last Updated: 2026-10-28 05:59 PM (Local Time)
 # BDIX Ultra Low Latency Channels (<90ms)
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="6 TV Telugu (78ms [BDIX]) (78ms)" tvg-logo="https://i.imgur.com/l3EcRnZ.png",6 TV Telugu (78ms [BDIX]) (78ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="6 TV Telugu (78ms [BDIX]) (78ms [BDIX]) (78ms)" tvg-logo="https://i.imgur.com/l3EcRnZ.png",6 TV Telugu (78ms [BDIX]) (78ms [BDIX]) (78ms)
 https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="Assam Tals (42ms [BDIX]) (42ms)" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540",Assam Tals (42ms [BDIX]) (42ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="Assam Tals (42ms [BDIX]) (42ms [BDIX]) (42ms)" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540",Assam Tals (42ms [BDIX]) (42ms [BDIX]) (42ms)
 http://tvsen7.aynascope.net/AssamTalks/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="ATNNews.bd" tvg-name="ATNNews.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/ATN_News_logo.svg/330px-ATN_News_logo.svg.png",ATN News HD (Server 1 - 226ms [BDIX]) (226ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="ATNNews.bd" tvg-name="ATNNews.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/ATN_News_logo.svg/330px-ATN_News_logo.svg.png",ATN News HD (Server 1 - 226ms [BDIX]) (226ms [BDIX]) (226ms)
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="ATNNews.bd" tvg-name="ATNNews.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/ATN_News_logo.svg/330px-ATN_News_logo.svg.png",ATN News HD (Server 2 - 414ms [BDIX]) (414ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="ATNNews.bd" tvg-name="ATNNews.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/ATN_News_logo.svg/330px-ATN_News_logo.svg.png",ATN News HD (Server 2 - 414ms [BDIX]) (414ms [BDIX]) (414ms)
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8?e=1784102557&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=11c7f2ed16c910de7308032faaf7a7ec
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="4ca61a59-e0e2-4566-94fb-055ef46dac9e" tvg-name="4ca61a59-e0e2-4566-94fb-055ef46dac9e" tvg-logo="https://s3.aynaott.com/storage/253dcc8b5951160d6aa26bc5ac65ddb8",Bloomberg TV (417ms [BDIX]) (417ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="4ca61a59-e0e2-4566-94fb-055ef46dac9e" tvg-name="4ca61a59-e0e2-4566-94fb-055ef46dac9e" tvg-logo="https://s3.aynaott.com/storage/253dcc8b5951160d6aa26bc5ac65ddb8",Bloomberg TV (417ms [BDIX]) (417ms [BDIX]) (417ms)
 https://tvsen6.aynaott.com/bloombergtv/index.m3u8?e=1784102539&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=f3fc3aaf7592e99b0e130d2c47373099
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="CGTN %7%4%9%1%8%A%9 (32ms [BDIX]) (32ms)" tvg-logo="https://i.imgur.com/fMsJYzl.png",CGTN %7%4%9%1%8%A%9 (32ms [BDIX]) (32ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="CGTN %7%4%9%1%8%A%9 (32ms [BDIX]) (32ms [BDIX]) (32ms)" tvg-logo="https://i.imgur.com/fMsJYzl.png",CGTN %7%4%9%1%8%A%9 (32ms [BDIX]) (32ms [BDIX]) (32ms)
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="Channel 1" tvg-name="Channel 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Channel_1_Logo_Bangladesh.svg",Channel 1 (73ms [BDIX]) (73ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="Channel 1" tvg-name="Channel 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Channel_1_Logo_Bangladesh.svg",Channel 1 (73ms [BDIX]) (73ms [BDIX]) (73ms)
 https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="Channel24.bd" tvg-name="Channel24.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Channel_24_logo.svg/330px-Channel_24_logo.svg.png",Channel 24 HD (23ms [BDIX]) (23ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="Channel24.bd" tvg-name="Channel24.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Channel_24_logo.svg/330px-Channel_24_logo.svg.png",Channel 24 HD (23ms [BDIX]) (23ms [BDIX]) (23ms)
 http://103.135.253.32:8080/Channel-24/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",CNA HD (87ms [BDIX]) (87ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",CNA HD (87ms [BDIX]) (87ms [BDIX]) (87ms)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?@amarnettv.live
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="eff32f41-b72d-456c-89e1-cf86a097202a" tvg-name="eff32f41-b72d-456c-89e1-cf86a097202a" tvg-logo="https://s3.aynaott.com/storage/16a213d06e7362d97cb6085e70c9b5a2",CNBC TV (417ms [BDIX]) (417ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="eff32f41-b72d-456c-89e1-cf86a097202a" tvg-name="eff32f41-b72d-456c-89e1-cf86a097202a" tvg-logo="https://s3.aynaott.com/storage/16a213d06e7362d97cb6085e70c9b5a2",CNBC TV (417ms [BDIX]) (417ms [BDIX]) (417ms)
 https://tvsen6.aynaott.com/cnbc/index.m3u8?e=1784102539&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=79af8268c0330df2560ca626432a0d66
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="CNN (Server 1 - 296ms [BDIX]) (296ms)" tvg-logo="https://s3.aynaott.com/storage/e0b6da4715f468eb39591911a0597546",CNN (Server 1 - 296ms [BDIX]) (296ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="CNN (Server 1 - 296ms [BDIX]) (296ms [BDIX]) (296ms)" tvg-logo="https://s3.aynaott.com/storage/e0b6da4715f468eb39591911a0597546",CNN (Server 1 - 296ms [BDIX]) (296ms [BDIX]) (296ms)
 https://tvsen6.aynaott.com/cnn/index.m3u8?e=1779283771&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c376091ef0bd820afc51b7df095890ad
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="CNN (Server 2 - 428ms [BDIX]) (428ms)" tvg-logo="https://s3.aynaott.com/storage/e0b6da4715f468eb39591911a0597546",CNN (Server 2 - 428ms [BDIX]) (428ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="CNN (Server 2 - 428ms [BDIX]) (428ms [BDIX]) (428ms)" tvg-logo="https://s3.aynaott.com/storage/e0b6da4715f468eb39591911a0597546",CNN (Server 2 - 428ms [BDIX]) (428ms [BDIX]) (428ms)
 https://tvsen6.aynaott.com/cnn/index.m3u8?e=1784102537&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3d319d99045811bace569a7cc2885eb3
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="DBCNews.bd" tvg-name="DBCNews.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/DBC_News_logo.svg/330px-DBC_News_logo.svg.png",DBC News HD (Server 1 - 45ms [BDIX]) (45ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="DBCNews.bd" tvg-name="DBCNews.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/DBC_News_logo.svg/330px-DBC_News_logo.svg.png",DBC News HD (Server 1 - 45ms [BDIX]) (45ms [BDIX]) (45ms)
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="DBCNews.bd" tvg-name="DBCNews.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/DBC_News_logo.svg/330px-DBC_News_logo.svg.png",DBC News HD (Server 2 - 431ms [BDIX]) (431ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="DBCNews.bd" tvg-name="DBCNews.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/DBC_News_logo.svg/330px-DBC_News_logo.svg.png",DBC News HD (Server 2 - 431ms [BDIX]) (431ms [BDIX]) (431ms)
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8?e=1784102535&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d1848b7fd84cef719a89b61f0f5704ee
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="DW %7%4%9%1%8%A%9 (1345ms [BDIX]) (1345ms)" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW %7%4%9%1%8%A%9 (1345ms [BDIX]) (1345ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="DW %7%4%9%1%8%A%9 (1345ms [BDIX]) (1345ms [BDIX]) (1345ms)" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW %7%4%9%1%8%A%9 (1345ms [BDIX]) (1345ms [BDIX]) (1345ms)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="1a7a1365-ae2c-470f-9fb2-25c6e83bb108" tvg-name="1a7a1365-ae2c-470f-9fb2-25c6e83bb108" tvg-logo="https://s3.aynaott.com/storage/d91767995b2f2a54852c92bbbc20daa7",Eattor TV (419ms [BDIX]) (419ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="1a7a1365-ae2c-470f-9fb2-25c6e83bb108" tvg-name="1a7a1365-ae2c-470f-9fb2-25c6e83bb108" tvg-logo="https://s3.aynaott.com/storage/d91767995b2f2a54852c92bbbc20daa7",Eattor TV (419ms [BDIX]) (419ms [BDIX]) (419ms)
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8?e=1784102532&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3b9afdda2bd5332e8f49ed7dfa321a06
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="Ehon TV (2024ms [BDIX]) (2024ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2rwzM3TeXBFILm0KCzTHqk7WkaIVniq3gkqXny_2h_OJyCxzBVt3RGzHT0M0uHf9dOLNjsSlvNNzk_Ij3Qsqei0S3_Qh7eboeNq8O06tuDaBiW60St_EP_T17ulx5AvyA-Piaj9sLcT6jMJKs9uhTa8-sdf6dfDJgQDdd1yTO3L9Dvmv6Dwl1Ewq_1A/s600/Nur_20251226_221258_0000.png",Ehon TV (2024ms [BDIX]) (2024ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="Ehon TV (2024ms [BDIX]) (2024ms [BDIX]) (2024ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2rwzM3TeXBFILm0KCzTHqk7WkaIVniq3gkqXny_2h_OJyCxzBVt3RGzHT0M0uHf9dOLNjsSlvNNzk_Ij3Qsqei0S3_Qh7eboeNq8O06tuDaBiW60St_EP_T17ulx5AvyA-Piaj9sLcT6jMJKs9uhTa8-sdf6dfDJgQDdd1yTO3L9Dvmv6Dwl1Ewq_1A/s600/Nur_20251226_221258_0000.png",Ehon TV (2024ms [BDIX]) (2024ms [BDIX]) (2024ms)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="JamunaTV.bd" tvg-name="JamunaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Jamuna_Television_logo.svg/330px-Jamuna_Television_logo.svg.png",Jamuna TV HD (Server 1 - 47ms [BDIX]) (47ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="JamunaTV.bd" tvg-name="JamunaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Jamuna_Television_logo.svg/330px-Jamuna_Television_logo.svg.png",Jamuna TV HD (Server 1 - 47ms [BDIX]) (47ms [BDIX]) (47ms)
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="JamunaTV.bd" tvg-name="JamunaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Jamuna_Television_logo.svg/330px-Jamuna_Television_logo.svg.png",Jamuna TV HD (Server 2 - 419ms [BDIX]) (419ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="JamunaTV.bd" tvg-name="JamunaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Jamuna_Television_logo.svg/330px-Jamuna_Television_logo.svg.png",Jamuna TV HD (Server 2 - 419ms [BDIX]) (419ms [BDIX]) (419ms)
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8?e=1784102531&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d17e86aa2e6745043e84e0547d4fb69a
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="NEWS 21 BANGLA" tvg-name="NEWS 21 BANGLA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/news21.jpg",NEWS 21 BANGLA (28ms [BDIX]) (28ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="NEWS 21 BANGLA" tvg-name="NEWS 21 BANGLA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/news21.jpg",NEWS 21 BANGLA (28ms [BDIX]) (28ms [BDIX]) (28ms)
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="News24.bd" tvg-name="News24.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/News24_logo.svg/330px-News24_logo.svg.png",News 24 HD (Server 1 - 424ms [BDIX]) (424ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="News24.bd" tvg-name="News24.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/News24_logo.svg/330px-News24_logo.svg.png",News 24 HD (Server 1 - 424ms [BDIX]) (424ms [BDIX]) (424ms)
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8?e=1784102534&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ff40b53535a0e90b724ac25ff41c590c
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="NEWS24.bd" tvg-name="NEWS24.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a9/News24_HD_logo_2021.png",NEWS 24 Television (45ms [BDIX]) (45ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="NEWS24.bd" tvg-name="NEWS24.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a9/News24_HD_logo_2021.png",NEWS 24 Television (45ms [BDIX]) (45ms [BDIX]) (45ms)
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="b358a9bf-6c73-4901-bde6-0250b67330bc" tvg-name="b358a9bf-6c73-4901-bde6-0250b67330bc" tvg-logo="https://s3.aynaott.com/storage/80e4113d034ad20bcbea341dcb4ae27e",Sadhna Prime News (411ms [BDIX]) (411ms)
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="b358a9bf-6c73-4901-bde6-0250b67330bc" tvg-name="b358a9bf-6c73-4901-bde6-0250b67330bc" tvg-logo="https://s3.aynaott.com/storage/80e4113d034ad20bcbea341dcb4ae27e",Sadhna Prime News (411ms [BDIX]) (411ms [BDIX]) (411ms)
 https://tvsen6.aynaott.com/WZUs6gAU/index.m3u8?e=1784102556&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=49ac20f3ecb8e9577b16afd7195615fa
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="AndTV.in" tvg-name="AndTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/%26TV_HD_%282025%29.svg",&TV (39ms [BDIX]) (39ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="AndTV.in" tvg-name="AndTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/%26TV_HD_%282025%29.svg",&TV (39ms [BDIX]) (39ms [BDIX]) (39ms)
 https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="43.TV Bangla (66ms [BDIX]) (66ms)" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjwGg2XyMGxFITXm_54WBnNF_zBYcYw9n1E_PlCxoo=s900-c-k-c0x00ffffff-no-rj",43.TV Bangla (66ms [BDIX]) (66ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="43.TV Bangla (66ms [BDIX]) (66ms [BDIX]) (66ms)" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjwGg2XyMGxFITXm_54WBnNF_zBYcYw9n1E_PlCxoo=s900-c-k-c0x00ffffff-no-rj",43.TV Bangla (66ms [BDIX]) (66ms [BDIX]) (66ms)
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv01826655778
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Aaaash Aath (81ms [BDIX]) (81ms)" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540",Aaaash Aath (81ms [BDIX]) (81ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Aaaash Aath (81ms [BDIX]) (81ms [BDIX]) (81ms)" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540",Aaaash Aath (81ms [BDIX]) (81ms [BDIX]) (81ms)
 http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="akashaat.in" tvg-name="akashaat.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Aakash_Aath_logo_%282013%29.png",Aash Aath (Server 1 - 52ms [BDIX]) (52ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="akashaat.in" tvg-name="akashaat.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Aakash_Aath_logo_%282013%29.png",Aash Aath (Server 1 - 52ms [BDIX]) (52ms [BDIX]) (52ms)
 https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="AnandaTV.bd" tvg-name="AnandaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Ananda_TV_logo.svg/330px-Ananda_TV_logo.svg.png",Ananda TV HD (Server 1 - 23ms [BDIX]) (23ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="AnandaTV.bd" tvg-name="AnandaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Ananda_TV_logo.svg/330px-Ananda_TV_logo.svg.png",Ananda TV HD (Server 1 - 23ms [BDIX]) (23ms [BDIX]) (23ms)
 http://103.135.253.32:8080/Anando-TV/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="AnandaTV.bd" tvg-name="AnandaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Ananda_TV_logo.svg/330px-Ananda_TV_logo.svg.png",Ananda TV HD (Server 2 - 228ms [BDIX]) (228ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="AnandaTV.bd" tvg-name="AnandaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Ananda_TV_logo.svg/330px-Ananda_TV_logo.svg.png",Ananda TV HD (Server 2 - 228ms [BDIX]) (228ms [BDIX]) (228ms)
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="AnandaTV.bd" tvg-name="AnandaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Ananda_TV_logo.svg/330px-Ananda_TV_logo.svg.png",Ananda TV HD (Server 3 - 379ms [BDIX]) (379ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="AnandaTV.bd" tvg-name="AnandaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Ananda_TV_logo.svg/330px-Ananda_TV_logo.svg.png",Ananda TV HD (Server 3 - 379ms [BDIX]) (379ms [BDIX]) (379ms)
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8?e=1784102574&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ca7c19dec6024bf61b0aa2c509cf45df
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="AnandaTV.bd" tvg-name="AnandaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Ananda_TV_logo.svg/330px-Ananda_TV_logo.svg.png",Ananda TV HD (Server 4 - 843ms [BDIX]) (843ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="AnandaTV.bd" tvg-name="AnandaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Ananda_TV_logo.svg/330px-Ananda_TV_logo.svg.png",Ananda TV HD (Server 4 - 843ms [BDIX]) (843ms [BDIX]) (843ms)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Anmol TV (152ms [BDIX]) (152ms)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540",Anmol TV (152ms [BDIX]) (152ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Anmol TV (152ms [BDIX]) (152ms [BDIX]) (152ms)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540",Anmol TV (152ms [BDIX]) (152ms [BDIX]) (152ms)
 https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="ASH TV (54ms [BDIX]) (54ms)" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/06/ASH-TV.jpg",ASH TV (54ms [BDIX]) (54ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="ASH TV (54ms [BDIX]) (54ms [BDIX]) (54ms)" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/06/ASH-TV.jpg",ASH TV (54ms [BDIX]) (54ms [BDIX]) (54ms)
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Asian TV (Server 1 - 46ms [BDIX]) (46ms)" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",Asian TV (Server 1 - 46ms [BDIX]) (46ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Asian TV (Server 1 - 46ms [BDIX]) (46ms [BDIX]) (46ms)" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",Asian TV (Server 1 - 46ms [BDIX]) (46ms [BDIX]) (46ms)
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Asian TV (Server 2 - 438ms [BDIX]) (438ms)" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",Asian TV (Server 2 - 438ms [BDIX]) (438ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Asian TV (Server 2 - 438ms [BDIX]) (438ms [BDIX]) (438ms)" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",Asian TV (Server 2 - 438ms [BDIX]) (438ms [BDIX]) (438ms)
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=e4293f68c5bc8aa8e6ac3e088ca754f4
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Asian TV (Server 3 - 608ms [BDIX]) (608ms)" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",Asian TV (Server 3 - 608ms [BDIX]) (608ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Asian TV (Server 3 - 608ms [BDIX]) (608ms [BDIX]) (608ms)" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",Asian TV (Server 3 - 608ms [BDIX]) (608ms [BDIX]) (608ms)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Assam Tals (181ms [BDIX]) (181ms)" tvg-logo="https://s3.aynaott.com/storage/e7d8cff366343b850d04a655c6fbf2ff",Assam Tals (181ms [BDIX]) (181ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Assam Tals (181ms [BDIX]) (181ms [BDIX]) (181ms)" tvg-logo="https://s3.aynaott.com/storage/e7d8cff366343b850d04a655c6fbf2ff",Assam Tals (181ms [BDIX]) (181ms [BDIX]) (181ms)
 https://tvsen7.aynaott.com/AssamTalks/index.m3u8?e=1779283888&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=00d6be9c7179c8b12fb13515e7ab2386
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="f7ef6919-d8e1-42da-8f34-ddd3364c27c1" tvg-name="f7ef6919-d8e1-42da-8f34-ddd3364c27c1" tvg-logo="https://s3.aynaott.com/storage/e7d8cff366343b850d04a655c6fbf2ff",Assam Tals (340ms [BDIX]) (340ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="f7ef6919-d8e1-42da-8f34-ddd3364c27c1" tvg-name="f7ef6919-d8e1-42da-8f34-ddd3364c27c1" tvg-logo="https://s3.aynaott.com/storage/e7d8cff366343b850d04a655c6fbf2ff",Assam Tals (340ms [BDIX]) (340ms [BDIX]) (340ms)
 https://tvsen7.aynaott.com/AssamTalks/index.m3u8?e=1784102635&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=c5ae931b66e2b3bb39f8dcc43ef2118d
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="ATNBangla.bd" tvg-name="ATNBangla.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/ATN_Bangla_logo.svg/330px-ATN_Bangla_logo.svg.png",ATN Bangla HD (Server 1 - 34ms [BDIX]) (34ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="ATNBangla.bd" tvg-name="ATNBangla.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/ATN_Bangla_logo.svg/330px-ATN_Bangla_logo.svg.png",ATN Bangla HD (Server 1 - 34ms [BDIX]) (34ms [BDIX]) (34ms)
 http://tvsen5.aynascope.net/atnbangla/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="ATNBangla.bd" tvg-name="ATNBangla.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/ATN_Bangla_logo.svg/330px-ATN_Bangla_logo.svg.png",ATN Bangla HD (Server 2 - 479ms [BDIX]) (479ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="ATNBangla.bd" tvg-name="ATNBangla.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/ATN_Bangla_logo.svg/330px-ATN_Bangla_logo.svg.png",ATN Bangla HD (Server 2 - 479ms [BDIX]) (479ms [BDIX]) (479ms)
 https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1784102561&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=a4c195d9bcdfa5daa8df1dfd6b28455b
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="ATNBangla.bd" tvg-name="ATNBangla.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/ATN_Bangla_logo.svg/330px-ATN_Bangla_logo.svg.png",ATN Bangla HD (Server 3 - 528ms [BDIX]) (528ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="ATNBangla.bd" tvg-name="ATNBangla.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/ATN_Bangla_logo.svg/330px-ATN_Bangla_logo.svg.png",ATN Bangla HD (Server 3 - 528ms [BDIX]) (528ms [BDIX]) (528ms)
 https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779283752&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e20058ae495a80a83ec09cb9d82b9253
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="BanglaTV.bd" tvg-name="BanglaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Bangla_TV_logo.svg/330px-Bangla_TV_logo.svg.png",Bangla TV HD (Server 1 - 17ms [BDIX]) (17ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="BanglaTV.bd" tvg-name="BanglaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Bangla_TV_logo.svg/330px-Bangla_TV_logo.svg.png",Bangla TV HD (Server 1 - 17ms [BDIX]) (17ms [BDIX]) (17ms)
 http://116.204.149.16/banglatv/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="BanglaTV.bd" tvg-name="BanglaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Bangla_TV_logo.svg/330px-Bangla_TV_logo.svg.png",Bangla TV HD (Server 3 - 423ms [BDIX]) (423ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="BanglaTV.bd" tvg-name="BanglaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Bangla_TV_logo.svg/330px-Bangla_TV_logo.svg.png",Bangla TV HD (Server 3 - 423ms [BDIX]) (423ms [BDIX]) (423ms)
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8?e=1784102569&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=fb1f6e0c49c7406611ea2bbd605ed275
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="Banglavision.bd" tvg-name="Banglavision.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Banglavision_logo.svg/330px-Banglavision_logo.svg.png",Banglavision HD (Server 1 - 42ms [BDIX]) (42ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="Banglavision.bd" tvg-name="Banglavision.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Banglavision_logo.svg/330px-Banglavision_logo.svg.png",Banglavision HD (Server 1 - 42ms [BDIX]) (42ms [BDIX]) (42ms)
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="Banglavision.bd" tvg-name="Banglavision.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Banglavision_logo.svg/330px-Banglavision_logo.svg.png",Banglavision HD (Server 2 - 46ms [BDIX]) (46ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="Banglavision.bd" tvg-name="Banglavision.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Banglavision_logo.svg/330px-Banglavision_logo.svg.png",Banglavision HD (Server 2 - 46ms [BDIX]) (46ms [BDIX]) (46ms)
 https://tvsen5.aynaott.com/banglavision/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="Banglavision.bd" tvg-name="Banglavision.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Banglavision_logo.svg/330px-Banglavision_logo.svg.png",Banglavision HD (Server 4 - 485ms [BDIX]) (485ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="Banglavision.bd" tvg-name="Banglavision.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Banglavision_logo.svg/330px-Banglavision_logo.svg.png",Banglavision HD (Server 4 - 485ms [BDIX]) (485ms [BDIX]) (485ms)
 https://tvsen5.aynaott.com/banglavision/index.m3u8?e=1784102560&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ddcd867c4b5ff4b8041ee4e513423464
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="BijoyTV.bd" tvg-name="BijoyTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Bijoy_TV_logo.svg/330px-Bijoy_TV_logo.svg.png",Bijoy TV HD (Server 2 - 375ms [BDIX]) (375ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="BijoyTV.bd" tvg-name="BijoyTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Bijoy_TV_logo.svg/330px-Bijoy_TV_logo.svg.png",Bijoy TV HD (Server 2 - 375ms [BDIX]) (375ms [BDIX]) (375ms)
 https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8?e=1784102572&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=e11a2b199c36c7359982e55ec018196d
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="92890d5c-473a-454c-ad10-2c6c0c91062a" tvg-name="92890d5c-473a-454c-ad10-2c6c0c91062a" tvg-logo="https://s3.aynaott.com/storage/58658d4594ca1ff3c5031c9d8e3d9fc0",Boishahi TV (Server 1 - 225ms [BDIX]) (225ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="92890d5c-473a-454c-ad10-2c6c0c91062a" tvg-name="92890d5c-473a-454c-ad10-2c6c0c91062a" tvg-logo="https://s3.aynaott.com/storage/58658d4594ca1ff3c5031c9d8e3d9fc0",Boishahi TV (Server 1 - 225ms [BDIX]) (225ms [BDIX]) (225ms)
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="92890d5c-473a-454c-ad10-2c6c0c91062a" tvg-name="92890d5c-473a-454c-ad10-2c6c0c91062a" tvg-logo="https://s3.aynaott.com/storage/58658d4594ca1ff3c5031c9d8e3d9fc0",Boishahi TV (Server 3 - 422ms [BDIX]) (422ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="92890d5c-473a-454c-ad10-2c6c0c91062a" tvg-name="92890d5c-473a-454c-ad10-2c6c0c91062a" tvg-logo="https://s3.aynaott.com/storage/58658d4594ca1ff3c5031c9d8e3d9fc0",Boishahi TV (Server 3 - 422ms [BDIX]) (422ms [BDIX]) (422ms)
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8?e=1784102570&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=04a0e9e55654c1f01a51941732d5fe10
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="Bollywood OLD" tvg-name="Bollywood OLD",Bollywood OLD (44ms [BDIX]) (44ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="Bollywood OLD" tvg-name="Bollywood OLD" tvg-logo="https://i.imgur.com/WpMA9kC.png",Bollywood OLD (44ms [BDIX]) (44ms [BDIX]) (44ms)
 https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="BTV Chattogram (218ms [BDIX]) (218ms)",BTV Chattogram (218ms [BDIX]) (218ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="BTV Chattogram (218ms [BDIX]) (218ms [BDIX]) (218ms)" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/btv.png",BTV Chattogram (218ms [BDIX]) (218ms [BDIX]) (218ms)
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="BTV Chattogram.tv" tvg-name="BTV Chattogram.tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/BTV_Chattogram_Logo.svg",BTV CHITTAGONG (37ms [BDIX]) (37ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="BTV Chattogram.tv" tvg-name="BTV Chattogram.tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/BTV_Chattogram_Logo.svg",BTV CHITTAGONG (37ms [BDIX]) (37ms [BDIX]) (37ms)
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-logo="https://s3.aynaott.com/storage/00da8a07fb26b2fb79359ee535e4c7bc",BTV CTG (376ms [BDIX]) (376ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-logo="https://s3.aynaott.com/storage/00da8a07fb26b2fb79359ee535e4c7bc",BTV CTG (376ms [BDIX]) (376ms [BDIX]) (376ms)
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8?e=1784102576&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=901c0ca2f1ba54041a543dce43641c12
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="btv.bd" tvg-name="btv.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Bangladesh_Television_Logo_1971_Alt.svg",BTV HD (50ms [BDIX]) (50ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="btv.bd" tvg-name="btv.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Bangladesh_Television_Logo_1971_Alt.svg",BTV HD (50ms [BDIX]) (50ms [BDIX]) (50ms)
 http://103.135.253.32:8080/BTV/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="CGTN Documentary English %8 (81ms [BDIX]) (81ms)" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary English %8 (81ms [BDIX]) (81ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="CGTN Documentary English %8 (81ms [BDIX]) (81ms [BDIX]) (81ms)" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary English %8 (81ms [BDIX]) (81ms [BDIX]) (81ms)
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="CGTN Français (36ms [BDIX]) (36ms)" tvg-logo="https://i.imgur.com/fMsJYzl.png",CGTN Français (36ms [BDIX]) (36ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="CGTN Français (36ms [BDIX]) (36ms [BDIX]) (36ms)" tvg-logo="https://i.imgur.com/fMsJYzl.png",CGTN Français (36ms [BDIX]) (36ms [BDIX]) (36ms)
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="CGTN P%3%1%1%A%8%9 (35ms [BDIX]) (35ms)" tvg-logo="https://i.imgur.com/fMsJYzl.png",CGTN P%3%1%1%A%8%9 (35ms [BDIX]) (35ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="CGTN P%3%1%1%A%8%9 (35ms [BDIX]) (35ms [BDIX]) (35ms)" tvg-logo="https://i.imgur.com/fMsJYzl.png",CGTN P%3%1%1%A%8%9 (35ms [BDIX]) (35ms [BDIX]) (35ms)
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="Channeli.bd" tvg-name="Channeli.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Channel_i_logo.svg/330px-Channel_i_logo.svg.png",Channel i HD (Server 2 - 209ms [BDIX]) (209ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="Channeli.bd" tvg-name="Channeli.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Channel_i_logo.svg/330px-Channel_i_logo.svg.png",Channel i HD (Server 2 - 209ms [BDIX]) (209ms [BDIX]) (209ms)
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="Channeli.bd" tvg-name="Channeli.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Channel_i_logo.svg/330px-Channel_i_logo.svg.png",Channel i HD (Server 4 - 413ms [BDIX]) (413ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="Channeli.bd" tvg-name="Channeli.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Channel_i_logo.svg/330px-Channel_i_logo.svg.png",Channel i HD (Server 4 - 413ms [BDIX]) (413ms [BDIX]) (413ms)
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8?e=1784102558&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=1b6ef0107d8addd36bcab3ca1175877a
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="CHANNEL S (Server 1 - 45ms [BDIX]) (45ms)" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/chsbd.jpg",CHANNEL S (Server 1 - 45ms [BDIX]) (45ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="CHANNEL S (Server 1 - 45ms [BDIX]) (45ms [BDIX]) (45ms)" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/chsbd.jpg",CHANNEL S (Server 1 - 45ms [BDIX]) (45ms [BDIX]) (45ms)
 http://103.135.253.32:8080/Channel-S/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="CNBC TV (430ms [BDIX]) (430ms)" tvg-logo="https://s3.aynaott.com/storage/16a213d06e7362d97cb6085e70c9b5a2",CNBC TV (430ms [BDIX]) (430ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="CNBC TV (430ms [BDIX]) (430ms [BDIX]) (430ms)" tvg-logo="https://s3.aynaott.com/storage/16a213d06e7362d97cb6085e70c9b5a2",CNBC TV (430ms [BDIX]) (430ms [BDIX]) (430ms)
 https://tvsen6.aynaott.com/cnbc/index.m3u8?e=1779283878&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c2df62f70129f9cc7e25ecbdc050b59b
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="ColorsTV.in" tvg-name="ColorsTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Colors_TV_logo.svg/330px-Colors_TV_logo.svg.png",Colors HD (Server 1 - 54ms [BDIX]) (54ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="ColorsTV.in" tvg-name="ColorsTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Colors_TV_logo.svg/330px-Colors_TV_logo.svg.png",Colors HD (Server 1 - 54ms [BDIX]) (54ms [BDIX]) (54ms)
 http://103.151.60.162:2122/play/a02q/index.m3u8?hls
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Colors Infinity HD (104ms [BDIX]) (104ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",Colors Infinity HD (104ms [BDIX]) (104ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Colors Infinity HD (104ms [BDIX]) (104ms [BDIX]) (104ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",Colors Infinity HD (104ms [BDIX]) (104ms [BDIX]) (104ms)
 http://103.151.60.162:2122/play/a02r/index.m3u8?hls
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="56217203-21d2-4ca8-af74-b5b037a6f7f0" tvg-name="56217203-21d2-4ca8-af74-b5b037a6f7f0" tvg-logo="https://s3.aynaott.com/storage/cb1c3e153b951760fb0396cd27b8a715",Dangal (Server 2 - 409ms [BDIX]) (409ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="56217203-21d2-4ca8-af74-b5b037a6f7f0" tvg-name="56217203-21d2-4ca8-af74-b5b037a6f7f0" tvg-logo="https://s3.aynaott.com/storage/cb1c3e153b951760fb0396cd27b8a715",Dangal (Server 2 - 409ms [BDIX]) (409ms [BDIX]) (409ms)
 https://tvsen6.aynaott.com/uS9QwrbB/index.m3u8?e=1784102594&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=1f2a210560b673b66b0d398f2d6fc2fd
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="DeeptoTV.bd" tvg-name="DeeptoTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Deepto_TV_logo.svg/330px-Deepto_TV_logo.svg.png",Deepto TV HD (Server 1 - 46ms [BDIX]) (46ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="DeeptoTV.bd" tvg-name="DeeptoTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Deepto_TV_logo.svg/330px-Deepto_TV_logo.svg.png",Deepto TV HD (Server 1 - 46ms [BDIX]) (46ms [BDIX]) (46ms)
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="DeeptoTV.bd" tvg-name="DeeptoTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Deepto_TV_logo.svg/330px-Deepto_TV_logo.svg.png",Deepto TV HD (Server 2 - 483ms [BDIX]) (483ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="DeeptoTV.bd" tvg-name="DeeptoTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Deepto_TV_logo.svg/330px-Deepto_TV_logo.svg.png",Deepto TV HD (Server 2 - 483ms [BDIX]) (483ms [BDIX]) (483ms)
 https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8?e=1784102563&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=89a6bfdee0a7ecb358080b2c44f18b41
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="DeshTV.bd" tvg-name="DeshTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Desh_TV_logo.svg/330px-Desh_TV_logo.svg.png",Desh TV HD (Server 1 - 228ms [BDIX]) (228ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="DeshTV.bd" tvg-name="DeshTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Desh_TV_logo.svg/330px-Desh_TV_logo.svg.png",Desh TV HD (Server 1 - 228ms [BDIX]) (228ms [BDIX]) (228ms)
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="DeshTV.bd" tvg-name="DeshTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Desh_TV_logo.svg/330px-Desh_TV_logo.svg.png",Desh TV HD (Server 2 - 423ms [BDIX]) (423ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="DeshTV.bd" tvg-name="DeshTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Desh_TV_logo.svg/330px-Desh_TV_logo.svg.png",Desh TV HD (Server 2 - 423ms [BDIX]) (423ms [BDIX]) (423ms)
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8?e=1784102570&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=78b23c868a34420397be9c985d04db9b
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="DeshTV.bd" tvg-name="DeshTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Desh_TV_logo.svg/330px-Desh_TV_logo.svg.png",Desh TV HD (Server 3 - 654ms [BDIX]) (654ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="DeshTV.bd" tvg-name="DeshTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Desh_TV_logo.svg/330px-Desh_TV_logo.svg.png",Desh TV HD (Server 3 - 654ms [BDIX]) (654ms [BDIX]) (654ms)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="353f1b20-3f65-4477-8251-6c3c58a3a12e" tvg-name="353f1b20-3f65-4477-8251-6c3c58a3a12e" tvg-logo="https://s3.aynaott.com/storage/f4edcca7247bbb4a263a51d7ebb82282",Dhinchaa (410ms [BDIX]) (410ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="353f1b20-3f65-4477-8251-6c3c58a3a12e" tvg-name="353f1b20-3f65-4477-8251-6c3c58a3a12e" tvg-logo="https://s3.aynaott.com/storage/f4edcca7247bbb4a263a51d7ebb82282",Dhinchaa (410ms [BDIX]) (410ms [BDIX]) (410ms)
 https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8?e=1784102597&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=18f202477e23fba0f1d6d5e94ac5c4f3
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Eattor TV (187ms [BDIX]) (187ms)",Eattor TV (187ms [BDIX]) (187ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Eattor TV (187ms [BDIX]) (187ms [BDIX]) (187ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Eattor TV (187ms [BDIX]) (187ms [BDIX]) (187ms)
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="0579659b-2854-40d1-ad6a-69b70641ad17" tvg-name="0579659b-2854-40d1-ad6a-69b70641ad17" tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc",Ehon TV (Server 1 - 226ms [BDIX]) (226ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="0579659b-2854-40d1-ad6a-69b70641ad17" tvg-name="0579659b-2854-40d1-ad6a-69b70641ad17" tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc",Ehon TV (Server 1 - 226ms [BDIX]) (226ms [BDIX]) (226ms)
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="0579659b-2854-40d1-ad6a-69b70641ad17" tvg-name="0579659b-2854-40d1-ad6a-69b70641ad17" tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc",Ehon TV (Server 2 - 440ms [BDIX]) (440ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="0579659b-2854-40d1-ad6a-69b70641ad17" tvg-name="0579659b-2854-40d1-ad6a-69b70641ad17" tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc",Ehon TV (Server 2 - 440ms [BDIX]) (440ms [BDIX]) (440ms)
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8?e=1784102563&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=b5e80a73380863be907284374bdb2bda
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Enter10 Bangla (57ms [BDIX]) (57ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLCSvEmAvqf0bXOPUrlifqT-jejbZcRnqHlfPvhBTvYGxMy1mbIr527uZz5qKJyMcDt8RyH8z_3zrNNcS80bs_IDGl2SvsxQfaKVjk7L55blRjuI5z-koVFxYccyYpU1ZnHDH9dmAASP227AADBF9RrnzXyL1C83gOmExVccG-xBnqIzaOwokZTuKGhw/s1080/1000021570.png",Enter10 Bangla (57ms [BDIX]) (57ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Enter10 Bangla (57ms [BDIX]) (57ms [BDIX]) (57ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLCSvEmAvqf0bXOPUrlifqT-jejbZcRnqHlfPvhBTvYGxMy1mbIr527uZz5qKJyMcDt8RyH8z_3zrNNcS80bs_IDGl2SvsxQfaKVjk7L55blRjuI5z-koVFxYccyYpU1ZnHDH9dmAASP227AADBF9RrnzXyL1C83gOmExVccG-xBnqIzaOwokZTuKGhw/s1080/1000021570.png",Enter10 Bangla (57ms [BDIX]) (57ms [BDIX]) (57ms)
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Epic Parivar (69ms [BDIX]) (69ms)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVZH.png?lock=720x540",Epic Parivar (69ms [BDIX]) (69ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Epic Parivar (69ms [BDIX]) (69ms [BDIX]) (69ms)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVZH.png?lock=720x540",Epic Parivar (69ms [BDIX]) (69ms [BDIX]) (69ms)
 http://103.151.60.162:2122/play/a01p/index.m3u8?hls
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-logo="https://s3.aynaott.com/storage/8a1af81802b0728c064c2adabcdc72c8",ETV (441ms [BDIX]) (441ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-logo="https://s3.aynaott.com/storage/8a1af81802b0728c064c2adabcdc72c8",ETV (441ms [BDIX]) (441ms [BDIX]) (441ms)
 https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8?e=1784102562&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7e70b215021d5b63d625a677bec65a1d
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Eushe ETV (141ms [BDIX]) (141ms)",Eushe ETV (141ms [BDIX]) (141ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Eushe ETV (141ms [BDIX]) (141ms [BDIX]) (141ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Eushe ETV (141ms [BDIX]) (141ms [BDIX]) (141ms)
 https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Eushey TV (68ms [BDIX]) (68ms)" tvg-logo="https://i.postimg.cc/L6R2F0jj/20250529_105209.png",Eushey TV (68ms [BDIX]) (68ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Eushey TV (68ms [BDIX]) (68ms [BDIX]) (68ms)" tvg-logo="https://i.postimg.cc/L6R2F0jj/20250529_105209.png",Eushey TV (68ms [BDIX]) (68ms [BDIX]) (68ms)
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Eushey TV (Server 1 - 34ms [BDIX]) (34ms)",Eushey TV (Server 1 - 34ms [BDIX]) (34ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Eushey TV (Server 1 - 34ms [BDIX]) (34ms [BDIX]) (34ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Eushey TV (Server 1 - 34ms [BDIX]) (34ms [BDIX]) (34ms)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?@ShamimHossainOfficial
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Eushey TV (Server 2 - 77ms [BDIX]) (77ms)",Eushey TV (Server 2 - 77ms [BDIX]) (77ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Eushey TV (Server 2 - 77ms [BDIX]) (77ms [BDIX]) (77ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Eushey TV (Server 2 - 77ms [BDIX]) (77ms [BDIX]) (77ms)
 https://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?@ShamimHossainOfficial
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="G-Series (39ms [BDIX]) (39ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRVFdWp9xwlb_aBt92V8P8V52hyphenhyphen0Kn2Qz8ge4cbaijlKQdH86RXexTJrvskKsSVMrLbDaLsRwFSK7VdFzdYd9u2FhdHs6o3erPlx9NehopiqcH2tK9ApMNlavhZYLVx2WhpUhpm0efu4OxgVDTYTIZeBi59t5bK9kJHEKtfgoSzC2lNVABB2TMvbiB1w/s600/Nur_20251219_134007_0000.png",G-Series (39ms [BDIX]) (39ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="G-Series (39ms [BDIX]) (39ms [BDIX]) (39ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRVFdWp9xwlb_aBt92V8P8V52hyphenhyphen0Kn2Qz8ge4cbaijlKQdH86RXexTJrvskKsSVMrLbDaLsRwFSK7VdFzdYd9u2FhdHs6o3erPlx9NehopiqcH2tK9ApMNlavhZYLVx2WhpUhpm0efu4OxgVDTYTIZeBi59t5bK9kJHEKtfgoSzC2lNVABB2TMvbiB1w/s600/Nur_20251219_134007_0000.png",G-Series (39ms [BDIX]) (39ms [BDIX]) (39ms)
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Global TV (Server 1 - 186ms [BDIX]) (186ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXMpIa-Ckqus5ll5uOh9vNZc7_ekC8gzp47_m9tSLqe3KbPGpr2kWhELxLHj-d25HSOh_ys__QnM1ccCK7x_1jeO8KWWj6sg6cZP3u0hJD9QS9nEdWrCCF9qU21nekj758dLm9yaBF9Qw8jxVtY5uuANki_WjX9kEui7iBGf9bpdzCLW1kuodOUTJ5lA/s600/Nur_20251227_140413_0000.png",Global TV (Server 1 - 186ms [BDIX]) (186ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Global TV (Server 1 - 186ms [BDIX]) (186ms [BDIX]) (186ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXMpIa-Ckqus5ll5uOh9vNZc7_ekC8gzp47_m9tSLqe3KbPGpr2kWhELxLHj-d25HSOh_ys__QnM1ccCK7x_1jeO8KWWj6sg6cZP3u0hJD9QS9nEdWrCCF9qU21nekj758dLm9yaBF9Qw8jxVtY5uuANki_WjX9kEui7iBGf9bpdzCLW1kuodOUTJ5lA/s600/Nur_20251227_140413_0000.png",Global TV (Server 1 - 186ms [BDIX]) (186ms [BDIX]) (186ms)
 https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Global TV (Server 2 - 379ms [BDIX]) (379ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXMpIa-Ckqus5ll5uOh9vNZc7_ekC8gzp47_m9tSLqe3KbPGpr2kWhELxLHj-d25HSOh_ys__QnM1ccCK7x_1jeO8KWWj6sg6cZP3u0hJD9QS9nEdWrCCF9qU21nekj758dLm9yaBF9Qw8jxVtY5uuANki_WjX9kEui7iBGf9bpdzCLW1kuodOUTJ5lA/s600/Nur_20251227_140413_0000.png",Global TV (Server 2 - 379ms [BDIX]) (379ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Global TV (Server 2 - 379ms [BDIX]) (379ms [BDIX]) (379ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXMpIa-Ckqus5ll5uOh9vNZc7_ekC8gzp47_m9tSLqe3KbPGpr2kWhELxLHj-d25HSOh_ys__QnM1ccCK7x_1jeO8KWWj6sg6cZP3u0hJD9QS9nEdWrCCF9qU21nekj758dLm9yaBF9Qw8jxVtY5uuANki_WjX9kEui7iBGf9bpdzCLW1kuodOUTJ5lA/s600/Nur_20251227_140413_0000.png",Global TV (Server 2 - 379ms [BDIX]) (379ms [BDIX]) (379ms)
 https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8?e=1784102573&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3b36e6e9d0ee3e8ec8ddd9a8c61acf71
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Global TV (Server 3 - 627ms [BDIX]) (627ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXMpIa-Ckqus5ll5uOh9vNZc7_ekC8gzp47_m9tSLqe3KbPGpr2kWhELxLHj-d25HSOh_ys__QnM1ccCK7x_1jeO8KWWj6sg6cZP3u0hJD9QS9nEdWrCCF9qU21nekj758dLm9yaBF9Qw8jxVtY5uuANki_WjX9kEui7iBGf9bpdzCLW1kuodOUTJ5lA/s600/Nur_20251227_140413_0000.png",Global TV (Server 3 - 627ms [BDIX]) (627ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Global TV (Server 3 - 627ms [BDIX]) (627ms [BDIX]) (627ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXMpIa-Ckqus5ll5uOh9vNZc7_ekC8gzp47_m9tSLqe3KbPGpr2kWhELxLHj-d25HSOh_ys__QnM1ccCK7x_1jeO8KWWj6sg6cZP3u0hJD9QS9nEdWrCCF9qU21nekj758dLm9yaBF9Qw8jxVtY5uuANki_WjX9kEui7iBGf9bpdzCLW1kuodOUTJ5lA/s600/Nur_20251227_140413_0000.png",Global TV (Server 3 - 627ms [BDIX]) (627ms [BDIX]) (627ms)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="ae87cbb4-8054-41e5-99ee-df09d9e0ac5e" tvg-name="ae87cbb4-8054-41e5-99ee-df09d9e0ac5e" tvg-logo="https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d",Green TV HD (321ms [BDIX]) (321ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="ae87cbb4-8054-41e5-99ee-df09d9e0ac5e" tvg-name="ae87cbb4-8054-41e5-99ee-df09d9e0ac5e" tvg-logo="https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d",Green TV HD (321ms [BDIX]) (321ms [BDIX]) (321ms)
 https://tvsen6.aynaott.com/cLuA3hJR/index.m3u8?e=1784102650&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=4611739ee78a2cc302c5eb6c7e0ec1d9
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="ae87cbb4-8054-41e5-99ee-df09d9e0ac5e" tvg-name="ae87cbb4-8054-41e5-99ee-df09d9e0ac5e" tvg-logo="https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d",Green TV HD (355ms [BDIX]) (355ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="ae87cbb4-8054-41e5-99ee-df09d9e0ac5e" tvg-name="ae87cbb4-8054-41e5-99ee-df09d9e0ac5e" tvg-logo="https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d",Green TV HD (355ms [BDIX]) (355ms [BDIX]) (355ms)
 https://tvsen6.aynaott.com/cLuA3hJR/index.m3u8?e=1784102578&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=57bcdefd396bd85d72461ff29cbde00d
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="MaasrangaTV.bd" tvg-name="MaasrangaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Maasranga_Television_logo.svg/330px-Maasranga_Television_logo.svg.png",Maasranga TV HD (Server 1 - 258ms [BDIX]) (258ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="MaasrangaTV.bd" tvg-name="MaasrangaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Maasranga_Television_logo.svg/330px-Maasranga_Television_logo.svg.png",Maasranga TV HD (Server 1 - 258ms [BDIX]) (258ms [BDIX]) (258ms)
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="MaasrangaTV.bd" tvg-name="MaasrangaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Maasranga_Television_logo.svg/330px-Maasranga_Television_logo.svg.png",Maasranga TV HD (Server 3 - 479ms [BDIX]) (479ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="MaasrangaTV.bd" tvg-name="MaasrangaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Maasranga_Television_logo.svg/330px-Maasranga_Television_logo.svg.png",Maasranga TV HD (Server 3 - 479ms [BDIX]) (479ms [BDIX]) (479ms)
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8?e=1784102562&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=2044540ee613d44b1175f2885b2ab1ee
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="MaasrangaTV.bd" tvg-name="MaasrangaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Maasranga_Television_logo.svg/330px-Maasranga_Television_logo.svg.png",Maasranga TV HD (Server 4 - 517ms [BDIX]) (517ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="MaasrangaTV.bd" tvg-name="MaasrangaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Maasranga_Television_logo.svg/330px-Maasranga_Television_logo.svg.png",Maasranga TV HD (Server 4 - 517ms [BDIX]) (517ms [BDIX]) (517ms)
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8?e=1779283753&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d29aadd6d2d6f7a0a28fabc7830ae6e3
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="32acaaeb-2b3b-4979-98d9-b45deecde3ec" tvg-name="32acaaeb-2b3b-4979-98d9-b45deecde3ec" tvg-logo="https://s3.aynaott.com/storage/813fca9bc7df9a4810efe2eb87c57039",MADANI TV (454ms [BDIX]) (454ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="32acaaeb-2b3b-4979-98d9-b45deecde3ec" tvg-name="32acaaeb-2b3b-4979-98d9-b45deecde3ec" tvg-logo="https://s3.aynaott.com/storage/813fca9bc7df9a4810efe2eb87c57039",MADANI TV (454ms [BDIX]) (454ms [BDIX]) (454ms)
 https://tvsen7.aynaott.com/MadaniTV/index.m3u8?e=1784102568&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=53ed67e964fe885411421a49f01856fb
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-name="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92",Mohona TV (Server 1 - 39ms [BDIX]) (39ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-name="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92",Mohona TV (Server 1 - 39ms [BDIX]) (39ms [BDIX]) (39ms)
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-name="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92",Mohona TV (Server 2 - 386ms [BDIX]) (386ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-name="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92",Mohona TV (Server 2 - 386ms [BDIX]) (386ms [BDIX]) (386ms)
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8?e=1784102571&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=8b1f5c5cb085762a45bd961bb900f98a
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="MY TV (Server 1 - 113ms [BDIX]) (113ms)" tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529_103226.png",MY TV (Server 1 - 113ms [BDIX]) (113ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="MY TV (Server 1 - 113ms [BDIX]) (113ms [BDIX]) (113ms)" tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529_103226.png",MY TV (Server 1 - 113ms [BDIX]) (113ms [BDIX]) (113ms)
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="MY TV (Server 2 - 380ms [BDIX]) (380ms)" tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529_103226.png",MY TV (Server 2 - 380ms [BDIX]) (380ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="MY TV (Server 2 - 380ms [BDIX]) (380ms [BDIX]) (380ms)" tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529_103226.png",MY TV (Server 2 - 380ms [BDIX]) (380ms [BDIX]) (380ms)
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8?e=1784102573&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ae3f9c12e1d065b5ae78d27fb2e192fc
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="MY TV (Server 3 - 671ms [BDIX]) (671ms)" tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529_103226.png",MY TV (Server 3 - 671ms [BDIX]) (671ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="MY TV (Server 3 - 671ms [BDIX]) (671ms [BDIX]) (671ms)" tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529_103226.png",MY TV (Server 3 - 671ms [BDIX]) (671ms [BDIX]) (671ms)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Nexus Television (611ms [BDIX]) (611ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitq58axdbCfGNK8qnGYe7NLyrBUvXyrKC6Ecv8Tz1lAm92MameWti_mim2e6PRquP9dhudYb7k0CqmMmVqrFGVXYV5xzbaNoi07uK3C-Xqz78BNSstr0Q0tRBsrj1V2GXRnNg_jL_iGObQ3FsRUDOBL7AQBsU-85f5gTslDC7oJPHF6z_Rkv9WgIl4Nw/s600/Nur_20251226_221102_0000.png",Nexus Television (611ms [BDIX]) (611ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Nexus Television (611ms [BDIX]) (611ms [BDIX]) (611ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitq58axdbCfGNK8qnGYe7NLyrBUvXyrKC6Ecv8Tz1lAm92MameWti_mim2e6PRquP9dhudYb7k0CqmMmVqrFGVXYV5xzbaNoi07uK3C-Xqz78BNSstr0Q0tRBsrj1V2GXRnNg_jL_iGObQ3FsRUDOBL7AQBsU-85f5gTslDC7oJPHF6z_Rkv9WgIl4Nw/s600/Nur_20251226_221102_0000.png",Nexus Television (611ms [BDIX]) (611ms [BDIX]) (611ms)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Nexus TV (230ms [BDIX]) (230ms)",Nexus TV (230ms [BDIX]) (230ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Nexus TV (230ms [BDIX]) (230ms [BDIX]) (230ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Nexus TV (230ms [BDIX]) (230ms [BDIX]) (230ms)
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" tvg-name="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" tvg-logo="https://s3.aynaott.com/storage/90635c3edf6e3c8dd92210b7248f1fa0",NEXUS TV (382ms [BDIX]) (382ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" tvg-name="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" tvg-logo="https://s3.aynaott.com/storage/90635c3edf6e3c8dd92210b7248f1fa0",NEXUS TV (382ms [BDIX]) (382ms [BDIX]) (382ms)
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8?e=1784102571&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=61db2452abffc778eb75333c98c136a2
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="NTV.bd" tvg-name="NTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/NTV_logo.svg/330px-NTV_logo.svg.png",NTV HD (Server 1 - 45ms [BDIX]) (45ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="NTV.bd" tvg-name="NTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/NTV_logo.svg/330px-NTV_logo.svg.png",NTV HD (Server 1 - 45ms [BDIX]) (45ms [BDIX]) (45ms)
 https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="NTV.bd" tvg-name="NTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/NTV_logo.svg/330px-NTV_logo.svg.png",NTV HD (Server 2 - 127ms [BDIX]) (127ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="NTV.bd" tvg-name="NTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/NTV_logo.svg/330px-NTV_logo.svg.png",NTV HD (Server 2 - 127ms [BDIX]) (127ms [BDIX]) (127ms)
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="NTV.bd" tvg-name="NTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/NTV_logo.svg/330px-NTV_logo.svg.png",NTV HD (Server 3 - 258ms [BDIX]) (258ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="NTV.bd" tvg-name="NTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/NTV_logo.svg/330px-NTV_logo.svg.png",NTV HD (Server 3 - 258ms [BDIX]) (258ms [BDIX]) (258ms)
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="NTV.bd" tvg-name="NTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/NTV_logo.svg/330px-NTV_logo.svg.png",NTV HD (Server 4 - 482ms [BDIX]) (482ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="NTV.bd" tvg-name="NTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/NTV_logo.svg/330px-NTV_logo.svg.png",NTV HD (Server 4 - 482ms [BDIX]) (482ms [BDIX]) (482ms)
 https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/index.m3u8?e=1784102559&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d26add1c49d848c9199b708427134979
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="262789f8-92af-4738-986c-c5deafeef997" tvg-name="262789f8-92af-4738-986c-c5deafeef997" tvg-logo="https://s3.aynaott.com/storage/c355110e9cbebd89649a95f0f0fd77da",olata TV (294ms [BDIX]) (294ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="262789f8-92af-4738-986c-c5deafeef997" tvg-name="262789f8-92af-4738-986c-c5deafeef997" tvg-logo="https://s3.aynaott.com/storage/c355110e9cbebd89649a95f0f0fd77da",olata TV (294ms [BDIX]) (294ms [BDIX]) (294ms)
 https://tvsen6.aynaott.com/kolkatatv/index.m3u8?e=1784102634&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7dd61eff112afc871fa5ff030faacde9
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="olata TV (359ms [BDIX]) (359ms)" tvg-logo="https://s3.aynaott.com/storage/c355110e9cbebd89649a95f0f0fd77da",olata TV (359ms [BDIX]) (359ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="olata TV (359ms [BDIX]) (359ms [BDIX]) (359ms)" tvg-logo="https://s3.aynaott.com/storage/c355110e9cbebd89649a95f0f0fd77da",olata TV (359ms [BDIX]) (359ms [BDIX]) (359ms)
 https://tvsen6.aynaott.com/kolkatatv/index.m3u8?e=1779283837&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8cc8bac4fecb91a1f2e5443bbc180545
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="RDS Social TV (Server 1 - 348ms [BDIX]) (348ms)" tvg-logo="https://s3.aynaott.com/storage/f1fbcbc6cd325f5324eabb3bc733584e",RDS Social TV (Server 1 - 348ms [BDIX]) (348ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="RDS Social TV (Server 1 - 348ms [BDIX]) (348ms [BDIX]) (348ms)" tvg-logo="https://s3.aynaott.com/storage/f1fbcbc6cd325f5324eabb3bc733584e",RDS Social TV (Server 1 - 348ms [BDIX]) (348ms [BDIX]) (348ms)
 https://tvsen6.aynaott.com/RDSSocialTV/index.m3u8?e=1784102624&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=1ac300264468f2f6fe391b1cac109e95
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="RDS Social TV (Server 2 - 374ms [BDIX]) (374ms)" tvg-logo="https://s3.aynaott.com/storage/f1fbcbc6cd325f5324eabb3bc733584e",RDS Social TV (Server 2 - 374ms [BDIX]) (374ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="RDS Social TV (Server 2 - 374ms [BDIX]) (374ms [BDIX]) (374ms)" tvg-logo="https://s3.aynaott.com/storage/f1fbcbc6cd325f5324eabb3bc733584e",RDS Social TV (Server 2 - 374ms [BDIX]) (374ms [BDIX]) (374ms)
 https://tvsen6.aynaott.com/RDSSocialTV/index.m3u8?e=1779283862&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fbef4d16f6abea87ad32acccd9c2a28c
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="RTV.bd" tvg-name="RTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Rtv_logo.svg/330px-Rtv_logo.svg.png",Rtv HD (Server 1 - 48ms [BDIX]) (48ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="RTV.bd" tvg-name="RTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Rtv_logo.svg/330px-Rtv_logo.svg.png",Rtv HD (Server 1 - 48ms [BDIX]) (48ms [BDIX]) (48ms)
 https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="Rupasi Bangla" tvg-name="Rupasi Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Ruposhi_Bangla_new.jpeg",Ruposhi Bangla (520ms [BDIX]) (520ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="Rupasi Bangla" tvg-name="Rupasi Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Ruposhi_Bangla_new.jpeg",Ruposhi Bangla (520ms [BDIX]) (520ms [BDIX]) (520ms)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3",SA TV (Server 1 - 109ms [BDIX]) (109ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3",SA TV (Server 1 - 109ms [BDIX]) (109ms [BDIX]) (109ms)
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3",SA TV (Server 2 - 440ms [BDIX]) (440ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3",SA TV (Server 2 - 440ms [BDIX]) (440ms [BDIX]) (440ms)
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8?e=1784102564&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ed25297bf867135d78cb6ad3e1c2b495
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Sananda TV (Server 1 - 65ms [BDIX]) (65ms)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Sananda_TV_logo.jpeg",Sananda TV (Server 1 - 65ms [BDIX]) (65ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Sananda TV (Server 1 - 65ms [BDIX]) (65ms [BDIX]) (65ms)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Sananda_TV_logo.jpeg",Sananda TV (Server 1 - 65ms [BDIX]) (65ms [BDIX]) (65ms)
 https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Shisha TV (2954ms [BDIX]) (2954ms)" tvg-logo="https://play-lh.googleusercontent.com/1ibQhkMCsnXaI9LOiZH-Iyw8rM8CMVJEZAlbFphWuZApSPIp-eZsjltDlN6rqJzIonQ",Shisha TV (2954ms [BDIX]) (2954ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Shisha TV (2954ms [BDIX]) (2954ms [BDIX]) (2954ms)" tvg-logo="https://play-lh.googleusercontent.com/1ibQhkMCsnXaI9LOiZH-Iyw8rM8CMVJEZAlbFphWuZApSPIp-eZsjltDlN6rqJzIonQ",Shisha TV (2954ms [BDIX]) (2954ms [BDIX]) (2954ms)
 http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Sony Entertainment Television (83ms [BDIX]) (83ms)" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png?lock=720x540",Sony Entertainment Television (83ms [BDIX]) (83ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Sony Entertainment Television (83ms [BDIX]) (83ms [BDIX]) (83ms)" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png?lock=720x540",Sony Entertainment Television (83ms [BDIX]) (83ms [BDIX]) (83ms)
 http://103.151.60.162:2122/play/a015/index.m3u8?hls
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="SonySAB.in" tvg-name="SonySAB.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Sony_SAB_logo.svg/330px-Sony_SAB_logo.svg.png",Sony SAB HD (182ms [BDIX]) (182ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="SonySAB.in" tvg-name="SonySAB.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Sony_SAB_logo.svg/330px-Sony_SAB_logo.svg.png",Sony SAB HD (182ms [BDIX]) (182ms [BDIX]) (182ms)
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Superhitz (87ms [BDIX]) (87ms)" tvg-logo="https://i.imgur.com/aRNBvTU.png",Superhitz (87ms [BDIX]) (87ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Superhitz (87ms [BDIX]) (87ms [BDIX]) (87ms)" tvg-logo="https://i.imgur.com/aRNBvTU.png",Superhitz (87ms [BDIX]) (87ms [BDIX]) (87ms)
 http://103.151.60.162:2122/play/a02f/index.m3u8?hls
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Taaza TV (Server 1 - 179ms [BDIX]) (179ms)" tvg-logo="https://s3.aynaott.com/storage/01c9cb3e1a4c90da6685700da863f0ce",Taaza TV (Server 1 - 179ms [BDIX]) (179ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Taaza TV (Server 1 - 179ms [BDIX]) (179ms [BDIX]) (179ms)" tvg-logo="https://s3.aynaott.com/storage/01c9cb3e1a4c90da6685700da863f0ce",Taaza TV (Server 1 - 179ms [BDIX]) (179ms [BDIX]) (179ms)
 https://tvsen7.aynaott.com/TaazaTV/index.m3u8?e=1779283889&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cc44db12b53dcec714c1fc339270755d
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Taaza TV (Server 2 - 432ms [BDIX]) (432ms)" tvg-logo="https://s3.aynaott.com/storage/01c9cb3e1a4c90da6685700da863f0ce",Taaza TV (Server 2 - 432ms [BDIX]) (432ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Taaza TV (Server 2 - 432ms [BDIX]) (432ms [BDIX]) (432ms)" tvg-logo="https://s3.aynaott.com/storage/01c9cb3e1a4c90da6685700da863f0ce",Taaza TV (Server 2 - 432ms [BDIX]) (432ms [BDIX]) (432ms)
 https://tvsen7.aynaott.com/TaazaTV/index.m3u8?e=1784102596&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=494643e330e44e6ef06dc35ccda0ac7c
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://dtil.tmsimg.com/assets/s144002_ld_h15_aa.png?lock=720x540",The Q India (Server 1 - 144ms [BDIX]) (144ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://dtil.tmsimg.com/assets/s144002_ld_h15_aa.png?lock=720x540",The Q India (Server 1 - 144ms [BDIX]) (144ms [BDIX]) (144ms)
 http://103.175.73.12:8080/live/25/25_0.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="TIKANA TV" tvg-name="TIKANA TV" tvg-logo="https://yt3.googleusercontent.com/AbXfwy0BwAB4yjwV4gkMmSZizuTv30M9kZjO7V33LLvpy7CRVxK523zdvnZ3oTMtanUf9tHe=s900-c-k-c0x00ffffff-no-rj",TIANA TV (573ms [BDIX]) (573ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="TIKANA TV" tvg-name="TIKANA TV" tvg-logo="https://yt3.googleusercontent.com/AbXfwy0BwAB4yjwV4gkMmSZizuTv30M9kZjO7V33LLvpy7CRVxK523zdvnZ3oTMtanUf9tHe=s900-c-k-c0x00ffffff-no-rj",TIANA TV (573ms [BDIX]) (573ms [BDIX]) (573ms)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="TLC (India) (125ms [BDIX]) (125ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",TLC (India) (125ms [BDIX]) (125ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="TLC (India) (125ms [BDIX]) (125ms [BDIX]) (125ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",TLC (India) (125ms [BDIX]) (125ms [BDIX]) (125ms)
 https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="TLC (India) HD (124ms [BDIX]) (124ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",TLC (India) HD (124ms [BDIX]) (124ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="TLC (India) HD (124ms [BDIX]) (124ms [BDIX]) (124ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",TLC (India) HD (124ms [BDIX]) (124ms [BDIX]) (124ms)
 https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Travelxp HD (46ms [BDIX]) (46ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",Travelxp HD (46ms [BDIX]) (46ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Travelxp HD (46ms [BDIX]) (46ms [BDIX]) (46ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",Travelxp HD (46ms [BDIX]) (46ms [BDIX]) (46ms)
 http://103.151.60.162:2122/play/a01s/index.m3u8?hls
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="TV (33ms [BDIX]) (33ms)",TV (33ms [BDIX]) (33ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="TV (33ms [BDIX]) (33ms [BDIX]) (33ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",TV (33ms [BDIX]) (33ms [BDIX]) (33ms)
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?@ShamimHossainOfficial
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="(no tvg-id)(m3u4u)" tvg-name="(no tvg-id)(m3u4u)" tvg-logo="https://s8.gifyu.com/images/IPTV.png",tv Bangla (89ms [BDIX]) (89ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="(no tvg-id)(m3u4u)" tvg-name="(no tvg-id)(m3u4u)" tvg-logo="https://s8.gifyu.com/images/IPTV.png",tv Bangla (89ms [BDIX]) (89ms [BDIX]) (89ms)
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="ext" tvg-name="ext" tvg-logo="https://s8.gifyu.com/images/IPTV.png",tv bangla HD (32ms [BDIX]) (32ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="ext" tvg-name="ext" tvg-logo="https://s8.gifyu.com/images/IPTV.png",tv bangla HD (32ms [BDIX]) (32ms [BDIX]) (32ms)
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?Live-TV™
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Vision (India) (302ms [BDIX]) (302ms)" tvg-logo="https://i.imgur.com/YozqNL3.jpg",Vision (India) (302ms [BDIX]) (302ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Vision (India) (302ms [BDIX]) (302ms [BDIX]) (302ms)" tvg-logo="https://i.imgur.com/YozqNL3.jpg",Vision (India) (302ms [BDIX]) (302ms [BDIX]) (302ms)
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Zee annada HD (74ms [BDIX]) (74ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_KANNADA_HD/images/LOGO_HD/LOGO_HD_image.png",Zee annada HD (74ms [BDIX]) (74ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Zee annada HD (74ms [BDIX]) (74ms [BDIX]) (74ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_KANNADA_HD/images/LOGO_HD/LOGO_HD_image.png",Zee annada HD (74ms [BDIX]) (74ms [BDIX]) (74ms)
 https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Zee Marathi HD (71ms [BDIX]) (71ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI/images/LOGO_HD/LOGO_HD_image.png",Zee Marathi HD (71ms [BDIX]) (71ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Zee Marathi HD (71ms [BDIX]) (71ms [BDIX]) (71ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI/images/LOGO_HD/LOGO_HD_image.png",Zee Marathi HD (71ms [BDIX]) (71ms [BDIX]) (71ms)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="ZeeTV.in" tvg-name="ZeeTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Zee_TV_logo.svg/330px-Zee_TV_logo.svg.png",Zee TV HD (Server 1 - 18ms [BDIX]) (18ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="ZeeTV.in" tvg-name="ZeeTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Zee_TV_logo.svg/330px-Zee_TV_logo.svg.png",Zee TV HD (Server 1 - 18ms [BDIX]) (18ms [BDIX]) (18ms)
 http://103.151.60.162:2122/play/a01u/index.m3u8?hls
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ASports.pk" tvg-name="ASports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/A_Sports_logo.svg/330px-A_Sports_logo.svg.png",A Sports HD (Server 1 - 110ms [BDIX]) (110ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ASports.pk" tvg-name="ASports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/A_Sports_logo.svg/330px-A_Sports_logo.svg.png",A Sports HD (Server 1 - 110ms [BDIX]) (110ms [BDIX]) (110ms)
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ASports.pk" tvg-name="ASports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/A_Sports_logo.svg/330px-A_Sports_logo.svg.png",A Sports HD (Server 2 - 316ms [BDIX]) (316ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ASports.pk" tvg-name="ASports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/A_Sports_logo.svg/330px-A_Sports_logo.svg.png",A Sports HD (Server 2 - 316ms [BDIX]) (316ms [BDIX]) (316ms)
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102655&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=833b5dd42540ad3eaf690e4b371d5fec
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ASports.pk" tvg-name="ASports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/A_Sports_logo.svg/330px-A_Sports_logo.svg.png",A Sports HD (Server 3 - 391ms [BDIX]) (391ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ASports.pk" tvg-name="ASports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/A_Sports_logo.svg/330px-A_Sports_logo.svg.png",A Sports HD (Server 3 - 391ms [BDIX]) (391ms [BDIX]) (391ms)
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="BeINSPORTS1" tvg-name="BeINSPORTS1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg",beIN SPORTS 1)-- (70ms [BDIX]) (70ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="BeINSPORTS1" tvg-name="BeINSPORTS1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg",beIN SPORTS 1)-- (70ms [BDIX]) (70ms [BDIX]) (70ms)
 http://27.124.71.27/beIN_Sports_1/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Bloomberg TV (339ms [BDIX]) (339ms)" tvg-logo="https://s3.aynaott.com/storage/253dcc8b5951160d6aa26bc5ac65ddb8",Bloomberg TV (339ms [BDIX]) (339ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Bloomberg TV (339ms [BDIX]) (339ms [BDIX]) (339ms)" tvg-logo="https://s3.aynaott.com/storage/253dcc8b5951160d6aa26bc5ac65ddb8",Bloomberg TV (339ms [BDIX]) (339ms [BDIX]) (339ms)
 https://tvsen6.aynaott.com/bloombergtv/index.m3u8?e=1779283799&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ecba4c0cf6ffc82d2d0dfc78f69c1061
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-name="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-logo="https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",Cricet Gold (Server 1 - 90ms [BDIX]) (90ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-name="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-logo="https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",Cricet Gold (Server 1 - 90ms [BDIX]) (90ms [BDIX]) (90ms)
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-name="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-logo="https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",Cricet Gold (Server 2 - 316ms [BDIX]) (316ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-name="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-logo="https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",Cricet Gold (Server 2 - 316ms [BDIX]) (316ms [BDIX]) (316ms)
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8?e=1784102657&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=46102f1b8150e3d7fda5eb1ee9ffd94e
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-name="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-logo="https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",Cricet Gold (Server 3 - 439ms [BDIX]) (439ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-name="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-logo="https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",Cricet Gold (Server 3 - 439ms [BDIX]) (439ms [BDIX]) (439ms)
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8?e=1784102529&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ae32567acc583949116a1ea5f4410044
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="GaziTV.bd" tvg-name="GaziTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Gazi_TV_logo.svg/330px-Gazi_TV_logo.svg.png",GTV (Gazi TV) (556ms [BDIX]) (556ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="GaziTV.bd" tvg-name="GaziTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Gazi_TV_logo.svg/330px-Gazi_TV_logo.svg.png",GTV (Gazi TV) (556ms [BDIX]) (556ms [BDIX]) (556ms)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonySports-3HD" tvg-name="SonySports-3HD" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",Marquee Sports Networ (43ms [BDIX]) (43ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonySports-3HD" tvg-name="SonySports-3HD" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",Marquee Sports Networ (43ms [BDIX]) (43ms [BDIX]) (43ms)
 https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Marquee Sports Networ (Server 1 - 344ms [BDIX]) (344ms)" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",Marquee Sports Networ (Server 1 - 344ms [BDIX]) (344ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Marquee Sports Networ (Server 1 - 344ms [BDIX]) (344ms [BDIX]) (344ms)" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",Marquee Sports Networ (Server 1 - 344ms [BDIX]) (344ms [BDIX]) (344ms)
 https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8?e=1779283796&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a91e537a0eb1a24ed472a508e90fefcc
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Marquee Sports Networ (Server 2 - 437ms [BDIX]) (437ms)" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",Marquee Sports Networ (Server 2 - 437ms [BDIX]) (437ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Marquee Sports Networ (Server 2 - 437ms [BDIX]) (437ms [BDIX]) (437ms)" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",Marquee Sports Networ (Server 2 - 437ms [BDIX]) (437ms [BDIX]) (437ms)
 https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8?e=1784102523&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=93bce8c31c0b8ab66f85c4aa716baae0
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="PTVSports.pk" tvg-name="PTVSports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/PTV_Sports_logo.svg/330px-PTV_Sports_logo.svg.png",PTV Sports HD (Server 1 - 261ms [BDIX]) (261ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="PTVSports.pk" tvg-name="PTVSports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/PTV_Sports_logo.svg/330px-PTV_Sports_logo.svg.png",PTV Sports HD (Server 1 - 261ms [BDIX]) (261ms [BDIX]) (261ms)
 https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102658&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=b75669e4aa0dd58c602b637ab66af304
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="PTVSports.pk" tvg-name="PTVSports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/PTV_Sports_logo.svg/330px-PTV_Sports_logo.svg.png",PTV Sports HD (Server 2 - 340ms [BDIX]) (340ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="PTVSports.pk" tvg-name="PTVSports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/PTV_Sports_logo.svg/330px-PTV_Sports_logo.svg.png",PTV Sports HD (Server 2 - 340ms [BDIX]) (340ms [BDIX]) (340ms)
 https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV (34ms [BDIX]) (34ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV (34ms [BDIX]) (34ms [BDIX]) (34ms)
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?@amarnettv.live
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonyTen1.in" tvg-name="SonyTen1.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Sony_Sports_Ten_1_logo.svg/330px-Sony_Sports_Ten_1_logo.svg.png",Sony Sports Ten 1 HD (Server 1 - 67ms [BDIX]) (67ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonyTen1.in" tvg-name="SonyTen1.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Sony_Sports_Ten_1_logo.svg/330px-Sony_Sports_Ten_1_logo.svg.png",Sony Sports Ten 1 HD (Server 1 - 67ms [BDIX]) (67ms [BDIX]) (67ms)
 http://103.151.60.162:2122/play/a01c/index.m3u8?hls
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonyTen2.in" tvg-name="SonyTen2.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Sony_Sports_Ten_2_logo.svg/330px-Sony_Sports_Ten_2_logo.svg.png",Sony Sports Ten 2 HD (59ms [BDIX]) (59ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonyTen2.in" tvg-name="SonyTen2.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Sony_Sports_Ten_2_logo.svg/330px-Sony_Sports_Ten_2_logo.svg.png",Sony Sports Ten 2 HD (59ms [BDIX]) (59ms [BDIX]) (59ms)
 http://103.151.60.162:2122/play/a01b/index.m3u8?hls
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sony Sports Ten 3 Hindi (61ms [BDIX]) (61ms)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",Sony Sports Ten 3 Hindi (61ms [BDIX]) (61ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sony Sports Ten 3 Hindi (61ms [BDIX]) (61ms [BDIX]) (61ms)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",Sony Sports Ten 3 Hindi (61ms [BDIX]) (61ms [BDIX]) (61ms)
 http://103.151.60.162:2122/play/a01t/index.m3u8?hls
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonyTen5.in" tvg-name="SonyTen5.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Sony_Sports_Ten_5_logo.svg/330px-Sony_Sports_Ten_5_logo.svg.png",Sony Sports Ten 5 HD (60ms [BDIX]) (60ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonyTen5.in" tvg-name="SonyTen5.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Sony_Sports_Ten_5_logo.svg/330px-Sony_Sports_Ten_5_logo.svg.png",Sony Sports Ten 5 HD (60ms [BDIX]) (60ms [BDIX]) (60ms)
 http://103.151.60.162:2122/play/a028/index.m3u8?hls
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Grid (Server 1 - 342ms [BDIX]) (342ms)" tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",Sports Grid (Server 1 - 342ms [BDIX]) (342ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Grid (Server 1 - 342ms [BDIX]) (342ms [BDIX]) (342ms)" tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",Sports Grid (Server 1 - 342ms [BDIX]) (342ms [BDIX]) (342ms)
 https://tvsen6.aynaott.com/SportsGrid/index.m3u8?e=1779283798&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=652ed8ae174a9efdb335fb31355f0fb5
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Grid (Server 2 - 448ms [BDIX]) (448ms)" tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",Sports Grid (Server 2 - 448ms [BDIX]) (448ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Grid (Server 2 - 448ms [BDIX]) (448ms [BDIX]) (448ms)" tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",Sports Grid (Server 2 - 448ms [BDIX]) (448ms [BDIX]) (448ms)
 https://tvsen6.aynaott.com/SportsGrid/index.m3u8?e=1784102516&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=805223f37eb8e43994f002e68e736eea
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Live (427ms [BDIX]) (427ms)",Sports Live (427ms [BDIX]) (427ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Live (427ms [BDIX]) (427ms [BDIX]) (427ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Sports Live (427ms [BDIX]) (427ms [BDIX]) (427ms)
 https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102508&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=58eaaf823b8b124213229ac251f2efbc
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="StarSports2.in" tvg-name="StarSports2.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Star_Sports_2_logo.svg/330px-Star_Sports_2_logo.svg.png",Star Sports 2 HD (Server 1 - 59ms [BDIX]) (59ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="StarSports2.in" tvg-name="StarSports2.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Star_Sports_2_logo.svg/330px-Star_Sports_2_logo.svg.png",Star Sports 2 HD (Server 1 - 59ms [BDIX]) (59ms [BDIX]) (59ms)
 http://103.151.60.162:2122/play/a00v/index.m3u8?hls
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 1 HD (78ms [BDIX]) (78ms)" tvg-logo="https://i.imgur.com/Mh9tKPx.png",Star Sports Select 1 HD (78ms [BDIX]) (78ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 1 HD (78ms [BDIX]) (78ms [BDIX]) (78ms)" tvg-logo="https://i.imgur.com/Mh9tKPx.png",Star Sports Select 1 HD (78ms [BDIX]) (78ms [BDIX]) (78ms)
 http://103.151.60.162:2122/play/a026/index.m3u8?hls
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 2 HD (120ms [BDIX]) (120ms)" tvg-logo="https://i.imgur.com/FtRT73R.png",Star Sports Select 2 HD (120ms [BDIX]) (120ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 2 HD (120ms [BDIX]) (120ms [BDIX]) (120ms)" tvg-logo="https://i.imgur.com/FtRT73R.png",Star Sports Select 2 HD (120ms [BDIX]) (120ms [BDIX]) (120ms)
 http://103.151.60.162:2122/play/a027/index.m3u8?hls
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Tal Sport (Server 1 - 317ms [BDIX]) (317ms)" tvg-logo="https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd",Tal Sport (Server 1 - 317ms [BDIX]) (317ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Tal Sport (Server 1 - 317ms [BDIX]) (317ms [BDIX]) (317ms)" tvg-logo="https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd",Tal Sport (Server 1 - 317ms [BDIX]) (317ms [BDIX]) (317ms)
 https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1779283794&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=24b590ae2b7927c00a9acc3a97bc5d86
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Tal Sport (Server 2 - 441ms [BDIX]) (441ms)" tvg-logo="https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd",Tal Sport (Server 2 - 441ms [BDIX]) (441ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Tal Sport (Server 2 - 441ms [BDIX]) (441ms [BDIX]) (441ms)" tvg-logo="https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd",Tal Sport (Server 2 - 441ms [BDIX]) (441ms [BDIX]) (441ms)
 https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1784102522&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=a3506be66a1595e3d3572c6fc3547dc7
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Ten Cricet (114ms [BDIX]) (114ms)" tvg-logo="https://i.imgur.com/K5XIFuW.png",Ten Cricet (114ms [BDIX]) (114ms)
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Ten Cricet (114ms [BDIX]) (114ms [BDIX]) (114ms)" tvg-logo="https://i.imgur.com/K5XIFuW.png",Ten Cricet (114ms [BDIX]) (114ms [BDIX]) (114ms)
 http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
 
-#EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-id="StarJalsha.in" tvg-name="StarJalsha.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Star_Jalsha_logo.svg/330px-Star_Jalsha_logo.svg.png",Star Jalsha HD (Server 2 - 1437ms [BDIX]) (1437ms)
+#EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-id="StarJalsha.in" tvg-name="StarJalsha.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Star_Jalsha_logo.svg/330px-Star_Jalsha_logo.svg.png",Star Jalsha HD (Server 2 - 1437ms [BDIX]) (1437ms [BDIX]) (1437ms)
 http://103.151.60.162:2122/play/a00w/index.m3u8?hls
 
-#EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-id="ZeeBangla.in" tvg-name="ZeeBangla.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee_Bangla_logo.svg/330px-Zee_Bangla_logo.svg.png",Zee Bangla HD (Server 1 - 19ms [BDIX]) (19ms)
+#EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-id="ZeeBangla.in" tvg-name="ZeeBangla.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee_Bangla_logo.svg/330px-Zee_Bangla_logo.svg.png",Zee Bangla HD (Server 1 - 19ms [BDIX]) (19ms [BDIX]) (19ms)
 http://103.151.60.162:2122/play/a011/index.m3u8?hls
 
-#EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-id="ZeeBangla.in" tvg-name="ZeeBangla.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee_Bangla_logo.svg/330px-Zee_Bangla_logo.svg.png",Zee Bangla HD (Server 2 - 19ms [BDIX]) (19ms)
+#EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-id="ZeeBangla.in" tvg-name="ZeeBangla.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee_Bangla_logo.svg/330px-Zee_Bangla_logo.svg.png",Zee Bangla HD (Server 2 - 19ms [BDIX]) (19ms [BDIX]) (19ms)
 http://103.151.60.162:2122/play/a02p/index.m3u8?hls
 
-#EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-id="ZeeBangla.in" tvg-name="ZeeBangla.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee_Bangla_logo.svg/330px-Zee_Bangla_logo.svg.png",Zee Bangla HD (Server 3 - 61ms [BDIX]) (61ms)
+#EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-id="ZeeBangla.in" tvg-name="ZeeBangla.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee_Bangla_logo.svg/330px-Zee_Bangla_logo.svg.png",Zee Bangla HD (Server 3 - 61ms [BDIX]) (61ms [BDIX]) (61ms)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 
-#EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-id="ff14d64f-0fcb-45af-8313-9ae3ff788052" tvg-name="ff14d64f-0fcb-45af-8313-9ae3ff788052" tvg-logo="https://s3.aynaott.com/storage/1f25888b68626ed736acf35824905916",Zee Bangla Sonar (Server 1 - 47ms [BDIX]) (47ms)
+#EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-id="ff14d64f-0fcb-45af-8313-9ae3ff788052" tvg-name="ff14d64f-0fcb-45af-8313-9ae3ff788052" tvg-logo="https://s3.aynaott.com/storage/1f25888b68626ed736acf35824905916",Zee Bangla Sonar (Server 1 - 47ms [BDIX]) (47ms [BDIX]) (47ms)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
-#EXTINF:-1 group-title="🇮🇳 India | News" tvg-name="Hindi habar (Server 2 - 392ms [BDIX]) (392ms)" tvg-logo="https://s3.aynaott.com/storage/d3943796d7fe5962ca5385b656682b1a",Hindi habar (Server 2 - 392ms [BDIX]) (392ms)
+#EXTINF:-1 group-title="🇮🇳 India | News" tvg-name="Hindi habar (Server 2 - 392ms [BDIX]) (392ms [BDIX]) (392ms)" tvg-logo="https://s3.aynaott.com/storage/d3943796d7fe5962ca5385b656682b1a",Hindi habar (Server 2 - 392ms [BDIX]) (392ms [BDIX]) (392ms)
 https://tvsen7.aynaott.com/HindiKhabar/index.m3u8?e=1779283779&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7b43f60b9dbb9fbf01ff5e9abeac579d
 
-#EXTINF:-1 group-title="🇮🇳 India | News" tvg-name="Hindi habar (Server 3 - 485ms [BDIX]) (485ms)" tvg-logo="https://s3.aynaott.com/storage/d3943796d7fe5962ca5385b656682b1a",Hindi habar (Server 3 - 485ms [BDIX]) (485ms)
+#EXTINF:-1 group-title="🇮🇳 India | News" tvg-name="Hindi habar (Server 3 - 485ms [BDIX]) (485ms [BDIX]) (485ms)" tvg-logo="https://s3.aynaott.com/storage/d3943796d7fe5962ca5385b656682b1a",Hindi habar (Server 3 - 485ms [BDIX]) (485ms [BDIX]) (485ms)
 https://tvsen7.aynaott.com/HindiKhabar/index.m3u8?e=1784102554&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=815bee841efa174fe7bce8b61da9833e
 
-#EXTINF:-1 group-title="🇮🇳 India | News" tvg-id="8377452f-fbc7-4780-8bd2-6db42ac285c0" tvg-name="8377452f-fbc7-4780-8bd2-6db42ac285c0" tvg-logo="https://s3.aynaott.com/storage/947715e0a22f16ac21805073ce6eb0b6",Republic TV Bharat (409ms [BDIX]) (409ms)
+#EXTINF:-1 group-title="🇮🇳 India | News" tvg-id="8377452f-fbc7-4780-8bd2-6db42ac285c0" tvg-name="8377452f-fbc7-4780-8bd2-6db42ac285c0" tvg-logo="https://s3.aynaott.com/storage/947715e0a22f16ac21805073ce6eb0b6",Republic TV Bharat (409ms [BDIX]) (409ms [BDIX]) (409ms)
 https://tvsen6.aynaott.com/faGd3tuq/index.m3u8?e=1784102553&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=8133079644fb0609090a409e519aaa73
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="&TV (151ms [BDIX]) (151ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",&TV (151ms [BDIX]) (151ms)
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="&TV (151ms [BDIX]) (151ms [BDIX]) (151ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",&TV (151ms [BDIX]) (151ms [BDIX]) (151ms)
 https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="All Time Movies (115ms [BDIX]) (115ms)" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj",All Time Movies (115ms [BDIX]) (115ms)
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="All Time Movies (115ms [BDIX]) (115ms [BDIX]) (115ms)" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj",All Time Movies (115ms [BDIX]) (115ms [BDIX]) (115ms)
 https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-id="B4UMovies.in@India" tvg-name="B4UMovies.in@India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png",B4U Movies 2 (65ms [BDIX]) (65ms)
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-id="B4UMovies.in@India" tvg-name="B4UMovies.in@India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png",B4U Movies 2 (65ms [BDIX]) (65ms [BDIX]) (65ms)
 https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-id="Circle" tvg-name="Circle" tvg-logo="https://www.circlecountry.com/app/themes/circle-tailpress/images/circlecountry_logo.svg",Circle (464ms [BDIX]) (464ms)
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-id="Circle" tvg-name="Circle" tvg-logo="https://www.circlecountry.com/app/themes/circle-tailpress/images/circlecountry_logo.svg",Circle (464ms [BDIX]) (464ms [BDIX]) (464ms)
 https://circle-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Colors Bangla Cinema (103ms [BDIX]) (103ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png",Colors Bangla Cinema (103ms [BDIX]) (103ms)
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Colors Bangla Cinema (103ms [BDIX]) (103ms [BDIX]) (103ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png",Colors Bangla Cinema (103ms [BDIX]) (103ms [BDIX]) (103ms)
 http://103.151.60.162:2122/play/a02m/index.m3u8?hls
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Goldmines Movies (122ms [BDIX]) (122ms)" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540",Goldmines Movies (122ms [BDIX]) (122ms)
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Goldmines Movies (122ms [BDIX]) (122ms [BDIX]) (122ms)" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540",Goldmines Movies (122ms [BDIX]) (122ms [BDIX]) (122ms)
 http://103.175.73.12:8080/live/51/51_0.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Hindi Movie Classic 24 (372ms [BDIX]) (372ms)" tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084",Hindi Movie Classic 24 (372ms [BDIX]) (372ms)
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Hindi Movie Classic 24 (372ms [BDIX]) (372ms [BDIX]) (372ms)" tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084",Hindi Movie Classic 24 (372ms [BDIX]) (372ms [BDIX]) (372ms)
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Movie Bangla (627ms [BDIX]) (627ms)" tvg-logo="https://i.postimg.cc/wBN1BtXk/20251127_095813.png",Movie Bangla (627ms [BDIX]) (627ms)
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Movie Bangla (627ms [BDIX]) (627ms [BDIX]) (627ms)" tvg-logo="https://i.postimg.cc/wBN1BtXk/20251127_095813.png",Movie Bangla (627ms [BDIX]) (627ms [BDIX]) (627ms)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-id="MovieBanglaTV" tvg-name="MovieBanglaTV" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie Bangla TV (63ms [BDIX]) (63ms)
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-id="MovieBanglaTV" tvg-name="MovieBanglaTV" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie Bangla TV (63ms [BDIX]) (63ms [BDIX]) (63ms)
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Movies Now HD (27ms [BDIX]) (27ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png",Movies Now HD (27ms [BDIX]) (27ms)
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Movies Now HD (27ms [BDIX]) (27ms [BDIX]) (27ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png",Movies Now HD (27ms [BDIX]) (27ms [BDIX]) (27ms)
 http://103.151.60.162:2122/play/a02w/index.m3u8?hls
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-id="SonyMAX.in" tvg-name="SonyMAX.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Sony_MAX_logo.svg/330px-Sony_MAX_logo.svg.png",Sony MAX HD (Server 1 - 1224ms [BDIX]) (1224ms)
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-id="SonyMAX.in" tvg-name="SonyMAX.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Sony_MAX_logo.svg/330px-Sony_MAX_logo.svg.png",Sony MAX HD (Server 1 - 1224ms [BDIX]) (1224ms [BDIX]) (1224ms)
 http://103.151.60.162:2122/play/a014/index.m3u8?hls
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Sony Movies (49ms [BDIX]) (49ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNk47oTMuFgbjaG0yp7qPGD7w0Rf3rGRc7wURB_aUn-ArmAPsHo67HGOC8r-aiqd4AJhFhNQLu6LmGFhBj8pxHVL5ju7NCaI2ssa9QQm-rxmyv_zYwy9ehEIsdQVGxgLcGT8So2UCKIKIBz932Wi270pGc76elgFlp7aj3WXhrlOMvtUC2VxKni57FNg/s1080/1000060531.png",Sony Movies (49ms [BDIX]) (49ms)
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Sony Movies (49ms [BDIX]) (49ms [BDIX]) (49ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNk47oTMuFgbjaG0yp7qPGD7w0Rf3rGRc7wURB_aUn-ArmAPsHo67HGOC8r-aiqd4AJhFhNQLu6LmGFhBj8pxHVL5ju7NCaI2ssa9QQm-rxmyv_zYwy9ehEIsdQVGxgLcGT8So2UCKIKIBz932Wi270pGc76elgFlp7aj3WXhrlOMvtUC2VxKni57FNg/s1080/1000060531.png",Sony Movies (49ms [BDIX]) (49ms [BDIX]) (49ms)
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Sony Pix HD (56ms [BDIX]) (56ms)" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",Sony Pix HD (56ms [BDIX]) (56ms)
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Sony Pix HD (56ms [BDIX]) (56ms [BDIX]) (56ms)" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",Sony Pix HD (56ms [BDIX]) (56ms [BDIX]) (56ms)
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Star Gold 2 HD (105ms [BDIX]) (105ms)" tvg-logo="https://i.imgur.com/G0ZfzZr.png",Star Gold 2 HD (105ms [BDIX]) (105ms)
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Star Gold 2 HD (105ms [BDIX]) (105ms [BDIX]) (105ms)" tvg-logo="https://i.imgur.com/G0ZfzZr.png",Star Gold 2 HD (105ms [BDIX]) (105ms [BDIX]) (105ms)
 http://103.151.60.162:2122/play/a01v/index.m3u8?hls
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Star Movies (India) HD (110ms [BDIX]) (110ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",Star Movies (India) HD (110ms [BDIX]) (110ms)
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Star Movies (India) HD (110ms [BDIX]) (110ms [BDIX]) (110ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",Star Movies (India) HD (110ms [BDIX]) (110ms [BDIX]) (110ms)
 http://103.151.60.162:2122/play/a02k/index.m3u8?hls
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-id="zeebanglacinema.in" tvg-name="zeebanglacinema.in" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg",ZEE BANGLA CINEMA (47ms [BDIX]) (47ms)
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-id="zeebanglacinema.in" tvg-name="zeebanglacinema.in" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg",ZEE BANGLA CINEMA (47ms [BDIX]) (47ms [BDIX]) (47ms)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-id="ZeeCinema.in" tvg-name="ZeeCinema.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Zee_Cinema_logo.svg/330px-Zee_Cinema_logo.svg.png",Zee Cinema HD (1228ms [BDIX]) (1228ms)
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-id="ZeeCinema.in" tvg-name="ZeeCinema.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Zee_Cinema_logo.svg/330px-Zee_Cinema_logo.svg.png",Zee Cinema HD (1228ms [BDIX]) (1228ms [BDIX]) (1228ms)
 http://103.151.60.162:2122/play/a024/index.m3u8?hls
 
-#EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-name="Animal Planet (India) (212ms [BDIX]) (212ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",Animal Planet (India) (212ms [BDIX]) (212ms)
+#EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-name="Animal Planet (India) (212ms [BDIX]) (212ms [BDIX]) (212ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",Animal Planet (India) (212ms [BDIX]) (212ms [BDIX]) (212ms)
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
 
-#EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-id="AnimalPlanet.in" tvg-name="AnimalPlanet.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Animal_Planet_logo.svg/330px-Animal_Planet_logo.svg.png",Animal Planet HD (Server 1 - 45ms [BDIX]) (45ms)
+#EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-id="AnimalPlanet.in" tvg-name="AnimalPlanet.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Animal_Planet_logo.svg/330px-Animal_Planet_logo.svg.png",Animal Planet HD (Server 1 - 45ms [BDIX]) (45ms [BDIX]) (45ms)
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 
-#EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-id="AnimalPlanet.in" tvg-name="AnimalPlanet.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Animal_Planet_logo.svg/330px-Animal_Planet_logo.svg.png",Animal Planet HD (Server 2 - 92ms [BDIX]) (92ms)
+#EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-id="AnimalPlanet.in" tvg-name="AnimalPlanet.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Animal_Planet_logo.svg/330px-Animal_Planet_logo.svg.png",Animal Planet HD (Server 2 - 92ms [BDIX]) (92ms [BDIX]) (92ms)
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
 
-#EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-name="Discovery Channel (India) (163ms [BDIX]) (163ms)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540",Discovery Channel (India) (163ms [BDIX]) (163ms)
+#EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-name="Discovery Channel (India) (163ms [BDIX]) (163ms [BDIX]) (163ms)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540",Discovery Channel (India) (163ms [BDIX]) (163ms [BDIX]) (163ms)
 https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
 
-#EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-name="Discovery Channel (India) HD (140ms [BDIX]) (140ms)" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",Discovery Channel (India) HD (140ms [BDIX]) (140ms)
+#EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-name="Discovery Channel (India) HD (140ms [BDIX]) (140ms [BDIX]) (140ms)" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",Discovery Channel (India) HD (140ms [BDIX]) (140ms [BDIX]) (140ms)
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 
-#EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-name="Discovery Science (142ms [BDIX]) (142ms)" tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540",Discovery Science (142ms [BDIX]) (142ms)
+#EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-name="Discovery Science (142ms [BDIX]) (142ms [BDIX]) (142ms)" tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540",Discovery Science (142ms [BDIX]) (142ms [BDIX]) (142ms)
 https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
 
-#EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-name="Discovery Turbo (India) (142ms [BDIX]) (142ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png",Discovery Turbo (India) (142ms [BDIX]) (142ms)
+#EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-name="Discovery Turbo (India) (142ms [BDIX]) (142ms [BDIX]) (142ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png",Discovery Turbo (India) (142ms [BDIX]) (142ms [BDIX]) (142ms)
 https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
 
-#EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-name="Investigation Discovery (India) (165ms [BDIX]) (165ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png",Investigation Discovery (India) (165ms [BDIX]) (165ms)
+#EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-name="Investigation Discovery (India) (165ms [BDIX]) (165ms [BDIX]) (165ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png",Investigation Discovery (India) (165ms [BDIX]) (165ms [BDIX]) (165ms)
 https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
 
-#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="3ABN ids (Server 1 - 207ms [BDIX]) (207ms)" tvg-logo="https://s3.aynaott.com/storage/76e36f75bf11c815a76c5622d627c814",3ABN ids (Server 1 - 207ms [BDIX]) (207ms)
+#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="3ABN ids (Server 1 - 207ms [BDIX]) (207ms [BDIX]) (207ms)" tvg-logo="https://s3.aynaott.com/storage/76e36f75bf11c815a76c5622d627c814",3ABN ids (Server 1 - 207ms [BDIX]) (207ms [BDIX]) (207ms)
 https://tvsen6.aynaott.com/3abnkids/index.m3u8?e=1779283920&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2032eede500d4def7448a9c0d71103e1
 
-#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="3ABN ids (Server 2 - 363ms [BDIX]) (363ms)" tvg-logo="https://s3.aynaott.com/storage/76e36f75bf11c815a76c5622d627c814",3ABN ids (Server 2 - 363ms [BDIX]) (363ms)
+#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="3ABN ids (Server 2 - 363ms [BDIX]) (363ms [BDIX]) (363ms)" tvg-logo="https://s3.aynaott.com/storage/76e36f75bf11c815a76c5622d627c814",3ABN ids (Server 2 - 363ms [BDIX]) (363ms [BDIX]) (363ms)
 https://tvsen6.aynaott.com/3abnkids/index.m3u8?e=1784102588&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3a88dd05abf3d2a88da7c3754b99c5e6
 
-#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Cartoon Networ (India) (78ms [BDIX]) (78ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png",Cartoon Networ (India) (78ms [BDIX]) (78ms)
+#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Cartoon Networ (India) (78ms [BDIX]) (78ms [BDIX]) (78ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png",Cartoon Networ (India) (78ms [BDIX]) (78ms [BDIX]) (78ms)
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 
-#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Discovery ids (175ms [BDIX]) (175ms)" tvg-logo="https://i.imgur.com/0iNQvoL.png",Discovery ids (175ms [BDIX]) (175ms)
+#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Discovery ids (175ms [BDIX]) (175ms [BDIX]) (175ms)" tvg-logo="https://i.imgur.com/0iNQvoL.png",Discovery ids (175ms [BDIX]) (175ms [BDIX]) (175ms)
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 
-#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Disney International HD (20ms [BDIX]) (20ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png",Disney International HD (20ms [BDIX]) (20ms)
+#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Disney International HD (20ms [BDIX]) (20ms [BDIX]) (20ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png",Disney International HD (20ms [BDIX]) (20ms [BDIX]) (20ms)
 http://103.151.60.162:2122/play/a018/index.m3u8?hls
 
-#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Disney Junior (India) (134ms [BDIX]) (134ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",Disney Junior (India) (134ms [BDIX]) (134ms)
+#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Disney Junior (India) (134ms [BDIX]) (134ms [BDIX]) (134ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",Disney Junior (India) (134ms [BDIX]) (134ms [BDIX]) (134ms)
 http://103.151.60.162:2122/play/a016/index.m3u8?hls
 
-#EXTINF:-1 group-title="👶 Kids & Animation" tvg-id="DurontoTV.bd" tvg-name="DurontoTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Duronto_TV_logo.svg/330px-Duronto_TV_logo.svg.png",Duronto TV HD (Server 1 - 228ms [BDIX]) (228ms)
+#EXTINF:-1 group-title="👶 Kids & Animation" tvg-id="DurontoTV.bd" tvg-name="DurontoTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Duronto_TV_logo.svg/330px-Duronto_TV_logo.svg.png",Duronto TV HD (Server 1 - 228ms [BDIX]) (228ms [BDIX]) (228ms)
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 
-#EXTINF:-1 group-title="👶 Kids & Animation" tvg-id="DurontoTV.bd" tvg-name="DurontoTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Duronto_TV_logo.svg/330px-Duronto_TV_logo.svg.png",Duronto TV HD (Server 2 - 457ms [BDIX]) (457ms)
+#EXTINF:-1 group-title="👶 Kids & Animation" tvg-id="DurontoTV.bd" tvg-name="DurontoTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Duronto_TV_logo.svg/330px-Duronto_TV_logo.svg.png",Duronto TV HD (Server 2 - 457ms [BDIX]) (457ms [BDIX]) (457ms)
 https://tvsen5.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.fmp4.m3u8?token=26849003e1fe1bed0b0c40f6d3be853eb9a2b4f7-6a6a5971089a426fc1829aad7d929e8a-1784095967-1784095067&remote=no_check_ip
 
-#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Moonbug ids (Server 1 - 222ms [BDIX]) (222ms)" tvg-logo="https://s3.aynaott.com/storage/d9b8deaf735ee0954260c7b3b61f508d",Moonbug ids (Server 1 - 222ms [BDIX]) (222ms)
+#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Moonbug ids (Server 1 - 222ms [BDIX]) (222ms [BDIX]) (222ms)" tvg-logo="https://s3.aynaott.com/storage/d9b8deaf735ee0954260c7b3b61f508d",Moonbug ids (Server 1 - 222ms [BDIX]) (222ms [BDIX]) (222ms)
 https://tvsen6.aynaott.com/MoonbugKids/index.m3u8?e=1779283923&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=52145358ed3be27c1e34ba90b246262a
 
-#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Moonbug ids (Server 2 - 365ms [BDIX]) (365ms)" tvg-logo="https://s3.aynaott.com/storage/d9b8deaf735ee0954260c7b3b61f508d",Moonbug ids (Server 2 - 365ms [BDIX]) (365ms)
+#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Moonbug ids (Server 2 - 365ms [BDIX]) (365ms [BDIX]) (365ms)" tvg-logo="https://s3.aynaott.com/storage/d9b8deaf735ee0954260c7b3b61f508d",Moonbug ids (Server 2 - 365ms [BDIX]) (365ms [BDIX]) (365ms)
 https://tvsen6.aynaott.com/MoonbugKids/index.m3u8?e=1784102587&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=bb483e4de44847e04d2d1fbbf8098cd7
 
-#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Pogo (39ms [BDIX]) (39ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png",Pogo (39ms [BDIX]) (39ms)
+#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Pogo (39ms [BDIX]) (39ms [BDIX]) (39ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png",Pogo (39ms [BDIX]) (39ms [BDIX]) (39ms)
 http://103.151.60.162:2122/play/a01e/index.m3u8?hls
 
-#EXTINF:-1 group-title="🕌 Religious & Islamic" tvg-name="Aastha (127ms [BDIX]) (127ms)" tvg-logo="https://i.imgur.com/IqgrV92.png",Aastha (127ms [BDIX]) (127ms)
+#EXTINF:-1 group-title="🕌 Religious & Islamic" tvg-name="Aastha (127ms [BDIX]) (127ms [BDIX]) (127ms)" tvg-logo="https://i.imgur.com/IqgrV92.png",Aastha (127ms [BDIX]) (127ms [BDIX]) (127ms)
 http://103.175.73.12:8080/live/338/master.m3u8
 
-#EXTINF:-1 group-title="🕌 Religious & Islamic" tvg-name="Aastha Bhajan (119ms [BDIX]) (119ms)" tvg-logo="https://dtil.tmsimg.com/assets/s142514_ld_h15_aa.png?lock=720x540",Aastha Bhajan (119ms [BDIX]) (119ms)
+#EXTINF:-1 group-title="🕌 Religious & Islamic" tvg-name="Aastha Bhajan (119ms [BDIX]) (119ms [BDIX]) (119ms)" tvg-logo="https://dtil.tmsimg.com/assets/s142514_ld_h15_aa.png?lock=720x540",Aastha Bhajan (119ms [BDIX]) (119ms [BDIX]) (119ms)
 http://103.175.73.12:8080/live/339/master.m3u8
 
-#EXTINF:-1 group-title="🕌 Religious & Islamic" tvg-name="Islam Bangla (895ms [BDIX]) (895ms)" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2022/09/islam-channel001.jpg",Islam Bangla (895ms [BDIX]) (895ms)
+#EXTINF:-1 group-title="🕌 Religious & Islamic" tvg-name="Islam Bangla (895ms [BDIX]) (895ms [BDIX]) (895ms)" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2022/09/islam-channel001.jpg",Islam Bangla (895ms [BDIX]) (895ms [BDIX]) (895ms)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🕌 Religious & Islamic" tvg-name="Islamic TV (775ms [BDIX]) (775ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRXM2J7y2LkoE63vv2He9SF1dMo3pS9hmEC23wzJv3maIccQ1e912eTGNSN74Riwx03whZi5tyKXHKEDSFl4AO1JrwjCIlMhglN-nOjmGhBHBnhp1EqdLB5hwV3jHgKUDlzNFW1Cv8qrMylfmiIosSwFmK72-h-LTinSr1bpDVfNm1p8SlrILxKesdgw/s1080/1000008187.png",Islamic TV (775ms [BDIX]) (775ms)
+#EXTINF:-1 group-title="🕌 Religious & Islamic" tvg-name="Islamic TV (775ms [BDIX]) (775ms [BDIX]) (775ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRXM2J7y2LkoE63vv2He9SF1dMo3pS9hmEC23wzJv3maIccQ1e912eTGNSN74Riwx03whZi5tyKXHKEDSFl4AO1JrwjCIlMhglN-nOjmGhBHBnhp1EqdLB5hwV3jHgKUDlzNFW1Cv8qrMylfmiIosSwFmK72-h-LTinSr1bpDVfNm1p8SlrILxKesdgw/s1080/1000008187.png",Islamic TV (775ms [BDIX]) (775ms [BDIX]) (775ms)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🕌 Religious & Islamic" tvg-name="Maah Live (749ms [BDIX]) (749ms)" tvg-logo="https://i.imgur.com/colOISC.jpeg",Maah Live (749ms [BDIX]) (749ms)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="🕌 Religious & Islamic" tvg-name="MADANI TV (141ms [BDIX]) (141ms)" tvg-logo="https://s3.aynaott.com/storage/813fca9bc7df9a4810efe2eb87c57039",MADANI TV (141ms [BDIX]) (141ms)
+#EXTINF:-1 group-title="🕌 Religious & Islamic" tvg-name="MADANI TV (141ms [BDIX]) (141ms [BDIX]) (141ms)" tvg-logo="https://s3.aynaott.com/storage/813fca9bc7df9a4810efe2eb87c57039",MADANI TV (141ms [BDIX]) (141ms [BDIX]) (141ms)
 https://tvsen7.aynaott.com/MadaniTV/index.m3u8?e=1779283937&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8e3699711dd88227b533acc570b06a7b
 
-#EXTINF:-1 group-title="🕌 Religious & Islamic" tvg-id="MercyTV" tvg-name="MercyTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Mercy_TV.jpg",Mercy TV (88ms [BDIX]) (88ms)
+#EXTINF:-1 group-title="🕌 Religious & Islamic" tvg-id="MakkahLive.sa" tvg-name="MakkahLive.sa" tvg-logo="https://i.pinimg.com/originals/de/fc/23/defc2375723ec0e5d75ad1c7595e7dce.jpg",Makkah Live HD (749ms)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🕌 Religious & Islamic" tvg-id="MercyTV" tvg-name="MercyTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Mercy_TV.jpg",Mercy TV (88ms [BDIX]) (88ms [BDIX]) (88ms)
 https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
 
-#EXTINF:-1 group-title="🎵 Music & Lifestyle" tvg-id="75412270-ce20-4376-8e7f-21fc76f84ed4" tvg-name="75412270-ce20-4376-8e7f-21fc76f84ed4" tvg-logo="https://s3.aynaott.com/storage/80424ce0682e14e7d51e28de33d5f380",Sangeet Bangla (Server 1 - 297ms [BDIX]) (297ms)
+#EXTINF:-1 group-title="🎵 Music & Lifestyle" tvg-id="75412270-ce20-4376-8e7f-21fc76f84ed4" tvg-name="75412270-ce20-4376-8e7f-21fc76f84ed4" tvg-logo="https://s3.aynaott.com/storage/80424ce0682e14e7d51e28de33d5f380",Sangeet Bangla (Server 1 - 297ms [BDIX]) (297ms [BDIX]) (297ms)
 https://tvsen6.aynaott.com/hT5jHczt/index.m3u8?e=1784102630&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36c90e8e5a1cee8374378d93fb7c4971
