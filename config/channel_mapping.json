@@ -1,0 +1,440 @@
+{
+  "categories": [
+    "🇧🇩 BD | News",
+    "🇧🇩 BD | Entertainment",
+    "🇧🇩 BD | Movies & Drama",
+    "🇧🇩 BD | Music",
+    "⚽ Sports | Live & Cricket",
+    "⚽ Sports | Football & International",
+    "🇮🇳 India | Entertainment & Hindi",
+    "🇮🇳 India | Bengali (Kolkata)",
+    "🇮🇳 India | News",
+    "🎬 Movies | Hindi & International",
+    "🌍 Documentary & Wildlife",
+    "👶 Kids & Animation",
+    "🕌 Religious & Islamic",
+    "🎵 Music & Lifestyle"
+  ],
+  "channels": [
+    {
+      "name": "Somoy TV HD",
+      "category": "🇧🇩 BD | News",
+      "aliases": ["somoy tv", "somoy news", "somoy", "সময় টিভি"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Somoy_TV_logo.svg/330px-Somoy_TV_logo.svg.png",
+      "tvg_id": "SomoyTV.bd"
+    },
+    {
+      "name": "Jamuna TV HD",
+      "category": "🇧🇩 BD | News",
+      "aliases": ["jamuna tv", "jamuna television", "যমুনা টিভি"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Jamuna_Television_logo.svg/330px-Jamuna_Television_logo.svg.png",
+      "tvg_id": "JamunaTV.bd"
+    },
+    {
+      "name": "Ekattor TV HD",
+      "category": "🇧🇩 BD | News",
+      "aliases": ["ekattor tv", "ekattor", "71 tv", "একাত্তর টিভি"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Ekattor_TV_logo.svg/330px-Ekattor_TV_logo.svg.png",
+      "tvg_id": "EkattorTV.bd"
+    },
+    {
+      "name": "DBC News HD",
+      "category": "🇧🇩 BD | News",
+      "aliases": ["dbc news", "dbc tv", "ডিবিসি নিউজ"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/DBC_News_logo.svg/330px-DBC_News_logo.svg.png",
+      "tvg_id": "DBCNews.bd"
+    },
+    {
+      "name": "Channel 24 HD",
+      "category": "🇧🇩 BD | News",
+      "aliases": ["channel 24", "channel24", "চ্যানেল ২৪"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Channel_24_logo.svg/330px-Channel_24_logo.svg.png",
+      "tvg_id": "Channel24.bd"
+    },
+    {
+      "name": "Independent TV HD",
+      "category": "🇧🇩 BD | News",
+      "aliases": ["independent tv", "independent television", "ইন্ডিপেন্ডেন্ট টিভি"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Independent_Television_logo.svg/330px-Independent_Television_logo.svg.png",
+      "tvg_id": "IndependentTV.bd"
+    },
+    {
+      "name": "News 24 HD",
+      "category": "🇧🇩 BD | News",
+      "aliases": ["news 24", "news24 bd", "নিউজ ২৪"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/News24_logo.svg/330px-News24_logo.svg.png",
+      "tvg_id": "News24.bd"
+    },
+    {
+      "name": "ATN News HD",
+      "category": "🇧🇩 BD | News",
+      "aliases": ["atn news", "এটিএন নিউজ"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/ATN_News_logo.svg/330px-ATN_News_logo.svg.png",
+      "tvg_id": "ATNNews.bd"
+    },
+    {
+      "name": "BTV National",
+      "category": "🇧🇩 BD | News",
+      "aliases": ["btv", "bangladesh television", "btv national", "বিটিভি"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Bangladesh_Television_logo.svg/330px-Bangladesh_Television_logo.svg.png",
+      "tvg_id": "BTV.bd"
+    },
+    {
+      "name": "BTV World",
+      "category": "🇧🇩 BD | News",
+      "aliases": ["btv world", "বিটিভি ওয়ার্ল্ড"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Bangladesh_Television_logo.svg/330px-Bangladesh_Television_logo.svg.png",
+      "tvg_id": "BTVWorld.bd"
+    },
+    {
+      "name": "T Sports HD",
+      "category": "⚽ Sports | Live & Cricket",
+      "aliases": ["t sports", "t-sports", "tsports", "t sports hd", "টি স্পোর্টস"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/T_Sports_logo.svg/330px-T_Sports_logo.svg.png",
+      "tvg_id": "TSports.bd"
+    },
+    {
+      "name": "GTV (Gazi TV)",
+      "category": "⚽ Sports | Live & Cricket",
+      "aliases": ["gtv", "gazi tv", "gazi television", "গাজী টিভি"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Gazi_TV_logo.svg/330px-Gazi_TV_logo.svg.png",
+      "tvg_id": "GaziTV.bd"
+    },
+    {
+      "name": "Channel i HD",
+      "category": "🇧🇩 BD | Entertainment",
+      "aliases": ["channel i", "channel-i", "চ্যানেল আই"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Channel_i_logo.svg/330px-Channel_i_logo.svg.png",
+      "tvg_id": "Channeli.bd"
+    },
+    {
+      "name": "NTV HD",
+      "category": "🇧🇩 BD | Entertainment",
+      "aliases": ["ntv", "ntv bd", "এনটিভি"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/NTV_logo.svg/330px-NTV_logo.svg.png",
+      "tvg_id": "NTV.bd"
+    },
+    {
+      "name": "Rtv HD",
+      "category": "🇧🇩 BD | Entertainment",
+      "aliases": ["rtv", "rtv hd", "আরটিভি"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Rtv_logo.svg/330px-Rtv_logo.svg.png",
+      "tvg_id": "RTV.bd"
+    },
+    {
+      "name": "Banglavision HD",
+      "category": "🇧🇩 BD | Entertainment",
+      "aliases": ["banglavision", "bangla vision", "বাংলাভিশন"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Banglavision_logo.svg/330px-Banglavision_logo.svg.png",
+      "tvg_id": "Banglavision.bd"
+    },
+    {
+      "name": "Maasranga TV HD",
+      "category": "🇧🇩 BD | Entertainment",
+      "aliases": ["maasranga", "maasranga tv", "মাছরাঙা টিভি"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Maasranga_Television_logo.svg/330px-Maasranga_Television_logo.svg.png",
+      "tvg_id": "MaasrangaTV.bd"
+    },
+    {
+      "name": "Deepto TV HD",
+      "category": "🇧🇩 BD | Entertainment",
+      "aliases": ["deepto", "deepto tv", "দীপ্ত টিভি"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Deepto_TV_logo.svg/330px-Deepto_TV_logo.svg.png",
+      "tvg_id": "DeeptoTV.bd"
+    },
+    {
+      "name": "ATN Bangla HD",
+      "category": "🇧🇩 BD | Entertainment",
+      "aliases": ["atn bangla", "এটিএন বাংলা"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/ATN_Bangla_logo.svg/330px-ATN_Bangla_logo.svg.png",
+      "tvg_id": "ATNBangla.bd"
+    },
+    {
+      "name": "Nagorik TV HD",
+      "category": "🇧🇩 BD | Entertainment",
+      "aliases": ["nagorik", "nagorik tv", "নাগরিক টিভি"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Nagorik_TV_logo.svg/330px-Nagorik_TV_logo.svg.png",
+      "tvg_id": "NagorikTV.bd"
+    },
+    {
+      "name": "Channel 9 HD",
+      "category": "🇧🇩 BD | Entertainment",
+      "aliases": ["channel 9", "channel nine", "চ্যানেল নাইন"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Channel_9_logo_%28Bangladesh%29.svg/330px-Channel_9_logo_%28Bangladesh%29.svg.png",
+      "tvg_id": "Channel9.bd"
+    },
+    {
+      "name": "Boishakhi TV HD",
+      "category": "🇧🇩 BD | Entertainment",
+      "aliases": ["boishakhi", "boishakhi tv", "বৈশাখী টিভি"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Boishakhi_TV_logo.svg/330px-Boishakhi_TV_logo.svg.png",
+      "tvg_id": "BoishakhiTV.bd"
+    },
+    {
+      "name": "Desh TV HD",
+      "category": "🇧🇩 BD | Entertainment",
+      "aliases": ["desh tv", "দেশ টিভি"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Desh_TV_logo.svg/330px-Desh_TV_logo.svg.png",
+      "tvg_id": "DeshTV.bd"
+    },
+    {
+      "name": "Bijoy TV HD",
+      "category": "🇧🇩 BD | Entertainment",
+      "aliases": ["bijoy tv", "বিজয় টিভি"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Bijoy_TV_logo.svg/330px-Bijoy_TV_logo.svg.png",
+      "tvg_id": "BijoyTV.bd"
+    },
+    {
+      "name": "Bangla TV HD",
+      "category": "🇧🇩 BD | Entertainment",
+      "aliases": ["bangla tv", "বাংলা টিভি"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Bangla_TV_logo.svg/330px-Bangla_TV_logo.svg.png",
+      "tvg_id": "BanglaTV.bd"
+    },
+    {
+      "name": "Ananda TV HD",
+      "category": "🇧🇩 BD | Entertainment",
+      "aliases": ["ananda tv", "আনন্দ টিভি"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Ananda_TV_logo.svg/330px-Ananda_TV_logo.svg.png",
+      "tvg_id": "AnandaTV.bd"
+    },
+    {
+      "name": "Duronto TV HD",
+      "category": "👶 Kids & Animation",
+      "aliases": ["duronto", "duronto tv", "দুরন্ত টিভি"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Duronto_TV_logo.svg/330px-Duronto_TV_logo.svg.png",
+      "tvg_id": "DurontoTV.bd"
+    },
+    {
+      "name": "Gaan Bangla HD",
+      "category": "🇧🇩 BD | Music",
+      "aliases": ["gaan bangla", "গান বাংলা"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Gaan_Bangla_logo.svg/330px-Gaan_Bangla_logo.svg.png",
+      "tvg_id": "GaanBangla.bd"
+    },
+    {
+      "name": "Star Sports 1 HD",
+      "category": "⚽ Sports | Live & Cricket",
+      "aliases": ["star sports 1", "star sports 1 hd", "star sports 1 english"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Star_Sports_1_logo.svg/330px-Star_Sports_1_logo.svg.png",
+      "tvg_id": "StarSports1.in"
+    },
+    {
+      "name": "Star Sports 1 Hindi HD",
+      "category": "⚽ Sports | Live & Cricket",
+      "aliases": ["star sports 1 hindi", "star sports hindi"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Star_Sports_1_Hindi_logo.svg/330px-Star_Sports_1_Hindi_logo.svg.png",
+      "tvg_id": "StarSportsHindi.in"
+    },
+    {
+      "name": "Star Sports 2 HD",
+      "category": "⚽ Sports | Live & Cricket",
+      "aliases": ["star sports 2", "star sports 2 hd"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Star_Sports_2_logo.svg/330px-Star_Sports_2_logo.svg.png",
+      "tvg_id": "StarSports2.in"
+    },
+    {
+      "name": "Sony Sports Ten 1 HD",
+      "category": "⚽ Sports | Live & Cricket",
+      "aliases": ["sony ten 1", "sony ten 1 hd", "sony sports ten 1", "ten 1"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Sony_Sports_Ten_1_logo.svg/330px-Sony_Sports_Ten_1_logo.svg.png",
+      "tvg_id": "SonyTen1.in"
+    },
+    {
+      "name": "Sony Sports Ten 2 HD",
+      "category": "⚽ Sports | Football & International",
+      "aliases": ["sony ten 2", "sony ten 2 hd", "sony sports ten 2", "ten 2"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Sony_Sports_Ten_2_logo.svg/330px-Sony_Sports_Ten_2_logo.svg.png",
+      "tvg_id": "SonyTen2.in"
+    },
+    {
+      "name": "Sony Sports Ten 3 HD",
+      "category": "⚽ Sports | Live & Cricket",
+      "aliases": ["sony ten 3", "sony ten 3 hd", "sony sports ten 3", "ten 3"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Sony_Sports_Ten_3_logo.svg/330px-Sony_Sports_Ten_3_logo.svg.png",
+      "tvg_id": "SonyTen3.in"
+    },
+    {
+      "name": "Sony Sports Ten 5 HD",
+      "category": "⚽ Sports | Football & International",
+      "aliases": ["sony ten 5", "sony ten 5 hd", "sony sports ten 5", "sony six", "ten 5"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Sony_Sports_Ten_5_logo.svg/330px-Sony_Sports_Ten_5_logo.svg.png",
+      "tvg_id": "SonyTen5.in"
+    },
+    {
+      "name": "Willow TV HD",
+      "category": "⚽ Sports | Live & Cricket",
+      "aliases": ["willow", "willow tv", "willow cricket", "willow hd"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Willow_TV_logo.svg/330px-Willow_TV_logo.svg.png",
+      "tvg_id": "WillowTV.us"
+    },
+    {
+      "name": "A Sports HD",
+      "category": "⚽ Sports | Live & Cricket",
+      "aliases": ["a sports", "a-sports", "asports"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/A_Sports_logo.svg/330px-A_Sports_logo.svg.png",
+      "tvg_id": "ASports.pk"
+    },
+    {
+      "name": "PTV Sports HD",
+      "category": "⚽ Sports | Live & Cricket",
+      "aliases": ["ptv sports", "ptv sports hd"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/PTV_Sports_logo.svg/330px-PTV_Sports_logo.svg.png",
+      "tvg_id": "PTVSports.pk"
+    },
+    {
+      "name": "Zee Bangla HD",
+      "category": "🇮🇳 India | Bengali (Kolkata)",
+      "aliases": ["zee bangla", "জী বাংলা"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee_Bangla_logo.svg/330px-Zee_Bangla_logo.svg.png",
+      "tvg_id": "ZeeBangla.in"
+    },
+    {
+      "name": "Star Jalsha HD",
+      "category": "🇮🇳 India | Bengali (Kolkata)",
+      "aliases": ["star jalsha", "স্টার জলসা"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Star_Jalsha_logo.svg/330px-Star_Jalsha_logo.svg.png",
+      "tvg_id": "StarJalsha.in"
+    },
+    {
+      "name": "Jalsha Movies HD",
+      "category": "🇮🇳 India | Bengali (Kolkata)",
+      "aliases": ["jalsha movies", "জলসা মুভিজ"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Jalsha_Movies_logo.svg/330px-Jalsha_Movies_logo.svg.png",
+      "tvg_id": "JalshaMovies.in"
+    },
+    {
+      "name": "Colors Bangla HD",
+      "category": "🇮🇳 India | Bengali (Kolkata)",
+      "aliases": ["colors bangla", "কালার্স বাংলা"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Colors_Bangla_logo.svg/330px-Colors_Bangla_logo.svg.png",
+      "tvg_id": "ColorsBangla.in"
+    },
+    {
+      "name": "Sony Aath",
+      "category": "🇮🇳 India | Bengali (Kolkata)",
+      "aliases": ["sony aath", "সোনি আট"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Sony_Aath_logo.svg/330px-Sony_Aath_logo.svg.png",
+      "tvg_id": "SonyAath.in"
+    },
+    {
+      "name": "Zee TV HD",
+      "category": "🇮🇳 India | Entertainment & Hindi",
+      "aliases": ["zee tv", "zee tv hd"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Zee_TV_logo.svg/330px-Zee_TV_logo.svg.png",
+      "tvg_id": "ZeeTV.in"
+    },
+    {
+      "name": "Colors HD",
+      "category": "🇮🇳 India | Entertainment & Hindi",
+      "aliases": ["colors", "colors hd", "colors tv"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Colors_TV_logo.svg/330px-Colors_TV_logo.svg.png",
+      "tvg_id": "ColorsTV.in"
+    },
+    {
+      "name": "Sony Entertainment Television HD",
+      "category": "🇮🇳 India | Entertainment & Hindi",
+      "aliases": ["set hd", "sony entertainment", "sony tv", "set india"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Sony_Entertainment_Television_logo.svg/330px-Sony_Entertainment_Television_logo.svg.png",
+      "tvg_id": "SonySET.in"
+    },
+    {
+      "name": "Sony SAB HD",
+      "category": "🇮🇳 India | Entertainment & Hindi",
+      "aliases": ["sony sab", "sab tv", "sab hd"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Sony_SAB_logo.svg/330px-Sony_SAB_logo.svg.png",
+      "tvg_id": "SonySAB.in"
+    },
+    {
+      "name": "Star Plus HD",
+      "category": "🇮🇳 India | Entertainment & Hindi",
+      "aliases": ["star plus", "star plus hd"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Star_Plus_logo.svg/330px-Star_Plus_logo.svg.png",
+      "tvg_id": "StarPlus.in"
+    },
+    {
+      "name": "Star Bharat HD",
+      "category": "🇮🇳 India | Entertainment & Hindi",
+      "aliases": ["star bharat", "star bharat hd"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Star_Bharat_logo.svg/330px-Star_Bharat_logo.svg.png",
+      "tvg_id": "StarBharat.in"
+    },
+    {
+      "name": "Zee Cinema HD",
+      "category": "🎬 Movies | Hindi & International",
+      "aliases": ["zee cinema", "zee cinema hd"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Zee_Cinema_logo.svg/330px-Zee_Cinema_logo.svg.png",
+      "tvg_id": "ZeeCinema.in"
+    },
+    {
+      "name": "Sony MAX HD",
+      "category": "🎬 Movies | Hindi & International",
+      "aliases": ["sony max", "sony max hd", "max hd"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Sony_MAX_logo.svg/330px-Sony_MAX_logo.svg.png",
+      "tvg_id": "SonyMAX.in"
+    },
+    {
+      "name": "Star Gold HD",
+      "category": "🎬 Movies | Hindi & International",
+      "aliases": ["star gold", "star gold hd"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Star_Gold_logo.svg/330px-Star_Gold_logo.svg.png",
+      "tvg_id": "StarGold.in"
+    },
+    {
+      "name": "Discovery Channel HD",
+      "category": "🌍 Documentary & Wildlife",
+      "aliases": ["discovery", "discovery channel", "discovery hd"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Discovery_Channel_logo.svg/330px-Discovery_Channel_logo.svg.png",
+      "tvg_id": "Discovery.in"
+    },
+    {
+      "name": "National Geographic HD",
+      "category": "🌍 Documentary & Wildlife",
+      "aliases": ["national geographic", "nat geo", "nat geo wild", "nat geo hd"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/National_Geographic_logo.svg/330px-National_Geographic_logo.svg.png",
+      "tvg_id": "NatGeo.in"
+    },
+    {
+      "name": "Animal Planet HD",
+      "category": "🌍 Documentary & Wildlife",
+      "aliases": ["animal planet", "animal planet hd"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Animal_Planet_logo.svg/330px-Animal_Planet_logo.svg.png",
+      "tvg_id": "AnimalPlanet.in"
+    },
+    {
+      "name": "Cartoon Network HD",
+      "category": "👶 Kids & Animation",
+      "aliases": ["cartoon network", "cn", "cartoon network hd"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Cartoon_Network_logo.svg/330px-Cartoon_Network_logo.svg.png",
+      "tvg_id": "CartoonNetwork.in"
+    },
+    {
+      "name": "Nickelodeon HD",
+      "category": "👶 Kids & Animation",
+      "aliases": ["nickelodeon", "nick", "nick hd", "nick india"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Nickelodeon_logo.svg/330px-Nickelodeon_logo.svg.png",
+      "tvg_id": "Nickelodeon.in"
+    },
+    {
+      "name": "Peace TV Bangla",
+      "category": "🕌 Religious & Islamic",
+      "aliases": ["peace tv bangla", "peace tv", "পিস টিভি বাংলা"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Peace_TV_logo.svg/330px-Peace_TV_logo.svg.png",
+      "tvg_id": "PeaceTVBangla.bd"
+    },
+    {
+      "name": "Makkah Live HD",
+      "category": "🕌 Religious & Islamic",
+      "aliases": ["makkah live", "mecca live", "quran tv"],
+      "logo": "https://i.imgur.com/WpMA9kC.png",
+      "tvg_id": "MakkahLive.sa"
+    },
+    {
+      "name": "Madinah Live HD",
+      "category": "🕌 Religious & Islamic",
+      "aliases": ["madinah live", "medina live", "sunnah tv"],
+      "logo": "https://i.imgur.com/WpMA9kC.png",
+      "tvg_id": "MadinahLive.sa"
+    }
+  ]
+}

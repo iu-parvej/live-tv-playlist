@@ -1,0 +1,396 @@
+#EXTM3U
+# Last Updated: 2026-10-28 05:09 PM (Local Time)
+# Dedicated Sports Live Playlist
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="GO 3 sport 3" tvg-name="GO 3 sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg",---Live(GO 3 sport 1)---
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/18000/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="GO 3 sport 3" tvg-name="GO 3 sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Go3_Sport_2_II.svg",---Live(GO 3 sport 2)---
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/18012/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="GO 3 sport 3" tvg-name="GO 3 sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Go3_Sport_3_II.svg",---Live(GO 3 sport 3)---
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/18025/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="starsportsselect1.in" tvg-name="starsportsselect1.in" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png",---Live(STAR SPORTS SELECT 2 HD)---
+http://tvsen7.aynascope.net/ssport2hd/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="live" tvg-name="live" tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp",--Live(A Sports)--
+https://playztv-apps.pages.dev/a-sports/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="BeINSPORTS1" tvg-name="BeINSPORTS1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg",--Live(beIN SPORTS 1)--
+http://27.124.71.27/beIN_Sports_1/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="BeiNSportsExtra" tvg-name="BeiNSportsExtra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",--Live(beIN SPORTS XTRA)--
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="PK Sport" tvg-name="PK Sport" tvg-logo="https://yt3.googleusercontent.com/XX0FFJh-IXSzbl9Q6AOJXDvRRrb-himkBB4YWsbuDYoS7ICvjrdQ5-JkJV8bsNcP1w7GoM-lJw=s900-c-k-c0x00ffffff-no-rj",--Live(P Sports HD)--
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="WillowExtraHD" tvg-name="WillowExtraHD" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",--Live(WiLLoW HD)--
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="157.Bein Sports Xtra HD",157.Bein Sports Xtra HD
+https://chostv.mobie.in/choos/sports/beinxtra.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="2TV Sport",2TV Sport
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="5 SPORT",5 SPORT
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ASports.pk" tvg-name="ASports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/A_Sports_logo.svg/330px-A_Sports_logo.svg.png",A Sports HD
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="abaddi 24x7" tvg-logo="https://papaji.freetvindia.com/media/kabaddi_24x7.png",abaddi 24x7
+https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ABCSportin90Seconds" tvg-name="ABCSportin90Seconds" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/ABC_News_2021_%28stacked%29.svg",ABC Sport in 90 Seconds
+https://c.mjh.nz/sport_in_90_seconds
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Bahrain Sports 1" tvg-logo="https://s3.aynaott.com/storage/f55bea3263be1af187fe1122e4f44142",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ca3fc4a9-af30-4a81-b915-239d8f975a85" tvg-name="ca3fc4a9-af30-4a81-b915-239d8f975a85" tvg-logo="https://s3.aynaott.com/storage/3f60ee0c945319f264361f201a52ed49",Bein Sports 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Bein Tv" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png",Bein Tv
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Bloomberg TV" tvg-logo="https://s3.aynaott.com/storage/253dcc8b5951160d6aa26bc5ac65ddb8",Bloomberg TV
+https://tvsen6.aynaott.com/bloombergtv/index.m3u8?e=1779283799&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ecba4c0cf6ffc82d2d0dfc78f69c1061
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="CricketGold" tvg-name="CricketGold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Cricket-Gold-Channel_black.png",CR | Cricet Gold
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="FoxCricket501" tvg-name="FoxCricket501" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg",CR | Fox Cricet 501 HD
+http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/19146/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="starsports1hindi.in" tvg-name="starsports1hindi.in" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png",CR | Star Sports 1 Hindi
+https://starsportshindiii.pages.dev/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-name="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-logo="https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",Cricet Gold
+https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="DD Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvJ1HtheTbTZjOoXTO9KRK1fIhh1uXhyvSckbf05J7yIcdT4ZucX1fvfjnyiv9QK-m0pBK6MoY6KhcVPQpsRSXdgBFU612nmbKpY864gsoMvMaCyu_fOdNVbx6ADMbz2dftZ7-0Arzx81kC8nqbeduSEsquwrPpzNGm2wZw6rXHe79vlF7DokCavubWA/s600/Nur_20251107_160202_0000.png",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="DD Sports HD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",DD Sports HD
+https://cdn.pishow.tv/ott/live/1161/master.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Digi Sport 2",Digi Sport 2
+http://91.201.172.14:35006/
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="DSPORTS 1",DSPORTS 1
+http://190.117.20.37:8000/play/a08d/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Eurosport(src07).in(m3u4u)" tvg-name="Eurosport(src07).in(m3u4u)" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/eurosport-vector-logo.png",Euro Sports 4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="A SPOR" tvg-name="A SPOR" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",FB | A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="FIFA+" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png",FB | FIFA+
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="0a652ee3-b148-46d8-8cea-bed74d997b6c" tvg-name="0a652ee3-b148-46d8-8cea-bed74d997b6c" tvg-logo="https://s3.aynaott.com/storage/dc25a8382341855cd9847537971d869c",FIFA+
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="FIGHT NETWORK" tvg-name="FIGHT NETWORK" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/7607dd92-7305-4bab-886e-c38fe745fff7",FIGHT | FIGHT NETWOR
+https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Lucha Plus" tvg-name="Lucha Plus" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/2cf051b6-a8b1-46ed-ac4c-2d0ef812dc90",FIGHT | Lucha Plus
+https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="MMA TV" tvg-name="MMA TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/9cb9b4ff-2958-4179-bd0b-bc9a44888cc7",FIGHT | MMA TV
+https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="MVMT Culture" tvg-name="MVMT Culture" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/98403785-3bba-4f7d-bee8-0eada4d790c8",FIGHT | MVMT Culture
+https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="US350000231" tvg-name="US350000231" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US350000231_20241119T020436SQUARE.png",FIGHT | PFL
+https://d2w9b8sam7j3zv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5g55ahrn9ajah/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="TNA Wrestling Channel" tvg-name="TNA Wrestling Channel" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/67c2dd14-d8c7-47fa-99e5-452f2715e404",FIGHT | TNA Wrestling Channel
+https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Golf Network" tvg-name="Golf Network" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/aef93e60-809c-4253-8a6f-012ad4a18842",GOLF | Golf Networ
+https://streams2.sofast.tv/ptnr-sportstribal/genre-Sports/lang-English/ctgr-Sport/title-Golf_Network/sofastplayout/b7500c3f-bd94-4725-abfd-2644e004132c/manifest.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="GOLFPASS" tvg-name="GOLFPASS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20240924T225013SQUARE.png",GOLF | GOLFPASS
+https://d2icntm6fhxrry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-egqimi4i6n3rh/master.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Unbeaten" tvg-name="Unbeaten" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/09fa93ff-a539-4d81-bbbf-da599e11e77c",GOLF | Unbeaten (Worldwide)
+https://amg00721-amg00721c6-freelivesports-emea-9595.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00721-inverleigh-unbtn3row-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="GaziTV.bd" tvg-name="GaziTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Gazi_TV_logo.svg/330px-Gazi_TV_logo.svg.png",GTV (Gazi TV)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Horse & Country",Horse & Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-logo="https://i.imgur.com/Plcqlr7.jpg",Jordan Sports ARB
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Marquee Sports Networ" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",Marquee Sports Networ
+https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8?e=1779283796&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a91e537a0eb1a24ed472a508e90fefcc
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MAX SPORT 1",MAX SPORT 1
+http://77.46.130.252:99/maxsport1
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MAX SPORT 2",MAX SPORT 2
+http://77.46.130.252:99/maxsport2
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MAX SPORT 3",MAX SPORT 3
+http://77.46.130.252:99/maxsport3
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MAX SPORT 4",MAX SPORT 4
+http://77.46.130.252:99/maxsport4
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ACETV" tvg-name="ACETV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a0198825-7700-4a3a-8399-338e8e1d9c64",MIXER | ACE TV
+https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Bein Sport HD 1" tvg-name="Bein Sport HD 1" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",MIXER | Bein Sport HD 1
+http://ua102.online24.pm:8222/1101/video.m3u8?token=350B326FB34F4B8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Cornhole TV" tvg-name="Cornhole TV" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/47355675-c7fe-49b7-943a-507b3fa938e4",MIXER | Cornhole TV
+https://bbb-aclco-freelivesports.otteravision.com/bbb/aclco/aclco.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="FUELTV" tvg-name="FUELTV" tvg-logo="https://a.jsrdn.com/hls/23055/fuel-tv-ww/logo_20231219_202054_68.png",MIXER | FUEL TV
+https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/ts-eu-w1-n2/playlist/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="HOOP TV" tvg-name="HOOP TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/4454e89b-ea81-4752-a9bb-6db85b40a194",MIXER | HOOP TV
+https://amg00585-amg00585c9-sportstribal-emea-5518.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-hooptv-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Horse & Country" tvg-name="Horse & Country" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/403787aa-0d0a-440c-9056-84226a5c4a82",MIXER | Horse & Country
+https://sportstri-hncfree-sportstribal-rb7j8.amagi.tv/playlist/sportstri-hncfree-sportstribal/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MIXER | Hunt Fish TV" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3b03051b-d5ae-4e42-b41d-b2d338db5a91",MIXER | Hunt Fish TV
+https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="InTrouble" tvg-name="InTrouble" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/be5d5d67-3049-4ab3-829e-eadac9a1c986",MIXER | InTrouble
+https://amg00861-terninternation-introuble-sportstribal-sog8f.amagi.tv/ts-us-e2-n1/playlist/amg00861-terninternation-introuble-sportstribal/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonySports-3HD" tvg-name="SonySports-3HD" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",MIXER | Marquee Sports Networ
+https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Red Bull TV UK" tvg-name="Red Bull TV UK" tvg-logo="https://www.google.com/s2/favicons?sz=128&domain=redbull.com",MIXER | Red Bull TV U
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="redbull.tv" tvg-name="redbull.tv" tvg-logo="https://openpaddock.net/wp-content/uploads/2014/11/RedbullTV_blue.jpg",MIXER | Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Sports Fishing" tvg-name="Sports Fishing" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/4f11d7b4-99e6-447e-b517-10dbb827a67c",MIXER | Sports Fishing
+https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SportsGrid" tvg-name="SportsGrid" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/SPORTSGRID_LOGO_BLACK_RED_LOGO.svg",MIXER | SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlistR432p.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Strongman Champions League" tvg-name="Strongman Champions League" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001089_20250107T153921SQUARE.png",MIXER | Strongman Champions League
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/playlist.m3u8?ads.wurl_channel=1102&ads.wurl_name=StrongmanChampionsLeague&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="TraceSportsStars" tvg-name="TraceSportsStars" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Trace_Sport_Stars_%282022%29.svg",MIXER | Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Unbeaten.us@SD" tvg-name="Unbeaten.us@SD" tvg-logo="https://i.imgur.com/LmkNt3v.png",MIXER | Unbeaten Sports Channel
+https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MIXER | WOF 1" tvg-logo="https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6",MIXER | WOF 1
+https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="World of Freesports" tvg-name="World of Freesports" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/ef4c576d-49fb-4997-afe1-55f0b11d7982",MIXER | World of Freesports
+https://amg01866-mainstreammedia-freesportsinc-sportstribal-b3zdo.amagi.tv/ts-eu-w1-n2/playlist/amg01866-mainstreammedia-freesportsinc-sportstribal/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MMN Sport",MMN Sport
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MORE THEN SPORTS TV" tvg-logo="https://s3.aynaott.com/storage/39174e32d4f8d29a95c881637fe1ecdb",MORE THEN SPORTS TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="MTRSPT",MTRSPT
+https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="NBC Sports" tvg-logo="https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086",NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Oman Sports TV" tvg-logo="https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9",Oman Sports TV
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="ON Sports+",ON Sports+
+https://freem3u.xyz/api/live/play.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="BEKSportsWest.us" tvg-name="BEKSportsWest.us" tvg-logo="https://appcmsprod.viewlift.com/eae092c0-d256-11ed-9371-6da166a39e0f/images/bek-tv-plus-web-logo-noc-1280X728.png",OTHER | BE TV Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="CowboyTV" tvg-name="CowboyTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Cowboy_Channel_logo.png",OTHER | Cowboy TV
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Poker Night In America" tvg-name="Poker Night In America" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/1d91fc37-a75c-4490-8739-f9c79a8f9432",POER | Poer Night In America
+https://e8d2c508ef1e469db82ceacd3c2685bc.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1068-Poker-Night-in-America-FREELIVESPORTS/mt/freelivesports/1068/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c4779d42-4a0d-4a4d-a455-df67f3151d8f",POER | World Poer Tour
+https://amg00218-wptenterprises-amg00218c1-sportstribal-emea-1900.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="PTVSports.pk" tvg-name="PTVSports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/PTV_Sports_logo.svg/330px-PTV_Sports_logo.svg.png",PTV Sports HD
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102658&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=b75669e4aa0dd58c602b637ab66af304
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="FloRacing" tvg-name="FloRacing" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3ae62aeb-63b4-4f70-966b-16b0c39dd0c2",RACING | FloRacing
+https://amg02278-amg02278c1-freelivesports-emea-7535.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02278-flosports-floracing24x7-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Hagerty" tvg-name="Hagerty" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200011W4_20240709T002126SQUARE.png",RACING | Hagerty
+https://dqw6u0upa8l21.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0etl87ne2tj77/Hagerty.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Motor Vision" tvg-name="Motor Vision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Motorvision_2023.svg",RACING | Motor Vision
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="RACER International" tvg-name="RACER International" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/9fc17fec-6c99-4dc0-9fe5-abe85faeab49",RACING | RACER International
+https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJ0u_f7qrlarYoOVcyaPfUCKApEXWmQRU7-Q&usqp=CAU",Rad Bull TV
+http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_928.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Rai Sport %C" tvg-logo="https://i.imgur.com/xsGljsb.png",Rai Sport %C
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Real Madrid" tvg-logo="https://pbs.twimg.com/profile_images/896773300667461633/F75hrQfN_400x400.jpg",Real Madrid
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="RealMadrid TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIrYIZ_ikoVf53Qy0W15x4R_7pAhLBz-evNTXx7pP8pgrUwyifH6IQiD3juwyCKhwP9itQ3DRuTJMQKY-j_14JSXoo8a8lwAOUUaqk6mJYG-ln7MqPhYzhszfvrf-IoJ23AGNt4Vic_PpK_o6gXvr4YAD1Bd4ob-TwzO_e0Nj1-e7JfYQqivhDMbwC3A/s1080/1000059179.png",RealMadrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?@amarnettv.live
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Redbull TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I_gjgaJYlqDQGjAj96xh8S-5GZe_CZQK3w&usqp=CAU",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Rete 8 Sport" tvg-logo="https://i.imgur.com/uUAjWlF.png",Rete 8 Sport
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="RugbyPass TV" tvg-name="RugbyPass TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB330000144_20250624T020553SQUARE.png",RugbyPass TV
+https://97bf7b92.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9SdWdieVBhc3NUVl9ITFM/playlist.m3u8?ads.wurl_channel=1872&ads.wurl_name=RugbyPassTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Setanta Sport",Setanta Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Setenta Sport 2",Setenta Sport 2
+http://cdntv.online/low/9mlxywika2/1022.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonyTen1.in" tvg-name="SonyTen1.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Sony_Sports_Ten_1_logo.svg/330px-Sony_Sports_Ten_1_logo.svg.png",Sony Sports Ten 1 HD
+http://103.151.60.162:2122/play/a01c/index.m3u8?hls
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sony Sports Ten 3 Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",Sony Sports Ten 3 Hindi
+http://103.151.60.162:2122/play/a01t/index.m3u8?hls
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sony Sports2 HD" tvg-logo="https://i.imgur.com/ES4Aq69.png",Sony Sports2 HD
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/sonyten2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="speed sports 1" tvg-logo="https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e",speed sports 1
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sport2U" tvg-logo="https://i.imgur.com/WW0lNk1.png",Sport2U
+https://stream9.xdevel.com/video0s976916-1685/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sport5",Sport5
+https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sportdigital",Sportdigital
+https://jmp2.uk/stvp-ATAJ0500433A
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="SportOutdoor.tv" tvg-logo="https://i.imgur.com/fwOuEBl.png",SportOutdoor.tv
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="SPORTS FIRST TV" tvg-logo="https://s3.aynaott.com/storage/748d28752dcf95740561f1ac39e15fc3",SPORTS FIRST TV
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Fishing TV",Sports Fishing TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Grid" tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",Sports Grid
+https://tvsen6.aynaott.com/SportsGrid/index.m3u8?e=1779283798&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=652ed8ae174a9efdb335fb31355f0fb5
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Live",Sports Live
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102508&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=58eaaf823b8b124213229ac251f2efbc
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="StarSports1.in" tvg-name="StarSports1.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Star_Sports_1_logo.svg/330px-Star_Sports_1_logo.svg.png",Star Sports 1 HD
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/sonyten5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="StarSports2.in" tvg-name="StarSports2.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Star_Sports_2_logo.svg/330px-Star_Sports_2_logo.svg.png",Star Sports 2 HD
+http://103.151.60.162:2122/play/a00v/index.m3u8?hls
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 1" tvg-logo="https://i.imgur.com/Uf9kaSQ.jpeg",Star Sports Select 1
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/starselect1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png",Star Sports Select 1 HD
+http://103.151.60.162:2122/play/a026/index.m3u8?hls
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 2" tvg-logo="https://i.imgur.com/H5wcIUZ.png",Star Sports Select 2
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/starselect2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/FtRT73R.png",Star Sports Select 2 HD
+http://103.151.60.162:2122/play/a027/index.m3u8?hls
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Suspilne Sport" tvg-logo="https://i.imgur.com/16IhU0M.png",Suspilne Sport
+http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="SY SPORT LALIGA",SY SPORT LALIGA
+http://179.60.224.196:8000/play/a0i7/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="TSports.bd" tvg-name="TSports.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/T_Sports_logo.svg/330px-T_Sports_logo.svg.png",T Sports HD
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Tal Sport" tvg-logo="https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd",Tal Sport
+https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1779283794&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=24b590ae2b7927c00a9acc3a97bc5d86
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Pickle TV" tvg-name="Pickle TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/63fba2fd-ea9b-485f-bc45-44b1eef221a5",TANNIS | Picle TV
+https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Ten Cricet" tvg-logo="https://i.imgur.com/K5XIFuW.png",Ten Cricet
+http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Tennis TV Classics" tvg-name="Tennis TV Classics" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ea15b263-636c-4536-9a75-bde70ab88423",TENNIS | Tennis TV Classics
+https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="TNT SPORTS PREMIUM",TNT SPORTS PREMIUM
+http://200.115.120.1:8000/play/ca040/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="TR Sport",TR Sport
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Trace Sport",Trace Sport
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Turmenistan Sport",Turmenistan Sport
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="TV Sport Plus" tvg-logo="https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488",TV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="ext" tvg-name="ext",US Sports
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Willow Extra",Willow Extra
+http://27.124.71.27/Willow_Extra/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="WOF 1" tvg-logo="https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6",WOF 1
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="X SPORT",X SPORT
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="XSport %8" tvg-logo="https://i.imgur.com/CHDcfrT.png",XSport %8
+http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Xtream Sports" tvg-logo="https://s3.aynaott.com/storage/e1749cf3040f11c63e722c941f213927",Xtream Sports
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="ZIGGO SPORT 3 HD",ZIGGO SPORT 3 HD
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="ZIGGO SPORT LIVE",ZIGGO SPORT LIVE
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Football & International" tvg-id="SonyTen2.in" tvg-name="SonyTen2.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Sony_Sports_Ten_2_logo.svg/330px-Sony_Sports_Ten_2_logo.svg.png",Sony Sports Ten 2 HD
+http://103.151.60.162:2122/play/a01b/index.m3u8?hls
+
+#EXTINF:-1 group-title="⚽ Sports | Football & International" tvg-id="SonyTen5.in" tvg-name="SonyTen5.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Sony_Sports_Ten_5_logo.svg/330px-Sony_Sports_Ten_5_logo.svg.png",Sony Sports Ten 5 HD
+http://103.151.60.162:2122/play/a028/index.m3u8?hls

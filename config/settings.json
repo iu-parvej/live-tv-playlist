@@ -1,0 +1,17 @@
+{
+  "concurrency": 60,
+  "timeout": {
+    "connect_sec": 2.5,
+    "total_sec": 4.0
+  },
+  "bdix_latency_threshold_ms": 90,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+  "github": {
+    "repo_name": "live-tv-playlist",
+    "branch": "main",
+    "is_private": false,
+    "auto_push": true
+  },
+  "max_servers_per_channel": 4,
+  "output_directory": "output"
+}

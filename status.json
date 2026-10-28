@@ -1,0 +1,14 @@
+{
+  "total_sources_scanned": 14,
+  "total_unique_streams_tested": 6892,
+  "total_active_streams": 2170,
+  "total_bdix_streams": 214,
+  "average_latency_ms": 825,
+  "success_rate_percent": 31.5,
+  "execution_time_sec": 124.4,
+  "channels_count": 2007,
+  "multi_stream_count": 2164,
+  "bdix_channels_count": 160,
+  "sports_channels_count": 131,
+  "last_updated": "2026-10-28 05:09 PM"
+}

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+scripts/test_*.py
+scripts/check_sources.py
+scripts/inspect_site.py
+scripts/parse_sources.py

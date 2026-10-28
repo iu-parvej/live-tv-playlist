@@ -1,0 +1,88 @@
+{
+  "sources": [
+    {
+      "name": "TechEasyLife 👑",
+      "url": "https://raw.githubusercontent.com/Monjil404/livetv/refs/heads/main/pro",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "name": "Sports ⚽",
+      "url": "https://raw.githubusercontent.com/Monjil404/TVspo/refs/heads/main/tvs",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "name": "Mrgify BDIX ⭐",
+      "url": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "name": "Mrgify Clean",
+      "url": "https://raw.githubusercontent.com/ashik4u/mrgify-clean/main/playlist.m3u",
+      "enabled": true,
+      "priority": 2
+    },
+    {
+      "name": "Xniptv (140)",
+      "url": "https://raw.githubusercontent.com/tvbd/m3uplayer/refs/heads/main/m3u/xniptv.m3u",
+      "enabled": true,
+      "priority": 2
+    },
+    {
+      "name": "time2shine (Rokon)",
+      "url": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "name": "ShamimHossain BDIX",
+      "url": "https://raw.githubusercontent.com/ShamimHossainOfficial/IPTV/master/BDIX-IPTV.m3u8",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "name": "Shadmanislam BD",
+      "url": "https://raw.githubusercontent.com/Shadmanislam/bdiptv/master/BD%20IPTV.m3u",
+      "enabled": true,
+      "priority": 2
+    },
+    {
+      "name": "DrSujonPaul",
+      "url": "https://raw.githubusercontent.com/DrSujonPaul/Sujon/6dc6a1d4eaa20a9239ae27d8e0f00182b60eeb47/iptv",
+      "enabled": true,
+      "priority": 2
+    },
+    {
+      "name": "Bugsfree BD",
+      "url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Bangladesh/LiveTV.m3u",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "name": "Bugsfree India",
+      "url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/India/LiveTV.m3u",
+      "enabled": true,
+      "priority": 2
+    },
+    {
+      "name": "BDLive Rubayet",
+      "url": "https://raw.githubusercontent.com/Rubayet123/BDLive/main/bdix.m3u",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "name": "IPTV-Org Bangladesh",
+      "url": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+      "enabled": true,
+      "priority": 2
+    },
+    {
+      "name": "Axsport",
+      "url": "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u",
+      "enabled": true,
+      "priority": 3
+    }
+  ]
+}

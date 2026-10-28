@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Live TV Pro — BDIX & IPTV Manager</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@1.6.16"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Hind+Siliguri:wght@400;600&display=swap');
+    body {
+      font-family: 'Plus Jakarta Sans', 'Hind Siliguri', sans-serif;
+      background: radial-gradient(circle at top left, #0f172a, #020617);
+      min-height: 100vh;
+      color: #f8fafc;
+    }
+    .glass {
+      background: rgba(30, 41, 59, 0.7);
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+    .card-hover:hover {
+      transform: translateY(-2px);
+      border-color: rgba(99, 102, 241, 0.5);
+    }
+    video {
+      aspect-ratio: 16 / 9;
+      background: #000;
+    }
+  </style>
+</head>
+<body class="p-4 md:p-8">
+  <div class="max-w-7xl mx-auto space-y-6">
+    
+    <!-- Top Header -->
+    <header class="glass rounded-2xl p-6 flex flex-col md:flex-row justify-between items-center gap-4">
+      <div class="flex items-center space-x-4">
+        <div class="w-12 h-12 rounded-xl bg-gradient-to-tr from-indigo-600 to-emerald-500 flex items-center justify-center shadow-lg shadow-indigo-500/30">
+          <i class="fa-solid fa-satellite-dish text-2xl text-white"></i>
+        </div>
+        <div>
+          <h1 class="text-2xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-white via-slate-200 to-indigo-300">
+            Live TV Pro — BDIX Stream Fusion
+          </h1>
+          <p class="text-xs md:text-sm text-slate-400">
+            Local WiFi/BDIX Stream Health Checker & IPTV Playlist Optimizer
+          </p>
+        </div>
+      </div>
+
+      <!-- Action Buttons -->
+      <div class="flex flex-wrap items-center gap-3">
+        <button id="refreshBtn" onclick="triggerRefresh()" class="px-4 py-2.5 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white font-medium text-sm transition shadow-lg shadow-indigo-600/30 flex items-center gap-2">
+          <i id="refreshIcon" class="fa-solid fa-arrows-rotate"></i>
+          <span>Check & Push</span>
+        </button>
+
+        <button onclick="copyUrl('primary')" class="px-3.5 py-2.5 rounded-xl glass hover:bg-slate-700/60 text-slate-200 text-sm font-medium transition flex items-center gap-2">
+          <i class="fa-solid fa-link text-emerald-400"></i>
+          <span>Primary M3U</span>
+        </button>
+
+        <button onclick="copyUrl('multiserver')" class="px-3.5 py-2.5 rounded-xl glass hover:bg-slate-700/60 text-slate-200 text-sm font-medium transition flex items-center gap-2">
+          <i class="fa-solid fa-server text-cyan-400"></i>
+          <span>Multi-Server</span>
+        </button>
+
+        <button onclick="copyUrl('bdix')" class="px-3.5 py-2.5 rounded-xl glass hover:bg-slate-700/60 text-slate-200 text-sm font-medium transition flex items-center gap-2">
+          <i class="fa-solid fa-bolt text-amber-400"></i>
+          <span>BDIX Only</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Stats Bar -->
+    <div class="grid grid-cols-2 md:grid-cols-5 gap-3 md:gap-4">
+      <div class="glass rounded-xl p-4 flex items-center gap-3">
+        <div class="w-10 h-10 rounded-lg bg-indigo-500/20 text-indigo-400 flex items-center justify-center font-bold">
+          <i class="fa-solid fa-tv"></i>
+        </div>
+        <div>
+          <div class="text-xs text-slate-400">Active Channels</div>
+          <div id="statTotalChannels" class="text-xl font-bold text-white">--</div>
+        </div>
+      </div>
+
+      <div class="glass rounded-xl p-4 flex items-center gap-3">
+        <div class="w-10 h-10 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold">
+          <i class="fa-solid fa-bolt"></i>
+        </div>
+        <div>
+          <div class="text-xs text-slate-400">BDIX Fast (<90ms)</div>
+          <div id="statBdix" class="text-xl font-bold text-emerald-400">--</div>
+        </div>
+      </div>
+
+      <div class="glass rounded-xl p-4 flex items-center gap-3">
+        <div class="w-10 h-10 rounded-lg bg-cyan-500/20 text-cyan-400 flex items-center justify-center font-bold">
+          <i class="fa-solid fa-gauge-high"></i>
+        </div>
+        <div>
+          <div class="text-xs text-slate-400">Avg Latency</div>
+          <div id="statLatency" class="text-xl font-bold text-cyan-400">-- ms</div>
+        </div>
+      </div>
+
+      <div class="glass rounded-xl p-4 flex items-center gap-3">
+        <div class="w-10 h-10 rounded-lg bg-purple-500/20 text-purple-400 flex items-center justify-center font-bold">
+          <i class="fa-solid fa-chart-pie"></i>
+        </div>
+        <div>
+          <div class="text-xs text-slate-400">Working Ratio</div>
+          <div id="statRatio" class="text-xl font-bold text-purple-400">--%</div>
+        </div>
+      </div>
+
+      <div class="glass rounded-xl p-4 col-span-2 md:col-span-1 flex items-center gap-3">
+        <div class="w-10 h-10 rounded-lg bg-slate-500/20 text-slate-300 flex items-center justify-center font-bold">
+          <i class="fa-solid fa-clock"></i>
+        </div>
+        <div>
+          <div class="text-xs text-slate-400">Last Verified</div>
+          <div id="statUpdated" class="text-xs font-semibold text-slate-300">--</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Main Grid: Player + Channel Browser -->
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+      
+      <!-- Video Player Section (5 cols) -->
+      <div class="lg:col-span-5 space-y-4">
+        <div class="glass rounded-2xl p-4 overflow-hidden">
+          <div class="relative rounded-xl overflow-hidden shadow-2xl border border-slate-700/50">
+            <video id="videoPlayer" controls autoplay playsinline class="w-full"></video>
+            <div id="playerStatus" class="absolute top-3 left-3 px-3 py-1 bg-black/70 backdrop-blur rounded-full text-xs text-emerald-400 font-medium flex items-center gap-2">
+              <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+              <span id="playerStatusText">Player Idle</span>
+            </div>
+          </div>
+          
+          <div class="mt-4 flex items-center justify-between">
+            <div>
+              <h2 id="nowPlayingTitle" class="text-lg font-bold text-white">Select a channel</h2>
+              <p id="nowPlayingCategory" class="text-xs text-slate-400">Click any channel card on the right</p>
+            </div>
+            <div id="nowPlayingBadges" class="flex gap-2"></div>
+          </div>
+        </div>
+
+        <!-- Android IPTV Pro Instructions Box -->
+        <div class="glass rounded-2xl p-5 space-y-3">
+          <h3 class="text-sm font-bold text-indigo-300 flex items-center gap-2">
+            <i class="fa-brands fa-android text-emerald-400 text-lg"></i>
+            <span>Using in Android IPTV Pro</span>
+          </h3>
+          <ol class="text-xs text-slate-300 space-y-2 list-decimal list-inside leading-relaxed">
+            <li>Open <strong>IPTV Pro</strong> app on your Android Phone or TV.</li>
+            <li>Tap <strong>+ Add Playlist</strong> &rarr; Select <strong>Add URL</strong>.</li>
+            <li>Paste your raw GitHub URL (<button onclick="copyUrl('primary')" class="text-indigo-400 hover:underline">Copy Primary Link</button>).</li>
+            <li>Turn on <strong>"Auto-refresh playlist"</strong> in settings to refresh daily!</li>
+          </ol>
+        </div>
+      </div>
+
+      <!-- Channel Browser Section (7 cols) -->
+      <div class="lg:col-span-7 space-y-4">
+        <div class="glass rounded-2xl p-4 space-y-4">
+          
+          <!-- Search & Filter Controls -->
+          <div class="flex flex-col sm:flex-row gap-3">
+            <div class="relative flex-1">
+              <i class="fa-solid fa-magnifying-glass absolute left-3.5 top-3.5 text-slate-400"></i>
+              <input 
+                id="searchInput" 
+                type="text" 
+                placeholder="Search channel by name (e.g. T Sports, Somoy, Sony)..." 
+                oninput="filterChannels()" 
+                class="w-full pl-10 pr-4 py-2.5 rounded-xl bg-slate-800/80 border border-slate-700 text-sm text-white focus:outline-none focus:border-indigo-500"
+              />
+            </div>
+            <button onclick="clearSearch()" class="px-4 py-2.5 rounded-xl bg-slate-800 hover:bg-slate-700 text-xs text-slate-300 font-medium">
+              Clear
+            </button>
+          </div>
+
+          <!-- Category Pills -->
+          <div id="categoryPills" class="flex gap-2 overflow-x-auto pb-2 scrollbar-thin">
+            <button onclick="setCategory('ALL')" class="cat-pill active px-3.5 py-1.5 rounded-lg text-xs font-medium whitespace-nowrap bg-indigo-600 text-white">All</button>
+          </div>
+
+          <!-- Channel List Grid -->
+          <div id="channelContainer" class="grid grid-cols-1 sm:grid-cols-2 gap-3 max-h-[600px] overflow-y-auto pr-1">
+            <!-- Dynamic Channels -->
+            <div class="p-8 text-center text-slate-400 col-span-2">Loading channels...</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div id="toast" class="fixed bottom-6 right-6 px-4 py-3 rounded-xl bg-indigo-600 text-white text-sm shadow-xl transition-opacity duration-300 opacity-0 pointer-events-none flex items-center gap-2">
+    <i class="fa-solid fa-circle-check"></i>
+    <span id="toastMsg">URL copied!</span>
+  </div>
+
+  <script>
+    let allChannels = [];
+    let currentCategory = 'ALL';
+    let hls = null;
+    let githubRepo = 'iu-parvej/live-tv-playlist';
+
+    async function loadStatus() {
+      try {
+        const res = await fetch('/api/status');
+        const data = await res.json();
+        
+        document.getElementById('statTotalChannels').textContent = data.channels_count || '--';
+        document.getElementById('statBdix').textContent = data.bdix_channels_count || '--';
+        document.getElementById('statLatency').textContent = (data.average_latency_ms || '--') + ' ms';
+        document.getElementById('statRatio').textContent = (data.success_rate_percent || '--') + '%';
+        document.getElementById('statUpdated').textContent = data.last_updated || 'Just now';
+
+        if (data.is_refreshing) {
+          document.getElementById('refreshIcon').classList.add('fa-spin');
+          document.getElementById('refreshBtn').disabled = true;
+        } else {
+          document.getElementById('refreshIcon').classList.remove('fa-spin');
+          document.getElementById('refreshBtn').disabled = false;
+        }
+      } catch (e) {
+        console.error('Status load error:', e);
+      }
+    }
+
+    async function loadChannels() {
+      try {
+        const res = await fetch('/api/channels');
+        allChannels = await res.json();
+        renderCategories();
+        filterChannels();
+      } catch (e) {
+        console.error('Channels load error:', e);
+      }
+    }
+
+    function renderCategories() {
+      const categories = ['ALL', ...new Set(allChannels.map(c => c.category).filter(Boolean))];
+      const pillsContainer = document.getElementById('categoryPills');
+      pillsContainer.innerHTML = categories.map(cat => `
+        <button onclick="setCategory('${cat}')" class="cat-pill px-3.5 py-1.5 rounded-lg text-xs font-medium whitespace-nowrap ${cat === currentCategory ? 'bg-indigo-600 text-white' : 'bg-slate-800 text-slate-300 hover:bg-slate-700'}">
+          ${cat === 'ALL' ? 'All Channels' : cat}
+        </button>
+      `).join('');
+    }
+
+    function setCategory(cat) {
+      currentCategory = cat;
+      renderCategories();
+      filterChannels();
+    }
+
+    function clearSearch() {
+      document.getElementById('searchInput').value = '';
+      setCategory('ALL');
+    }
+
+    function filterChannels() {
+      const query = document.getElementById('searchInput').value.toLowerCase().trim();
+      const filtered = allChannels.filter(ch => {
+        const matchName = ch.name.toLowerCase().includes(query);
+        const matchCat = currentCategory === 'ALL' || ch.category === currentCategory;
+        return matchName && matchCat;
+      });
+
+      const container = document.getElementById('channelContainer');
+      if (filtered.length === 0) {
+        container.innerHTML = '<div class="p-8 text-center text-slate-400 col-span-2">No active channels match your filter.</div>';
+        return;
+      }
+
+      container.innerHTML = filtered.map(ch => {
+        const logo = ch.logo || 'https://i.imgur.com/WpMA9kC.png';
+        return `
+          <div onclick="playStream('${ch.url}', '${ch.name}', '${ch.category}')" class="glass card-hover rounded-xl p-3 flex items-center justify-between gap-3 cursor-pointer transition border border-slate-800">
+            <div class="flex items-center gap-3 overflow-hidden">
+              <img src="${logo}" alt="" onerror="this.src='https://i.imgur.com/WpMA9kC.png'" class="w-10 h-10 object-contain rounded-lg bg-black/40 p-1 flex-shrink-0" />
+              <div class="truncate">
+                <div class="text-sm font-semibold text-white truncate">${ch.name}</div>
+                <div class="text-xs text-slate-400 truncate">${ch.category}</div>
+              </div>
+            </div>
+            <button class="w-8 h-8 rounded-lg bg-indigo-600/30 text-indigo-400 hover:bg-indigo-600 hover:text-white flex items-center justify-center transition flex-shrink-0">
+              <i class="fa-solid fa-play text-xs"></i>
+            </button>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function playStream(url, name, category) {
+      const video = document.getElementById('videoPlayer');
+      const statusText = document.getElementById('playerStatusText');
+      document.getElementById('nowPlayingTitle').textContent = name;
+      document.getElementById('nowPlayingCategory').textContent = category;
+
+      statusText.textContent = 'Buffering...';
+
+      if (Hls.isSupported()) {
+        if (hls) {
+          hls.destroy();
+        }
+        hls = new Hls({
+          enableWorker: true,
+          lowLatencyMode: true
+        });
+        hls.loadSource(url);
+        hls.attachMedia(video);
+        hls.on(Hls.Events.MANIFEST_PARSED, function () {
+          video.play();
+          statusText.textContent = 'Live Playing';
+        });
+        hls.on(Hls.Events.ERROR, function (event, data) {
+          if (data.fatal) {
+            statusText.textContent = 'Stream Error';
+          }
+        });
+      } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+        video.src = url;
+        video.addEventListener('loadedmetadata', function () {
+          video.play();
+          statusText.textContent = 'Live Playing';
+        });
+      } else {
+        alert('HLS playback is not supported in this browser.');
+      }
+    }
+
+    async function triggerRefresh() {
+      if (!confirm('Run full BDIX & Live TV stream check and push to GitHub now?')) return;
+      try {
+        const res = await fetch('/api/refresh');
+        const data = await res.json();
+        showToast(data.message);
+        loadStatus();
+      } catch (e) {
+        showToast('Failed to trigger refresh');
+      }
+    }
+
+    function copyUrl(type) {
+      const base = `https://raw.githubusercontent.com/${githubRepo}/main`;
+      let url = `${base}/playlist.m3u`;
+      if (type === 'multiserver') url = `${base}/playlist_multiserver.m3u`;
+      if (type === 'bdix') url = `${base}/playlist_bdix.m3u`;
+      if (type === 'sports') url = `${base}/playlist_sports.m3u`;
+
+      navigator.clipboard.writeText(url).then(() => {
+        showToast(`Copied ${type.toUpperCase()} Playlist Link!`);
+      });
+    }
+
+    function showToast(msg) {
+      const toast = document.getElementById('toast');
+      document.getElementById('toastMsg').textContent = msg;
+      toast.classList.remove('opacity-0');
+      toast.classList.add('opacity-100');
+      setTimeout(() => {
+        toast.classList.remove('opacity-100');
+        toast.classList.add('opacity-0');
+      }, 3000);
+    }
+
+    // Initialize
+    loadStatus();
+    loadChannels();
+    setInterval(loadStatus, 5000);
+  </script>
+</body>
+</html>
