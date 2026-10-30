@@ -1,0 +1,1612 @@
+{
+  "total": 320,
+  "playable_count": 1,
+  "playable": [
+    {
+      "name": "Skym3u Official - Visit Skym3u.dev",
+      "group": "SkyM3U Promo",
+      "logo": "https://imgur.com/ocyTxpw.png",
+      "url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8",
+      "final_url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8",
+      "latency_ms": 539
+    }
+  ],
+  "failed_count": 319,
+  "failed": [
+    {
+      "name": "BTV",
+      "group": "Entertainment",
+      "reason": "Empty chunk (303 bytes)"
+    },
+    {
+      "name": "BTV News",
+      "group": "News",
+      "reason": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Shangshad Bangladesh",
+      "group": "Entertainment",
+      "reason": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Jamuna TV",
+      "group": "News",
+      "reason": "Empty chunk (303 bytes)"
+    },
+    {
+      "name": "Ekattor TV",
+      "group": "News",
+      "reason": "Empty chunk (392 bytes)"
+    },
+    {
+      "name": "DBC News",
+      "group": "News",
+      "reason": "Empty chunk (392 bytes)"
+    },
+    {
+      "name": "NTV",
+      "group": "Entertainment",
+      "reason": "Empty chunk (392 bytes)"
+    },
+    {
+      "name": "News 24",
+      "group": "News",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Star News",
+      "group": "News",
+      "reason": "Empty chunk (303 bytes)"
+    },
+    {
+      "name": "Somoy TV",
+      "group": "News",
+      "reason": "Empty chunk (303 bytes)"
+    },
+    {
+      "name": "Enter TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "SA TV",
+      "group": "News",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Channel 24",
+      "group": "News",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "ATN Bangla",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "G Series",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "News 21",
+      "group": "News",
+      "reason": "Empty chunk (233 bytes)"
+    },
+    {
+      "name": "Channel 16",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "ATN News",
+      "group": "News",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Channel 1",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Bangla Vision",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Ekhon TV",
+      "group": "News",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Channel I",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Maasranga TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Asian TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Bangla TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "SRK TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Rajdhani",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Nexus Television",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Desh TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Deshi TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Nagorik",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Channel S",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Bijoy TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Ekushey ETV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "RTV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Channel 9",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Ananda TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Mohona TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Global Television HD",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Independent TV",
+      "group": "News",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Deepto TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "MY TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Gazi TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Matribhumi TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "NRB TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "iON TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Boishakhi TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Banglar kontho",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Green TV HD",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Probashi TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Thikana",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "CB24 TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Galaxy TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Desh Bangla TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Nan TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "ME TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Amar Bangla Digital",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Channel 52",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Unmochon TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Iqra Bangla",
+      "group": "Islamic",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Islamic TV",
+      "group": "Islamic",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Al Quran Al Kareem",
+      "group": "Islamic",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Peace TV Bangla",
+      "group": "Islamic",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Al Sunnah Al Nabawiyah",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sharjah Quran",
+      "group": "Islamic",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Deen TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Azan TV",
+      "group": "Islamic",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Makkah TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Madani Channel Bangla",
+      "group": "Islamic",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Islam Channel Bangla",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Zee Bangla Temporary",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Zee Bangla",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sananda TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Colors Bangla",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Zee Bangla Sonar",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Star Jalsha",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Khushboo Bangla",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Bangla Dubbed Movie",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Movie Bangla",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Prime TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Bangla Cinema",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Jalsha Movies",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "SNB Cinema",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Colors Bangla Cinema",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Star Bangla",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Aakash Aath",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Enterr10 Bangla",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sony Aath",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sun Bangla",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Star Plus",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Ruposhi Bangla",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "DD Bangla",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "TV9 Bangla",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "kolkata TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Republic TV Bharat",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Colors",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "India Today",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sadhna Prime News",
+      "group": "News",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Epic Crimes",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Star Bharat",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Hum",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "HUM Sitaray",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "HUM Masala",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Zee TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "&TV HD",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "& Pictures",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sony Kal",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "& Pictures HD",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sony Sab",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sony Pal",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sony Max",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sony Entertainment",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sony Max 1",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sony Max 2",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Shemaroo Bollywood Movie",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "MTV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "B4U Movies",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "The Movie Club",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Dangal 2",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Hindi Movie Classic 24",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Colors Cineplex",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Colors Cineplex Bollywood",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Goldmines",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Colors Cineplex Superhits",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Star Gold",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Star Gold Select",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Zee Cinema",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Star Gold 2",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Zee Action",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "HBO",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "HBO 2",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "MY Time",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Lotus",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "LIFE TIME",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "MNX",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "AXN",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Romedy Now",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Comet",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "MN+",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sony Pix",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sony Movies",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Movies Now",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Star Movies",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Star Movies Select",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Hollywood HD",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Dhoom Music Bangla",
+      "group": "Music",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sangeet Bangla",
+      "group": "Music",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Music Bangla",
+      "group": "Music",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Only Music",
+      "group": "Music",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Music India",
+      "group": "Music",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "9XM",
+      "group": "Music",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "SGGN Music",
+      "group": "Music",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Jalsha Bangla",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "B4U Music",
+      "group": "Music",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sangeet Bhojpuri",
+      "group": "Music",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Epic Music",
+      "group": "Music",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Deewana",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "YRF Music",
+      "group": "Music",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Hindi Hits HD",
+      "group": "Music",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Balle Balle",
+      "group": "Music",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Zoom",
+      "group": "Music",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "MN TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Joo Music",
+      "group": "Music",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Bengali Beats",
+      "group": "Music",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "9X Tashan",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "V2 Beat",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Biz Music",
+      "group": "Music",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Cartoon Network",
+      "group": "Kids",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Cartoon Network HD +",
+      "group": "Kids",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sonic",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Nick",
+      "group": "Kids",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Nick JR",
+      "group": "Kids",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Nick HD+",
+      "group": "Kids",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Nicklodean",
+      "group": "Kids",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "EPIX TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Dios Te Ve Kids",
+      "group": "Kids",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Teen Nick",
+      "group": "Kids",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Moonbug Kids",
+      "group": "Kids",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Hooray Kids",
+      "group": "Kids",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "3ABN Kids",
+      "group": "Kids",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "ZB Cartoon",
+      "group": "Kids",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Hungama",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Super Hungama",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Disney International",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Disnep Channel HD",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Duronto TV",
+      "group": "Kids",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Disney Jr.",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Rongeen TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Zoo Moo",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "WOW Kidz",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Discovery Kids",
+      "group": "Kids",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Minimax",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Space Toon",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "POGO",
+      "group": "Kids",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sony Yay",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "YTV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Discovery Family",
+      "group": "Documentary",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "CGTN Documentary",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Somoy Kolkata",
+      "group": "News",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "CGTN",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "DW News",
+      "group": "News",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "CNA",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "CBS News",
+      "group": "News",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "CNN",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "TRT World",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "BBC News",
+      "group": "News",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Al Jazeera",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Wion",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "CNBC TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "ABC News",
+      "group": "News",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "CP 24",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sky News",
+      "group": "News",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "National Geographic HD",
+      "group": "Documentary",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Fox News",
+      "group": "News",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Wild HD",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Animal Planet HD",
+      "group": "Documentary",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "TLC HD",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Discovery Science",
+      "group": "Documentary",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sony BBC Earth HD",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Discovery Turbo",
+      "group": "Documentary",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Discovery",
+      "group": "Documentary",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Discovery HD",
+      "group": "Documentary",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Investigation Discovery HD",
+      "group": "Documentary",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "HGTV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "History TV 18 HD",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "HISTORY TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Love Nature",
+      "group": "Documentary",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Travel XP",
+      "group": "Documentary",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "PTV Sports",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "T Sports",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Star Sports 1",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Star Sports 1 Hindi",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Star Sports Select 2",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Star Sports Select 1",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Star sports 2",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Ten Sports",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Star Sports 3",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "A Sports",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Ten Cricket",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sony Ten Sports 3",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sony Ten Sports 2",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sony Ten Sports 1",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sony Ten Sports 5",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Bein Sports 1",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Bein Sports 3",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Bein Sports Xtra",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Bein Sports 2",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Tapmad",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Willow Sports",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Cricbuzz",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Unite8 Sports 1",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Eurosport 2",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sky Sports Football",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "TYC Sports",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "TNT Sports 1",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Goal TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "TSN 1",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "TSN 3",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Fox Sports 1",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "ESPN",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "TSN 2",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Fox Sports 2",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "And Pictures HD",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sportv",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Willow Sports 2",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Pitaara TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Amc",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "HiDost",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Dubai Sports 1",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Talk Sport",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Marquee Sports Network",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "More Then Sports TV",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "BTV NATIONAL HD",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Kids Pang TV",
+      "group": "Kids",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Dream Turk",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Cricket Gold",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "TVC Arabic Kids",
+      "group": "Kids",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Dubai Sports 2",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Rupshi Bangla",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Goldmines Bollywood",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "NTV Europe",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "TV ONE",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Quran",
+      "group": "Islamic",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "BTV CTG",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "SUNNAH",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "TAQBEER",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "SKY CINEMA ANIMATION",
+      "group": "Movies",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "SYFY TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "MSNBC News",
+      "group": "News",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "VTV USA",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Bahrain Sports 2",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Dubai Sports 3",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sharjah Sports TV",
+      "group": "Sports",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "FIFA+",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Dubai TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "TBS",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Iran Press",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "ABN",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Adventure Earth",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "OAN",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Revolt",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "CMAC TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "IBTV USA",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Millennium TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "TIME TV USA",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "MADANI TV",
+      "group": "Islamic",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Eman Channel",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Channel Win",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "RTV Islam",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Islam TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Peace TV Bangla HD",
+      "group": "Islamic",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Discover Pikstan",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Weather SPY",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Sky News Weather",
+      "group": "News",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Fox Weather",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Accu Weather",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "World War TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "WWE",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Ruposhi Bangla TV",
+      "group": "Entertainment",
+      "reason": "HTTP Error 429: Too Many Requests"
+    }
+  ]
+}

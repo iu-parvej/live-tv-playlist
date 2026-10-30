@@ -8,10 +8,26 @@ import re
 import urllib.request
 import json
 import logging
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 logger = logging.getLogger("Parser")
+
+SKYM3U_KEY = b"mrd81T0da__e5ue_ayco92_2_0utK6Ak6bker_3h_2d33_7_o27SSPy4tnV9"
+
+def decrypt_skym3u_url(url: str) -> Optional[str]:
+    m = re.search(r'/live/[^/]+/([a-f0-9]{32,})\.m3u8', url)
+    if not m:
+        return None
+    try:
+        raw = bytes.fromhex(m.group(1))
+        decrypted = bytes([raw[i] ^ SKYM3U_KEY[i % len(SKYM3U_KEY)] for i in range(len(raw))])
+        dec_url = decrypted.decode('utf-8', errors='ignore')
+        if dec_url.startswith('http://') or dec_url.startswith('https://'):
+            return dec_url
+    except Exception:
+        pass
+    return None
 
 class PlaylistParser:
     def __init__(self, sources_path: str = "config/sources.json"):
@@ -96,6 +112,13 @@ class PlaylistParser:
                         "tvg_id": ""
                     }
                 
+                direct_url = decrypt_skym3u_url(url)
+                if direct_url:
+                    direct_meta = dict(curr_meta)
+                    direct_meta["url"] = direct_url
+                    direct_meta["headers"] = dict(curr_headers)
+                    items.append(direct_meta)
+
                 curr_meta["url"] = url
                 curr_meta["headers"] = dict(curr_headers)
                 items.append(curr_meta)

@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "name": "SkyM3U Curated VIP 🚀",
+      "url": "https://go.skym3u.dev/prfj.m3u?s=77eb",
+      "enabled": true,
+      "priority": 1
+    },
+    {
       "name": "TechEasyLife 👑",
       "url": "https://raw.githubusercontent.com/Monjil404/livetv/refs/heads/main/pro",
       "enabled": true,

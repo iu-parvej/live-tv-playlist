@@ -6,10 +6,10 @@
   "average_latency_ms": 816,
   "success_rate_percent": 25.6,
   "execution_time_sec": 73.2,
-  "channels_count": 1524,
-  "curated_channels_count": 133,
-  "multi_stream_count": 1751,
-  "bdix_channels_count": 200,
-  "sports_channels_count": 113,
-  "last_updated": "2026-10-30 11:56 AM"
+  "channels_count": 1602,
+  "curated_channels_count": 153,
+  "multi_stream_count": 1870,
+  "bdix_channels_count": 245,
+  "sports_channels_count": 121,
+  "last_updated": "2026-10-30 12:23 PM"
 }

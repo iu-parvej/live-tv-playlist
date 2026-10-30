@@ -2,12 +2,34 @@
   {
     "raw_name": "T Sports HD",
     "display_name": "T Sports HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/T_Sports_logo.svg/330px-T_Sports_logo.svg.png",
+    "logo": "https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/t_sports_hd.png",
     "group": "1. BD Sports 🇧🇩",
     "tvg_id": "TSports.bd",
-    "url": "https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8",
+    "url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/index.m3u8",
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      "User-Agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "raw_name": "T Sports HD",
+    "display_name": "T Sports HD",
+    "logo": "https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/t_sports_hd.png",
+    "group": "1. BD Sports 🇧🇩",
+    "tvg_id": "TSports.bd",
+    "url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8",
+    "headers": {
+      "User-Agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "raw_name": "T Sports HD",
+    "display_name": "T Sports HD",
+    "logo": "https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/t_sports_hd.png",
+    "group": "1. BD Sports 🇧🇩",
+    "tvg_id": "TSports.bd",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a206665112464363848340a7f24727a201c472d563c04411a256231481b19013856431f574d09.m3u8?s=77eb&id=prfj.m3u",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
     }
   },
   {

@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-10-30 11:56 AM (Local Time)
+# Last Updated: 2026-10-30 12:23 PM (Local Time)
 # BDIX Ultra Low Latency Channels (<90ms)
 
 #EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="6 TV Telugu (89ms)" tvg-logo="https://i.imgur.com/l3EcRnZ.png",6 TV Telugu (89ms)
@@ -53,6 +53,9 @@ https://tvsen6.aynaott.com/fox5/index.m3u8?e=1784102545&u=ee5437a7-c16b-4700-b31
 #EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="6be81470-eb86-4df1-9726-a95396a293d0" tvg-name="6be81470-eb86-4df1-9726-a95396a293d0" tvg-logo="https://s3.aynaott.com/storage/20e4602dd584784607e5eff3963cdde6",Fox business (62ms)
 https://tvsen6.aynaott.com/foxbusiness/index.m3u8?e=1784102546&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=cac9ac4bc54a6e48978f2fae429de506
 
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="FoxNews.us" tvg-name="FoxNews.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg",Fox News (96ms)
+https://tvsen6.aynaott.com/foxnews/index.m3u8
+
 #EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="IndependentTV.bd" tvg-name="IndependentTV.bd" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/independent_tv_hd.png",Independent TV HD (38ms)
 http://103.135.253.32:8080/Indipendent/index.m3u8
 
@@ -77,14 +80,26 @@ https://tvsen6.aynaott.com/xfJ3PuYS/index.m3u8?e=1784102545&u=ee5437a7-c16b-4700
 #EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="KolkataTv.in" tvg-name="KolkataTv.in" tvg-logo="https://a.jsrdn.com/hls/23215/kolkata-tv/logo_20250819_185012_70.png",olata Tv (44ms)
 https://tvsen6.aynaott.com/kolkatatv/index.m3u8
 
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="SA TV (66ms)" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/sa_tv.png",SA TV (66ms)
+http://116.204.149.16/satv/index.m3u8
+
 #EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="b358a9bf-6c73-4901-bde6-0250b67330bc" tvg-name="b358a9bf-6c73-4901-bde6-0250b67330bc" tvg-logo="https://s3.aynaott.com/storage/80e4113d034ad20bcbea341dcb4ae27e",Sadhna Prime News (75ms)
 https://tvsen6.aynaott.com/WZUs6gAU/index.m3u8?e=1784102556&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=49ac20f3ecb8e9577b16afd7195615fa
+
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-id="SomoyTV.bd" tvg-name="SomoyTV.bd" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/somoy_tv_hd.png",Somoy TV HD (84ms)
+http://103.135.253.32:8080/SOMOY-TV/index.m3u8
+
+#EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="Star News (124ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-news.webp",Star News (124ms)
+http://103.135.253.32:8080/Star-News/index.m3u8
 
 #EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="Sy News (58ms)" tvg-logo="https://s3.aynaott.com/storage/69d8281f965475f3293a3e30de8c0ccb",Sy News (58ms)
 https://tvsen5.aynaott.com/skynews/index.m3u8?e=1784102543&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=adcd9273f21cb19a982ad314a5367a29
 
 #EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="akashaat.in" tvg-name="akashaat.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Aakash_Aath_logo_%282013%29.png",Aash Aath (41ms)
 https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Amar Bangla Digital (749ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/amar-bangla-digital.webp",Amar Bangla Digital (749ms)
+http://115.187.41.216:8080/hls/amardigital/index.m3u8#skym3u.dev
 
 #EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="AnandaTV.bd" tvg-name="AnandaTV.bd" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/ananda_tv_hd.png",Ananda TV HD (22ms)
 http://103.135.253.32:8080/Anando-TV/index.m3u8
@@ -206,6 +221,9 @@ https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Sananda TV (28ms)" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/sananda_tv.png",Sananda TV (28ms)
 http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Sun Bangla (101ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sun-bangla.webp",Sun Bangla (101ms)
+http://103.135.253.32:8080/SUN-BANGLA/index.m3u8
+
 #EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="TIKANA TV" tvg-name="TIKANA TV" tvg-logo="https://yt3.googleusercontent.com/AbXfwy0BwAB4yjwV4gkMmSZizuTv30M9kZjO7V33LLvpy7CRVxK523zdvnZ3oTMtanUf9tHe=s900-c-k-c0x00ffffff-no-rj",TIANA TV (504ms)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8
 
@@ -257,14 +275,44 @@ https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102658&u=ee5437a7-c
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV (34ms)
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?@amarnettv.live
 
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sony Ten Sports 1 (112ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-ten-sports-1.webp",Sony Ten Sports 1 (112ms)
+http://103.135.253.32:8080/TEN-1/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sony Ten Sports 2 (78ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-ten-sports-2.webp",Sony Ten Sports 2 (78ms)
+http://103.135.253.32:8080/TEN-2/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sony Ten Sports 3 (66ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-ten-sports-3.webp",Sony Ten Sports 3 (66ms)
+http://103.135.253.32:8080/TEN-3/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sony Ten Sports 5 (69ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-ten-sports-5.webp",Sony Ten Sports 5 (69ms)
+http://103.135.253.32:8080/TEN-5/index.m3u8
+
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Grid (69ms)" tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",Sports Grid (69ms)
 https://tvsen6.aynaott.com/SportsGrid/index.m3u8?e=1784102516&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=805223f37eb8e43994f002e68e736eea
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sports Live (43ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Sports Live (43ms)
 https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102508&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=58eaaf823b8b124213229ac251f2efbc
 
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="StarSports1.in" tvg-name="StarSports1.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/star_sports_1_hd.png",Star Sports 1 HD (67ms)
+http://103.135.253.32:8080/STAR-SPORTS-1-HD/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="StarSports2.in" tvg-name="StarSports2.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/star_sports_2_hd.png",Star Sports 2 HD (73ms)
+http://103.135.253.32:8080/STAR-SPORTS-2-HD/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 1 (79ms)" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/star_sports_select_1.png",Star Sports Select 1 (79ms)
+http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="TSports.bd" tvg-name="TSports.bd" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/t_sports_hd.png",T Sports HD (50ms)
+http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Tal Sport (81ms)" tvg-logo="https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd",Tal Sport (81ms)
 https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1784102522&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=a3506be66a1595e3d3572c6fc3547dc7
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Ten Cricet (92ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ten-cricket.webp",Ten Cricet (92ms)
+http://103.135.253.32:8080/TEN-CRECKET/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Ten Sports (85ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ten-sports.webp",Ten Sports (85ms)
+http://103.135.253.32:8080/Ten-Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="TSN 1 (66ms)" tvg-logo="https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95",TSN 1 (66ms)
 https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1784102517&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=875a4be5959340b6ce790a1dcac84130
@@ -317,11 +365,23 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 group-title="🇮🇳 India | Entertainment & Hindi" tvg-id="2571fc63-ed1e-4107-b92d-bd4335d601dc" tvg-name="2571fc63-ed1e-4107-b92d-bd4335d601dc" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/shemaroo_tv.png",Shemaroo TV (68ms)
 https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8?e=1784102595&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=2347b8a1b6f0ba558b12440528ea38a5
 
+#EXTINF:-1 group-title="🇮🇳 India | Entertainment & Hindi" tvg-id="SonyBBCEarthHD" tvg-name="SonyBBCEarthHD" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/sony_bbc_earth_hd.png",Sony BBC Earth HD (75ms)
+http://103.135.253.32:8080/Sony-BBC-Earth/index.m3u8
+
 #EXTINF:-1 group-title="🇮🇳 India | Entertainment & Hindi" tvg-id="SonySAB.in" tvg-name="SonySAB.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/sony_sab_hd.png",Sony SAB HD (63ms)
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 
+#EXTINF:-1 group-title="🇮🇳 India | Entertainment & Hindi" tvg-name="Sony YAY HD (71ms)" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/sony_yay_hd.png",Sony YAY HD (71ms)
+http://103.135.253.32:8080/SONY-YAY/index.m3u8
+
+#EXTINF:-1 group-title="🇮🇳 India | Entertainment & Hindi" tvg-id="StarBharat.in" tvg-name="StarBharat.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/star_bharat_hd.png",Star Bharat HD (68ms)
+http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
+
 #EXTINF:-1 group-title="🇮🇳 India | Entertainment & Hindi" tvg-name="Star Maa HD (79ms)" tvg-logo="https://i.imgur.com/5c9PVS0.png",Star Maa HD (79ms)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 group-title="🇮🇳 India | Entertainment & Hindi" tvg-id="StarPlus.in" tvg-name="StarPlus.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/star_plus_hd.png",Star Plus HD (105ms)
+http://103.135.253.32:8080/STAR-PLUS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="🇮🇳 India | Entertainment & Hindi" tvg-name="Taaza TV (73ms)" tvg-logo="https://s3.aynaott.com/storage/01c9cb3e1a4c90da6685700da863f0ce",Taaza TV (73ms)
 https://tvsen7.aynaott.com/TaazaTV/index.m3u8?e=1784102596&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=494643e330e44e6ef06dc35ccda0ac7c
@@ -338,11 +398,17 @@ http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 #EXTINF:-1 group-title="🇮🇳 India | Entertainment & Hindi" tvg-name="Zee annada HD (88ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_KANNADA_HD/images/LOGO_HD/LOGO_HD_image.png",Zee annada HD (88ms)
 https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
+#EXTINF:-1 group-title="🇮🇳 India | Entertainment & Hindi" tvg-id="ZeeTV.in" tvg-name="ZeeTV.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/zee_tv_hd.png",Zee TV HD (68ms)
+http://103.135.253.32:8080/ZEE-TV/index.m3u8
+
 #EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-id="ColorsBangla.in" tvg-name="ColorsBangla.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/colors_bangla_hd.png",Colors Bangla HD (36ms)
 http://103.172.29.30:9991/stream/channelid/1759751142
 
 #EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-id="JalshaMovies.in" tvg-name="JalshaMovies.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/jalsha_movies_hd.png",Jalsha Movies HD (40ms)
 http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
+
+#EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-id="SonyAath.in" tvg-name="SonyAath.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/sony_aath.png",Sony Aath (89ms)
+http://103.135.253.32:8080/SONY_AATH/index.m3u8
 
 #EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-id="ZeeBangla.in" tvg-name="ZeeBangla.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/zee_bangla_hd.png",Zee Bangla HD (65ms)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
@@ -359,17 +425,23 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 #EXTINF:-1 group-title="🇮🇳 India | News" tvg-id="a7a2ca97-da11-42fb-8310-db584907c81e" tvg-name="a7a2ca97-da11-42fb-8310-db584907c81e" tvg-logo="https://s3.aynaott.com/storage/c643b3f7d7f79ad3913b5d2037f13a88",News 1 India (69ms)
 https://tvsen6.aynaott.com/TaVfw58T/index.m3u8?e=1784102555&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=48799eef4dce6bc5c63337d0e5a2312c
 
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="& Pictures HD (87ms)" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/pictures_hd.png",& Pictures HD (87ms)
+http://103.135.253.32:8080/PICTURE-HD/index.m3u8
+
 #EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="&TV (77ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",&TV (77ms)
 https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="B4U Movies (403ms)" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/b4u_movies.png",B4U Movies (403ms)
-https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="B4U Movies (137ms)" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/b4u_movies.png",B4U Movies (137ms)
+http://103.135.253.32:8080/B4U-MOVIES/index.m3u8
 
 #EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-id="Circle" tvg-name="Circle" tvg-logo="https://www.circlecountry.com/app/themes/circle-tailpress/images/circlecountry_logo.svg",Circle (1076ms)
 https://circle-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-id="colorsbanglacinemahd.in" tvg-name="colorsbanglacinemahd.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/colors_bangla_cinema_hd.png",Colors Bangla Cinema HD (42ms)
 http://103.172.29.30:9991/stream/channelid/14180834
+
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Colors Cineplex HD (73ms)" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/colors_cineplex_hd.png",Colors Cineplex HD (73ms)
+http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8
 
 #EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="EPIX TV (65ms)" tvg-logo="https://s3.aynaott.com/storage/c0b0c986890a8c88c3566d93e18cada6",EPIX TV (65ms)
 https://tvsen7.aynaott.com/epix/index.m3u8?e=1784102614&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=59a2e109d32014e09775390d135382f5
@@ -380,14 +452,29 @@ http://103.175.73.12:8080/live/51/51_0.m3u8
 #EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Hindi Movie Classic 24 (931ms)" tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084",Hindi Movie Classic 24 (931ms)
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Movie Bangla TV (503ms)" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/movie_bangla_tv.jpg",Movie Bangla TV (503ms)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-id="MoviesNow" tvg-name="MoviesNow" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg",Movies Now (24ms)
 http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
 
 #EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="pix 11 (64ms)" tvg-logo="https://s3.aynaott.com/storage/294b72dc2ca7b74ab3312059728cab22",pix 11 (64ms)
 https://tvsen6.aynaott.com/pix11/index.m3u8?e=1784102618&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=a0dee7e79b0bdfa720434250b5fa6240
+
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="SNB Cinema (715ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/snb-cinema.webp",SNB Cinema (715ms)
+http://103.182.83.246/hls/snbcinema.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-id="SonyMAX.in" tvg-name="SonyMAX.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/sony_max_hd.png",Sony MAX HD (94ms)
+http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-id="StarGold.in" tvg-name="StarGold.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/star_gold_hd.png",Star Gold HD (1167ms)
+http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Star Movies (76ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-movies.webp",Star Movies (76ms)
+http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-name="Star Movies Select (87ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-movies-select.webp",Star Movies Select (87ms)
+http://103.135.253.32:8080/STAR-MOVIES-SEL/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies | Hindi & International" tvg-id="ZeeCinema.in" tvg-name="ZeeCinema.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/zee_cinema_hd.png",Zee Cinema HD (67ms)
+http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8
 
 #EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-id="AnimalPlanet.in" tvg-name="AnimalPlanet.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/animal_planet_hd.png",Animal Planet HD (43ms)
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
@@ -395,8 +482,8 @@ https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
 #EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-id="Discovery.in" tvg-name="Discovery.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/discovery_channel_hd.png",Discovery Channel HD (28ms)
 http://103.135.253.32:8080/DISCOVERY/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-name="Discovery Family (158ms)" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/discovery_family.png",Discovery Family (158ms)
-https://tvsen5.aynaott.com/discoveryfamily/index.m3u8?e=1779283866&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f8ded49bb7e99514409772c85d44b971
+#EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-name="Discovery Family (97ms)" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/discovery_family.png",Discovery Family (97ms)
+https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
 
 #EXTINF:-1 group-title="🌍 Documentary & Wildlife" tvg-id="DiscoveryScience" tvg-name="DiscoveryScience" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/discovery_science_hd.png",Discovery Science HD (48ms)
 https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
@@ -416,6 +503,9 @@ https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8?e=1784102579&u=ee5437a7-c16
 #EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Cartoon Networ (India) (90ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png",Cartoon Networ (India) (90ms)
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 
+#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Cartoon Networ HD + (84ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cartoon-network-hd.webp",Cartoon Networ HD + (84ms)
+http://103.135.253.32:8080/CN-NETWORK/index.m3u8
+
 #EXTINF:-1 group-title="👶 Kids & Animation" tvg-id="6aa7469a-89a8-4c46-a141-90fe1fff7893" tvg-name="6aa7469a-89a8-4c46-a141-90fe1fff7893" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/discovery_family.png",Discovery Family (65ms)
 https://tvsen5.aynaott.com/discoveryfamily/index.m3u8?e=1784102581&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7551ec4daacd3d773ab2a992615f1f6c
 
@@ -434,6 +524,12 @@ https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 #EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Moonbug ids (67ms)" tvg-logo="https://s3.aynaott.com/storage/d9b8deaf735ee0954260c7b3b61f508d",Moonbug ids (67ms)
 https://tvsen6.aynaott.com/MoonbugKids/index.m3u8?e=1784102587&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=bb483e4de44847e04d2d1fbbf8098cd7
 
+#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Nic (68ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nick.webp",Nic (68ms)
+http://103.135.253.32:8080/NICK/index.m3u8
+
+#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Nic JR (86ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nick-jr.webp",Nic JR (86ms)
+http://103.135.253.32:8080/NICK-Jr/index.m3u8
+
 #EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Nicelodeon (74ms)" tvg-logo="https://s3.aynaott.com/storage/bb2375af2d1ff8666f2c24fbcec3c541",Nicelodeon (74ms)
 https://tvsen7.aynaott.com/nicklodean/index.m3u8?e=1784102584&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=81eb7a6fadc0212e5a961b40ee037c49
 
@@ -445,6 +541,9 @@ https://tvsen5.aynaott.com/nicktoons/index.m3u8?e=1784102580&u=ee5437a7-c16b-470
 
 #EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Teen Nic (69ms)" tvg-logo="https://s3.aynaott.com/storage/5739277278d596533abbacc60ea694be",Teen Nic (69ms)
 https://tvsen7.aynaott.com/teennick/index.m3u8?e=1784102584&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d43b3bb62ef7f77b2a1199b0cbd11f74
+
+#EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="TVC Arabic ids (93ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tvc-arabic-kids.webp",TVC Arabic ids (93ms)
+https://tvsen6.aynaott.com/TVCArabicKids/index.m3u8
 
 #EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="WOW idz (77ms)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png",WOW idz (77ms)
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -484,6 +583,9 @@ https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
 
 #EXTINF:-1 group-title="🕌 Religious & Islamic" tvg-name="Peace of Mind TV (52ms)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEACE_OF_MIND/images/LOGO_HD/image.png",Peace of Mind TV (52ms)
 https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 group-title="🕌 Religious & Islamic" tvg-id="PeaceTVBangla.bd" tvg-name="PeaceTVBangla.bd" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/peace_tv_bangla.png",Peace TV Bangla (84ms)
+http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8
 
 #EXTINF:-1 group-title="🎵 Music & Lifestyle" tvg-id="75412270-ce20-4376-8e7f-21fc76f84ed4" tvg-name="75412270-ce20-4376-8e7f-21fc76f84ed4" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/sangeet_bangla.png",Sangeet Bangla (50ms)
 https://tvsen6.aynaott.com/hT5jHczt/index.m3u8?e=1784102630&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=36c90e8e5a1cee8374378d93fb7c4971
@@ -536,6 +638,12 @@ https://tvsen7.aynaott.com/cooking/index.m3u8?e=1784102620&u=ee5437a7-c16b-4700-
 #EXTINF:-1 group-title="English" tvg-name="CP 24 (159ms)" tvg-logo="https://s3.aynaott.com/storage/9f391e512f41bec54b163b83667da453",CP 24 (159ms)
 https://tvsen6.aynaott.com/cp24/index.m3u8?e=1779283879&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d067c44283da7ab173a48b7a7023089b
 
+#EXTINF:-1 group-title="Entertainment" tvg-name="CP 24 (97ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cp-24.webp",CP 24 (97ms)
+https://tvsen6.aynaott.com/cp24/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="Cricbuzz (92ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cricbuzz.webp",Cricbuzz (92ms)
+https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
+
 #EXTINF:-1 group-title="ShamimHossainOfficial" tvg-name="CTGN (31ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",CTGN (31ms)
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8?@ShamimHossainOfficial
 
@@ -557,20 +665,38 @@ https://tvsen6.aynaott.com/foxbusiness/index.m3u8?e=1779283865&u=78be6644-0a65-4
 #EXTINF:-1 group-title="English" tvg-name="FX TV (73ms)" tvg-logo="https://s3.aynaott.com/storage/f403cc315ca6269c5fcbf1875c95d329",FX TV (73ms)
 https://tvsen7.aynaott.com/fx/index.m3u8?e=1784102617&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=fd5a4237c19f16cb306dcfd4e312ad23
 
+#EXTINF:-1 group-title="Entertainment" tvg-name="Global Television HD (75ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/global-television-hd.webp",Global Television HD (75ms)
+http://116.204.149.16/globaltv/index.m3u8
+
 #EXTINF:-1 group-title="English" tvg-name="HBO 2 (63ms)" tvg-logo="https://s3.aynaott.com/storage/b64c028d8c0895ed81f3201d5979f7ba",HBO 2 (63ms)
 https://tvsen7.aynaott.com/hbo2/index.m3u8?e=1784102613&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=40fc8084b5fc57624decaf17689aa4e3
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="HBO 2 (99ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hbo-2.webp",HBO 2 (99ms)
+https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-name="HGTV (63ms)" tvg-logo="https://s3.aynaott.com/storage/be15ed692e22ad4b7dcb9d7251ce32a6",HGTV (63ms)
 https://tvsen7.aynaott.com/hgtv/index.m3u8?e=1784102615&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=1314fc6868b96607d2b88ebf38af1736
 
+#EXTINF:-1 group-title="Entertainment" tvg-name="Hum (80ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hum.webp",Hum (80ms)
+http://103.135.253.32:8080/HUM-TV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Pakistan" tvg-id="HumTV.pk" tvg-name="HumTV.pk" tvg-logo="https://hum.tv/wp-content/uploads/2022/03/logo-2.png",Hum TV (50ms)
 https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="Hungama (87ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hungama.webp",Hungama (87ms)
+http://103.135.253.32:8080/HUNGAMA/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-name="LAFF TV (65ms)" tvg-logo="https://s3.aynaott.com/storage/ac4e2fb2e4eccd7417e5cc5b5a733369",LAFF TV (65ms)
 https://tvsen7.aynaott.com/laff/index.m3u8?e=1784102623&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=faf783961c7c677ea0d1dfef140ad3ca
 
 #EXTINF:-1 group-title="English" tvg-name="LIFE TIME (167ms)" tvg-logo="https://s3.aynaott.com/storage/90258e6758834a12979d27097bee04a7",LIFE TIME (167ms)
 https://tvsen7.aynaott.com/lifetime/index.m3u8?e=1779283872&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=68ae0dcb6c7f8191fdf0362cf9a7ec37
+
+#EXTINF:-1 group-title="Documentary" tvg-name="Love Nature (77ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/love-nature.webp",Love Nature (77ms)
+http://27.124.71.27/Love_Nature/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="MN+ (94ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/mn.webp",MN+ (94ms)
+http://103.135.253.32:8080/MN-PLUS/index.m3u8
 
 #EXTINF:-1 group-title="Unknown" tvg-name="Nexus TV (41ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Nexus TV (41ms)
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
@@ -596,8 +722,17 @@ https://tvsen6.aynaott.com/tlc_hd/index.m3u8?e=1784102621&u=ee5437a7-c16b-4700-b
 #EXTINF:-1 group-title="English" tvg-name="Travel Channel (64ms)" tvg-logo="https://s3.aynaott.com/storage/a7f87f1e71905ee14429ed26abd29b2a",Travel Channel (64ms)
 https://tvsen6.aynaott.com/travelxp/index.m3u8?e=1784102608&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=2d204479cea4c71c2290102ae4d75ea1
 
+#EXTINF:-1 group-title="Entertainment" tvg-name="TSN 1 (93ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tsn-1.webp",TSN 1 (93ms)
+https://tvsen7.aynaott.com/tsn1/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="TSN 2 (92ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tsn-2.webp",TSN 2 (92ms)
+https://tvsen7.aynaott.com/tsn2/index.m3u8
+
 #EXTINF:-1 group-title="English" tvg-name="USA TV (64ms)" tvg-logo="https://s3.aynaott.com/storage/376b8483457b06dbc5b7b7b327a21ac6",USA TV (64ms)
 https://tvsen6.aynaott.com/usa/index.m3u8?e=1784102617&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3859c38f5a35c0c3d95b5244f5e393d4
 
 #EXTINF:-1 group-title="English" tvg-id="7c972a23-cee8-47f0-b61a-ac15d57002e4" tvg-name="7c972a23-cee8-47f0-b61a-ac15d57002e4" tvg-logo="https://s3.aynaott.com/storage/d79d89851faee0823a1f2bed1a96e84d",YTV (64ms)
 https://tvsen6.aynaott.com/ytv/index.m3u8?e=1784102618&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=984e9148885e8c2f8cc1fbbf456eaa27
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="YTV (97ms)" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ytv.webp",YTV (97ms)
+https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8

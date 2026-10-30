@@ -1,0 +1,2212 @@
+[
+  {
+    "name": "SA TV",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sa-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f555069715705414b6e55404d5e0f1d2c532b465a1d25522413180f58104a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://116.204.149.16/satv/index.m3u8",
+    "chunk_url": "http://116.204.149.16/satv/tracks-v1a1/2026/10/30/06/21/30-05600.ts",
+    "latency_ms": 66,
+    "is_bdix": true
+  },
+  {
+    "name": "Channel 24",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-24.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3723572f05530e465746705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Channel-24/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/Channel-24/tracks-v1a1/2026/10/30/06/21/07-06000.ts",
+    "latency_ms": 78,
+    "is_bdix": true
+  },
+  {
+    "name": "Somoy TV",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/somoy-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a27047b0e321b363d4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/SOMOY-TV/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/SOMOY-TV/tracks-v1a1/2026/10/30/06/22/16-05000.ts",
+    "latency_ms": 84,
+    "is_bdix": true
+  },
+  {
+    "name": "BTV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/btv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a361f606e0258060e1d5c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/BTV/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/BTV/tracks-v1a1/2026/10/30/06/20/54-06000.ts",
+    "latency_ms": 228,
+    "is_bdix": true
+  },
+  {
+    "name": "Jamuna TV",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/jamuna-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3e2a5b3405574f3f335d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Jamuna-TV/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/Jamuna-TV/tracks-v1a1/2026/10/30/06/21/40-06000.ts",
+    "latency_ms": 230,
+    "is_bdix": true
+  },
+  {
+    "name": "ATN Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/atn-bangla.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a351f786c29570c0c0913705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/ATN-Bangla/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/ATN-Bangla/tracks-v1a1/2026/10/30/06/20/37-06000.ts",
+    "latency_ms": 101,
+    "is_bdix": true
+  },
+  {
+    "name": "Skym3u Official - Visit Skym3u.dev",
+    "group": "SkyM3U Promo",
+    "logo": "https://imgur.com/ocyTxpw.png",
+    "proxy_url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8",
+    "real_url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8",
+    "chunk_url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/2026/10/30/06/20/23-06600.ts",
+    "latency_ms": 288,
+    "is_bdix": false
+  },
+  {
+    "name": "Star News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-news.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a273f57334678071c165d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Star-News/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/Star-News/tracks-v1a1/2026/10/30/06/20/54-06000.ts",
+    "latency_ms": 124,
+    "is_bdix": true
+  },
+  {
+    "name": "ATN News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/atn-news.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a102a0016266e23004a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/da6WMXAk/tracks-v1a1/2026/10/30/06/20/11-09000.ts",
+    "latency_ms": 135,
+    "is_bdix": false
+  },
+  {
+    "name": "BTV News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/btv-news.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b032b294b5d070c3b0e00171914513753315e101865412e195d0719165c3b561e705c014440715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://btv.hridoytv-channel.workers.dev/news.m3u8",
+    "chunk_url": "https://btv.hridoytv-channel.workers.dev/seg/news/chunk-stream-2181.ts",
+    "latency_ms": 322,
+    "is_bdix": false
+  },
+  {
+    "name": "Ekattor TV",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ekattor-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a311c72333d0333180e153e41321a672651002f6270065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/tracks-v1a1/2026/10/30/06/20/14-09000.ts",
+    "latency_ms": 178,
+    "is_bdix": false
+  },
+  {
+    "name": "News 24",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/news-24.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a172f51335842155d321d18042226600a7f51360770065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/tracks-v1a1/2026/10/30/06/20/14-09000.ts",
+    "latency_ms": 168,
+    "is_bdix": false
+  },
+  {
+    "name": "G Series",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/g-series.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b17303b16075b04260f180c1b4d1c3c5d321f12072e44280e452619041f3e1c013156014b1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://vods2.aynaott.com/gseriesDrama/index.m3u8",
+    "chunk_url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/2026/10/30/06/20/23-06600.ts",
+    "latency_ms": 170,
+    "is_bdix": false
+  },
+  {
+    "name": "Shangshad Bangladesh",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/btv-shangshad.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b032b294b5d070c3b0e00171914513753315e101865412e195d0719165c3b561e7041055d542c563b415f04266b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://btv.hridoytv-channel.workers.dev/sangsad.m3u8",
+    "chunk_url": "https://btv.hridoytv-channel.workers.dev/seg/sangsad/chunk-stream-2184.ts",
+    "latency_ms": 383,
+    "is_bdix": false
+  },
+  {
+    "name": "DBC News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/dbc-news.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a040d00773f5d185b143428635a3e7f29427b264370065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/tracks-v1a1/2026/10/30/06/20/14-09000.ts",
+    "latency_ms": 218,
+    "is_bdix": false
+  },
+  {
+    "name": "News 21",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/news-21.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c71540c454b6e524a4d5901086e0b6c055a1a2e413259070e021317705f0129574b435f3e4e330641437d3e630c0c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.190.133.68:1935/news21live/live/playlist.m3u8",
+    "chunk_url": "http://103.190.133.68:1935/news21live/live/media_w1906197045_75846.ts",
+    "latency_ms": 118,
+    "is_bdix": true
+  },
+  {
+    "name": "Ekhon TV",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ekhon-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a31205e2e051b363d4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Ekhon-TV/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/Ekhon-TV/tracks-v1a1/2026/10/30/06/21/55-05000.ts",
+    "latency_ms": 134,
+    "is_bdix": true
+  },
+  {
+    "name": "NTV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ntv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b404b3e181702004d467151305d5a0c1d022b2e7d0458214b255047365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8",
+    "chunk_url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/2026/10/30/06/20/13-09000.ts",
+    "latency_ms": 212,
+    "is_bdix": false
+  },
+  {
+    "name": "Bangla Vision",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bangla-vision.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b404b3e181702004d467151305d5a002c633b1b6601521744274447365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8",
+    "chunk_url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/tracks-v1a1/2026/10/30/06/20/11-09000.ts",
+    "latency_ms": 136,
+    "is_bdix": false
+  },
+  {
+    "name": "Channel I",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-i.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a32057e3132402531523434702d6e02344467175a70065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/tracks-v1a1/2026/10/30/06/20/15-09000.ts",
+    "latency_ms": 139,
+    "is_bdix": false
+  },
+  {
+    "name": "Asian TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/asian-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a0400547400002c051f0a2c78180867170576677a70065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/2026/10/30/06/20/10-09000.ts",
+    "latency_ms": 135,
+    "is_bdix": false
+  },
+  {
+    "name": "Bangla TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bangla-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a4772532452050c3e07311c5e056a7e174a776b4370065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/tracks-v1a1/2026/10/30/06/20/06-09000.ts",
+    "latency_ms": 153,
+    "is_bdix": false
+  },
+  {
+    "name": "Channel S",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-s.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3723572f05530e46365d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Channel-S/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/Channel-S/tracks-v1a1/2026/10/30/06/21/03-06000.ts",
+    "latency_ms": 117,
+    "is_bdix": true
+  },
+  {
+    "name": "Nagorik",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nagorik.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0330274b5717042d08184d015c46707c3e571a06225d1e3f604d1f17133c581b7244555202705a30015d193e602541.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8",
+    "chunk_url": "https://box.bbaria.net/Nagorik_TV/tracks-v1a1/2026/10/30/06/20/33-06000.ts",
+    "latency_ms": 183,
+    "is_bdix": false
+  },
+  {
+    "name": "SRK TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/srk-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b122d3411435b0b3a1556101d5246295a33435a172f582d02400734160034471e715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://srktv.net/srktvhls/cdnlive_srktv.m3u8",
+    "chunk_url": "https://srktv.net/srktvhls/cdnlive_srktv_1080/6624.ts",
+    "latency_ms": 200,
+    "is_bdix": false
+  },
+  {
+    "name": "Ananda TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ananda-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3525572f0f594f3f335d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Anando-TV/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/Anando-TV/tracks-v1a1/2026/10/30/06/20/52-06000.ts",
+    "latency_ms": 87,
+    "is_bdix": true
+  },
+  {
+    "name": "Ekushey ETV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ekushey-etv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a311f606e0258060e1d5c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/ETV/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/ETV/tracks-v1a1/2026/10/30/06/21/00-05000.ts",
+    "latency_ms": 79,
+    "is_bdix": true
+  },
+  {
+    "name": "Desh TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/desh-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a0632702a3350065a04461c625f327f00500b6d0770065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/tracks-v1a1/2026/10/30/06/20/14-09000.ts",
+    "latency_ms": 165,
+    "is_bdix": false
+  },
+  {
+    "name": "Global Television HD",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/global-television-hd.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f555069715705414b6e55404d5e0f1d385e305214183f406e0258060e1d5c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://116.204.149.16/globaltv/index.m3u8",
+    "chunk_url": "http://116.204.149.16/globaltv/tracks-v1a1/2026/10/30/06/21/22-05600.ts",
+    "latency_ms": 75,
+    "is_bdix": true
+  },
+  {
+    "name": "Bijoy TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bijoy-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a3a736e230403140f12240a051b1906576140080770065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/tracks-v1a1/2026/10/30/06/20/09-09000.ts",
+    "latency_ms": 143,
+    "is_bdix": false
+  },
+  {
+    "name": "RTV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/rtv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b404b3e181702004d467151305d5a162a02760f7e122f0e410c5647365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen5.aynaott.com/ba47dHpDk3Se/index.m3u8",
+    "chunk_url": "https://tvsen5.aynaott.com/ba47dHpDk3Se/tracks-v1a1/2026/10/30/06/20/12-09000.ts",
+    "latency_ms": 136,
+    "is_bdix": false
+  },
+  {
+    "name": "Independent TV",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/independent-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3d2552281b530c0f001c2b1c013156014b1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Indipendent/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/Indipendent/tracks-v1a1/2026/10/30/06/20/49-06000.ts",
+    "latency_ms": 108,
+    "is_bdix": true
+  },
+  {
+    "name": "Deepto TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/deepto-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a302e53311f594f3f335d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Deepto-TV/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/Deepto-TV/tracks-v1a1/2026/10/30/06/20/46-06001.ts",
+    "latency_ms": 101,
+    "is_bdix": true
+  },
+  {
+    "name": "Channel 9",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-9.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a1f2a5c2d1852575c0f1c254b11301d0d5d573a4f710201426b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/kajlsd57jnzxyo/tracks-v1a1/2026/10/30/06/20/15-09000.ts",
+    "latency_ms": 168,
+    "is_bdix": false
+  },
+  {
+    "name": "Gazi TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/gazi-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a332a4c28466234440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Gazi-TV/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/Gazi-TV/tracks-v1a1/2026/10/30/06/20/57-07200.ts",
+    "latency_ms": 101,
+    "is_bdix": true
+  },
+  {
+    "name": "Mohona TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/mohona-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a35204f195e5217051f182a070b2f5d5605572d0070065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/tracks-v1a1/2026/10/30/06/20/27-09000.ts",
+    "latency_ms": 143,
+    "is_bdix": false
+  },
+  {
+    "name": "MY TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/my-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a2c0646090a73045b243c1d5b1e6745527d640d0070065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/tracks-v1a1/2026/10/30/06/20/08-09000.ts",
+    "latency_ms": 113,
+    "is_bdix": false
+  },
+  {
+    "name": "Maasranga TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/maasranga-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0c2b294b46000b2f0d1c1b41555b2957707d3435186400257123440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://mtv.sunplex.live/MAASRANGA/index.m3u8",
+    "chunk_url": "https://mtv.sunplex.live/MAASRANGA/tracks-v1a1/2026/10/30/06/20/49-06000.ts",
+    "latency_ms": 362,
+    "is_bdix": false
+  },
+  {
+    "name": "Boishakhi TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/boishakhi-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a452f05342c0f342802000d0a2c0d4633697e6a0070065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/tracks-v1a1/2026/10/30/06/20/07-09000.ts",
+    "latency_ms": 120,
+    "is_bdix": false
+  },
+  {
+    "name": "Enter TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/enter-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0d362900045b0031151c111b4f1c3c5d321e171064532f1f53101f135d2b41093c59171e456e566e405f583d3c7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8",
+    "chunk_url": "https://live1.entertv.com.bd/entertv/tracks-v1a1/2026/10/30/06/20/33-06000.ts",
+    "latency_ms": 601,
+    "is_bdix": false
+  },
+  {
+    "name": "ME TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/me-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b082f2b1357114b33080f064054572b446e004d4464077153064c06560767.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://iptvbd.live/metv1080/1080.m3u8",
+    "chunk_url": "https://iptvbd.live/metv1080/1080-2304.ts",
+    "latency_ms": 169,
+    "is_bdix": false
+  },
+  {
+    "name": "Deshi TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/deshi-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b053a2c0d5c011371051c1007504629006b1e1b113f192d02400744080b0c471a3a53091c43335626035b44277d3d4a414c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",
+    "chunk_url": "https://deshitv.deshitv24.net/live/myStream/playlist-335680.ts",
+    "latency_ms": 722,
+    "is_bdix": false
+  },
+  {
+    "name": "Channel 1",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-1.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f05112f6d511b1f04380e1b07415a5d321c3d545a177860380f5b34123d4a0d430a1a675d7e5a674f11160a4e1e15143c713c29355f3f151e69071a6425063b1a0a54102325033f5a5d6065277b05643a441e0624117853221f3f26551e3c7700407639521b0a795e1d38063707243a19540934175d66064405366a6e045c250d31312d2a5d16513753315e10187a5425454516190013321c1c2d5307584072416e0e03183e3c3e161a195d2301.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8",
+    "chunk_url": "http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/2026/10/30/06/20/38-05000.png",
+    "latency_ms": 1070,
+    "is_bdix": false
+  },
+  {
+    "name": "Channel 16",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-16.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f05112f6d511b1f04380e1b07415a5d321c3d545a177860380f5b34123d4a0d430a1a675d7e5a674f11160a4e1e15143c713c29355f3f151e69071a6425063b1a0a54102325033f5a5d6065277b05643a441e0624117853221f3f26551e3c7700407639521b0a795e1d38063707243a19540934175d66064405366a6e045c250d31312d2a5d16513753315e10187a00230f18111f17173e5e472b400550582c1a295e53067c3e3f175b5a03654c55.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8",
+    "chunk_url": "http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/2026/10/30/06/20/33-06006.png",
+    "latency_ms": 1072,
+    "is_bdix": false
+  },
+  {
+    "name": "Peace TV Bangla",
+    "group": "Islamic",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/peace-tv-bangla.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a242a55244662344627133154043e1d0d5d573a4f710201426b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/Pace-TV-Bangla/tracks-v1a1/2026/10/30/06/21/58-06000.ts",
+    "latency_ms": 84,
+    "is_bdix": true
+  },
+  {
+    "name": "Matribhumi TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/matribhumi-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f0808293a4b451904260c181b41555b2957705d1400395f2303430f024a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://live.playmax.live/matribhumi/index.m3u8",
+    "chunk_url": "http://live.playmax.live/matribhumi/tracks-v1a1/2026/10/30/06/20/37-06360.ts",
+    "latency_ms": 777,
+    "is_bdix": false
+  },
+  {
+    "name": "Al Quran Al Kareem",
+    "group": "Islamic",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/al-quran-al-kareem.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b314852190a3d041a021c4d1c3e593e5d141d3153254558071f4a1e36450d705700401c2c562a0b5b68222622185a5b063a4a32000b53447b590a053a274b58461067.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+    "chunk_url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/saudi_quran-avc1_249984=1-mp4a_145600_ara=3-begin=3732706200800000-dur=76800000-seq=62211771.ts",
+    "latency_ms": 220,
+    "is_bdix": false
+  },
+  {
+    "name": "Nexus Television",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nexus-television.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b122b2d0054184b30150d13034c41715e3646105b275f370e190c0e1d072c6c1c296d055141705e310b574f7d3e630c0c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8",
+    "chunk_url": "https://stream.ottplus.live/live/nexus_tv_abr/live/nexus_tv_720/l_2071993_0_0.ts?nimblesessionid=241908686",
+    "latency_ms": 966,
+    "is_bdix": false
+  },
+  {
+    "name": "NRB TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nrb-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f4b5b16042d04570f064f57705e3646105924442602584d05171072561d71411041563e5a701f5e562a3f390a405a03654c55.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8",
+    "chunk_url": "https://app.ncare.live/live-orgin/nrb-eu.stream/live-orgin/nrb-eu.stream/l_100410797_325513600_50691.png?nimblesessionid=1284358037",
+    "latency_ms": 950,
+    "is_bdix": false
+  },
+  {
+    "name": "Sharjah Quran",
+    "group": "Islamic",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sharjah-quran.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0d3629001b1e12360a140c1b505d311c3c5f185b385e20195c030311042e461a3e5c085a453a182c07434221323e0d425a1d3b50015d175050265a05092b291440070431110c01035041371d2c58040139572f1f403d180a072d500d70510c465d3444710201426b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8",
+    "chunk_url": "https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/l_700_46338673_182711.ts",
+    "latency_ms": 552,
+    "is_bdix": false
+  },
+  {
+    "name": "Thikana",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/thikana.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b543b3b560c4d54665549050e581c2c462d55141927592200180c0e115d2b5b0134530a524729182b075b5c323d310d425b1e3a58141e0d4b457a5d571467.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8",
+    "chunk_url": "https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/media_w736331347_72.ts",
+    "latency_ms": 817,
+    "is_bdix": false
+  },
+  {
+    "name": "Amar Bangla Digital",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/amar-bangla-digital.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55506a71540d424b6b5057515e0f08670267005a1c27456e0a5b0319011b385a1c3e5e4b5a5d3b5227415f04266b730a5f0d03654c4316014e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://115.187.41.216:8080/hls/amardigital/index.m3u8#skym3u.dev",
+    "chunk_url": "http://115.187.41.216:8080/hls/amardigital/2_1/131736000_131748000.ts?tkn=2449612931",
+    "latency_ms": 749,
+    "is_bdix": true
+  },
+  {
+    "name": "Zee Bangla Temporary",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zee-bangla-temporary.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a2e0e736c29772c2c2933727b2c7046165250344472190356627c3d165a1b403b0a184a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/ZEE-BANGLA-HD/tracks-v1a1/mono.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/ZEE-BANGLA-HD/tracks-v1a1/2026/10/30/06/20/45-06000.ts",
+    "latency_ms": 113,
+    "is_bdix": true
+  },
+  {
+    "name": "Zee Bangla Sonar",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zee-bangla-sonar.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a2e0e736c29772c2c2933727021117729721c36593b0a4a193e602541.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/tracks-v1a1/2026/10/30/06/21/09-06000.ts",
+    "latency_ms": 70,
+    "is_bdix": true
+  },
+  {
+    "name": "Star Jalsha",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-jalsha.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b053e67535844162e11145000091c3c5e3045111239592f1f180c0e115d6d0b586800540100704432065e0d2027310b5e150225510c5c175558381f07092a310e591c162b3e1b52560b0a6f026f1e18473e0e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8",
+    "chunk_url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/media-uka7h8zgh_b1928000_1167.ts",
+    "latency_ms": 165,
+    "is_bdix": false
+  },
+  {
+    "name": "CB24 TV",
+    "group": "Entertainment",
+    "logo": "",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d3c506d045b073f44240a5b4d1f17133c581b7244555202705a30015d193e602541.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cb24.stream/tracks-v1a1/mono.m3u8",
+    "chunk_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cb24.stream/tracks-v1a1/2026/10/30/06/20/30-06028.png",
+    "latency_ms": 1343,
+    "is_bdix": false
+  },
+  {
+    "name": "Nan TV",
+    "group": "Entertainment",
+    "logo": "",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d31533144035a3842330e570f4411003e50032c1f1202526e1832005c587d3e630c0c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nantv.stream/tracks-v1a1/mono.m3u8",
+    "chunk_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nantv.stream/tracks-v1a1/2026/10/30/06/20/08-04144.png",
+    "latency_ms": 1343,
+    "is_bdix": false
+  },
+  {
+    "name": "Jalsha Movies",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/jalsha-movies.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3e2a5a3203573d060a0436561b727a201c5a31533a171c5a602668.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/Jalsha_movies-HD/tracks-v1a1/2026/10/30/06/20/58-06000.ts",
+    "latency_ms": 69,
+    "is_bdix": true
+  },
+  {
+    "name": "Colors Bangla Cinema",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/colors-bangla-cinema.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a37047a0e39654f29243c187f2972712d7d76127670065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/tracks-v1a1/2026/10/30/06/21/49-06000.ts",
+    "latency_ms": 70,
+    "is_bdix": true
+  },
+  {
+    "name": "Rajdhani",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/rajdhani.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b052d34534d04552909174d0849513b5c715e1000645a281d534d1904183b5b09315b3b4745705e310b574f7d3e630c0c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://drk6xq0vhn.gpcdn.net/live/rajdhani_tv/index.m3u8",
+    "chunk_url": "https://drk6xq0vhn.gpcdn.net/live/rajdhani_tv/l_2061177_46368874_53406.ts?nimblesessionid=241106195",
+    "latency_ms": 1770,
+    "is_bdix": false
+  },
+  {
+    "name": "Sony Aath",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-aath.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a270478183477233f2d5d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/SONY_AATH/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/SONY_AATH/tracks-v1a1/2026/10/30/06/21/51-06000.ts",
+    "latency_ms": 89,
+    "is_bdix": true
+  },
+  {
+    "name": "Movie Bangla",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/movie-bangla.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f050d293a11435b06300c560e004f5b3a503e5e12182a4237440e5253555d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
+    "chunk_url": "http://alvetv.com/moviebanglatv/8080/124602.ts",
+    "latency_ms": 374,
+    "is_bdix": false
+  },
+  {
+    "name": "Enterr10 Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/enterr10-bangla.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0d362900181704310615024158593e5f3e590f112f182f0e424d070c043a520a2d1d144651725e300d5359343f311244471d305f421e0d4e540b0756512f70065d000b3412570e5c4c0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
+    "chunk_url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/l_23454_14184080_2383.ts",
+    "latency_ms": 165,
+    "is_bdix": false
+  },
+  {
+    "name": "Star Plus",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-plus.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a271f771346662e3e365d2b41093c59171e456e566e405f583d3c7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/STAR-PLUS/tracks-v1a1/mono.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/STAR-PLUS/tracks-v1a1/2026/10/30/06/20/43-06000.ts",
+    "latency_ms": 105,
+    "is_bdix": true
+  },
+  {
+    "name": "Sun Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sun-bangla.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a271e786c29772c2c2933705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/SUN-BANGLA/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/SUN-BANGLA/tracks-v1a1/2026/10/30/06/20/43-06000.ts",
+    "latency_ms": 101,
+    "is_bdix": true
+  },
+  {
+    "name": "Colors",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/colors.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a37245a2e191b2a2f4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Color-HD/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/Color-HD/tracks-v1a1/2026/10/30/06/20/53-06000.ts",
+    "latency_ms": 66,
+    "is_bdix": true
+  },
+  {
+    "name": "Al Sunnah Al Nabawiyah",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/al-sunnah-al-nabawiyah.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d32533b591b15654535195303064a062d520b34414945023e0670025d593c7d3d4a414c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8",
+    "chunk_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/2026/10/30/06/20/49-06000.png",
+    "latency_ms": 1340,
+    "is_bdix": false
+  },
+  {
+    "name": "iON TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ion-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f4b5b16042d04570f064f57705e3646105924442602584d020a1c2b451d341c1747413a563240425b322a3c104700403b0a184a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8",
+    "chunk_url": "https://app.ncare.live/live-orgin/iontvuk.stream/live-orgin/iontvuk.stream/l_94331782_1261422444_210237.png?nimblesessionid=1284358035",
+    "latency_ms": 1756,
+    "is_bdix": false
+  },
+  {
+    "name": "Probashi TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/probashi-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55546771530c5b576b4f4c5055010267027040071b295732035f3d1f135d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://158.69.24.53:8080/probashi_tv/index.m3u8",
+    "chunk_url": "http://158.69.24.53:8080/probashi_tv/tracks-v1a1/2026/10/30/06/20/38-10440.ts",
+    "latency_ms": 1466,
+    "is_bdix": false
+  },
+  {
+    "name": "kolkata TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/kolkata-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a1f245a2a0a42031f135d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/kolkatatv/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/kolkatatv/tracks-v1a1/2026/10/30/06/20/14-09000.ts",
+    "latency_ms": 154,
+    "is_bdix": false
+  },
+  {
+    "name": "DD Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/dd-bangla.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b056c2e160611572d0a11051e4b467151335f00102d442e05424c050006705c1d2b1d12021c6851395a0554306a604d02165a3508554a060d00350000546f69030643006807560a015d57276d6c1e18473e0e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8",
+    "chunk_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3_10657323.ts?m=1728054567",
+    "latency_ms": 224,
+    "is_bdix": false
+  },
+  {
+    "name": "Hum",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hum.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3c1e7b6c3f604d1f17133c581b7244555202705a30015d193e602541.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/HUM-TV/tracks-v1a1/mono.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/HUM-TV/tracks-v1a1/2026/10/30/06/20/59-05000.ts",
+    "latency_ms": 80,
+    "is_bdix": true
+  },
+  {
+    "name": "Star Bharat",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-bharat.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a271f771346742a2a37330b1c013156014b1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/STAR-BHARAT/tracks-v1a1/2026/10/30/06/20/44-06000.ts",
+    "latency_ms": 68,
+    "is_bdix": true
+  },
+  {
+    "name": "Azan TV",
+    "group": "Islamic",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/azan-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d3e483e5e0102654535195303064a062d520b34414945023e0670025d593c7d3d4a414c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/azantv.stream/tracks-v1a1/mono.m3u8",
+    "chunk_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/azantv.stream/tracks-v1a1/2026/10/30/06/20/24-08334.png",
+    "latency_ms": 1346,
+    "is_bdix": false
+  },
+  {
+    "name": "SNB Cinema",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/snb-cinema.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c71540d474b675257515b0f1d375e2c1f061a29552805530f0a4b1f6c4650.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.182.83.246/hls/snbcinema.m3u8",
+    "chunk_url": "http://103.182.83.246/hls/snbcinema-8967.ts",
+    "latency_ms": 715,
+    "is_bdix": true
+  },
+  {
+    "name": "Zee TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zee-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a2e0e736c3f604d020b163a4b463201110b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/ZEE-TV/tracks-v1a1/2026/10/30/06/20/45-05999.ts",
+    "latency_ms": 68,
+    "is_bdix": true
+  },
+  {
+    "name": "Makkah TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/makkah-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d3253345b141c654535195303064a062d520b34414945023e0670025d593c7d3d4a414c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/tracks-v1a1/mono.m3u8",
+    "chunk_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/tracks-v1a1/2026/10/30/06/20/48-06000.png",
+    "latency_ms": 1364,
+    "is_bdix": false
+  },
+  {
+    "name": "& Pictures HD",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/pictures-hd.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a240275153e6427462d36705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/PICTURE-HD/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/PICTURE-HD/tracks-v1a1/2026/10/30/06/21/13-06000.ts",
+    "latency_ms": 87,
+    "is_bdix": true
+  },
+  {
+    "name": "Sananda TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sananda-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f0808293a484601173a00144d0e54532d503e5e12182a4237455f0c515d42670347375e171c403e593e01565627257f105a100b2e1700411100.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8",
+    "chunk_url": "http://live-stream.amarbanglatv.in:8080/hls/sanandatv/2_1/19550950_19563450.ts?tkn=1316234384",
+    "latency_ms": 762,
+    "is_bdix": false
+  },
+  {
+    "name": "Islamic TV",
+    "group": "Islamic",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/islamic-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d36413351181d28423709524c1811003a5205705b0a57562719325c470f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8",
+    "chunk_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/tracks-v1a1/2026/10/30/06/20/34-06000.png",
+    "latency_ms": 1342,
+    "is_bdix": false
+  },
+  {
+    "name": "Sony Max",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-max.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a27245838467b0313483a1b1c013156014b1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Sony-Max-HD/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/Sony-Max-HD/tracks-v1a1/2026/10/30/06/20/45-06000.ts",
+    "latency_ms": 94,
+    "is_bdix": true
+  },
+  {
+    "name": "India Today",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/india-today.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b073a3a01465b0c311516070e401c365c705819002a46311819031b0c5d32521b2b57161d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://feeds.intoday.in/hltapps/api/master.m3u8",
+    "chunk_url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_180p/l_5653134000_948790.ts",
+    "latency_ms": 393,
+    "is_bdix": false
+  },
+  {
+    "name": "Colors Cineplex",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/colors-cineplex.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a37047a0e391b21222b370f7f2d071d0d5d573a4f710201426b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/COLOR-CINEPLEX/tracks-v1a1/2026/10/30/06/20/56-06000.ts",
+    "latency_ms": 73,
+    "is_bdix": true
+  },
+  {
+    "name": "B4U Movies",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/b4u-movies.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a367f636c267934222021705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/B4U-MOVIES/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/B4U-MOVIES/tracks-v1a1/2026/10/30/06/21/01-06000.ts",
+    "latency_ms": 137,
+    "is_bdix": true
+  },
+  {
+    "name": "Iqra Bangla",
+    "group": "Islamic",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/iqra-bangla.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b6e5c0d5b0431180a171d5c53321c2a5b4f4d7b0f73445f130a1502705a196a0108521c3c5f2a0159447d3e630c0c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cd198.anystream.uk:9092/iqapp/iq53la/chunks.m3u8",
+    "chunk_url": "https://cd198.anystream.uk:9092/iqapp/iq53la/l_11215_2023718_358251.ts?nimblesessionid=133054494",
+    "latency_ms": 2203,
+    "is_bdix": false
+  },
+  {
+    "name": "Khushboo Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/khushboo-bangla.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b314b451c16370e0e4d1b4f1d30462b1f191d3d536e5a0255584a1f3e401c3a404a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cdn.pishow.tv/ott/live/1473/master.m3u8",
+    "chunk_url": "https://cdn.pishow.tv/ott/live/1473/1473_1_s000732.ts",
+    "latency_ms": 962,
+    "is_bdix": false
+  },
+  {
+    "name": "Hindi Movie Classic 24",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hindi-movie-classic-24.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b17303b16075b04260f180c1b4d1c3c5d321f1d1d255228065914020001705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://vods2.aynaott.com/hindimovies/index.m3u8",
+    "chunk_url": "https://vods2.aynaott.com/hindimovies/tracks-v1a1/2026/10/30/06/20/42-05000.ts",
+    "latency_ms": 100,
+    "is_bdix": false
+  },
+  {
+    "name": "MTV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/mtv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a193f406e0258060e1d5c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/mtv/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/mtv/tracks-v1a1/2026/10/30/06/20/11-09176.ts",
+    "latency_ms": 198,
+    "is_bdix": false
+  },
+  {
+    "name": "Zee Cinema",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zee-cinema.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a2e0e736c287f2c2e2833705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/ZEE-CINEMA/tracks-v1a1/2026/10/30/06/20/44-06000.ts",
+    "latency_ms": 67,
+    "is_bdix": true
+  },
+  {
+    "name": "HBO 2",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hbo-2.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a0178782b3e440c124a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/u3NjUrny/index.m3u8",
+    "chunk_url": "https://tvsen3.aynaott.com/u3NjUrny/tracks-v1a1/2026/10/30/06/20/44-05005.ts",
+    "latency_ms": 99,
+    "is_bdix": true
+  },
+  {
+    "name": "LIFE TIME",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/life-time.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a182250241f5f0f0e4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/lifetime/index.m3u8",
+    "chunk_url": "https://tvsen7.aynaott.com/lifetime/tracks-v1a1/2026/10/30/06/20/15-09176.ts",
+    "latency_ms": 163,
+    "is_bdix": false
+  },
+  {
+    "name": "HBO",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hbo.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a1c29596e0258060e1d5c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/hbo/index.m3u8",
+    "chunk_url": "https://tvsen7.aynaott.com/hbo/tracks-v1a1/2026/10/30/06/20/19-09176.ts",
+    "latency_ms": 326,
+    "is_bdix": false
+  },
+  {
+    "name": "MN+",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/mn.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a39051b11276331440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/MN-PLUS/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/MN-PLUS/tracks-v1a1/2026/10/30/06/20/43-06000.ts",
+    "latency_ms": 94,
+    "is_bdix": true
+  },
+  {
+    "name": "TV9 Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tv9-bangla.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b052635084c1c136c0309510a431c3c5e3045111239592f1f180c0e115d2f460a725b0b474566553e0153523d6b29081b1807205c0c1016174138511d0d362c111b18562a59.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8",
+    "chunk_url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/l_23290_65568000_10928.ts",
+    "latency_ms": 839,
+    "is_bdix": false
+  },
+  {
+    "name": "Islam Channel Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/islam-channel-bangla.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0d362900181c16330014171914503e5c385c145a385f2c1b5a071811003a52053c560a1d50305a700047437c2561565d070237540e1a05565f315c4b082c33045801137203180d085553705a33435800381928055207134b1f6c4650.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://live-islamtv-bangla.simplestreamcdn.com/out/v1/islamchannel/islamtv-bangla/hls-ts/index.m3u8",
+    "chunk_url": "https://live-islamtv-bangla.simplestreamcdn.com/out/v1/islamchannel/islamtv-bangla/hls-ts/segment_576_298890200.ts",
+    "latency_ms": 1901,
+    "is_bdix": false
+  },
+  {
+    "name": "Movies Now",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/movies-now.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a390460082e654f252a25705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/MOVIES-NOW/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/MOVIES-NOW/tracks-v1a1/2026/10/30/06/20/52-06000.ts",
+    "latency_ms": 67,
+    "is_bdix": true
+  },
+  {
+    "name": "Colors Cineplex Bollywood",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/colors-cineplex-bollywood.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f0808293a4b5714093e0b10011d56533b503e5e115a28592c5105575b555d335a1e3a1d5504056c19325c470f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://live.balajibroadband.com:3500/live/1763.m3u8",
+    "chunk_url": "http://live.balajibroadband.com:3500/render.ts?auth=8f7CzLpy4047NnCyXoYwjXkHvP21m2IL6SJ1q_fsN25S_C3vvjCh5WlOULXs04fYR8v5whfv6RCXdj3ljwtKN1wlW2iDgnEUfAZJAMaUA-49gb_T7iBcXmaO261RCJIF7cpRUFVsrLn-i4WxqhbucjFYGWvbtUslk0xjozaQ3-eLMQmgTEdvs_SOh9vN29U4M3wgLI0nztTV68PTdg1ueIXOsMKu0LrB3AHGJqZA5CIAxNlUtyIQBvurBvxi8DnUVYj-o56Nis-yMCXy7IinBd2GM2SPHTE23OufeKvFRk8xyIdYb4Modzpz_VhT2MsFnMCAfO2GaNSmLmbDmn9vUll4-WaaWGiKxQXtfjqICsIPAK5SX_97NjypYjI7FS0pUHxgrmWOGUov3loL-lBbhJp_rqleCephjFtvAC3erKpN_wtas_grbHj_z-QAA51wqh8Oq7oXNtP918S5c1H6_0iz3rtX&channel_key_id=1763",
+    "latency_ms": 807,
+    "is_bdix": false
+  },
+  {
+    "name": "Sony Pal",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-pal.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f0808293a4b5714093e0b10011d56533b503e5e115a28592c5105575b555d335a1e3a1d500407715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://live.balajibroadband.com:3500/live/474.m3u8",
+    "chunk_url": "http://live.balajibroadband.com:3500/render.ts?auth=7SWos5MkMLkTyW-WSve2m34xmHsWdXQ0v43AKw3hH5CSgAqEIiAz6LA3cgWBuU2JkICF0dC72iTU24TzFcEBj0X8llUk_tNoFcXXsgwpMozrtxI0aM6zbqk4Nd9dLa1mCH3Xn1F5QMqbVNLt1cNtNfS0WtNGZrOC8Y-3jfaH11sKbE7fiNtFlqPyJqzW4QuTvkf5pk9_NlTdH2h68wKjkH8dmSDLin37bXffWPlmgJy948NLrSh_mBh7vcnodYhvbsLntE093cWfvFby6n0rQDYhfqY83zdoPbWpKYHnWOyZ21jINW8T7J93LDxbuv5MSQAdbc5f1xk5oPSIMxmmvctl4rvCBNqIPWA0vDj2Acor5ieT4IZiaod-wWqGGHMXOFxJ0Fe-YlIdXlmGV5k5MapEFB-N&channel_key_id=474",
+    "latency_ms": 1104,
+    "is_bdix": false
+  },
+  {
+    "name": "Star Movies",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-movies.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a271f7713467b2d3d2c370c1c013156014b1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/STAR-MOVIES/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/STAR-MOVIES/tracks-v1a1/2026/10/30/06/20/41-06000.ts",
+    "latency_ms": 76,
+    "is_bdix": true
+  },
+  {
+    "name": "MY Time",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/my-time.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0c262b0c5810482b02154d0e5453385b7144035b7a06795b464f0e0b5f3c5047365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://mytime-tcl.amagi.tv/1080p-en-cc/index.m3u8",
+    "chunk_url": "https://mytime-tcl.amagi.tv/1080p-en-cc/seg_2553989.ts",
+    "latency_ms": 956,
+    "is_bdix": false
+  },
+  {
+    "name": "Star Movies Select",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-movies-select.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a271f7713467b2d3d2c370c1e3b1a7e4b5a5d3b5227415f04266b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/STAR-MOVIES-SEL/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/STAR-MOVIES-SEL/tracks-v1a1/2026/10/30/06/20/42-06000.ts",
+    "latency_ms": 87,
+    "is_bdix": true
+  },
+  {
+    "name": "Star Gold",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-gold.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a271f771346712d27215f177747365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/STAR-GOLD-HD/tracks-v1a1/2026/10/30/06/20/58-06000.ts",
+    "latency_ms": 1167,
+    "is_bdix": true
+  },
+  {
+    "name": "Goldmines",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/goldmines.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b122b2d005418167115180d085646291c365e5a33047a05267f2c2e365d106121187b2a1c5a31533a171c5a602668.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8",
+    "chunk_url": "https://streams.tangotv.in/GOLDMINES/ORIGIN/tracks-v1a1/2026/10/30/06/20/46-06000.ts",
+    "latency_ms": 1012,
+    "is_bdix": false
+  },
+  {
+    "name": "Zee Action",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zee-action.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b122b2d0054184b30150d13034c41715e3646105b275f370e19180e002d3e501c365d0a6c523d4570035b41367c2a1c512b0f354d041d0a670666004b02372a0b5e064b32520c5b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://stream.ottplus.live/live/zee_action_abr/live/zee_action_720/chunks.m3u8",
+    "chunk_url": "https://stream.ottplus.live/live/zee_action_abr/live/zee_action_720/l_2071865_28000_7.ts?nimblesessionid=241908757",
+    "latency_ms": 1241,
+    "is_bdix": false
+  },
+  {
+    "name": "Deen TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/deen-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b6e5c0d5b0431180a171d5c53321c2a5b4f4d7b0f73445f130a150270575b6c5c10451c2f5b3e165e5e20277e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8",
+    "chunk_url": "https://cd198.anystream.uk:9092/iqapp/d33ntv/l_18886_681607446_113601.ts?nimblesessionid=133054496",
+    "latency_ms": 2155,
+    "is_bdix": false
+  },
+  {
+    "name": "Epic Crimes",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/epic-crimes.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023c721246001c38530c1b0a58596f0671511e15265728115306450b172b1c1e6e1d0952402b522d4001006161334f041556670c0e435d01556d535404396c5356400768521d0259015369003d004c107a1922081b1518100b38011d27570558036b18320e414336217e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8",
+    "chunk_url": "https://live-epiccrime-samsungtv.videostech.cloud/in10/epic-crime-o_1080p/l_217_1697355164_857251.ts",
+    "latency_ms": 830,
+    "is_bdix": false
+  },
+  {
+    "name": "The Movie Club",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/the-movie-club.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b12362c4852190a3d00154d1f4b5d3b1c2c5118073e58261f404c1b09072c1c1e6e1d1045432f453b4041547e3e204b55065a3558594051405e7a5d571467.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8",
+    "chunk_url": "https://d2tiq0lnb179mp.cloudfront.net/360p-vtt/seg_2382252.ts",
+    "latency_ms": 792,
+    "is_bdix": false
+  },
+  {
+    "name": "Sony Movies",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-movies.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b00723c015b5b0e330e0e071b4f1c3c5d321f191d3d537044450f083a456d031870510c465d3444710201426b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8",
+    "chunk_url": "https://a-cdn.klowdtv.com/live1/smc_720p/l_991_24780000_101857.ts",
+    "latency_ms": 819,
+    "is_bdix": false
+  },
+  {
+    "name": "Star Gold 2",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-gold-2.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f555168715403424b6e5757525c011d2c463e42121b2752734442100a06192c1e1e6e53551c5e3059304146447d3e630c0c4b1a3952081c594c542744.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://107.167.16.138/stargold2/tracks-v1a1/mono.ts.m3u8?token=test",
+    "chunk_url": "http://107.167.16.138/stargold2/tracks-v1a1/2026/10/30/06/20/46-09600.ts?token=test",
+    "latency_ms": 1697,
+    "is_bdix": false
+  },
+  {
+    "name": "Dhoom Music Bangla",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/dhoom-music-bangla.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b314b51101332520c4d1b564270413a42031139036e0f5e0d04085c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cdn.devm3u.top/server5/dhoom.m3u8",
+    "chunk_url": "https://cdn.devm3u.top/_proxy?data=eyJ1IjoiaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL3ppc2Fub25naXQvbGl2ZTI0N0ByZWZzL2hlYWRzL21haW4vcGxheWxpc3Qvc2VnbWVudF8wMDAwMC50cyIsInAiOiJodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvZ2gvemlzYW5vbmdpdC9saXZlMjQ3QHJlZnMvaGVhZHMvbWFpbi9wbGF5bGlzdC9wbGF5bGlzdC5tM3U4IiwiZiI6ImRob29tIiwiYyI6InNlcnZlcjUiLCJzIjoib2ZmbGluZSIsImgiOnt9LCJlIjpmYWxzZX0&sig=e43cdbcbfa7b919fc1141b9ec804d1f342101632ae39832794b185bf02749032",
+    "latency_ms": 666,
+    "is_bdix": false
+  },
+  {
+    "name": "Sony Kal",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-kal.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b162a2d09461a0b261110001b4c403a412b465b132759230a5a4c1f171331400536464a5f5a295270075e447c65681d51110c675a5d4057005230515c533b39500146013b4e0f52404a422b6d2c5f1b0d20572d34074d07022d2a404733531056402b18320e5b597c3b3c0a1b04023740011b174c1f39031159.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8",
+    "chunk_url": "https://c6ea76a2.wurl.com/playlist_192k_253457.ts",
+    "latency_ms": 1756,
+    "is_bdix": false
+  },
+  {
+    "name": "B4U Music",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/b4u-music.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b052d34534d04552909174d0849513b5c715e1000645a281d534d095107005e1d2c5b076c523d4570065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8",
+    "chunk_url": "https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/live/b4u_music/l_2071945_0_0.ts?nimblesessionid=241908404",
+    "latency_ms": 458,
+    "is_bdix": false
+  },
+  {
+    "name": "Sony Pix",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-pix.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b052d34534d04552909174d0849513b5c715e1000645a281d534d180a1c266c18364a3b5b5700006d5f1d543b263e12475a03654c55.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://drk6xq0vhn.gpcdn.net/live/sony_pix_hd_720/chunks.m3u8",
+    "chunk_url": "https://drk6xq0vhn.gpcdn.net/live/sony_pix_hd_720/l_2071801_37960_9.ts?nimblesessionid=241908774",
+    "latency_ms": 1368,
+    "is_bdix": false
+  },
+  {
+    "name": "9XM",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/9xm.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b122b2d005418167115180d085646291c365e5a4d137b6e24642b2c2c3c70471a3e510f401e29063e5e1d5a3c3d3f5759471b6e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://streams.tangotv.in/9XM/ORIGIN/tracks-v1a1/mono.m3u8",
+    "chunk_url": "https://streams.tangotv.in/9XM/ORIGIN/tracks-v1a1/2026/10/30/06/20/36-06000.ts",
+    "latency_ms": 785,
+    "is_bdix": false
+  },
+  {
+    "name": "Sangeet Bangla",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sangeet-bangla.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0c2a321105404b2b001704004d44715b311f4d43055300274e5038243c18762d0b70257d74137670065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8",
+    "chunk_url": "https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/tracks-v1a1/2026/10/30/06/20/40-06000.ts",
+    "latency_ms": 695,
+    "is_bdix": false
+  },
+  {
+    "name": "Music India",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/music-india.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b314b451c16370e0e4d1b4f1d30462b1f191d3d536e5904544408132c470d2d1c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cdn.pishow.tv/ott/live/226/master.m3u8",
+    "chunk_url": "https://cdn.pishow.tv/ott/live/226/226_1_s000718.ts",
+    "latency_ms": 719,
+    "is_bdix": false
+  },
+  {
+    "name": "Shemaroo Bollywood Movie",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/shemaroo-bollywood-movie.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b314840025772110b0c0b17462c446d1e14192a512845421444091b3156092d1d055e546f076759061a203b3514550601395c0306014a45351d17093a3204571a0933180e0c005d1f305c301f05182a4f2d0245164508412a0b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+    "chunk_url": "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/beacon/amg00864-shemarooenterta-shemabollywood-ono/cb553d187b6c678e98d43e62d6ef41a7db243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27750c59e0a957f378bbdbe306f2c180680585ee2be5da5edf55c438c3af2e4481e887b41e5d35fc8d54aba9d850897429b76a410cc9af3de871985d497011166884061cdb654e3e25bb78b3794db946e359d752d55162789c9f1df7d4c4dc3de3e829beaac6cfe69a5e19c4a4845de24904e8f31c81cc2b209d03cc18ec1b1664938afc51b452eb6ecb383f43b71d20e410cd8af112dca8c715c4fc866d9684d52f4ac9b44d49155fedc52507270ba711ac665e2d3424377e1777cbc6fa0e6e7913c0d6a6b050987676ffb07d404d262a1c21f2013180afdda1df38fd75a3f755cc6ae6a94424bf78bd0c3e807359c34401af0368d12454ddc246079d228fbb13578c67359d27b6ead187dab6ac89500b9e7d7ec0d3ef5f9c241f460a6f529dae40da468730850e3bc7c1115022d90dd670b316bca0ab1809daf245f72999da7c9c95d3c082e04125ddb90805eafce91795346bb104c06531f189108d313af23411221c41b93e149438c082522f1b47d3a7e6985c3a58e97dca813e39fb27d73c9985d506f6c2e42f3ca3156b05ac777093844/426x240_511680?bcn=1&ca=0&cid=Dil_HD_SNP&dur=6.000000&media_type=C&redirect_url=https%3A%2F%2Famg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv%2F240p-cc%2Fseg_0262767.ts&seen-ad=1&seg_id=262767&user_id=16dfcedf-d42a-11f1-ac91-0e4a83ed97b6",
+    "latency_ms": 2170,
+    "is_bdix": false
+  },
+  {
+    "name": "Only Music",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/only-music.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0c2a3207541c483a051e06414a5f3e402b401915324237455f0c442a1c334a252a410d501c36593b0a4a193e602541.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8",
+    "chunk_url": "https://mumbai-edge.smartplaytv.in/OnlyMusic/tracks-v1a1/2026/10/30/06/20/59-05205.ts",
+    "latency_ms": 849,
+    "is_bdix": false
+  },
+  {
+    "name": "Comet",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/comet.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b073e2c1118160d3e0f1706034a1c2c5b315319152244321f591012091b3156463c5d091c70107a1a3b1d5e3d3735011a195d2301.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://fast-channels.sinclairstoryline.com/COMET/index.m3u8",
+    "chunk_url": "https://fast-channels.sinclairstoryline.com/COMET/index_1_29370247.ts?m=1734546732",
+    "latency_ms": 1471,
+    "is_bdix": false
+  },
+  {
+    "name": "Cartoon Network HD +",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cartoon-network-hd.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a37051b0f2e6235243739705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/CN-NETWORK/tracks-v1a1/2026/10/30/06/21/03-06000.ts",
+    "latency_ms": 84,
+    "is_bdix": true
+  },
+  {
+    "name": "Nick",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nick.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3a02750a445f0c0f000a715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/NICK/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/NICK/tracks-v1a1/2026/10/30/06/20/43-06000.ts",
+    "latency_ms": 68,
+    "is_bdix": true
+  },
+  {
+    "name": "Sangeet Bhojpuri",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-149.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b314b451c16370e0e4d1b4f1d30462b1f191d3d536e5a045b584a1f3e401c3a404a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cdn.pishow.tv/ott/live/1293/master.m3u8",
+    "chunk_url": "https://cdn.pishow.tv/ott/live/1293/1293_1_s000741.ts",
+    "latency_ms": 711,
+    "is_bdix": false
+  },
+  {
+    "name": "Jalsha Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/jalsha-bangla.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b05362c0d1b050a2d0e0a0b415a5d321c3d545a1c27456e01570e180d133d5206385e051d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://dish.porosh.com.bd/hls/jalshabangla.m3u8",
+    "chunk_url": "https://dish.porosh.com.bd/hls/jalshabangla-1564095.ts",
+    "latency_ms": 1386,
+    "is_bdix": false
+  },
+  {
+    "name": "Nick JR",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nick-jr.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3a02750a467c10440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/NICK-Jr/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/NICK-Jr/tracks-v1a1/2026/10/30/06/21/54-06000.ts",
+    "latency_ms": 86,
+    "is_bdix": true
+  },
+  {
+    "name": "Epic Music",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/epic-music.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023c7256560c1d2e5949121a4a412f5671511e15265728115306450b172b1c1e6e1d09525d36513a1c46186064624b57425e37015c470709086d545d026f3a030643066a034e500b5804675369021744725270445501465611264b1967021546402c473b4056016b35664f05464365585917490c5430044958676a561813066b5041535e0f0567566e1f475a26053453.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cc-3cyxq80qusspd.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/d68f6612-3a4e-4ed4-9853-fc41801678d1/2.m3u8",
+    "chunk_url": "https://live-epicmusic-samsungtv.videostech.cloud/in10/Epic-Music-o_480p/l_3391_183128000_93881.ts",
+    "latency_ms": 1019,
+    "is_bdix": false
+  },
+  {
+    "name": "Teen Nick",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/teen-nick.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a002e532f055f01004a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/teennick/index.m3u8",
+    "chunk_url": "https://tvsen7.aynaott.com/teennick/tracks-v1a1/2026/10/30/06/20/16-09176.ts",
+    "latency_ms": 111,
+    "is_bdix": false
+  },
+  {
+    "name": "EPIX TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/epix-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a352305352777042a4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/Ah3tLAfA/index.m3u8",
+    "chunk_url": "https://tvsen3.aynaott.com/Ah3tLAfA/tracks-v1a1/2026/10/30/06/20/53-05005.ts",
+    "latency_ms": 117,
+    "is_bdix": false
+  },
+  {
+    "name": "Hungama",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hungama.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3c1e78062a7b23440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/HUNGAMA/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/HUNGAMA/tracks-v1a1/2026/10/30/06/22/05-06000.ts",
+    "latency_ms": 87,
+    "is_bdix": true
+  },
+  {
+    "name": "MN TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/mn-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0c312b131b190c29041b0c171751301c365e5a19254237035a1144091b2956463201110b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
+    "chunk_url": "https://mntv.livebox.co.in/mntvhls/live-2604.ts",
+    "latency_ms": 1103,
+    "is_bdix": false
+  },
+  {
+    "name": "Hooray Kids",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hooray-kids.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b056c380a06115c2616481b5d4a507151335f00102d442e05424c050006704559705f055d5a39522c1b1d046461621a02440f6e085811550108300907513a39560316503d564a070e0f0a3e046d52454d2f076e1b544f04071a37031b28005140492b5f705a51546361694e04595c670a0c5f505d54351d05076d39480314553b0248520c58013e0170005b19784379.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://d3go3d9yw1x2sb.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-obhh0sw25szth/5cc02970-213a-4eea-af2f-6a0dc11ca3a3/0.m3u8",
+    "chunk_url": "https://d3go3d9yw1x2sb.cloudfront.net/OTM/OTM_HoorayKids-SCTE_5000/l_7409634000_2446800.ts",
+    "latency_ms": 303,
+    "is_bdix": false
+  },
+  {
+    "name": "Duronto TV",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/duronto-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3004640e256237463124705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/DORONTU-TV/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/DORONTU-TV/tracks-v1a1/2026/10/30/06/21/05-06000.ts",
+    "latency_ms": 76,
+    "is_bdix": true
+  },
+  {
+    "name": "Hindi Hits HD",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hindi-hits-hd.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55556971500c5b576a5257565d030a6f0a6f1f1d1d255228035f16180d16705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://146.59.253.52:8080/hindihitshd/index.m3u8",
+    "chunk_url": "http://146.59.253.52:8080/hindihitshd/tracks-v1a1/2026/10/30/06/20/48-05280.ts",
+    "latency_ms": 996,
+    "is_bdix": false
+  },
+  {
+    "name": "Hollywood HD",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hollywood-hd.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f0d112b294b45070a2c15164d1b4f0868026f005a1723037144400b0f001d715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://iptv.prosto.tv:7000/ch50/video.m3u8",
+    "chunk_url": "http://iptv.prosto.tv:7000/ch50/tracks-v1a1a2l1/2026/10/30/06/19/07-06000.ts?live=1&ip=160.202.146.168&e=1795933266&st=pcTRYEYu_PytDP2CESqjnA",
+    "latency_ms": 1859,
+    "is_bdix": false
+  },
+  {
+    "name": "YRF Music",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/yrf-music.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b003238550441546d4c010a0e565f36532c59145932442706431102065f275a09305f0d1e022d5a345d1c563e3237101a0018794901131d545827444b003238550441546d4c010a0e565f36532c59145932442706431102065f275a09305f0d1c43335626035b44277d3d4a414c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
+    "chunk_url": "https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/ts-eu-w1-n2/beacon/amg01412-xiaomiasia-yrfmusic-xiaomi/cb553d187b6c678e98d43e62d6ef41a6d3243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27750c59e0a957f378bbdbe306f2c180680585ee2be5da5edf55c42de3df0b7494c887b41e5d35fc8d54aba9d850d98159b7ea0429a91a48f8218838291011166884061cdb654e3e25bb78b3794db946e359d752d55162789c9f1df7d4c4dc3de3e829beaac6cfe69a5e19c4a4845de24904e8f31c81cc2b209d03cc18ec1b1664938afc51b452eb6ecb383f43b71d20e410cd8af112dca8c715c4fc866d9684d52f4ac9b44d49155fedc52507270ba711ac665e2d3424377e1777cbc6fa0e6e7913c0d6a6b050987676ffb07d404d262a1c21f2013180afdda1df38fd75a3f755cc6ae6a94424bf78bd0c3e807359c34401af0368d12454ddc246079d228fbb13578c67359d27b6ead187dab6ac89500b9e7d7ec0d3ef5f9c241f460a6f529dae40da468730850e3bc7c1115022d90dd670b316bca0ab1809daf245f72999da7c9c95d3c082e04125ddb90805eafce91795346bb104c06531f189108d313af23411221c41b93e149438c082522f1b47d3a7e6985c3a58e97dca815e39fb27c73c9985d45bd06ceacf05520815337078b109db1/1920x1080_5876488?bcn=1&ca=0&cid=remixhour&dur=4.000000&media_type=C&redirect_url=https%3A%2F%2Famg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv%2F1-448341412.ts&seen-ad=1&seg_id=448341412&user_id=176aa6e4-d42a-11f1-af6f-8af73d4a8140",
+    "latency_ms": 1252,
+    "is_bdix": false
+  },
+  {
+    "name": "9X Tashan",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/9x-tashan.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b16362c0059054b28080a061f5553265d2a445b17245b6e526e3d3f0401375206705f0540473a45710201426b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8",
+    "chunk_url": "https://wiselp.wiseplayout.com/9X_Tashan/HD720/WiseVideo00007037_1549292372100.ts",
+    "latency_ms": 994,
+    "is_bdix": false
+  },
+  {
+    "name": "Sony Yay",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-yay.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a27047818466f23324a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/SONY-YAY/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/SONY-YAY/tracks-v1a1/2026/10/30/06/21/16-06000.ts",
+    "latency_ms": 71,
+    "is_bdix": true
+  },
+  {
+    "name": "Nicklodean",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nicklodean.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e1817021c5a5d2f57715e1000645828085d0e0401173e5d47365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynascope.net/nicklodean/index.m3u8",
+    "chunk_url": "https://tvsen7.aynascope.net/nicklodean/tracks-v1a1/2026/10/30/06/20/16-09000.ts",
+    "latency_ms": 961,
+    "is_bdix": false
+  },
+  {
+    "name": "Discovery Family",
+    "group": "Documentary",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/discovery-family.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b404b3e181702004d467151305d5a10224522044007191c143e5e01334b4b5a5d3b5227415f04266b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
+    "chunk_url": "https://tvsen5.aynaott.com/discoveryfamily/tracks-v1a1/2026/10/30/06/20/08-09175.ts",
+    "latency_ms": 97,
+    "is_bdix": true
+  },
+  {
+    "name": "WOW Kidz",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/wow-kidz.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b182a2f154514173013100403505c715334511815224c240f180c0e115d6e0b596d00501c40325e335545582438391d4e1c07385d045c175558381f140d3e26095c0611710c4a1657065a3b5c2b4348073f0b705c0557535c4a690b5121571c430e6e0f6c5a0a0e6b6568414a150d3a04470c0c5550370d0254393a570142576b071c535a0d0a6e576c0841452d0f24090303095d1739570d3a020500573b0f6c5906023236691d57125a630e5d41020d0361520503683d.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "chunk_url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/hdntl=exp=1793427668~acl=%2f*~data=hdntl~hmac=30a6e5ffae4aa99075d8367990331220e35cd39a1788759f36059b28ff914905/media-u1ft6v59n_b2628000_194085.ts",
+    "latency_ms": 138,
+    "is_bdix": false
+  },
+  {
+    "name": "YTV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ytv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a011246070c05303d4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8",
+    "chunk_url": "https://tvsen3.aynaott.com/uYpFg3RV/tracks-v1/2026/10/30/06/20/46-05005.ts",
+    "latency_ms": 97,
+    "is_bdix": true
+  },
+  {
+    "name": "CNA",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cna.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b056d3a5454060b2c0d4e011d0e507151335f00102d442e05424c05000670045f67000101036a52685d54036032351b00155a6e5c0e4b535e07625506033a700c5b1100273e4c4d020a4767.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+    "chunk_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5_64195673.ts?m=1598670020",
+    "latency_ms": 279,
+    "is_bdix": false
+  },
+  {
+    "name": "V2 Beat",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/v2-beat.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b053a6e1650455471174b010a5846715e3646105b3b5a20125a0b18115c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://de1se01.v2beat.live/playlist.m3u8",
+    "chunk_url": "https://de1se01.v2beat.live/live/hls-source/live/720/l_2511_58410021_9735.ts?nimblesessionid=1026937",
+    "latency_ms": 1316,
+    "is_bdix": false
+  },
+  {
+    "name": "SGGN Music",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sggn-music.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b042b370047060a39150e021d5c41305e2a441c1b251822045b4d070c043a1c1b38510a5e462c5e3c405b593736285759471b6e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://ethersoftwaresolution.com/live/sgcnmusic/index.m3u8",
+    "chunk_url": "https://ethersoftwaresolution.com/live/sgcnmusic/segment_00549.ts",
+    "latency_ms": 2741,
+    "is_bdix": false
+  },
+  {
+    "name": "Rongeen TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/rongeen-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b123a2d1350074b2b091c0f0a5e5b2b422d5f5b1d2519330458050e001c2b45472d5d0a54563a592b191d5e3d3735011a195d2301.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8",
+    "chunk_url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/2026/10/30/06/20/59-06001.ts",
+    "latency_ms": 594,
+    "is_bdix": false
+  },
+  {
+    "name": "CP 24",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cp-24.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a173b0475445f0c0f000a715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/cp24/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/cp24/tracks-v1a1/2026/10/30/06/20/15-09176.ts",
+    "latency_ms": 97,
+    "is_bdix": true
+  },
+  {
+    "name": "Zoo Moo",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zoo-moo.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b1b3030085a1a482c0014101a57553e47715118152c5f6f1f404d1b0913265f012c465301032f19325c470f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8",
+    "chunk_url": "https://zoomoo-samsungau.amagi.tv/playlist720p_263165.ts",
+    "latency_ms": 1025,
+    "is_bdix": false
+  },
+  {
+    "name": "Joo Music",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/joo-music.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0d36290056110b710d10150a0b0668412b421015261822045b4d010a1d32461b36514b47457047330e4b5b3a20245759471b6e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
+    "chunk_url": "https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/l_5054.ts",
+    "latency_ms": 1485,
+    "is_bdix": false
+  },
+  {
+    "name": "ABC News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/abc-news.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a350975391152110f2b17284047365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/ABCxzdsdNews/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/ABCxzdsdNews/tracks-v1a1/2026/10/30/06/20/24-09176.ts",
+    "latency_ms": 95,
+    "is_bdix": true
+  },
+  {
+    "name": "Wion",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/wion.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0568275d4f411c2a104d511e571c3c5e3045111239592f1f180c0e115d365d0c3a4a3b041d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+    "chunk_url": "https://d7x8z4yuq42qn.cloudfront.net/index_7_17459430.ts?m=1685454710",
+    "latency_ms": 199,
+    "is_bdix": false
+  },
+  {
+    "name": "CNBC TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cnbc-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a17255422445f0c0f000a715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/cnbc/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/cnbc/tracks-v1a1/2026/10/30/06/20/18-09176.ts",
+    "latency_ms": 103,
+    "is_bdix": false
+  },
+  {
+    "name": "ZB Cartoon",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zb-cartoon.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b123a2d1350074b2508150f0e4b503e402b515b17245b6e1154010a1107311c1e3656015c1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+    "chunk_url": "https://server.zillarbarta.com/zbcatun/tracks-v1a1/2026/10/30/06/20/30-08033.ts",
+    "latency_ms": 999,
+    "is_bdix": false
+  },
+  {
+    "name": "Fox News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/fox-news.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a12244e2f0e4111440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/foxnews/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/foxnews/tracks-v1a1/2026/10/30/06/20/17-09176.ts",
+    "latency_ms": 96,
+    "is_bdix": true
+  },
+  {
+    "name": "National Geographic HD",
+    "group": "Documentary",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/national-geographic-hd.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3a0a62062e794f23215d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/NATGEO-HD/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/NATGEO-HD/tracks-v1a1/2026/10/30/06/20/48-06000.ts",
+    "latency_ms": 94,
+    "is_bdix": true
+  },
+  {
+    "name": "Sky News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sky-news.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b404b3e181702004d467151305d5a07204f2f0e4111440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen5.aynaott.com/skynews/index.m3u8",
+    "chunk_url": "https://tvsen5.aynaott.com/skynews/tracks-v1a1/2026/10/30/06/20/17-09000.ts",
+    "latency_ms": 104,
+    "is_bdix": false
+  },
+  {
+    "name": "Sony BBC Earth HD",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-bbc-earth-hd.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a272458384674202848373e411c371d0d5d573a4f710201426b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Sony-BBC-Earth/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/Sony-BBC-Earth/tracks-v1a1/2026/10/30/06/20/48-06000.ts",
+    "latency_ms": 75,
+    "is_bdix": true
+  },
+  {
+    "name": "TLC HD",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tlc-hd.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a3101572600782e594a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/EJagkNL2/index.m3u8",
+    "chunk_url": "https://tvsen3.aynaott.com/EJagkNL2/tracks-v1a1/2026/10/30/06/21/01-05005.ts",
+    "latency_ms": 107,
+    "is_bdix": false
+  },
+  {
+    "name": "Discovery",
+    "group": "Documentary",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/discovery.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a30026502246027393c5d2b41093c59171e456e566e405f583d3c7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/DISCOVERY/tracks-v1a1/mono.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/DISCOVERY/tracks-v1a1/2026/10/30/06/20/50-06000.ts",
+    "latency_ms": 68,
+    "is_bdix": true
+  },
+  {
+    "name": "DW News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/dw-news.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b05283e085106112d04180e5e0900715334511815224c240f180c0e115d375f1b705e0d455670056f5e070261667f1d43071a245c0c1f5508037b590a053a274b58461067.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+    "chunk_url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/20261027T073423/ts/149445/sequence_298890301.ts",
+    "latency_ms": 689,
+    "is_bdix": false
+  },
+  {
+    "name": "Discovery HD",
+    "group": "Documentary",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/discovery-hd.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a2e2342743d4720094a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
+    "chunk_url": "https://tvsen3.aynaott.com/Zht5VqBb/tracks-v1a1/2026/10/30/06/20/49-05005.ts",
+    "latency_ms": 102,
+    "is_bdix": false
+  },
+  {
+    "name": "HGTV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hgtv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a332e047213503b5e4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8",
+    "chunk_url": "https://tvsen3.aynaott.com/Ge23xfY5/tracks-v1a1/2026/10/30/06/20/48-05005.ts",
+    "latency_ms": 102,
+    "is_bdix": false
+  },
+  {
+    "name": "Love Nature",
+    "group": "Documentary",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/love-nature.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f5656716e57015b526e4f4b5440755d2957007e14003e4424445f0c0f000a715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://27.124.71.27/Love_Nature/index.m3u8",
+    "chunk_url": "http://27.124.71.27/Love_Nature/tracks-v1a1/2026/10/30/06/20/49-05100.ts",
+    "latency_ms": 77,
+    "is_bdix": true
+  },
+  {
+    "name": "T Sports",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/t-sports.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a206665112464363848340a7f24727a201c472d563c04411a256231481b19013856431f574d09.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/2026/10/30/06/20/41-06500.ts",
+    "latency_ms": 81,
+    "is_bdix": true
+  },
+  {
+    "name": "PTV Sports",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ptv-sports.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a241f606c38662d39312170471a3e510f401e29063e5e1d5a3c3d3f5759471b6e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/2026/10/30/06/21/19-06000.ts",
+    "latency_ms": 74,
+    "is_bdix": true
+  },
+  {
+    "name": "Star Sports 1",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-sports-1.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a271f77134665322437260c1e59727a201c5a31533a171c5a602668.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/STAR-SPORTS-1-HD/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/STAR-SPORTS-1-HD/tracks-v1a1/2026/10/30/06/21/08-06000.ts",
+    "latency_ms": 67,
+    "is_bdix": true
+  },
+  {
+    "name": "HISTORY TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/history-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a1a3b050b1842302e4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/np3JstRE/index.m3u8",
+    "chunk_url": "https://tvsen3.aynaott.com/np3JstRE/tracks-v1a1/2026/10/30/06/21/04-05005.ts",
+    "latency_ms": 121,
+    "is_bdix": false
+  },
+  {
+    "name": "Star Sports Select 1",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-sports-select-1.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a271f77134665322437260c1e3b1a7e217067720670065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/tracks-v1a1/2026/10/30/06/20/49-06000.ts",
+    "latency_ms": 79,
+    "is_bdix": true
+  },
+  {
+    "name": "Star sports 2",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-sports-2.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a271f77134665322437260c1e5a727a201c5a31533a171c5a602668.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/STAR-SPORTS-2-HD/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/STAR-SPORTS-2-HD/tracks-v1a1/2026/10/30/06/20/46-06001.ts",
+    "latency_ms": 73,
+    "is_bdix": true
+  },
+  {
+    "name": "History TV 18 HD",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/history-tv-18-hd.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0f6e67164c1b013602181706565c715334511815224c240f180c0e115d3d43037246121c7b36442b00404e0c0706480c2b263f57091b3b766665083b2c101d4a5a00112f140d535e165f3e412b55075a26053453.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8",
+    "chunk_url": "https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/History_TV18_Hindi_NW18_MOB-audio_98836_hin=98800-video=148000-448335167.ts",
+    "latency_ms": 246,
+    "is_bdix": false
+  },
+  {
+    "name": "CGTN Documentary",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cgtn-documentary.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b043138095c060d720d10150a5b593e5e361e16133f586f08590f44091b2956473b5d0750542b59005e1c5a602668.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8",
+    "chunk_url": "https://english-livebkali.cgtn.com/live/doccgtn_154891.ts",
+    "latency_ms": 1116,
+    "is_bdix": false
+  },
+  {
+    "name": "Ten Sports",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ten-sports.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a202e586c38460d19110170471a3e510f401e29063e5e1d5a3c3d3f5759471b6e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Ten-Sports/tracks-v1a1/mono.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/Ten-Sports/tracks-v1a1/2026/10/30/06/21/20-06208.ts",
+    "latency_ms": 85,
+    "is_bdix": true
+  },
+  {
+    "name": "A Sports",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/a-sports.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b11333e1c4f0113720009131c17423e553a435b102e406e0a1b111b0a002b4047365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://playztv-apps.pages.dev/a-sports/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/2026/10/30/06/20/22-09000.ts?token=968935df4fd0678de5d7fe392c0610d9",
+    "latency_ms": 111,
+    "is_bdix": false
+  },
+  {
+    "name": "Ten Cricket",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ten-cricket.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a200e786c286427282e370b1c1c2d5307584072416e0e03183e3c3e161a195d2301.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/TEN-CRECKET/tracks-v1a1/mono.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/TEN-CRECKET/tracks-v1a1/2026/10/30/06/21/49-06000.ts",
+    "latency_ms": 92,
+    "is_bdix": true
+  },
+  {
+    "name": "Sony Ten Sports 2",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-ten-sports-2.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a200e786c59190b050117271d056c475c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/TEN-2/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/TEN-2/tracks-v1a1/2026/10/30/06/20/47-06000.ts",
+    "latency_ms": 78,
+    "is_bdix": true
+  },
+  {
+    "name": "Sony Ten Sports 3",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-ten-sports-3.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a200e786c58190b050117271d056c475c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/TEN-3/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/TEN-3/tracks-v1a1/2026/10/30/06/20/25-06000.ts",
+    "latency_ms": 66,
+    "is_bdix": true
+  },
+  {
+    "name": "Somoy Kolkata",
+    "group": "News",
+    "logo": "",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d2c5332510c1f245a2a0a42034516062d5609321d1041523c5c2c42440632627f145b1a0178545e075c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/samaykolkata.stream/tracks-v1a1/mono.m3u8",
+    "chunk_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/samaykolkata.stream/tracks-v1a1/2026/10/30/06/20/57-06000.png",
+    "latency_ms": 1354,
+    "is_bdix": false
+  },
+  {
+    "name": "Bein Sports 1",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bein-sports-1.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f5656716e57015b526e4f4b54405b57167c0063051b39423234074d020b163a4b463201110b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://27.124.71.27/beIN_Sports_1/index.m3u8",
+    "chunk_url": "http://27.124.71.27/beIN_Sports_1/tracks-v1a1/2026/10/30/06/20/48-05000.ts",
+    "latency_ms": 77,
+    "is_bdix": true
+  },
+  {
+    "name": "Sony Ten Sports 1",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-ten-sports-1.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a200e786c5a190b050117271d056c475c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/TEN-1/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/TEN-1/tracks-v1a1/2026/10/30/06/21/26-06000.ts",
+    "latency_ms": 112,
+    "is_bdix": true
+  },
+  {
+    "name": "Bein Sports 2",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bein-sports-2.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f5656716e57015b526e4f4b54405b57167c0063051b39423234044d020b163a4b463201110b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://27.124.71.27/beIN_Sports_2/index.m3u8",
+    "chunk_url": "http://27.124.71.27/beIN_Sports_2/tracks-v1a1/2026/10/30/06/20/50-05000.ts",
+    "latency_ms": 77,
+    "is_bdix": true
+  },
+  {
+    "name": "Moonbug Kids",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/moonbug-kids.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0c30300b570002721316081a4c4171533251121d65423744460e0a1c1e36401c715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+    "chunk_url": "https://moonbug-rokuus.amagi.tv/240p-cc/seg_0215729.ts",
+    "latency_ms": 1430,
+    "is_bdix": false
+  },
+  {
+    "name": "Bein Sports 3",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bein-sports-3.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f5656716e57015b526e4f4b54405b57167c0063051b39423234054d020b163a4b463201110b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://27.124.71.27/beIN_Sports_3/index.m3u8",
+    "chunk_url": "http://27.124.71.27/beIN_Sports_3/tracks-v1a1/2026/10/30/06/20/54-05000.ts",
+    "latency_ms": 74,
+    "is_bdix": true
+  },
+  {
+    "name": "Willow Sports",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/willow-sports.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a23027a0d24614f38353d0d673b705b0a57562719325c470f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/WILLOW-SPORTS/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/WILLOW-SPORTS/tracks-v1a1/2026/10/30/06/21/10-05000.ts",
+    "latency_ms": 106,
+    "is_bdix": true
+  },
+  {
+    "name": "Cricbuzz",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cricbuzz.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a060e7431580e23134a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
+    "chunk_url": "https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/2026/10/30/06/20/24-09176.ts",
+    "latency_ms": 92,
+    "is_bdix": true
+  },
+  {
+    "name": "Sony Ten Sports 5",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-ten-sports-5.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a200e786c5e190b050117271d056c475c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/TEN-5/index.m3u8",
+    "chunk_url": "http://103.135.253.32:8080/TEN-5/tracks-v1a1/2026/10/30/06/20/51-05999.ts",
+    "latency_ms": 69,
+    "is_bdix": true
+  },
+  {
+    "name": "TSN 1",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tsn-1.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a00385870445f0c0f000a715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/tsn1/index.m3u8",
+    "chunk_url": "https://tvsen7.aynaott.com/tsn1/tracks-v1a1/2026/10/30/06/20/14-09068.ts",
+    "latency_ms": 93,
+    "is_bdix": true
+  },
+  {
+    "name": "TSN 2",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tsn-2.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a00385873445f0c0f000a715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/tsn2/index.m3u8",
+    "chunk_url": "https://tvsen7.aynaott.com/tsn2/tracks-v1a1/2026/10/30/06/20/18-09176.ts",
+    "latency_ms": 92,
+    "is_bdix": true
+  },
+  {
+    "name": "TNT Sports 1",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tnt-sports-1.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b404b3e181702004d467151305d5a153852270a52110d4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8",
+    "chunk_url": "https://tvsen5.aynaott.com/asdfadsf/tracks-v1a1/2026/10/30/06/20/21-09000.ts",
+    "latency_ms": 108,
+    "is_bdix": false
+  },
+  {
+    "name": "Balle Balle",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/balle-balle.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0c3c3106511b01360610170e551c3c5d321f021b395a251b430c01041036471e705b0a57562719325c470f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://mcncdndigital.com/worldpunjabitv/index.m3u8",
+    "chunk_url": "https://mcncdndigital.com/worldpunjabitv/tracks-v3a1/2026/10/30/06/20/44-06000.ts",
+    "latency_ms": 2452,
+    "is_bdix": false
+  },
+  {
+    "name": "ESPN",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/espn.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a1138462f445f0c0f000a715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/espn/index.m3u8",
+    "chunk_url": "https://tvsen7.aynaott.com/espn/tracks-v1a1/2026/10/30/06/20/10-09175.ts",
+    "latency_ms": 111,
+    "is_bdix": false
+  },
+  {
+    "name": "Willow Sports 2",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/willow-sports-2.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a273b59331f4553440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/Sports1/index.m3u8",
+    "chunk_url": "https://tvsen7.aynaott.com/Sports1/tracks-v1a1/2026/10/30/06/20/19-09176.ts",
+    "latency_ms": 97,
+    "is_bdix": true
+  },
+  {
+    "name": "TSN 3",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tsn-3.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a00385872445f0c0f000a715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/tsn3/index.m3u8",
+    "chunk_url": "https://tvsen7.aynaott.com/tsn3/tracks-a1/2026/10/30/06/20/15-09003.ts",
+    "latency_ms": 158,
+    "is_bdix": false
+  },
+  {
+    "name": "Amc",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/amc.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a1526556e0258060e1d5c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/amc/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/amc/tracks-v1a1/2026/10/30/06/20/20-09176.ts",
+    "latency_ms": 104,
+    "is_bdix": false
+  },
+  {
+    "name": "Talk Sport",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/talk-sport.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a002a5a2a38662d39315d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/talkSPORT/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/talkSPORT/tracks-v1a1/2026/10/30/06/19/57-10000.ts",
+    "latency_ms": 101,
+    "is_bdix": false
+  },
+  {
+    "name": "Marquee Sports Network",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/marquee-sports-network.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a392a44301e530738151d2d471b115710445c2d5c70065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/tracks-v1a1/2026/10/30/06/16/38-11913.ts",
+    "latency_ms": 104,
+    "is_bdix": false
+  },
+  {
+    "name": "TVC Arabic Kids",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tvc-arabic-kids.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a201d750019570002063936571b705b0a57562719325c470f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/TVCArabicKids/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/TVCArabicKids/tracks-v1/2026/10/30/06/19/52-12500.ts",
+    "latency_ms": 93,
+    "is_bdix": true
+  },
+  {
+    "name": "Cricket Gold",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cricket-gold.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a397961733e645652011f3a780a055c095761257970065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/tracks-v1a1/2026/10/30/06/20/05-10010.ts",
+    "latency_ms": 104,
+    "is_bdix": false
+  },
+  {
+    "name": "Al Jazeera",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/al-jazeera.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0d362900181d092c4c18131f4a1f3e583a1d13156551241f5708450b172b1c2915774b5a5d3b5227415f04266b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+    "chunk_url": "https://live-hls-apps-aje-fa.getaj.net/AJE/01_245963599.ts",
+    "latency_ms": 1292,
+    "is_bdix": false
+  },
+  {
+    "name": "Disney Jr.",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/disnep-jr.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55586f715c065b576d5557575d1676166111752c5901646e0258060e1d5c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://190.93.224.42/DISNEY-JR/index.m3u8",
+    "chunk_url": "http://190.93.224.42/DISNEY-JR/tracks-v1a1/2026/10/30/06/20/47-06073.ts",
+    "latency_ms": 2264,
+    "is_bdix": false
+  },
+  {
+    "name": "Dios Te Ve Kids",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/dios-te-ve-kids.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b12713a085c060a2d000a4d1b4f08670267015a102259321f53140e0e1b3b4047365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
+    "chunk_url": "https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/2026/10/30/06/20/30-08008.ts",
+    "latency_ms": 2479,
+    "is_bdix": false
+  },
+  {
+    "name": "Goal TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/goal-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b122b2d005418166d4f0a0c0958412b1c2b465a0724502018421207040b30461c70650d405612040a576d067c3e310a40111c78545e075c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8",
+    "chunk_url": "https://streams2.sofast.tv/sofast/goaltv/67123B1E0000C9BF7D76-p0_tmpl1000k_1000k-1793341464304.ts",
+    "latency_ms": 412,
+    "is_bdix": false
+  },
+  {
+    "name": "BTV CTG",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/btv-ctg.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a202171135a7101132e172b7b26095129654b3d4670065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/tracks-v1a1/2026/10/30/06/20/19-09000.ts",
+    "latency_ms": 99,
+    "is_bdix": true
+  },
+  {
+    "name": "Wild HD",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/wild-hd.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b05393716541d153e554c08040b1c3c5e3045111239592f1f180c0e115d2c50003a56115f562d182c0c5a5237263c1c79151d225c1f5d500f077a5d571467.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8",
+    "chunk_url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/part/8601906615/392453414.ts",
+    "latency_ms": 1580,
+    "is_bdix": false
+  },
+  {
+    "name": "Travel XP",
+    "group": "Documentary",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/travel-xp.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b152d3e1350191d2f4c0d110e4f57334a2f1d44592e436f1957091e1117311d1f2a40081d4729182f03534e3f3a230d1a195d2301.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "chunk_url": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/141/429383/153779790/fd96f7ac2d545651864b7c200cfecd81/hls-v2/1200-00138.ts",
+    "latency_ms": 1335,
+    "is_bdix": false
+  },
+  {
+    "name": "MSNBC News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/msnbc-news.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a1938582308190b050117271d056c475c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/msnbc/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/msnbc/tracks-v1a1/2026/10/30/06/20/37-09176.ts",
+    "latency_ms": 95,
+    "is_bdix": true
+  },
+  {
+    "name": "Bein Sports Xtra",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bein-sports-xtra.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b033a360b180d112d0054010a505c71533251121d65423744460e0a1c1e36401c715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+    "chunk_url": "https://bein-xtra-bein.amagi.tv/playlistR576p_223860.ts",
+    "latency_ms": 887,
+    "is_bdix": false
+  },
+  {
+    "name": "NTV Europe",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ntv-europe.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f4b5b16042d04570f064f5770516c660c10266038330e301b07370a0a25360a1c7d4a674e122b7707141a142c0226092c685b3c30795630750b003a191f57335c6d382e1b26636610020a00100e050708117b1b0d131118652505772e70671a71080a64796003043659102825583a20105966610105080f370b65212c6d4e1717194c596f026c0347467a076f1842100e041f7043043e4b085a402b19325c470f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8",
+    "chunk_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/l_101726271_94920699_15818.png?nimblesessionid=1284358216",
+    "latency_ms": 444,
+    "is_bdix": false
+  },
+  {
+    "name": "TYC Sports",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tyc-sports.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b00323857034753674c180e080b046d04675344406650330e530e0213172c43072d46171e5632523e4203076165675744180f2f56180617165f3b474a00323e025c5b11294e0d10424c4172576d1d1b4664462d0a4f0e0216067052053800520105671a2c1f5d452720230d4110073914190b074b413b42101272391750100936171c101f56402b413a5d101564462d0a4f0e021606715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+    "chunk_url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/beacon/amg26268-sportsstudio-tycsports-freelivesportsemea/cb553d187b6c678e98d43e62d6ef41a6d2243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27750c59e0a957f378bbdbe306f2c180680585ee2be5da5edf55c4cd93fa0e31d41887b41e5d35fc8d54aba9d855fcf409b75f741cf97f189da10d4d093011166884061cdb654e3e25bb78b3794db946e359d752d55162789c9f1df7d4c4dc3de3e829beaac6cfe69a5e19c4a4845de24904e8f31c81cc2b209d03cc18ec1b1664938afc51b452eb6ecb383f43b71d20e410cd8af112dca8c715c4fc866d9684d52f4ac9b44d49155fedc52507270ba711ac665e2d3424377e1777cbc6fa0e6e7913c0d6a6b050987676ffb07d404d262a1c21f2013180afdda1df38fd75a3f755cc6ae6a94424bf78bd0c3e807359c34401af0368d12454ddc246079d228fbb13578c67359d27b6ead187dab6ac89500b9e7d7ec0d3ef5f9c241f460a6f529dae40da468730850e3bc7c1115022d90dd670b316bca0ab1809daf245f72999da7c9c95d3c082e04125ddb90805eafce91795346bb104c06531f189108d313af23411221c41b93e149438c082522f1b47d3a7e6985c3a58e97dca915ec2d33ae4bb7df8c3fead5008817367e2827f8c13d2811d66f/640x360_929973?bcn=1&ca=0&cid=&dur=6.000000&media_type=C&redirect_url=https%3A%2F%2Fsofastplaylist.akamaized.net%2Fenc%2F5109dad5-57ea-46e1-b2d8-843f062ef126%2F8d59f2fd-0be6-43f1-8769-a5cf44dd68f1%2Ffst%2F165554%2Fmedia%2F165554_360_700_000249.ts%3Fchannel_name%3Dtyc_sports%26ads.partner%3DFreeLiveSports%26ads.network_name%3DFreeLiveSports%26ads.content_genre%3DSports%26ads.lang%3DSpanish%26ads.ctgr%3DSport%26vg_country_code%3DUS&seen-ad=1&seg_id=9227&user_id=191c1b19-d42a-11f1-a4a3-36eb51290ff2",
+    "latency_ms": 2412,
+    "is_bdix": false
+  },
+  {
+    "name": "TBS",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tbs.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a0029456e0258060e1d5c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/tbs/index.m3u8",
+    "chunk_url": "https://tvsen6.aynaott.com/tbs/tracks-v1a1/2026/10/30/06/20/25-09176.ts",
+    "latency_ms": 183,
+    "is_bdix": false
+  },
+  {
+    "name": "FIFA+",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/fifa.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b056d285c444153360a1e110c4e4a7151335f00102d442e05424c050006704559705f0540473a45705c050561306649554c5f635a5c4b5d5c08370001076c69060017526c0518555758046d506f0911456455224659045e061034001b3e4457440670416e40414e2037310d552b1d094932133b5e5832513b56702c04580610310611060e5d5731560045065b2757350e4516440813365d47375e171c43335626035b44277d3d4a414c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "chunk_url": "https://d2w9q46ikgrcwx.cloudfront.net/ppc-sysdata_s_p_a_fifa_7-UTC-wfo-0-d9016f62/playlist_1200k_20261030T062014_227680.ts",
+    "latency_ms": 1258,
+    "is_bdix": false
+  },
+  {
+    "name": "MADANI TV",
+    "group": "Islamic",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/madani-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a0e7902302745133d4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/z24qLsqV/index.m3u8",
+    "chunk_url": "https://tvsen3.aynaott.com/z24qLsqV/tracks-v1/2026/10/30/06/21/26-05000.ts",
+    "latency_ms": 181,
+    "is_bdix": false
+  },
+  {
+    "name": "OAN",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/oan.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b00723c015b5b0e330e0e071b4f1c3c5d321f191d3d5370445903053a456d0318704208524a335e2c1b1c5a602668.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8",
+    "chunk_url": "https://a-cdn.klowdtv.com/live1/oan_720p/l_313_35160160_1856175.ts",
+    "latency_ms": 754,
+    "is_bdix": false
+  },
+  {
+    "name": "Adventure Earth",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/adventure-earth.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002a2b005b010c3c4c1807195c5c2b472d5558112a4435031b53460007714109344710565d71402a1d5e1927257f095815173a501e064a55022108.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "chunk_url": "https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/298/420481/68780893/ce49f39bc819f1cb19789e76cacc2ba3/hls-v2/1200-00140.ts",
+    "latency_ms": 1293,
+    "is_bdix": false
+  },
+  {
+    "name": "Sky News Weather",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sky-news-weather.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b05362c11471a556f5054040d145a33416e1d05062f18250e5a0b1d0000261d1b344b075743715430021d52322035156b170a3816031516480b23550515373a176a190a301157101b4b573e5f0051191864462d0a4f0e021606715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8",
+    "chunk_url": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/media-unwmpbger_b4096000_23981.ts",
+    "latency_ms": 232,
+    "is_bdix": false
+  },
+  {
+    "name": "ABN",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/abn.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0c3a3b0c5406002d171c1141585031443654101b381822045b4d1811003a52052c1d05515d2a453b1a1c5a602668.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://mediaserver.abnvideos.com/streams/abnurdu.m3u8",
+    "chunk_url": "https://s3.us-east-005.backblazeb2.com/abnvideos/b36b3e66-8f5c-4993-86c8-9b39f46e5014/segment_360p_0122.ts",
+    "latency_ms": 2618,
+    "is_bdix": false
+  },
+  {
+    "name": "Discover Pikstan",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/discover-pikstan.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0d36290056110b710d10150a0b0668412b421015261822045b4d0f0c013c5c1e3a4014525836442b0e5c182436325644180f2f55040110165c67455c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+    "chunk_url": "https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream1/l_108085.ts",
+    "latency_ms": 1391,
+    "is_bdix": false
+  },
+  {
+    "name": "Islam TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/islam-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b444b3e181702004d467151305d5a160905005e521b1a4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen1.aynaott.com/bB3A5dyq/index.m3u8",
+    "chunk_url": "https://tvsen1.aynaott.com/bB3A5dyq/tracks-v1a1/2026/10/30/06/21/04-05000.ts",
+    "latency_ms": 1567,
+    "is_bdix": false
+  },
+  {
+    "name": "World War TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/world-war-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b003a310041020a2d0a0a4e1856403356285107003d1b330a5d171f001c7152053e550d1d4729182f03534e3f3a230d1a195d2301.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
+    "chunk_url": "https://aenetworks-worldwartv-rakuten.amagi.tv/360p-vtt/seg_0033948.ts",
+    "latency_ms": 941,
+    "is_bdix": false
+  },
+  {
+    "name": "Ruposhi Bangla TV",
+    "group": "Entertainment",
+    "logo": "",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d2d472f5f061c22542005510e0a4b012b410d3e5f4b47413e54341c1f4162326156591b00391700411100.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/tracks-v1a1/mono.m3u8",
+    "chunk_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/tracks-v1a1/2026/10/30/06/20/48-06006.png",
+    "latency_ms": 1387,
+    "is_bdix": false
+  },
+  {
+    "name": "Weather SPY",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/weather-spy.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0b2a340c5b58123a000d0b0a4b412f4b7202581d2518320a5b111e0b1571441d2d5e4a47457047330e4b5b3a20245759471b6e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8",
+    "chunk_url": "https://jukin-weatherspy-2-in.samsung.wurl.tv/53104279/hls-v2/1200-00041.ts",
+    "latency_ms": 1542,
+    "is_bdix": false
+  },
+  {
+    "name": "Fox Weather",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/fox-weather.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b536b6812591c133a4f1f0c174e573e463755075a28592c444516190013321c013156014b1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://247wlive.foxweather.com/stream/index.m3u8",
+    "chunk_url": "https://247wlive.foxweather.com/stream/index_512x288_061954__9647545.ts",
+    "latency_ms": 957,
+    "is_bdix": false
+  },
+  {
+    "name": "Accu Weather",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/accu-weather.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b314840105472110b0c0b17462c446d1e14192a512845421444091b3156092d1d055e546f076957061a3230330c43110f22510800495952374513043e2b0d5007482f0d1c1b40495e3e4b33590600655b721e0e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
+    "chunk_url": "https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/ts-us-w2-n1/beacon/amg00684-accuweather-accuweather-plex/cb553d187b6c678e98d43e62d6ef41a7db243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27750c59e0a957f378bbdbe306f2c180680585ee2be5da5edf55c11df68a4e21940887b41e5d35fc8d54aba9ddc58cc479b7ea0119d93a58985428b8393011166884061cdb654e3e25bb78b3794db946e359d752d55162789c9f1df7d4c4dc3de3e829beaac6cfe69a5e19c4a4845de24904e8f31c81cc2b209d03cc18ec1b1664938afc51b452eb6ecb383f43b71d20e410cd8af112dca8c715c4fc866d9684d52f4ac9b44d49155fedc52507270ba711ac665e2d3424377e1777cbc6fa0e6e7913c0d6a6b050987676ffb07d404d262a1c21f2013180afdda1df38fd75a3f755cc6ae6a94424bf78bd0c3e807359c34401af0368d12454ddc246079d228fbb13578c67359d27b6ead187dab6ac89500b9e7d7ec0d3ef5f9c241f460a6f529dae40da468730850e3bc7c1115022d90dd670b316bca0ab1809daf245f72999da7c9c95d3c082e04125ddb90805eafce91795346bb104c06531f189108d313af23411221c41b93e149438c082522f1b47d3a7e6985c3a58e97dca915ec2e33ae40b7df8c3fec7870565f259f51201f86090d585910/426x240_511680?bcn=1&ca=0&cid=accuweatherallnight&dur=6.006000&media_type=M&redirect_url=https%3A%2F%2Famg00684-accuweather-accuweather-plex-jbd2s.amagi.tv%2F240p-cc%2Fseg_1142710.ts&seen-ad=1&seg_id=1142710&user_id=1d745c58-d42a-11f1-83b4-8a501e2fb952",
+    "latency_ms": 1744,
+    "is_bdix": false
+  },
+  {
+    "name": "CMAC TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cmac-tv.webp",
+    "proxy_url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b133a390950161172171607425a5f3e51715314162753220a4516451104705f012957490202705b361957182027221c5519436416011b125d1f39031159.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8",
+    "chunk_url": "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/segments/2026-10-25-02-15-12-WIFI-2096k-1080p-00042146.m4s?duration=10",
+    "latency_ms": 2131,
+    "is_bdix": false
+  }
+]

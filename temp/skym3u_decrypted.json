@@ -1,0 +1,2562 @@
+[
+  {
+    "name": "Skym3u Official - Visit Skym3u.dev",
+    "group": "SkyM3U Promo",
+    "logo": "https://imgur.com/ocyTxpw.png",
+    "tvg_id": "",
+    "url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8",
+    "real_url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "Shangshad Bangladesh",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/btv-shangshad.webp",
+    "tvg_id": "ch_0",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b032b294b5d070c3b0e00171914513753315e101865412e195d0719165c3b561e7041055d542c563b415f04266b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://btv.hridoytv-channel.workers.dev/sangsad.m3u8"
+  },
+  {
+    "name": "BTV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/btv.webp",
+    "tvg_id": "ch_1",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a361f606e0258060e1d5c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/BTV/index.m3u8"
+  },
+  {
+    "name": "BTV News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/btv-news.webp",
+    "tvg_id": "ch_2",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b032b294b5d070c3b0e00171914513753315e101865412e195d0719165c3b561e705c014440715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://btv.hridoytv-channel.workers.dev/news.m3u8"
+  },
+  {
+    "name": "Jamuna TV",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/jamuna-tv.webp",
+    "tvg_id": "ch_3",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3e2a5b3405574f3f335d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Jamuna-TV/index.m3u8"
+  },
+  {
+    "name": "DBC News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/dbc-news.webp",
+    "tvg_id": "ch_4",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a040d00773f5d185b143428635a3e7f29427b264370065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8"
+  },
+  {
+    "name": "Ekattor TV",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ekattor-tv.webp",
+    "tvg_id": "ch_5",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a311c72333d0333180e153e41321a672651002f6270065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8"
+  },
+  {
+    "name": "Somoy TV",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/somoy-tv.webp",
+    "tvg_id": "ch_6",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a27047b0e321b363d4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/SOMOY-TV/index.m3u8"
+  },
+  {
+    "name": "NTV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ntv.webp",
+    "tvg_id": "ch_7",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b404b3e181702004d467151305d5a0c1d022b2e7d0458214b255047365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
+  },
+  {
+    "name": "News 21",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/news-21.webp",
+    "tvg_id": "ch_8",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c71540c454b6e524a4d5901086e0b6c055a1a2e413259070e021317705f0129574b435f3e4e330641437d3e630c0c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.190.133.68:1935/news21live/live/playlist.m3u8"
+  },
+  {
+    "name": "Star News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-news.webp",
+    "tvg_id": "ch_9",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a273f57334678071c165d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Star-News/index.m3u8"
+  },
+  {
+    "name": "News 24",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/news-24.webp",
+    "tvg_id": "ch_10",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a172f51335842155d321d18042226600a7f51360770065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8"
+  },
+  {
+    "name": "Enter TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/enter-tv.webp",
+    "tvg_id": "ch_11",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0d362900045b0031151c111b4f1c3c5d321e171064532f1f53101f135d2b41093c59171e456e566e405f583d3c7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "SA TV",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sa-tv.webp",
+    "tvg_id": "ch_12",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f555069715705414b6e55404d5e0f1d2c532b465a1d25522413180f58104a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://116.204.149.16/satv/index.m3u8"
+  },
+  {
+    "name": "Channel 24",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-24.webp",
+    "tvg_id": "ch_13",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3723572f05530e465746705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Channel-24/index.m3u8"
+  },
+  {
+    "name": "ATN Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/atn-bangla.webp",
+    "tvg_id": "ch_14",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a351f786c29570c0c0913705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/ATN-Bangla/index.m3u8"
+  },
+  {
+    "name": "G Series",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/g-series.webp",
+    "tvg_id": "ch_15",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b17303b16075b04260f180c1b4d1c3c5d321f12072e44280e452619041f3e1c013156014b1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://vods2.aynaott.com/gseriesDrama/index.m3u8"
+  },
+  {
+    "name": "Channel 16",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-16.webp",
+    "tvg_id": "ch_16",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f05112f6d511b1f04380e1b07415a5d321c3d545a177860380f5b34123d4a0d430a1a675d7e5a674f11160a4e1e15143c713c29355f3f151e69071a6425063b1a0a54102325033f5a5d6065277b05643a441e0624117853221f3f26551e3c7700407639521b0a795e1d38063707243a19540934175d66064405366a6e045c250d31312d2a5d16513753315e10187a00230f18111f17173e5e472b400550582c1a295e53067c3e3f175b5a03654c55.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "ATN News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/atn-news.webp",
+    "tvg_id": "ch_17",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a102a0016266e23004a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8"
+  },
+  {
+    "name": "Channel 1",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-1.webp",
+    "tvg_id": "ch_18",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f05112f6d511b1f04380e1b07415a5d321c3d545a177860380f5b34123d4a0d430a1a675d7e5a674f11160a4e1e15143c713c29355f3f151e69071a6425063b1a0a54102325033f5a5d6065277b05643a441e0624117853221f3f26551e3c7700407639521b0a795e1d38063707243a19540934175d66064405366a6e045c250d31312d2a5d16513753315e10187a5425454516190013321c1c2d5307584072416e0e03183e3c3e161a195d2301.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Ekhon TV",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ekhon-tv.webp",
+    "tvg_id": "ch_19",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a31205e2e051b363d4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Ekhon-TV/index.m3u8"
+  },
+  {
+    "name": "Bangla Vision",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bangla-vision.webp",
+    "tvg_id": "ch_20",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b404b3e181702004d467151305d5a002c633b1b6601521744274447365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8"
+  },
+  {
+    "name": "Channel I",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-i.webp",
+    "tvg_id": "ch_21",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a32057e3132402531523434702d6e02344467175a70065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8"
+  },
+  {
+    "name": "Maasranga TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/maasranga-tv.webp",
+    "tvg_id": "ch_22",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0c2b294b46000b2f0d1c1b41555b2957707d3435186400257123440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://mtv.sunplex.live/MAASRANGA/index.m3u8"
+  },
+  {
+    "name": "Asian TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/asian-tv.webp",
+    "tvg_id": "ch_23",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a0400547400002c051f0a2c78180867170576677a70065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8"
+  },
+  {
+    "name": "Bangla TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bangla-tv.webp",
+    "tvg_id": "ch_24",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a4772532452050c3e07311c5e056a7e174a776b4370065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8"
+  },
+  {
+    "name": "SRK TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/srk-tv.webp",
+    "tvg_id": "ch_25",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b122d3411435b0b3a1556101d5246295a33435a172f582d02400734160034471e715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://srktv.net/srktvhls/cdnlive_srktv.m3u8"
+  },
+  {
+    "name": "Rajdhani",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/rajdhani.webp",
+    "tvg_id": "ch_26",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b052d34534d04552909174d0849513b5c715e1000645a281d534d1904183b5b09315b3b4745705e310b574f7d3e630c0c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://drk6xq0vhn.gpcdn.net/live/rajdhani_tv/index.m3u8"
+  },
+  {
+    "name": "Nexus Television",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nexus-television.webp",
+    "tvg_id": "ch_27",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b122b2d0054184b30150d13034c41715e3646105b275f370e190c0e1d072c6c1c296d055141705e310b574f7d3e630c0c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8"
+  },
+  {
+    "name": "Nagorik",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nagorik.webp",
+    "tvg_id": "ch_28",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0330274b5717042d08184d015c46707c3e571a06225d1e3f604d1f17133c581b7244555202705a30015d193e602541.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Desh TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/desh-tv.webp",
+    "tvg_id": "ch_29",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a0632702a3350065a04461c625f327f00500b6d0770065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8"
+  },
+  {
+    "name": "Deshi TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/deshi-tv.webp",
+    "tvg_id": "ch_30",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b053a2c0d5c011371051c1007504629006b1e1b113f192d02400744080b0c471a3a53091c43335626035b44277d3d4a414c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
+  },
+  {
+    "name": "Channel S",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-s.webp",
+    "tvg_id": "ch_31",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3723572f05530e46365d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Channel-S/index.m3u8"
+  },
+  {
+    "name": "Bijoy TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bijoy-tv.webp",
+    "tvg_id": "ch_32",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a3a736e230403140f12240a051b1906576140080770065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8"
+  },
+  {
+    "name": "RTV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/rtv.webp",
+    "tvg_id": "ch_33",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b404b3e181702004d467151305d5a162a02760f7e122f0e410c5647365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen5.aynaott.com/ba47dHpDk3Se/index.m3u8"
+  },
+  {
+    "name": "Channel 9",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-9.webp",
+    "tvg_id": "ch_34",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a1f2a5c2d1852575c0f1c254b11301d0d5d573a4f710201426b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8"
+  },
+  {
+    "name": "Ekushey ETV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ekushey-etv.webp",
+    "tvg_id": "ch_35",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a311f606e0258060e1d5c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/ETV/index.m3u8"
+  },
+  {
+    "name": "Ananda TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ananda-tv.webp",
+    "tvg_id": "ch_36",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3525572f0f594f3f335d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Anando-TV/index.m3u8"
+  },
+  {
+    "name": "Mohona TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/mohona-tv.webp",
+    "tvg_id": "ch_37",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a35204f195e5217051f182a070b2f5d5605572d0070065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8"
+  },
+  {
+    "name": "Global Television HD",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/global-television-hd.webp",
+    "tvg_id": "ch_38",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f555069715705414b6e55404d5e0f1d385e305214183f406e0258060e1d5c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://116.204.149.16/globaltv/index.m3u8"
+  },
+  {
+    "name": "Independent TV",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/independent-tv.webp",
+    "tvg_id": "ch_39",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3d2552281b530c0f001c2b1c013156014b1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Indipendent/index.m3u8"
+  },
+  {
+    "name": "Deepto TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/deepto-tv.webp",
+    "tvg_id": "ch_40",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a302e53311f594f3f335d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Deepto-TV/index.m3u8"
+  },
+  {
+    "name": "MY TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/my-tv.webp",
+    "tvg_id": "ch_41",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a2c0646090a73045b243c1d5b1e6745527d640d0070065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8"
+  },
+  {
+    "name": "Matribhumi TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/matribhumi-tv.webp",
+    "tvg_id": "ch_42",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f0808293a4b451904260c181b41555b2957705d1400395f2303430f024a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://live.playmax.live/matribhumi/index.m3u8"
+  },
+  {
+    "name": "Gazi TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/gazi-tv.webp",
+    "tvg_id": "ch_43",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a332a4c28466234440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Gazi-TV/index.m3u8"
+  },
+  {
+    "name": "Boishakhi TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/boishakhi-tv.webp",
+    "tvg_id": "ch_44",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a452f05342c0f342802000d0a2c0d4633697e6a0070065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8"
+  },
+  {
+    "name": "NRB TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nrb-tv.webp",
+    "tvg_id": "ch_45",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f4b5b16042d04570f064f57705e3646105924442602584d05171072561d71411041563e5a701f5e562a3f390a405a03654c55.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8"
+  },
+  {
+    "name": "iON TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ion-tv.webp",
+    "tvg_id": "ch_46",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f4b5b16042d04570f064f57705e3646105924442602584d020a1c2b451d341c1747413a563240425b322a3c104700403b0a184a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8"
+  },
+  {
+    "name": "Banglar kontho",
+    "group": "Entertainment",
+    "logo": "",
+    "tvg_id": "ch_47",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d3d5331571915395d2e05420a044b012b410d3e5f4b47413e54341c1f4162326156591b00391700411100.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/banglarkontho.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Green TV HD",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/green-tv-hd.webp",
+    "tvg_id": "ch_48",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f4b5b16042d04570f064f5770516c660c10266038330e301b07370a0a25360a1c7d4a674e122b7707141a142c0226092c685b3c30795630750b003a191f57335c6d382e1b26636610020a00100e050708117b1b0d131118652505772e70671a71080a64796003043659102825583a20105966610105080f370b65212c6d4e1e110a5c5c2b44714301062e572c44460e0a1c1e36401c715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8"
+  },
+  {
+    "name": "Probashi TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/probashi-tv.webp",
+    "tvg_id": "ch_49",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55546771530c5b576b4f4c5055010267027040071b295732035f3d1f135d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://158.69.24.53:8080/probashi_tv/index.m3u8"
+  },
+  {
+    "name": "Thikana",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/thikana.webp",
+    "tvg_id": "ch_50",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b543b3b560c4d54665549050e581c2c462d55141927592200180c0e115d2b5b0134530a524729182b075b5c323d310d425b1e3a58141e0d4b457a5d571467.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8"
+  },
+  {
+    "name": "CB24 TV",
+    "group": "Entertainment",
+    "logo": "",
+    "tvg_id": "ch_51",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d3c506d045b073f44240a5b4d1f17133c581b7244555202705a30015d193e602541.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cb24.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Galaxy TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/galaxy-tv.webp",
+    "tvg_id": "ch_52",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d385333510d0d3f40230f18111f17173e5e472b400550582c1a295e53067c233c184d1807254d431f574d09.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/playlist.m3u8"
+  },
+  {
+    "name": "Desh Bangla TV",
+    "group": "Entertainment",
+    "logo": "",
+    "tvg_id": "ch_53",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d3b572c58171525512d0a42144516062d5609321d1041523c5c2c42440632627f145b1a0178545e075c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshbanglatv.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "ME TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/me-tv.webp",
+    "tvg_id": "ch_54",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b082f2b1357114b33080f064054572b446e004d4464077153064c06560767.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://iptvbd.live/metv1080/1080.m3u8"
+  },
+  {
+    "name": "Nan TV",
+    "group": "Entertainment",
+    "logo": "",
+    "tvg_id": "ch_55",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d31533144035a3842330e570f4411003e50032c1f1202526e1832005c587d3e630c0c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nantv.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Amar Bangla Digital",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/amar-bangla-digital.webp",
+    "tvg_id": "ch_56",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55506a71540d424b6b5057515e0f08670267005a1c27456e0a5b0319011b385a1c3e5e4b5a5d3b5227415f04266b730a5f0d03654c4316014e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://115.187.41.216:8080/hls/amardigital/index.m3u8#skym3u.dev"
+  },
+  {
+    "name": "Channel 52",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-52.webp",
+    "tvg_id": "ch_57",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d3c5a3e5e1b112704741e45034516062d5609321d1041523c5c2c42440632627f145b1a0178545e075c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel25usa.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Unmochon TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/unmochon-tv.webp",
+    "tvg_id": "ch_58",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0b3e38175a1b0c3e0a181007175c3c532d555b1822402444430c060a11375c062b444b465d32583c075d5927257e0a40060b375442061659523f4349176e3e541a180a310e570e5c4c0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Iqra Bangla",
+    "group": "Islamic",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/iqra-bangla.webp",
+    "tvg_id": "ch_59",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b6e5c0d5b0431180a171d5c53321c2a5b4f4d7b0f73445f130a1502705a196a0108521c3c5f2a0159447d3e630c0c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cd198.anystream.uk:9092/iqapp/iq53la/chunks.m3u8"
+  },
+  {
+    "name": "Islamic TV",
+    "group": "Islamic",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/islamic-tv.webp",
+    "tvg_id": "ch_60",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d36413351181d28423709524c1811003a5205705b0a57562719325c470f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8"
+  },
+  {
+    "name": "Al Quran Al Kareem",
+    "group": "Islamic",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/al-quran-al-kareem.webp",
+    "tvg_id": "ch_61",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b314852190a3d041a021c4d1c3e593e5d141d3153254558071f4a1e36450d705700401c2c562a0b5b68222622185a5b063a4a32000b53447b590a053a274b58461067.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8"
+  },
+  {
+    "name": "Al Sunnah Al Nabawiyah",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/al-sunnah-al-nabawiyah.webp",
+    "tvg_id": "ch_62",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d32533b591b15654535195303064a062d520b34414945023e0670025d593c7d3d4a414c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Peace TV Bangla",
+    "group": "Islamic",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/peace-tv-bangla.webp",
+    "tvg_id": "ch_63",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a242a55244662344627133154043e1d0d5d573a4f710201426b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8"
+  },
+  {
+    "name": "Sharjah Quran",
+    "group": "Islamic",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sharjah-quran.webp",
+    "tvg_id": "ch_64",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0d3629001b1e12360a140c1b505d311c3c5f185b385e20195c030311042e461a3e5c085a453a182c07434221323e0d425a1d3b50015d175050265a05092b291440070431110c01035041371d2c58040139572f1f403d180a072d500d70510c465d3444710201426b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8"
+  },
+  {
+    "name": "Deen TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/deen-tv.webp",
+    "tvg_id": "ch_65",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b6e5c0d5b0431180a171d5c53321c2a5b4f4d7b0f73445f130a150270575b6c5c10451c2f5b3e165e5e20277e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8"
+  },
+  {
+    "name": "Azan TV",
+    "group": "Islamic",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/azan-tv.webp",
+    "tvg_id": "ch_66",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d3e483e5e0102654535195303064a062d520b34414945023e0670025d593c7d3d4a414c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/azantv.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Makkah TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/makkah-tv.webp",
+    "tvg_id": "ch_67",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d3253345b141c654535195303064a062d520b34414945023e0670025d593c7d3d4a414c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Madani Channel Bangla",
+    "group": "Islamic",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/madani-channel-bangla.webp",
+    "tvg_id": "ch_68",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715401444b685157525c0f08670267005a162f42374444071811003a5e476d024a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.141.70.136:8080/bdtv/restrem/20.m3u8"
+  },
+  {
+    "name": "Islam Channel Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/islam-channel-bangla.webp",
+    "tvg_id": "ch_69",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0d362900181c16330014171914503e5c385c145a385f2c1b5a071811003a52053c560a1d50305a700047437c2561565d070237540e1a05565f315c4b082c33045801137203180d085553705a33435800381928055207134b1f6c4650.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://live-islamtv-bangla.simplestreamcdn.com/out/v1/islamchannel/islamtv-bangla/hls-ts/index.m3u8"
+  },
+  {
+    "name": "Zee Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zee-bangla.webp",
+    "tvg_id": "ch_70",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b056e385d42120f2a13035b1950537151335f00102d442e05424c050006705118341f10451c05523a0d5359343f3156501108374c01064b55503a5902042c2b4b580501230215060e4b593a4b005b100d145f255607060d5d413a035d67505c05073b56675604546a616841511108600a0f43550b17375c01002d34004c2a0e3a1844050c0a0039006902464d7b03750903540a04106b0b5a6d075703066a0e670957.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd|clearkey_key_id=1df83e058b864da896c9288eef63b113&clearkey_key=fc32f26239054b56aab48225305598fe"
+  },
+  {
+    "name": "Zee Bangla Temporary",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zee-bangla-temporary.webp",
+    "tvg_id": "ch_71",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a2e0e736c29772c2c2933727b2c7046165250344472190356627c3d165a1b403b0a184a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/ZEE-BANGLA-HD/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Star Jalsha",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-jalsha.webp",
+    "tvg_id": "ch_72",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b053e67535844162e11145000091c3c5e3045111239592f1f180c0e115d6d0b586800540100704432065e0d2027310b5e150225510c5c175558381f07092a310e591c162b3e1b52560b0a6f026f1e18473e0e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8"
+  },
+  {
+    "name": "Sananda TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sananda-tv.webp",
+    "tvg_id": "ch_73",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f0808293a484601173a00144d0e54532d503e5e12182a4237455f0c515d42670347375e171c403e593e01565627257f105a100b2e1700411100.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8"
+  },
+  {
+    "name": "Colors Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/colors-bangla.webp",
+    "tvg_id": "ch_74",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715404414b6e50575058030a6f0a6e1f361b275933181b000a0b15335247365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.114.11.37:8081/Colors-bangla/index.m3u8"
+  },
+  {
+    "name": "Zee Bangla Sonar",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zee-bangla-sonar.webp",
+    "tvg_id": "ch_75",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a2e0e736c29772c2c2933727021117729721c36593b0a4a193e602541.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8"
+  },
+  {
+    "name": "Khushboo Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/khushboo-bangla.webp",
+    "tvg_id": "ch_76",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b314b451c16370e0e4d1b4f1d30462b1f191d3d536e5a0255584a1f3e401c3a404a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cdn.pishow.tv/ott/live/1473/master.m3u8"
+  },
+  {
+    "name": "Bangla Dubbed Movie",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-73.webp",
+    "tvg_id": "ch_77",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0d36290007454b3d0e03191b4f1c3c5d321f121d2a42371b5a03120a072b0447385b05474572056e5f06066a7c240b55170525141b4305091e395f0a0e712b161b18562a59.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://live20.bozztv.com/giatvplayout7/giatv-210419/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "Movie Bangla",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/movie-bangla.webp",
+    "tvg_id": "ch_78",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f050d293a11435b06300c560e004f5b3a503e5e12182a4237440e5253555d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://alvetv.com/moviebanglatv/8080/index.m3u8"
+  },
+  {
+    "name": "Prime TV",
+    "group": "Entertainment",
+    "logo": "",
+    "tvg_id": "ch_79",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d2f40365d10003d18321f44070a085d2b41093c59171e456e566e405f583d3c7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/primetv.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Bangla Cinema",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bangla-cinema.webp",
+    "tvg_id": "ch_80",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715400444b69515752590b086d036d025a0427573844575259085d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.151.60.162:2122/play/a02m/index.m3u8"
+  },
+  {
+    "name": "Jalsha Movies",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/jalsha-movies.webp",
+    "tvg_id": "ch_81",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3e2a5a3203573d060a0436561b727a201c5a31533a171c5a602668.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8"
+  },
+  {
+    "name": "Colors Bangla Cinema",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/colors-bangla-cinema.webp",
+    "tvg_id": "ch_82",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a37047a0e39654f29243c187f2972712d7d76127670065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8"
+  },
+  {
+    "name": "SNB Cinema",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/snb-cinema.webp",
+    "tvg_id": "ch_83",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c71540d474b675257515b0f1d375e2c1f061a29552805530f0a4b1f6c4650.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.182.83.246/hls/snbcinema.m3u8"
+  },
+  {
+    "name": "Star Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-bangla.webp",
+    "tvg_id": "ch_84",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715400444b69515752590b086d036d025a042757384457520d505d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.151.60.162:2122/play/a0f5/index.m3u8"
+  },
+  {
+    "name": "Aakash Aath",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/aakash-aath.webp",
+    "tvg_id": "ch_85",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0c2a321105464b2b001704004d44715b311f3107274f7411052a2a24391e60201e73307b1c36593b0a4a193e602541.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8"
+  },
+  {
+    "name": "Enterr10 Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/enterr10-bangla.webp",
+    "tvg_id": "ch_86",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0d362900181704310615024158593e5f3e590f112f182f0e424d070c043a520a2d1d144651725e300d5359343f311244471d305f421e0d4e540b0756512f70065d000b3412570e5c4c0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8"
+  },
+  {
+    "name": "Sony Aath",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-aath.webp",
+    "tvg_id": "ch_87",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a270478183477233f2d5d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/SONY_AATH/index.m3u8"
+  },
+  {
+    "name": "Sun Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sun-bangla.webp",
+    "tvg_id": "ch_88",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a271e786c29772c2c2933705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/SUN-BANGLA/index.m3u8"
+  },
+  {
+    "name": "Ruposhi Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ruposhi-bangla.webp",
+    "tvg_id": "ch_89",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b314b451c16370e0e4d1b4f1d30462b1f191d3d536e5a0651524a1f3e401c3a404a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cdn.pishow.tv/ott/live/1039/master.m3u8"
+  },
+  {
+    "name": "Star Plus",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-plus.webp",
+    "tvg_id": "ch_90",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a271f771346662e3e365d2b41093c59171e456e566e405f583d3c7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/STAR-PLUS/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "DD Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/dd-bangla.webp",
+    "tvg_id": "ch_91",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b056c2e160611572d0a11051e4b467151335f00102d442e05424c050006705c1d2b1d12021c6851395a0554306a604d02165a3508554a060d00350000546f69030643006807560a015d57276d6c1e18473e0e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8"
+  },
+  {
+    "name": "TV9 Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tv9-bangla.webp",
+    "tvg_id": "ch_92",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b052635084c1c136c0309510a431c3c5e3045111239592f1f180c0e115d2f460a725b0b474566553e0153523d6b29081b1807205c0c1016174138511d0d362c111b18562a59.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8"
+  },
+  {
+    "name": "kolkata TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/kolkata-tv.webp",
+    "tvg_id": "ch_93",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a1f245a2a0a42031f135d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/kolkatatv/index.m3u8"
+  },
+  {
+    "name": "Colors",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/colors.webp",
+    "tvg_id": "ch_94",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a37245a2e191b2a2f4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Color-HD/index.m3u8"
+  },
+  {
+    "name": "Republic TV Bharat",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/republic-tv-bharat.webp",
+    "tvg_id": "ch_95",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a122a71255842171a4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/faGd3tuq/index.m3u8"
+  },
+  {
+    "name": "India Today",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/india-today.webp",
+    "tvg_id": "ch_96",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b073a3a01465b0c311516070e401c365c705819002a46311819031b0c5d32521b2b57161d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://feeds.intoday.in/hltapps/api/master.m3u8"
+  },
+  {
+    "name": "Sadhna Prime News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sadhna-prime-news.webp",
+    "tvg_id": "ch_97",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a24795e2b1d702a3d4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/P2hjvFHV/index.m3u8"
+  },
+  {
+    "name": "Epic Crimes",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/epic-crimes.webp",
+    "tvg_id": "ch_98",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023c721246001c38530c1b0a58596f0671511e15265728115306450b172b1c1e6e1d0952402b522d4001006161334f041556670c0e435d01556d535404396c5356400768521d0259015369003d004c107a1922081b1518100b38011d27570558036b18320e414336217e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8"
+  },
+  {
+    "name": "Star Bharat",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-bharat.webp",
+    "tvg_id": "ch_99",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a271f771346742a2a37330b1c013156014b1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8"
+  },
+  {
+    "name": "Hum",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hum.webp",
+    "tvg_id": "ch_100",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3c1e7b6c3f604d1f17133c581b7244555202705a30015d193e602541.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/HUM-TV/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "HUM Sitaray",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hum-sitaray.webp",
+    "tvg_id": "ch_101",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b112d300118190c310418114254573b5b3e1e011b2d50240e5a0b1d005c3c5c057051005d1c335e290a1d5f263e0f0a5d000f2458145d1454502d5c0d122b710806005d60041d040a14513e5137555800245d24050b2713151b2d561b6203530a006d00665e070f2d00241846001d6b085a4b570a066c085159210a377925173a07101b52587a0d023c783842074f781c550f520e3e084b183d5f325b5036062b356565230a034c04165c0c543725324b500c6a082d32111357241b1b000d02525c4b15483b673f0e12050b1b6f0f3d1c2a6d5f0316580b5a7e326e26215f722a093d20403b2a0452342154087f2e620d2d08150c7b47202b2c1325036000095a05643c0d057203067f0c5b1b213654063e46114156624f1d2e43537e6b250166413d32721c195c61471f7722341d2d217c3a0a0a50320f1f4c006877054616012267250a7027580a1f3e695c3b7e10586a69063b307e7c1d243f115001223b755e462c0c452c5b3035371c12.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://prod-linear-media.toffeelive.com/cdn/live/hum_sitaray/playlist.m3u8?edge-cache-token=Expires=1793279158~Starts=1793278858~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=xBAqd-8uxR5SdKqk8YvKGFUBrDIOoU1Klpu27EZvcuiQdaFE3omaZ4dLtkY61d_LKNwohduLmL34H4txkTThCw"
+  },
+  {
+    "name": "HUM Masala",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hum-masala.webp",
+    "tvg_id": "ch_102",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b112d300118190c310418114254573b5b3e1e011b2d50240e5a0b1d005c3c5c057051005d1c335e290a1d5f263e0f1455070f3a58420208594838591715713256404d5a3a051e06425a533c5a3a1d011b20532f56731a1b0c003a40556e055d0001680e6e5a05490027310b400753670e5441560f096c05531f0a0d296507003908015e0e71606f51177d4338320f36085b5b00292527430a32640c505a6e43053860470a0065495646343b633a241759690e5c280c112907640b213e15185e0a40782556087a0f2d787c31325b34123d40335821355d0d7e5e064e1102774e093e090d7b303c3d603e4254764b0659283615362b073011120b3f0f360b6437680b790c3a0f742c22585215361b385d092b4716560e66542c1855566414150d6c12563b0f0546267f7a2274202d303e3a62193f1a153754357b7b1c740d763b452f5f75320e3b1f304b1a643919750102572a6e6c5965421134211f070734614808340d6b77625d2b291d28.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://prod-linear-media.toffeelive.com/cdn/live/hum_masala/playlist.m3u8?edge-cache-token=Expires=1793279157~Starts=1793278857~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=9cswga7GEtXf8m6h4BGKvDDLoa_WlZEtN7ZBICFRFN1di4Y8YtU9EWQFGe1duY36WuBgqf3sZ7qeFiSF6mOHBw"
+  },
+  {
+    "name": "Zee TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zee-tv.webp",
+    "tvg_id": "ch_103",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a2e0e736c3f604d020b163a4b463201110b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8"
+  },
+  {
+    "name": "&TV HD",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tv-hd.webp",
+    "tvg_id": "ch_104",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b112d300118190c310418114254573b5b3e1e011b2d50240e5a0b1d005c3c5c057051005d1c335e290a1d563d370f0d422b0632161d1e05415d3d43104f326c100d4a003b061c4e0c5851375772441a1f2e587c2e4e120217172c0e59680b57010b6d03695a4c642732220d47495f61005e4053000962051a340d133547100336194402276b023c7a1206390d724122060f0927320a2f5105095a075a022b6d083d426e0066601b062e030c6e3b0105606b387c092f293d344b31042b0044061673483b65154a2c4701461806601b33571e347a02305b295e6a2679322a4b6d3e0a24367026050f6a5d422a42633d7c332b3611577001283527153a5d6f5a056616493b30095b0805061c380c1531521c2a40010e7b0d4d002d014f0226111f791d3e356e5e1531627230403c37680d235b1604331841081f73676c6a2a44191d0969320f7b512d341a10455e0a575c504a0b41381a53783b6b1b3b5c210c6f7f1c27176964274134230e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://prod-linear-media.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8?edge-cache-token=Expires=1793282465~Starts=1793278865~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=HRz_B3xQuAfMiPcW3gUZCdpXV7RFncaly8kpJU3XutliB_sdM3FQhOv6Ue8cyTvguaOh8KBhUb9FqUsQUsqPBQ"
+  },
+  {
+    "name": "& Pictures",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/pictures.webp",
+    "tvg_id": "ch_105",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b112d300118190c310418114254573b5b3e1e011b2d50240e5a0b1d005c3c5c057051005d1c335e290a1d563d37201057001b245c321a00174138511d0d362c111b18562a5946060b5e5772513e531d1166422e00530c56200a2f5a1a3a4159020466046d580b0665652e2a40151c224a504353010266075c5969691b6027290f131c0506410f3e7a0d00163c06000d120f1508084b347f3f2742065e653754365e466d0401202067415e340b371f3e6f6727513c3b3313087b03070e1f3d021b580f3a4b154a1123014c18587c12320824266b5a33592d595c367a32364b793e162923592d1a197d3f193d6b01647e1e333613327f1c2b6d240d2e057f5e060009582f20024f0f2f740f220b42216001385c0547462d5262257d556a253216713d0d12695f1626756e666333086a6735733a2719191b152570626e5f1e4906470045723971244650413a6705180b137161125a32036865110b653542311e13782a433d4d081f560107280c547134.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://prod-linear-media.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8?edge-cache-token=Expires=1793279166~Starts=1793278866~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=JOb9vboEIcDP2dBM_2SWi58PFOBFxbvJIP1mAys3Ks3RGF-53eTmG9wBRMmmlZRBX5LvEpEAG1Yu9KfefwS1DA"
+  },
+  {
+    "name": "& Pictures HD",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/pictures-hd.webp",
+    "tvg_id": "ch_106",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a240275153e6427462d36705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/PICTURE-HD/index.m3u8"
+  },
+  {
+    "name": "Sony Kal",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-kal.webp",
+    "tvg_id": "ch_107",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b162a2d09461a0b261110001b4c403a412b465b132759230a5a4c1f171331400536464a5f5a295270075e447c65681d51110c675a5d4057005230515c533b39500146013b4e0f52404a422b6d2c5f1b0d20572d34074d07022d2a404733531056402b18320e5b597c3b3c0a1b04023740011b174c1f39031159.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8"
+  },
+  {
+    "name": "Sony Sab",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-sab.webp",
+    "tvg_id": "ch_108",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b112d300118190c310418114254573b5b3e1e011b2d50240e5a0b1d005c3c5c057051005d1c335e290a1d443c3d290a5516313e5d420208594838591715713256404d5a3a051e06425a533c5a3a1d011b20532f56731a1b0c003a40556e055d0001680e6e5a0b490027310b400753670e5441560f096c055d1f0a0d296507003908015e0e71606f51177d4338320f36085b5b00292527430a32640c505a6e43053860470a0065495646343b633a241759690e5c280c112907640b213e15185e0a40782556087a0f2d787c31325b34123d40335821355d0d7e5e064e1102774e093e090d7b303c3d603e4254764b0659283615362b073011120b3f0f360b6437680b790c3a0f742c22585215361b385d092b4716560e6951372973676b38663456163c6f4d041b275704067c122d29662e513b500d08090d194c56001f17622a443a6c160e023d0933316e470e2d460b6b040f68140942516a0c113e6d2504110b01132559633766522e1e0e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://prod-linear-media.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8?edge-cache-token=Expires=1793279159~Starts=1793278859~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=6fhFAP8k6MbbR9tiiCo5RLvLv9KdN5Ripnvud_-HR_0qZWe4_bVC1tfrtoX7P_Kfpf9_AGYQjG2laAaRcV6OAQ"
+  },
+  {
+    "name": "Sony Pal",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-pal.webp",
+    "tvg_id": "ch_109",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f0808293a4b5714093e0b10011d56533b503e5e115a28592c5105575b555d335a1e3a1d500407715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://live.balajibroadband.com:3500/live/474.m3u8"
+  },
+  {
+    "name": "Sony Entertainment",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-entertainment.webp",
+    "tvg_id": "ch_110",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b112d300118190c310418114254573b5b3e1e011b2d50240e5a0b1d005c3c5c057051005d1c335e290a1d443c3d291c5a000b244d0c1b0a555f206f0c05702f09540c0936120d4d020a47670d3a541211665520085e0746111d34560662771c435a2d522c5203006a60624e0d455b6e473e06054a45270d5556666c57024d5d6a5907363d75622d5739590d492a7e135b552a26533e260a1f3c5f5d587f084f2f0d5f613b303948402e3904493421510853666a093b080916542d3f332d142d195b6321763e4414492e4f0b115235211f2b6c7918065f324a6b6d5b342658583a1e3d204d3a031340371f3d4c7e10620f380c6f557b0f37362d2e290677001a46125a3318120417036c36221c3c1b7105165c544d603650310e464221366d0176351f321455071c6a0407542f1034673c433e2219343b112b707d30676e7b19043e04762e6c1408101b0e57091977575c5e3e6d6b0b7e43380a6648502b221d771a1d0c5c44185d28526b1751410d0e0b35112018.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://prod-linear-media.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8?edge-cache-token=Expires=1793279158~Starts=1793278858~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=xBAqd-8uxR5SdKqk8YvKGFUBrDIOoU1Klpu27EZvcuiQdaFE3omaZ4dLtkY61d_LKNwohduLmL34H4txkTThCw"
+  },
+  {
+    "name": "Sony Max",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-max.webp",
+    "tvg_id": "ch_111",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a27245838467b0313483a1b1c013156014b1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Sony-Max-HD/index.m3u8"
+  },
+  {
+    "name": "Sony Max 1",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-max-1.webp",
+    "tvg_id": "ch_112",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b112d300118190c310418114254573b5b3e1e011b2d50240e5a0b1d005c3c5c057051005d1c335e290a1d443c3d2926591516794901131d545827444a0c6c2a5d0a1001380454000e5a5a3a1f2b5f1e11250b0413460b19000162025f660156040a6e016e1161433221240a0945596f0a5f455c0007654e3133130f1750130c275c182b3d0951177f697c0c4d3c552c525d2e3c1d023d5e3e37510d024705600d1f6b646663324b6e1934016f1e133c625d185d2a173d0e1b7114113e5c1c1a25435608782569463e3b6f2c3d4f3a590919165907367f096a4a115a1a16685a0a271f3d661f3705095d3c1e6a5818672e08116d2041380f190d20513951680b7b267e3136267f2f5b483102021c3e471d2d5759674b397d680c004227046532523c2a6643391007500926433c4c673e355a1a23312c3b0e1b6e593178194a18461452162d75280057242f59211640536a056e7d28087754603f3311641221607740005c54693b632730.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://prod-linear-media.toffeelive.com/cdn/live/sony_max/playlist.m3u8?edge-cache-token=Expires=1793279161~Starts=1793278861~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=TxfJ7c2utW5KfHD0zTbch8rsX-8aPooFnMBmtWknJFzm2_dWFCJk2VpjIIr7Y61JwgEc3lchPfO6N-r8lXoSCQ"
+  },
+  {
+    "name": "Sony Max 2",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-max-2.webp",
+    "tvg_id": "ch_113",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b112d300118190c310418114254573b5b3e1e011b2d50240e5a0b1d005c3c5c057051005d1c335e290a1d443c3d2914550c3164161d1e05415d3d43104f326c100d4a003b061c4e0c5851375772441a1f2e587c2e4e120217172c0e59680b57010b6d03695d4c642732220d47495f61005e4053000962021a340d133547100336194402276b023c7a1206390d724122060f0927320a2f5105095a075a022b6d083d426e0066601b062e030c6e3b0105606b387c092f293d344b31042b0044061673483b65154a2c4701461806601b33571e347a02305b295e6a2679322a4b6d3e0a24367026050f6a5d422a42633d7c332b3611577001283527153a5d6f5a056616493b30095b0805061c380c1531521c2a40010e6911056c1c61410720124c61401835502116315b502c675458300e247a0f2a1039101b0b0f5c6e062d471f41791b7213012520071d311e263a7d235e7629413208411a0760641c7f1c0366685f37510a07216734201e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://prod-linear-media.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8?edge-cache-token=Expires=1793282462~Starts=1793278862~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=ZN23sSvTsB5U4vciLdUcaxW09oQAOzOOXixd6n14rwj52-3x7GKbon-NeOGmEvvmgs-T34eKhm0Q2E526uWPAA"
+  },
+  {
+    "name": "Shemaroo Bollywood Movie",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/shemaroo-bollywood-movie.webp",
+    "tvg_id": "ch_114",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b314840025772110b0c0b17462c446d1e14192a512845421444091b3156092d1d055e546f076759061a203b3514550601395c0306014a45351d17093a3204571a0933180e0c005d1f305c301f05182a4f2d0245164508412a0b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
+  },
+  {
+    "name": "MTV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/mtv.webp",
+    "tvg_id": "ch_115",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a193f406e0258060e1d5c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/mtv/index.m3u8"
+  },
+  {
+    "name": "B4U Movies",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/b4u-movies.webp",
+    "tvg_id": "ch_116",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a367f636c267934222021705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/B4U-MOVIES/index.m3u8"
+  },
+  {
+    "name": "The Movie Club",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/the-movie-club.webp",
+    "tvg_id": "ch_117",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b12362c4852190a3d00154d1f4b5d3b1c2c5118073e58261f404c1b09072c1c1e6e1d1045432f453b4041547e3e204b55065a3558594051405e7a5d571467.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8"
+  },
+  {
+    "name": "Hindi Movie Classic 24",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hindi-movie-classic-24.webp",
+    "tvg_id": "ch_118",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b17303b16075b04260f180c1b4d1c3c5d321f1d1d255228065914020001705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://vods2.aynaott.com/hindimovies/index.m3u8"
+  },
+  {
+    "name": "Dangal 2",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/dangal-2.webp",
+    "tvg_id": "ch_119",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a4c00501b1d743b384a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8"
+  },
+  {
+    "name": "Colors Cineplex",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/colors-cineplex.webp",
+    "tvg_id": "ch_120",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a37047a0e391b21222b370f7f2d071d0d5d573a4f710201426b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8"
+  },
+  {
+    "name": "Colors Cineplex Bollywood",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/colors-cineplex-bollywood.webp",
+    "tvg_id": "ch_121",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f0808293a4b5714093e0b10011d56533b503e5e115a28592c5105575b555d335a1e3a1d5504056c19325c470f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://live.balajibroadband.com:3500/live/1763.m3u8"
+  },
+  {
+    "name": "Colors Cineplex Superhits",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/colors-cineplex-superhits.webp",
+    "tvg_id": "ch_122",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0330274b5717042d08184d015c46650a6f08465b08790d24643d282c3c1a63241a6a4b47413e54341c1f4162326156591b00391700411100.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://box.bbaria.net:8083/COLOR_CINEPLEX/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Goldmines",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/goldmines.webp",
+    "tvg_id": "ch_123",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b122b2d005418167115180d085646291c365e5a33047a05267f2c2e365d106121187b2a1c5a31533a171c5a602668.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8"
+  },
+  {
+    "name": "Star Gold",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-gold.webp",
+    "tvg_id": "ch_124",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a271f771346712d27215f177747365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8"
+  },
+  {
+    "name": "Star Gold 2",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-gold-2.webp",
+    "tvg_id": "ch_125",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f555168715403424b6e5757525c011d2c463e42121b2752734442100a06192c1e1e6e53551c5e3059304146447d3e630c0c4b1a3952081c594c542744.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://107.167.16.138/stargold2/tracks-v1a1/mono.ts.m3u8?token=test"
+  },
+  {
+    "name": "Star Gold Select",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-gold-select.webp",
+    "tvg_id": "ch_126",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f51507168501b4457684f485a5603016e066e1f06002a4426045a0618001e3a501c37564b5a5d3b5227415f04266b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://51.75.127.199:3141/stargoldselecthd/index.m3u8"
+  },
+  {
+    "name": "Zee Cinema",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zee-cinema.webp",
+    "tvg_id": "ch_127",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a2e0e736c287f2c2e2833705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8"
+  },
+  {
+    "name": "Zee Action",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zee-action.webp",
+    "tvg_id": "ch_128",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b122b2d0054184b30150d13034c41715e3646105b275f370e19180e002d3e501c365d0a6c523d4570035b41367c2a1c512b0f354d041d0a670666004b02372a0b5e064b32520c5b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://stream.ottplus.live/live/zee_action_abr/live/zee_action_720/chunks.m3u8"
+  },
+  {
+    "name": "HBO",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hbo.webp",
+    "tvg_id": "ch_129",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a1c29596e0258060e1d5c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/hbo/index.m3u8"
+  },
+  {
+    "name": "HBO 2",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hbo-2.webp",
+    "tvg_id": "ch_130",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a0178782b3e440c124a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/u3NjUrny/index.m3u8"
+  },
+  {
+    "name": "MY Time",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/my-time.webp",
+    "tvg_id": "ch_131",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0c262b0c5810482b02154d0e5453385b7144035b7a06795b464f0e0b5f3c5047365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://mytime-tcl.amagi.tv/1080p-en-cc/index.m3u8"
+  },
+  {
+    "name": "Lotus",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/lotus.webp",
+    "tvg_id": "ch_132",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55586771540c404b6d52404d5a0908670266055a382442341818363d4b3a1b1c013156014b1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://198.195.239.50:8095/Lotus.TV.HD/index.m3u8"
+  },
+  {
+    "name": "LIFE TIME",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/life-time.webp",
+    "tvg_id": "ch_133",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a182250241f5f0f0e4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/lifetime/index.m3u8"
+  },
+  {
+    "name": "MNX",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/mnx.webp",
+    "tvg_id": "ch_134",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55586771540c404b6d52404d5a0908670266055a39056e6f23724d020b163a4b463201110b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://198.195.239.50:8095/MNX.HD/index.m3u8"
+  },
+  {
+    "name": "Romedy Now",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/romedy-now.webp",
+    "tvg_id": "ch_135",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55586771540c404b6d52404d5a0908670266055a26047b042f6f4c252a25705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://198.195.239.50:8095/ROMEDY.NOW/index.m3u8"
+  },
+  {
+    "name": "AXN",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/axn.webp",
+    "tvg_id": "ch_136",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55586771540c404b6d52404d5a0908670266055a3513786f23724d020b163a4b463201110b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://198.195.239.50:8095/AXN.HD/index.m3u8"
+  },
+  {
+    "name": "Comet",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/comet.webp",
+    "tvg_id": "ch_137",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b073e2c1118160d3e0f1706034a1c2c5b315319152244321f591012091b3156463c5d091c70107a1a3b1d5e3d3735011a195d2301.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://fast-channels.sinclairstoryline.com/COMET/index.m3u8"
+  },
+  {
+    "name": "MN+",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/mn.webp",
+    "tvg_id": "ch_138",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a39051b11276331440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/MN-PLUS/index.m3u8"
+  },
+  {
+    "name": "Sony Pix",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-pix.webp",
+    "tvg_id": "ch_139",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b052d34534d04552909174d0849513b5c715e1000645a281d534d180a1c266c18364a3b5b5700006d5f1d543b263e12475a03654c55.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://drk6xq0vhn.gpcdn.net/live/sony_pix_hd_720/chunks.m3u8"
+  },
+  {
+    "name": "Sony Movies",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-movies.webp",
+    "tvg_id": "ch_140",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b00723c015b5b0e330e0e071b4f1c3c5d321f191d3d537044450f083a456d031870510c465d3444710201426b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8"
+  },
+  {
+    "name": "Movies Now",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/movies-now.webp",
+    "tvg_id": "ch_141",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a390460082e654f252a25705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/MOVIES-NOW/index.m3u8"
+  },
+  {
+    "name": "Star Movies",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-movies.webp",
+    "tvg_id": "ch_142",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a271f7713467b2d3d2c370c1c013156014b1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/STAR-MOVIES/index.m3u8"
+  },
+  {
+    "name": "Star Movies Select",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-movies-select.webp",
+    "tvg_id": "ch_143",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a271f7713467b2d3d2c370c1e3b1a7e4b5a5d3b5227415f04266b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/STAR-MOVIES-SEL/index.m3u8"
+  },
+  {
+    "name": "Hollywood HD",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hollywood-hd.webp",
+    "tvg_id": "ch_144",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f0d112b294b45070a2c15164d1b4f0868026f005a1723037144400b0f001d715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://iptv.prosto.tv:7000/ch50/video.m3u8"
+  },
+  {
+    "name": "Music Bangla",
+    "group": "Music",
+    "logo": "",
+    "tvg_id": "ch_145",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d32472c5916162a58260757505b574771401c2d57055e1c2b453e0c59447e256118055b033957025c090b446c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Dhoom Music Bangla",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/dhoom-music-bangla.webp",
+    "tvg_id": "ch_146",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b314b51101332520c4d1b564270413a42031139036e0f5e0d04085c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cdn.devm3u.top/server5/dhoom.m3u8"
+  },
+  {
+    "name": "Only Music",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/only-music.webp",
+    "tvg_id": "ch_147",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0c2a3207541c483a051e06414a5f3e402b401915324237455f0c442a1c334a252a410d501c36593b0a4a193e602541.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8"
+  },
+  {
+    "name": "Sangeet Bangla",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sangeet-bangla.webp",
+    "tvg_id": "ch_148",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0c2a321105404b2b001704004d44715b311f4d43055300274e5038243c18762d0b70257d74137670065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8"
+  },
+  {
+    "name": "Music India",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/music-india.webp",
+    "tvg_id": "ch_149",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b314b451c16370e0e4d1b4f1d30462b1f191d3d536e5904544408132c470d2d1c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cdn.pishow.tv/ott/live/226/master.m3u8"
+  },
+  {
+    "name": "9XM",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/9xm.webp",
+    "tvg_id": "ch_150",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b122b2d005418167115180d085646291c365e5a4d137b6e24642b2c2c3c70471a3e510f401e29063e5e1d5a3c3d3f5759471b6e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://streams.tangotv.in/9XM/ORIGIN/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "SGGN Music",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sggn-music.webp",
+    "tvg_id": "ch_151",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b042b370047060a39150e021d5c41305e2a441c1b251822045b4d070c043a1c1b38510a5e462c5e3c405b593736285759471b6e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://ethersoftwaresolution.com/live/sgcnmusic/index.m3u8"
+  },
+  {
+    "name": "Jalsha Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/jalsha-bangla.webp",
+    "tvg_id": "ch_152",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b05362c0d1b050a2d0e0a0b415a5d321c3d545a1c27456e01570e180d133d5206385e051d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://dish.porosh.com.bd/hls/jalshabangla.m3u8"
+  },
+  {
+    "name": "B4U Music",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/b4u-music.webp",
+    "tvg_id": "ch_153",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b052d34534d04552909174d0849513b5c715e1000645a281d534d095107005e1d2c5b076c523d4570065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8"
+  },
+  {
+    "name": "Sangeet Bhojpuri",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-149.webp",
+    "tvg_id": "ch_154",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b314b451c16370e0e4d1b4f1d30462b1f191d3d536e5a045b584a1f3e401c3a404a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cdn.pishow.tv/ott/live/1293/master.m3u8"
+  },
+  {
+    "name": "Deewana",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/deewana.webp",
+    "tvg_id": "ch_155",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0d36290007454b3d0e03191b4f1c3c5d321f121d2a42371b5a03120a072b0447385b05474572056f56070e617c240b55170525141b4305091e395f0a0e712b161b18562a59.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "Epic Music",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/epic-music.webp",
+    "tvg_id": "ch_156",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023c7256560c1d2e5949121a4a412f5671511e15265728115306450b172b1c1e6e1d09525d36513a1c46186064624b57425e37015c470709086d545d026f3a030643066a034e500b5804675369021744725270445501465611264b1967021546402c473b4056016b35664f05464365585917490c5430044958676a561813066b5041535e0f0567566e1f475a26053453.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cc-3cyxq80qusspd.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/d68f6612-3a4e-4ed4-9853-fc41801678d1/2.m3u8"
+  },
+  {
+    "name": "YRF Music",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/yrf-music.webp",
+    "tvg_id": "ch_157",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b003238550441546d4c010a0e565f36532c59145932442706431102065f275a09305f0d1e022d5a345d1c563e3237101a0018794901131d545827444b003238550441546d4c010a0e565f36532c59145932442706431102065f275a09305f0d1c43335626035b44277d3d4a414c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"
+  },
+  {
+    "name": "Balle Balle",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/balle-balle.webp",
+    "tvg_id": "ch_158",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0c3c3106511b01360610170e551c3c5d321f021b395a251b430c01041036471e705b0a57562719325c470f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://mcncdndigital.com/worldpunjabitv/index.m3u8"
+  },
+  {
+    "name": "Hindi Hits HD",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hindi-hits-hd.webp",
+    "tvg_id": "ch_159",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55556971500c5b576a5257565d030a6f0a6f1f1d1d255228035f16180d16705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://146.59.253.52:8080/hindihitshd/index.m3u8"
+  },
+  {
+    "name": "Zoom",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zoom.webp",
+    "tvg_id": "ch_160",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b056e385d42120f2a13035b1950537151335f00102d442e05424c050006705118341f10451c0558300200183736361841181a79540c1c0d5e5427444a0c2f3b195619003e1312061666593a4b005911497300240f53015200413d040c6b025001526b536b0e03543262641f0c4059335c4b11085d50265b01180034004c485c3b041f575c080739026f0041447a0f205801525e07113d000b39015450526c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd|clearkey_key_id=86edec9e3b7d4042a4d4a1ca14f847ee&clearkey_key=9def4315f0004019a3705bcb3cf30ca3"
+  },
+  {
+    "name": "MN TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/mn-tv.webp",
+    "tvg_id": "ch_161",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0c312b131b190c29041b0c171751301c365e5a19254237035a1144091b2956463201110b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://mntv.livebox.co.in/mntvhls/live.m3u8"
+  },
+  {
+    "name": "Bengali Beats",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bengali-beats.webp",
+    "tvg_id": "ch_162",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0d36290007454b3d0e03191b4f1c3c5d321f121d2a42371b5a03120a072b0447385b05474572056f56070f647c240b55170525141b4305091e395f0a0e712b161b18562a59.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "Joo Music",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/joo-music.webp",
+    "tvg_id": "ch_163",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0d36290056110b710d10150a0b0668412b421015261822045b4d010a1d32461b36514b47457047330e4b5b3a20245759471b6e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
+  },
+  {
+    "name": "9X Tashan",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/9x-tashan.webp",
+    "tvg_id": "ch_164",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b16362c0059054b28080a061f5553265d2a445b17245b6e526e3d3f0401375206705f0540473a45710201426b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8"
+  },
+  {
+    "name": "V2 Beat",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/v2-beat.webp",
+    "tvg_id": "ch_165",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b053a6e1650455471174b010a5846715e3646105b3b5a20125a0b18115c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://de1se01.v2beat.live/playlist.m3u8"
+  },
+  {
+    "name": "Biz Music",
+    "group": "Music",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/biz-music.webp",
+    "tvg_id": "ch_166",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b073371075c0f11294f14060b5053705f2a431c171401735b69332a2e02185e3e0a580563722f74110542443411280b5005203f512c190817452651070a2c7213041454700c160d00175f6c4767.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Cartoon Network",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cartoon-network.webp",
+    "tvg_id": "ch_167",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b112d300118190c310418114254573b5b3e1e011b2d50240e5a0b1d005c3c5c057051005d1c335e290a1d54322124165b1a31385c19050b4a5a0b43004e2f33044c190c2c15570e5c4c0a60573b57105928572203534f1f0a193a5d551a4a145a413a44625e050e6061674005415b286a1913164c42690153586c6d520d4d506a1f2c312369403a5436484815036471087e2f5d290b66440b320b0f7f6427473d02645f303a610d6e233c26603e47545a030e5d3e36092c046d2f09130c37150d684c1b532b514811327c3b0f6128113c4115433132641d6b01335c16055d5e1e3e09007a192b2f63002b107775065b3d326f6f2b4f270c1336330a210b772b7f3576192d79602931622b122b361d5e2131021a605a38593e1b4745366e1d4d0d320a2774150b2b616061692b4c2c1b0742385d1610342e2441642c701d7f40022577082d5f061120062a585d6a5512554b6a78101f4b0f0523282644131b230919100e6e566240300a1536007e2d326a123d14.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://prod-linear-media.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8?edge-cache-token=Expires=1793279155~Starts=1793278855~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=M49FdqMxyOYQ5YO-sDbwM8IqMMKxVsBBO5vnAIFidzEtuk55gvfx5OOpy8Vpx_pguu0tbjVg6pTkJieKXW5sDw"
+  },
+  {
+    "name": "Cartoon Network HD +",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cartoon-network-hd.webp",
+    "tvg_id": "ch_168",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a37051b0f2e6235243739705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8"
+  },
+  {
+    "name": "Sonic",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sonic.webp",
+    "tvg_id": "ch_169",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f1017713c095a00013c05174d025c1d335b29555b0038092203570c05001e165755660256070079533a195b54361e311a09445e6c082c4853010b64735e581965500d.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://tv.cloudcdn.me/live.ts?channelId=90243&deviceMac=00:1A:79:0C:9F:58"
+  },
+  {
+    "name": "Nick",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nick.webp",
+    "tvg_id": "ch_170",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3a02750a445f0c0f000a715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/NICK/index.m3u8"
+  },
+  {
+    "name": "Nick HD+",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nick-hd.webp",
+    "tvg_id": "ch_171",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f51507168501b4457684f485a5603016e066e1f1b1d285d290f190b050117271d056c475c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://51.75.127.199:3141/nickhd/index.m3u8"
+  },
+  {
+    "name": "Nick JR",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nick-jr.webp",
+    "tvg_id": "ch_172",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3a02750a467c10440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/NICK-Jr/index.m3u8"
+  },
+  {
+    "name": "Nicklodean",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/nicklodean.webp",
+    "tvg_id": "ch_173",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e1817021c5a5d2f57715e1000645828085d0e0401173e5d47365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynascope.net/nicklodean/index.m3u8"
+  },
+  {
+    "name": "Teen Nick",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/teen-nick.webp",
+    "tvg_id": "ch_174",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a002e532f055f01004a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/teennick/index.m3u8"
+  },
+  {
+    "name": "EPIX TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/epix-tv.webp",
+    "tvg_id": "ch_175",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a352305352777042a4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/Ah3tLAfA/index.m3u8"
+  },
+  {
+    "name": "Dios Te Ve Kids",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/dios-te-ve-kids.webp",
+    "tvg_id": "ch_176",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b12713a085c060a2d000a4d1b4f08670267015a102259321f53140e0e1b3b4047365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8"
+  },
+  {
+    "name": "Moonbug Kids",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/moonbug-kids.webp",
+    "tvg_id": "ch_177",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0c30300b570002721316081a4c4171533251121d65423744460e0a1c1e36401c715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "3ABN Kids",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/3abn-kids.webp",
+    "tvg_id": "ch_178",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b523e3d0b1b170a251b0d15415a5d321d6c51171a79190a02521134091b2956472c5f0d5f09145e3b1c6d5b3a2535574719073a161d1e05415d3d43104f326c100d.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+  },
+  {
+    "name": "Hooray Kids",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hooray-kids.webp",
+    "tvg_id": "ch_179",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b056c380a06115c2616481b5d4a507151335f00102d442e05424c050006704559705f055d5a39522c1b1d046461621a02440f6e085811550108300907513a39560316503d564a070e0f0a3e046d52454d2f076e1b544f04071a37031b28005140492b5f705a51546361694e04595c670a0c5f505d54351d05076d39480314553b0248520c58013e0170005b19784379.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://d3go3d9yw1x2sb.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-obhh0sw25szth/5cc02970-213a-4eea-af2f-6a0dc11ca3a3/0.m3u8"
+  },
+  {
+    "name": "ZB Cartoon",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zb-cartoon.webp",
+    "tvg_id": "ch_180",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b123a2d1350074b2508150f0e4b503e402b515b17245b6e1154010a1107311c1e3656015c1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
+  },
+  {
+    "name": "Hungama",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hungama.webp",
+    "tvg_id": "ch_181",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3c1e78062a7b23440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/HUNGAMA/index.m3u8"
+  },
+  {
+    "name": "Super Hungama",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/super-hungama.webp",
+    "tvg_id": "ch_182",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55586771540c404b6d52404d5a0908670266055a271e660439182a3e2b351e7e29705b0a57562719325c470f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://198.195.239.50:8095/SUPER.HUNGAMA/index.m3u8"
+  },
+  {
+    "name": "Disney International",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/disnep-international.webp",
+    "tvg_id": "ch_183",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715400444b69515752590b086d036d025a042757384457525a5d5d365d0c3a4a4a5e002a0f60075e44.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.151.60.162:2122/play/a018/index.m3u8?hls"
+  },
+  {
+    "name": "Disnep Channel HD",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/disnep-channel-hd.webp",
+    "tvg_id": "ch_184",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f16063434121b190c2904560f064f5770031e5f101a7c532d1b034d22023f1505582b5f25521c6e0e685b03192720.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/19741.ts"
+  },
+  {
+    "name": "Disney Jr.",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/disnep-jr.webp",
+    "tvg_id": "ch_186",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55586f715c065b576d5557575d1676166111752c5901646e0258060e1d5c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://190.93.224.42/DISNEY-JR/index.m3u8"
+  },
+  {
+    "name": "Zoo Moo",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/zoo-moo.webp",
+    "tvg_id": "ch_187",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b1b3030085a1a482c0014101a57553e47715118152c5f6f1f404d1b0913265f012c465301032f19325c470f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8"
+  },
+  {
+    "name": "Duronto TV",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/duronto-tv.webp",
+    "tvg_id": "ch_188",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3004640e256237463124705a063b571c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/DORONTU-TV/index.m3u8"
+  },
+  {
+    "name": "Rongeen TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/rongeen-tv.webp",
+    "tvg_id": "ch_189",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b123a2d1350074b2b091c0f0a5e5b2b422d5f5b1d2519330458050e001c2b45472d5d0a54563a592b191d5e3d3735011a195d2301.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8"
+  },
+  {
+    "name": "Discovery Kids",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/discovery-kids.webp",
+    "tvg_id": "ch_190",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b112d300118190c310418114254573b5b3e1e011b2d50240e5a0b1d005c3c5c057051005d1c335e290a1d533a20331642111c2f66061b004b1e245c0518333616415b086c14415c0a5d553a1f3c51161c2e1b35045d070558372743012d57170e02680e6c5d050e6266660767000f244d1e4f550f0867025359676a534b203713310b0609504a625317624517037b77274f5b1c061f665824084a14515e095f3c060343090402096d275b665b5f2809626602430539053329583b133d3007270e4d536257267a0f101c7c3b3205281b3c1f094a306d5e0f7a59305e12026b4e1d3e15006e1937227629200f616264002a1b0d3629623f0c11533c17225374336b6d661d2e1f7f38257220062c1c6f4d3b36550a52472a453a5273443b09393f6e1f2f634a0718005d7d015e20071e3e24643d110c114d2e3b0b70165e0a7a1c1c1a7b060f07253d00260c403d270a54595c06791c1c0b76611c151141103c256b3d1c00746b1c793e2a36660c023634.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://prod-linear-media.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8?edge-cache-token=Expires=1793279156~Starts=1793278856~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=AshZiFZkA5sjjdeLUnDfAaAQHtSp4MT2BIlUJihQMGd1GVeTSsUx80joYNCs9A2OEhudRsRPndLZHIZKi9i7CQ"
+  },
+  {
+    "name": "WOW Kidz",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/wow-kidz.webp",
+    "tvg_id": "ch_191",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b182a2f154514173013100403505c715334511815224c240f180c0e115d6e0b596d00501c40325e335545582438391d4e1c07385d045c175558381f140d3e26095c0611710c4a1657065a3b5c2b4348073f0b705c0557535c4a690b5121571c430e6e0f6c5a0a0e6b6568414a150d3a04470c0c5550370d0254393a570142576b071c535a0d0a6e576c0841452d0f24090303095d1739570d3a020500573b0f6c5906023236691d57125a630e5d41020d0361520503683d.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+  },
+  {
+    "name": "Minimax",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/minimax.webp",
+    "tvg_id": "ch_192",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b126d710c5110042b08160d1b5c51715e3646105b065f2f027b03134a3f365d0112531c1d5e6c4267.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://s2.ideationtec.live/MiniMax/MiniMax.m3u8"
+  },
+  {
+    "name": "Space Toon",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/space-toon.webp",
+    "tvg_id": "ch_193",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b12373b48521615720d10150a17573b553a5e100c3f552505180c0e115d335a1e3a1d065a47325829065c1a2023311a510001395742165c0b09665606583e3d515747566f564956575f036d516855144d7b52235e024d06041c36550d2c464b455a3b52304005056323614e01440534491e5d125155315f4a0c6c2a5d.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/manifest/video/720p1750kbps/video.m3u8"
+  },
+  {
+    "name": "POGO",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/pogo.webp",
+    "tvg_id": "ch_194",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b112d300118190c310418114254573b5b3e1e011b2d50240e5a0b1d005c3c5c057051005d1c335e290a1d473c343f2647104126550c0b085142201e09522a675a5011023a4c1a020c51577246305b101a7673391b5f100e164f6e04516c00530a026a02213c465621272344054357650b5a4a5c0d042a65362d0f2d00531c1d620031315f5a7a120413494c03285b78007a351315103265003c5b55476908652f36610263316223592e39004a0c2a3e547d397e12030e212154010462040029155d65154806033f04125b17126e50070e3b355c01125f3d4a7d327226355f6e271c142b5f2d3d6609230836517d037a0d2f6d1a11781f2333384b35076366164b1174371902587115650b0c0b132b461a3a0f29070a19532e224a4e1c0a014c6d3b43257d0f05290078257d292a27091677372a6a171722267f5b3b481a44001f7e03261d501a5e2a3d2f4a5009421c6c4338422a5f46553905374f4420051c5008393c6f04277413.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://prod-linear-media.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8?edge-cache-token=Expires=1793279155~Starts=1793278855~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=M49FdqMxyOYQ5YO-sDbwM8IqMMKxVsBBO5vnAIFidzEtuk55gvfx5OOpy8Vpx_pguu0tbjVg6pTkJieKXW5sDw"
+  },
+  {
+    "name": "Sony Yay",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-yay.webp",
+    "tvg_id": "ch_195",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a27047818466f23324a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/SONY-YAY/index.m3u8"
+  },
+  {
+    "name": "YTV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ytv.webp",
+    "tvg_id": "ch_196",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a011246070c05303d4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8"
+  },
+  {
+    "name": "Discovery Family",
+    "group": "Documentary",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/discovery-family.webp",
+    "tvg_id": "ch_197",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b404b3e181702004d467151305d5a10224522044007191c143e5e01334b4b5a5d3b5227415f04266b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8"
+  },
+  {
+    "name": "Somoy Kolkata",
+    "group": "News",
+    "logo": "",
+    "tvg_id": "ch_198",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d2c5332510c1f245a2a0a42034516062d5609321d1041523c5c2c42440632627f145b1a0178545e075c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/samaykolkata.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "CGTN",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cgtn.webp",
+    "tvg_id": "ch_199",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b112d300118190c310418114254573b5b3e1e011b2d50240e5a0b1d005c3c5c057051005d1c335e290a1d5434273e5644180f2f55040110165c67455c5e3a3b025058063e021106424d5d3457310d300c3b5f330e455f5a524b6c015f660351014d0c433e1d46446e6267400746596e0158401a6d631860160439361d08142d0d511a2b220f7e260b2853184d207a1613460006331a3c5a592b6833614306646a5f5005093e0a2e62070f0e63013e09764736611a253e2b0408101c151b1d3425436b6c782f691822326e73075d2b010a1b125e31267c09764a055a061b7d730138092a0444202c6b043e3372581a022115123523592c570909233726407c1b7032791b443565280c58031f10003a0e50275c057e1e1a766c2c075f6a220f0852132f0c513c280100693e4621381c0b517b05031c06380b3b0f542b61007342460304395d7b2c1c041813075c1700210a586c52292568660b1d282c033358005b241e3b7a70.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://prod-linear-media.toffeelive.com/cdn/live/cgtn/playlist.m3u8?edge-cache-token=Expires=1793279152~Starts=1793278852~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=8xnaM-EA3C5h9q_qfgAZhQZe8XjvEYCT4NpfCgAhT6ftS_C72H2x6MNwajL44H2E9k3evJZQXNxU7G6VbIl_BA"
+  },
+  {
+    "name": "CGTN Documentary",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cgtn-documentary.webp",
+    "tvg_id": "ch_200",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b043138095c060d720d10150a5b593e5e361e16133f586f08590f44091b2956473b5d0750542b59005e1c5a602668.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8"
+  },
+  {
+    "name": "DW News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/dw-news.webp",
+    "tvg_id": "ch_201",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b05283e085106112d04180e5e0900715334511815224c240f180c0e115d375f1b705e0d455670056f5e070261667f1d43071a245c0c1f5508037b590a053a274b58461067.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+  },
+  {
+    "name": "CNA",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cna.webp",
+    "tvg_id": "ch_202",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b056d3a5454060b2c0d4e011d0e507151335f00102d442e05424c05000670045f67000101036a52685d54036032351b00155a6e5c0e4b535e07625506033a700c5b1100273e4c4d020a4767.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
+  },
+  {
+    "name": "CBS News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cbs-news.webp",
+    "tvg_id": "ch_203",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b053e364b521a0a380d1c4d0c565f705e365e101539192907454d1b075d3a450d31464b605a3b03270666660738132d052722230f1f18316b607b4310133a3e081a1354675341025f0e1f67023e0858402a0f224657520f015f3c0050685600550a6c04680d08641a1d625659151d225c1f5c090b446c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/f1828a07-80a8-4a9c-a0dd-c387ddf9337b:SIN2/master.m3u8"
+  },
+  {
+    "name": "CNN",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cnn.webp",
+    "tvg_id": "ch_204",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b112d300118190c310418114254573b5b3e1e011b2d50240e5a0b1d005c3c5c057051005d1c335e290a1d543d3d7f095815173a501e064a550221085b043b38001816043c091c4e1b56593a5c62750d04224424180b535c5c416d04516e06524d602b562d1b410a6264694a0643566e0d5b0c316a7d04420107362758543d376f02312e59754b66453c5d4c1f0761391b540f3d0d1136021c056536436a0c026f0d006d3e09072f4715360c55211f2a4e53054e20002b3e58500c2f25052e291560011542065d230d13042d007f08040c3f326a11115f214a69326e2b207665380a0349043a14045021252e517f6675102c3519096c4733373b2d2a1677761d5f165e450a185f260557161e17176243003d6353744132726f0b6d7e0919361246060f1d145e37285f5617025607123d567d05173b130d5a17776b720133061f010d747433601a5300200f6206056d2d7b62276338171f6d063b331e0c223b067614202669.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://prod-linear-media.toffeelive.com/cdn/live/cnn/playlist.m3u8?edge-cache-token=Expires=1793279146~Starts=1793278846~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=phbQ7GrmE0d_IZJfkrraK-3ELggC22fMb3Hprdrt9xNY-3l6juFB5XVx8eRPQnZ_IHQxTgx-ZUhcg8VUPOyRBQ"
+  },
+  {
+    "name": "TRT World",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/trt-world.webp",
+    "tvg_id": "ch_205",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b112d300118190c310418114254573b5b3e1e011b2d50240e5a0b1d005c3c5c057051005d1c335e290a1d4321270f0e5b060232161d1e05415d3d43104f326c100d4a003b061c4e0c5851375772441a1f2e587c2e4e120217172c0e59680b57010466066a5e4c642732220d47495f61005e4053000961011a340d133547100336194402276b023c7a1206390d724122060f0927320a2f5105095a075a022b6d083d426e0066601b062e030c6e3b0105606b387c092f293d344b31042b0044061673483b65154a2c4701461806601b33571e347a02305b295e6a2679322a4b6d3e0a24367026050f6a5d422a42633d7c332b3611577001283527153a5d6f5a056616493b30095b0805061c380c1531521c2a40010e501e5c0d1a5066233e614155165b195f14265348690e6802182d2b275a3e3c6a561425060b68087d317643040f783001523b062f3b69712d277e2b6c766d611c3d5c4f22027d410d37393d40091c52526b637110200e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://prod-linear-media.toffeelive.com/cdn/live/trt_world/playlist.m3u8?edge-cache-token=Expires=1793279151~Starts=1793278851~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=cAkRubQpm18ab5OfyT7pXZXfyrtBoKY57mFi2ZWOnF6pDNqjdYmJI6BExLO_E2VCRnxqQ-89CWkydn6jZ7AtAQ"
+  },
+  {
+    "name": "BBC News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bbc-news.webp",
+    "tvg_id": "ch_206",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f0705312c4b5f05482f13100e0a515d325771531a19710e715b064d110d1d315411365c031c5f36413a40425b322a3c104700403b0a184a5b5b58300d07126e6a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15"
+  },
+  {
+    "name": "Al Jazeera",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/al-jazeera.webp",
+    "tvg_id": "ch_207",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0d362900181d092c4c18131f4a1f3e583a1d13156551241f5708450b172b1c2915774b5a5d3b5227415f04266b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8"
+  },
+  {
+    "name": "Wion",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/wion.webp",
+    "tvg_id": "ch_208",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0568275d4f411c2a104d511e571c3c5e3045111239592f1f180c0e115d365d0c3a4a3b041d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8"
+  },
+  {
+    "name": "CP 24",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cp-24.webp",
+    "tvg_id": "ch_209",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a173b0475445f0c0f000a715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/cp24/index.m3u8"
+  },
+  {
+    "name": "ABC News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/abc-news.webp",
+    "tvg_id": "ch_210",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a350975391152110f2b17284047365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/ABCxzdsdNews/index.m3u8"
+  },
+  {
+    "name": "CNBC TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cnbc-tv.webp",
+    "tvg_id": "ch_211",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a17255422445f0c0f000a715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/cnbc/index.m3u8"
+  },
+  {
+    "name": "Sky News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sky-news.webp",
+    "tvg_id": "ch_212",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b404b3e181702004d467151305d5a07204f2f0e4111440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen5.aynaott.com/skynews/index.m3u8"
+  },
+  {
+    "name": "Fox News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/fox-news.webp",
+    "tvg_id": "ch_213",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a12244e2f0e4111440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/foxnews/index.m3u8"
+  },
+  {
+    "name": "National Geographic HD",
+    "group": "Documentary",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/national-geographic-hd.webp",
+    "tvg_id": "ch_214",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a3a0a62062e794f23215d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/NATGEO-HD/index.m3u8"
+  },
+  {
+    "name": "Wild HD",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/wild-hd.webp",
+    "tvg_id": "ch_215",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b05393716541d153e554c08040b1c3c5e3045111239592f1f180c0e115d2c50003a56115f562d182c0c5a5237263c1c79151d225c1f5d500f077a5d571467.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8"
+  },
+  {
+    "name": "Animal Planet HD",
+    "group": "Documentary",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/animal-planet-hd.webp",
+    "tvg_id": "ch_216",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b112d300118190c310418114254573b5b3e1e011b2d50240e5a0b1d005c3c5c057051005d1c335e290a1d563d3a3d18582b1e3a580317106759301f140d3e26095c0611710c4a165706573b553a1d1615285e2446420d00001c6276102f5b165640620668560105646a614f000a3d22581f061705006309575368675d03411b0a3335331d5c54364a62513d267b550926002e125c053c5e51347e334b433d5a0907515e62270a2e660437050c5d1056625c0e6732123e073f59390811171b32117d532b5362550c3e315216214c3b582f02065e3e266a565f58165d30067f5a0a2a1e14710d343b60193d206a5a0d6354511125375c3932150837512a4d7f357433694722236c15224f2c2f271f165d5821610d545d3e432a1d570a631d1e2c603a0261090336534f501a573c282d1455653d0c3a150d023b530469411159050173452a0d471a022c37265b091e622c005667593106626402177d0c6c2e2a237d1e19504b7431530f312a280a513d3c1e30.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://prod-linear-media.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8?edge-cache-token=Expires=1793279164~Starts=1793278864~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=0NNUTNl70nD7waNgXIrK0PHiettaTj66sNipu8skfqxiIEyhaAPH3e8nniPSQD-uXZDuDsk4sEeckPuwodHYAQ"
+  },
+  {
+    "name": "TLC HD",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tlc-hd.webp",
+    "tvg_id": "ch_217",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a3101572600782e594a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/EJagkNL2/index.m3u8"
+  },
+  {
+    "name": "Sony BBC Earth HD",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-bbc-earth-hd.webp",
+    "tvg_id": "ch_218",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a272458384674202848373e411c371d0d5d573a4f710201426b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Sony-BBC-Earth/index.m3u8"
+  },
+  {
+    "name": "Discovery Science",
+    "group": "Documentary",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/discovery-science.webp",
+    "tvg_id": "ch_219",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b112d300118190c310418114254573b5b3e1e011b2d50240e5a0b1d005c3c5c057051005d1c335e290a1d533a20331642111c2f661e110d5d5f37554b11333e1c591c162b4f14501a010d3a56385558172a55290e1b16040e17310e2d27420d41562c0a6e580b0461646948024110054d0c00104b0c65075d526d685d0d435021342b2f3f4b57395b270d143c190622237b54271c4b285005665928644b2f5532395a543a62242363261e0f6a5842060a6b396a33372c3e3d6f1929322f0f013e47763e463e0d100d014c253c7c183256382f6a05094b3c015f347e35005b7a3e0a29375931170c5434062b7c633f6937516f111f671c29082b102d5d7c461258195c2c461d5e1b3f7f1b252130327a066f4c375a5431562b1a40526e38133365415c3a785c1f2540592009110b1d100d600d226e084901197c73396b3c5b3643727c0f255b2b311623090a111d1f165c646644001f575065321335733958266d2e3609610079460c021a1222673126052028.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://prod-linear-media.toffeelive.com/cdn/live/discovery_science/playlist.m3u8?edge-cache-token=Expires=1793279165~Starts=1793278865~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=kCJQ52lA1mAxht9ujBOhUxG1i0bvEAfYckC79JNNmIZsQV9yB-roW9s_peg6aCLGM6pTCDmY1-vhcEMGRDCZAQ"
+  },
+  {
+    "name": "Discovery Turbo",
+    "group": "Documentary",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/discovery-turbo.webp",
+    "tvg_id": "ch_220",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b056e385d42120f2a13035b1950537151335f00102d442e05424c050006705118341f10451c1b5e2c0c5d413621290d41060c390b4216015e50215c104e323e0b5c13002c15570e1f5d4e3c5e3a51071f2e4f1e00531b340c166250586e035101066601660a0603316a69180c425e63000910060b52305650046779065910042d0a1c1a305257260f690745442a03255205505b56466e040a67075c065568533a5856536232604056.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd|clearkey_key_id=c011525969e44b99a86059dbb3cdf4e8&clearkey_key=6700a5d93203417b8585f7de7dd1a09b"
+  },
+  {
+    "name": "Investigation Discovery HD",
+    "group": "Documentary",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/investigation-discovery-hd.webp",
+    "tvg_id": "ch_221",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b112d300118190c310418114254573b5b3e1e011b2d50240e5a0b1d005c3c5c057051005d1c335e290a1d533a20331642151c2f66041c125d42205903002b360a5b2a0d3b4e090f0e405e36412b1e18473e0e7e0e52050e48113e50003a1f105c583a59622a4a473a21350a0945596f0a5f455d0907624e37153e2d1146485468584a5158010a6904216527381b44240d5f1a56043a0d030b177f527f4a66403c020b5c1f0428095619383e5a044310626606403d326a6f07072f0805362f100e6168337e327e03161a48050a420356000b15490c08781e6a0015470602644e0b613c127d1e013f74002b1d765c11493e0c062b2a71270e06324953214360367e087a1c3a797335265c24073c40095b320b7b1d7d771d5a16010249003a371755001b245c50382b5a0822520b24163c216547011d2c26513c6e5b6a0a0f763a360d4e231d7c2b3b541f1e4a1b6c791700611871725a0152073e174043363c1b54001e3e6a730c0528171a2f2074325406144028095c5428616e7434.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://prod-linear-media.toffeelive.com/cdn/live/discovary_investigation_hd/playlist.m3u8?edge-cache-token=Expires=1793279166~Starts=1793278866~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=JOb9vboEIcDP2dBM_2SWi58PFOBFxbvJIP1mAys3Ks3RGF-53eTmG9wBRMmmlZRBX5LvEpEAG1Yu9KfefwS1DA"
+  },
+  {
+    "name": "Discovery",
+    "group": "Documentary",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/discovery.webp",
+    "tvg_id": "ch_222",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a30026502246027393c5d2b41093c59171e456e566e405f583d3c7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/DISCOVERY/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Discovery HD",
+    "group": "Documentary",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/discovery-hd.webp",
+    "tvg_id": "ch_223",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a2e2342743d4720094a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8"
+  },
+  {
+    "name": "HGTV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hgtv.webp",
+    "tvg_id": "ch_224",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a332e047213503b5e4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8"
+  },
+  {
+    "name": "History TV 18 HD",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/history-tv-18-hd.webp",
+    "tvg_id": "ch_225",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0f6e67164c1b013602181706565c715334511815224c240f180c0e115d3d43037246121c7b36442b00404e0c0706480c2b263f57091b3b766665083b2c101d4a5a00112f140d535e165f3e412b55075a26053453.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8"
+  },
+  {
+    "name": "HISTORY TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/history-tv.webp",
+    "tvg_id": "ch_226",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a1a3b050b1842302e4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/np3JstRE/index.m3u8"
+  },
+  {
+    "name": "Love Nature",
+    "group": "Documentary",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/love-nature.webp",
+    "tvg_id": "ch_227",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f5656716e57015b526e4f4b5440755d2957007e14003e4424445f0c0f000a715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://27.124.71.27/Love_Nature/index.m3u8"
+  },
+  {
+    "name": "Travel XP",
+    "group": "Documentary",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/travel-xp.webp",
+    "tvg_id": "ch_228",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b152d3e1350191d2f4c0d110e4f57334a2f1d44592e436f1957091e1117311d1f2a40081d4729182f03534e3f3a230d1a195d2301.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "T Sports",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/t-sports.webp",
+    "tvg_id": "ch_229",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a206665112464363848340a7f24727a201c472d563c04411a256231481b19013856431f574d09.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "PTV Sports",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ptv-sports.webp",
+    "tvg_id": "ch_230",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a241f606c38662d39312170471a3e510f401e29063e5e1d5a3c3d3f5759471b6e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Star Sports 1",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-sports-1.webp",
+    "tvg_id": "ch_231",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a271f77134665322437260c1e59727a201c5a31533a171c5a602668.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/STAR-SPORTS-1-HD/index.m3u8"
+  },
+  {
+    "name": "Star Sports 1 Hindi",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-sports-1-hindi.webp",
+    "tvg_id": "ch_232",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f5050716d55005b5c6c4f48565b16610b730d63253b1962125a190b050117271d056c475c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://41.205.93.154/STARSPORTS1/index.m3u8"
+  },
+  {
+    "name": "Star Sports Select 1",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-sports-select-1.webp",
+    "tvg_id": "ch_233",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a271f77134665322437260c1e3b1a7e217067720670065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/index.m3u8"
+  },
+  {
+    "name": "Star Sports Select 2",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-sports-select-2.webp",
+    "tvg_id": "ch_234",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b07332a16461a0b360257070a5f5b31573e441a0e65552e0619111f04002c43072d4617405633523c1b0044247c240b55170525141b4305091e395f0a0e713256404d462c0a000e5c4c1c3b5729.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8#skym3u.dev"
+  },
+  {
+    "name": "Star sports 2",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-sports-2.webp",
+    "tvg_id": "ch_235",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a271f77134665322437260c1e5a727a201c5a31533a171c5a602668.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/STAR-SPORTS-2-HD/index.m3u8"
+  },
+  {
+    "name": "Star Sports 3",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/star-sports-3.webp",
+    "tvg_id": "ch_236",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715404414b6e50575058030a6f0a6e1f26002a446c18460d191101720047365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.114.11.37:8081/Star-sports-3/index.m3u8"
+  },
+  {
+    "name": "A Sports",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/a-sports.webp",
+    "tvg_id": "ch_237",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b11333e1c4f0113720009131c17423e553a435b102e406e0a1b111b0a002b4047365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://playztv-apps.pages.dev/a-sports/index.m3u8"
+  },
+  {
+    "name": "Ten Sports",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ten-sports.webp",
+    "tvg_id": "ch_238",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a202e586c38460d19110170471a3e510f401e29063e5e1d5a3c3d3f5759471b6e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/Ten-Sports/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Ten Cricket",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ten-cricket.webp",
+    "tvg_id": "ch_239",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a200e786c286427282e370b1c1c2d5307584072416e0e03183e3c3e161a195d2301.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/TEN-CRECKET/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Sony Ten Sports 1",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-ten-sports-1.webp",
+    "tvg_id": "ch_240",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a200e786c5a190b050117271d056c475c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/TEN-1/index.m3u8"
+  },
+  {
+    "name": "Sony Ten Sports 2",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-ten-sports-2.webp",
+    "tvg_id": "ch_241",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a200e786c59190b050117271d056c475c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/TEN-2/index.m3u8"
+  },
+  {
+    "name": "Sony Ten Sports 3",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-ten-sports-3.webp",
+    "tvg_id": "ch_242",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a200e786c58190b050117271d056c475c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/TEN-3/index.m3u8"
+  },
+  {
+    "name": "Sony Ten Sports 5",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-ten-sports-5.webp",
+    "tvg_id": "ch_243",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a200e786c5e190b050117271d056c475c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/TEN-5/index.m3u8"
+  },
+  {
+    "name": "Bein Sports 1",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bein-sports-1.webp",
+    "tvg_id": "ch_244",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f5656716e57015b526e4f4b54405b57167c0063051b39423234074d020b163a4b463201110b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
+  },
+  {
+    "name": "Bein Sports 2",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bein-sports-2.webp",
+    "tvg_id": "ch_245",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f5656716e57015b526e4f4b54405b57167c0063051b39423234044d020b163a4b463201110b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
+  },
+  {
+    "name": "Bein Sports 3",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bein-sports-3.webp",
+    "tvg_id": "ch_246",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f5656716e57015b526e4f4b54405b57167c0063051b39423234054d020b163a4b463201110b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://27.124.71.27/beIN_Sports_3/index.m3u8"
+  },
+  {
+    "name": "Bein Sports Xtra",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bein-sports-xtra.webp",
+    "tvg_id": "ch_247",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b033a360b180d112d0054010a505c71533251121d65423744460e0a1c1e36401c715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Willow Sports",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/willow-sports.webp",
+    "tvg_id": "ch_248",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715406404b6d544a4d5c0b08670267005a23027a0d24614f38353d0d673b705b0a57562719325c470f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.135.253.32:8080/WILLOW-SPORTS/index.m3u8"
+  },
+  {
+    "name": "Tapmad",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tapmad.webp",
+    "tvg_id": "ch_249",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0567355d011a566b521856020b1c3c5e3045111239592f1f180c0e115d335a1e3a1d1056402b433e1f5f5637617f1455071a334b431f574d09.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+  },
+  {
+    "name": "Cricbuzz",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cricbuzz.webp",
+    "tvg_id": "ch_250",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a060e7431580e23134a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8"
+  },
+  {
+    "name": "Unite8 Sports 1",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/unite8-sports-1.webp",
+    "tvg_id": "ch_251",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55586771540c404b6d52404d5a0908670266055a21057f152e0e4c5a4b3a1b1c013156014b1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8"
+  },
+  {
+    "name": "Eurosport 2",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/eurosport-2.webp",
+    "tvg_id": "ch_252",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55546e715d055b54674f485458030a691d1a45071b38462e19423d593a3a1b1c013156014b1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://151.80.18.177:86/Eurosport_2_HD/index.m3u8"
+  },
+  {
+    "name": "TYC Sports",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tyc-sports.webp",
+    "tvg_id": "ch_253",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b00323857034753674c180e080b046d04675344406650330e530e0213172c43072d46171e5632523e4203076165675744180f2f56180617165f3b474a00323e025c5b11294e0d10424c4172576d1d1b4664462d0a4f0e0216067052053800520105671a2c1f5d452720230d4110073914190b074b413b42101272391750100936171c101f56402b413a5d101564462d0a4f0e021606715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
+  },
+  {
+    "name": "Sky Sports Football",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sky-sports-football.webp",
+    "tvg_id": "ch_254",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f56566a690101430671001200065846291c2d455a1d3b4237440124392b3469703166735d67746c18665d0a0e7c3a3e1d510c403b0a184a474b5a2d5d5714713b0043.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8#skym3u.dev"
+  },
+  {
+    "name": "Goal TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/goal-tv.webp",
+    "tvg_id": "ch_255",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b122b2d005418166d4f0a0c0958412b1c2b465a0724502018421207040b30461c70650d405612040a576d067c3e310a40111c78545e075c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8"
+  },
+  {
+    "name": "TNT Sports 1",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tnt-sports-1.webp",
+    "tvg_id": "ch_256",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b404b3e181702004d467151305d5a153852270a52110d4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
+  },
+  {
+    "name": "TSN 1",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tsn-1.webp",
+    "tvg_id": "ch_257",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a00385870445f0c0f000a715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/tsn1/index.m3u8"
+  },
+  {
+    "name": "TSN 2",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tsn-2.webp",
+    "tvg_id": "ch_258",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a00385873445f0c0f000a715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/tsn2/index.m3u8"
+  },
+  {
+    "name": "TSN 3",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tsn-3.webp",
+    "tvg_id": "ch_259",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a00385872445f0c0f000a715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/tsn3/index.m3u8"
+  },
+  {
+    "name": "ESPN",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/espn.webp",
+    "tvg_id": "ch_260",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a1138462f445f0c0f000a715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/espn/index.m3u8"
+  },
+  {
+    "name": "Fox Sports 1",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/fox-sports-1.webp",
+    "tvg_id": "ch_261",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b07336c4b581a133a0e170900401c3c5d321f333b1369121b59101f162d6e1c013156014b1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8"
+  },
+  {
+    "name": "Fox Sports 2",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/fox-sports-2.webp",
+    "tvg_id": "ch_262",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292f0446064b30131e4c0350443a1d195f0d273b59331f4550441616.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvpass.org/live/FoxSports2/sd"
+  },
+  {
+    "name": "Willow Sports 2",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/willow-sports-2.webp",
+    "tvg_id": "ch_263",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a273b59331f4553440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/Sports1/index.m3u8"
+  },
+  {
+    "name": "Sportv",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sportv.webp",
+    "tvg_id": "ch_264",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a0723572604444f090411344618705b0a57562719325c470f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/shagor-backup/index.m3u8"
+  },
+  {
+    "name": "And Pictures HD",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/and-pictures-hd.webp",
+    "tvg_id": "ch_265",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a152552310255161e17172c5b0c705b0a57562719325c470f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/andpictureshd/index.m3u8"
+  },
+  {
+    "name": "Pitaara TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/pitaara-tv.webp",
+    "tvg_id": "ch_266",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a042242200a4403440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/pitaara/index.m3u8"
+  },
+  {
+    "name": "Amc",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/amc.webp",
+    "tvg_id": "ch_267",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a1526556e0258060e1d5c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/amc/index.m3u8"
+  },
+  {
+    "name": "HiDost",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/hidost.webp",
+    "tvg_id": "ch_268",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a421372330f642a0a4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/6XDrdRHa/index.m3u8"
+  },
+  {
+    "name": "Dubai Sports 1",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/dubai-sports-1.webp",
+    "tvg_id": "ch_269",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a103e54200245120417062c0247365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/dubaisports1/index.m3u8"
+  },
+  {
+    "name": "Talk Sport",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/talk-sport.webp",
+    "tvg_id": "ch_270",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a002a5a2a38662d39315d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/talkSPORT/index.m3u8"
+  },
+  {
+    "name": "Marquee Sports Network",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/marquee-sports-network.webp",
+    "tvg_id": "ch_271",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a392a44301e530738151d2d471b115710445c2d5c70065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8"
+  },
+  {
+    "name": "More Then Sports TV",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/more-then-sports-tv.webp",
+    "tvg_id": "ch_272",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a193f45351d190b050117271d056c475c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/mtstv/index.m3u8"
+  },
+  {
+    "name": "BTV NATIONAL HD",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/btv-national-hd.webp",
+    "tvg_id": "ch_273",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a1b3b6404096e2e1a2f401775310f713c67791d5670065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8"
+  },
+  {
+    "name": "Kids Pang TV",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/kids-pang-tv.webp",
+    "tvg_id": "ch_274",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a3f2252323b4403050226091c013156014b1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/KidsPrangTV/index.m3u8"
+  },
+  {
+    "name": "TVC Arabic Kids",
+    "group": "Kids",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tvc-arabic-kids.webp",
+    "tvg_id": "ch_275",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a201d750019570002063936571b705b0a57562719325c470f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/TVCArabicKids/index.m3u8"
+  },
+  {
+    "name": "Dream Turk",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/dream-turk.webp",
+    "tvg_id": "ch_276",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a30395320066217190e5d365d0c3a4a4a5e002a0f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/DreamTurk/index.m3u8"
+  },
+  {
+    "name": "Cricket Gold",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cricket-gold.webp",
+    "tvg_id": "ch_277",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a397961733e645652011f3a780a055c095761257970065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8"
+  },
+  {
+    "name": "Dubai Sports 2",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/dubai-sports-2.webp",
+    "tvg_id": "ch_278",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a303e54200265120417062c0147365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/DubaiSports2/index.m3u8"
+  },
+  {
+    "name": "Rupshi Bangla",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/rupshi-bangla.webp",
+    "tvg_id": "ch_279",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a157f7a763f55131d4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8"
+  },
+  {
+    "name": "Goldmines Bollywood",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/goldmines-bollywood.webp",
+    "tvg_id": "ch_280",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a417e4e0f197a060d4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8"
+  },
+  {
+    "name": "NTV Europe",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ntv-europe.webp",
+    "tvg_id": "ch_281",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f4b5b16042d04570f064f5770516c660c10266038330e301b07370a0a25360a1c7d4a674e122b7707141a142c0226092c685b3c30795630750b003a191f57335c6d382e1b26636610020a00100e050708117b1b0d131118652505772e70671a71080a64796003043659102825583a20105966610105080f370b65212c6d4e1717194c596f026c0347467a076f1842100e041f7043043e4b085a402b19325c470f.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8"
+  },
+  {
+    "name": "TV ONE",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tv-one.webp",
+    "tvg_id": "ch_282",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a003d592f0e190b050117271d056c475c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/tvone/index.m3u8"
+  },
+  {
+    "name": "BTV CTG",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/btv-ctg.webp",
+    "tvg_id": "ch_283",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a202171135a7101132e172b7b26095129654b3d4670065c53362b7e14070156.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8"
+  },
+  {
+    "name": "Quran",
+    "group": "Islamic",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/quran.webp",
+    "tvg_id": "ch_284",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a053e4420054214440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/qurantv/index.m3u8"
+  },
+  {
+    "name": "SUNNAH",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sunnah.webp",
+    "tvg_id": "ch_285",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a073e582f0a5e161d4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/sunnahtv/index.m3u8"
+  },
+  {
+    "name": "TAQBEER",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/taqbeer.webp",
+    "tvg_id": "ch_286",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a002a5d230e5310440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/takbeer/index.m3u8"
+  },
+  {
+    "name": "SKY CINEMA ANIMATION",
+    "group": "Movies",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sky-cinema-animation.webp",
+    "tvg_id": "ch_287",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a07204f2202580706041c365e092b5b0b5d1c36593b0a4a193e602541.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/skycinemanimation/index.m3u8"
+  },
+  {
+    "name": "SYFY TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/syfy-tv.webp",
+    "tvg_id": "ch_288",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a07325038445f0c0f000a715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/syfy/index.m3u8"
+  },
+  {
+    "name": "MSNBC News",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/msnbc-news.webp",
+    "tvg_id": "ch_289",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a1938582308190b050117271d056c475c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/msnbc/index.m3u8"
+  },
+  {
+    "name": "VTV USA",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/vtv-usa.webp",
+    "tvg_id": "ch_290",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a023f403418574d020b163a4b463201110b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/vtvusa/index.m3u8"
+  },
+  {
+    "name": "Bahrain Sports 2",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/bahrain-sports-2.webp",
+    "tvg_id": "ch_291",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a362a5e330a5f0c38151d2d471b6d1d0d5d573a4f710201426b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/BahrainSports2/index.m3u8"
+  },
+  {
+    "name": "Dubai Sports 3",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/dubai-sports-3.webp",
+    "tvg_id": "ch_292",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a303e54200265120417062c0047365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/DubaiSports3/index.m3u8"
+  },
+  {
+    "name": "Sharjah Sports TV",
+    "group": "Sports",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sharjah-sports-tv.webp",
+    "tvg_id": "ch_293",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a2723573301570a38151d2d471b0b644b5a5d3b5227415f04266b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/SharjahSportsTV/index.m3u8"
+  },
+  {
+    "name": "FIFA+",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/fifa.webp",
+    "tvg_id": "ch_294",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b056d285c444153360a1e110c4e4a7151335f00102d442e05424c050006704559705f0540473a45705c050561306649554c5f635a5c4b5d5c08370001076c69060017526c0518555758046d506f0911456455224659045e061034001b3e4457440670416e40414e2037310d552b1d094932133b5e5832513b56702c04580610310611060e5d5731560045065b2757350e4516440813365d47375e171c43335626035b44277d3d4a414c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8"
+  },
+  {
+    "name": "Iran Press",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/iran-press.webp",
+    "tvg_id": "ch_295",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0d3629001b05173a120a1719175b2d1d375c065b3b44241845161d3a470007506d1d0d5d573a4f710201426b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8"
+  },
+  {
+    "name": "Dubai TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/dubai-tv.webp",
+    "tvg_id": "ch_296",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b053236005c12113717150f1b581c3c56311e1813265a220f584c080a1f70571d3d530d47453743701c5f5e3f69340c561507224f4301104a54355d4a123236091a160d2a0f120f064a46715f6c454d.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8"
+  },
+  {
+    "name": "TBS",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tbs.webp",
+    "tvg_id": "ch_297",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a0029456e0258060e1d5c32001d67.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/tbs/index.m3u8"
+  },
+  {
+    "name": "ABN",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/abn.webp",
+    "tvg_id": "ch_298",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0c3a3b0c5406002d171c1141585031443654101b381822045b4d1811003a52052c1d05515d2a453b1a1c5a602668.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://mediaserver.abnvideos.com/streams/abnurdu.m3u8"
+  },
+  {
+    "name": "OAN",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/oan.webp",
+    "tvg_id": "ch_299",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b00723c015b5b0e330e0e071b4f1c3c5d321f191d3d5370445903053a456d0318704208524a335e2c1b1c5a602668.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8"
+  },
+  {
+    "name": "Adventure Earth",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/adventure-earth.webp",
+    "tvg_id": "ch_300",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002a2b005b010c3c4c1807195c5c2b472d5558112a4435031b53460007714109344710565d71402a1d5e1927257f095815173a501e064a55022108.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Revolt",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/revolt.webp",
+    "tvg_id": "ch_301",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b434b3e181702004d467151305d5a062e402e07424d020b163a4b463201110b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen6.aynaott.com/revolt/index.m3u8"
+  },
+  {
+    "name": "CMAC TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/cmac-tv.webp",
+    "tvg_id": "ch_302",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b133a390950161172171607425a5f3e51715314162753220a4516451104705f012957490202705b361957182027221c5519436416011b125d1f39031159.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8"
+  },
+  {
+    "name": "IBTV USA",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ibtv-usa.webp",
+    "tvg_id": "ch_303",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a1d2942371e4503440c1c3b5610715f57460b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/ibtvusa/index.m3u8"
+  },
+  {
+    "name": "TIME TV USA",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/time-tv-usa.webp",
+    "tvg_id": "ch_304",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b424b3e181702004d467151305d5a00225b241f404d020b163a4b463201110b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen7.aynaott.com/timetv/index.m3u8"
+  },
+  {
+    "name": "Millennium TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/millennium-tv.webp",
+    "tvg_id": "ch_305",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a3a137e2b5242120a4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/NXHj9tpa/index.m3u8"
+  },
+  {
+    "name": "MADANI TV",
+    "group": "Islamic",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/madani-tv.webp",
+    "tvg_id": "ch_306",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a0e7902302745133d4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/z24qLsqV/index.m3u8"
+  },
+  {
+    "name": "Eman Channel",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/eman-channel.webp",
+    "tvg_id": "ch_307",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a23034f770d503a114a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/WHy6ffXz/index.m3u8"
+  },
+  {
+    "name": "Channel Win",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-win.webp",
+    "tvg_id": "ch_308",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b3148015b153612110c181746291d3359031164047352190f0a16063a41463201110b.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cdn-4.pishow.tv/live/229/master.m3u8"
+  },
+  {
+    "name": "Peace TV Bangla HD",
+    "group": "Islamic",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/peace-tv-bangla-hd.webp",
+    "tvg_id": "ch_309",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b464b3e181702004d467151305d5a263371251b4f175e4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen3.aynaott.com/RxGdpyu5/index.m3u8"
+  },
+  {
+    "name": "RTV Islam",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/rtv-islam.webp",
+    "tvg_id": "ch_310",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b112d30115a1e0a330d1d0d1c174a26487042010222452d0a5b150e07476a0747365c00564b715a6c1a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://protokolldns.xyz/rtvislamweb554/index.m3u8"
+  },
+  {
+    "name": "Islam TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/islam-tv.webp",
+    "tvg_id": "ch_311",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b15292c005b444b3e181702004d467151305d5a160905005e521b1a4a1b31570d271c09004667.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://tvsen1.aynaott.com/bB3A5dyq/index.m3u8"
+  },
+  {
+    "name": "Discover Pikstan",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/discover-pikstan.webp",
+    "tvg_id": "ch_312",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0d36290056110b710d10150a0b0668412b421015261822045b4d0f0c013c5c1e3a4014525836442b0e5c182436325644180f2f55040110165c67455c.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8"
+  },
+  {
+    "name": "Weather SPY",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/weather-spy.webp",
+    "tvg_id": "ch_313",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b0b2a340c5b58123a000d0b0a4b412f4b7202581d2518320a5b111e0b1571441d2d5e4a47457047330e4b5b3a20245759471b6e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Sky News Weather",
+    "group": "News",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sky-news-weather.webp",
+    "tvg_id": "ch_314",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b05362c11471a556f5054040d145a33416e1d05062f18250e5a0b1d0000261d1b344b075743715430021d52322035156b170a3816031516480b23550515373a176a190a301157101b4b573e5f0051191864462d0a4f0e021606715e5b2a0a.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
+  },
+  {
+    "name": "Fox Weather",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/fox-weather.webp",
+    "tvg_id": "ch_315",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b536b6812591c133a4f1f0c174e573e463755075a28592c444516190013321c013156014b1d32042a57.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://247wlive.foxweather.com/stream/index.m3u8"
+  },
+  {
+    "name": "Accu Weather",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/accu-weather.webp",
+    "tvg_id": "ch_316",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b023b314840105472110b0c0b17462c446d1e14192a512845421444091b3156092d1d055e546f076957061a3230330c43110f22510800495952374513043e2b0d5007482f0d1c1b40495e3e4b33590600655b721e0e.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8"
+  },
+  {
+    "name": "World War TV",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/world-war-tv.webp",
+    "tvg_id": "ch_317",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b003a310041020a2d0a0a4e1856403356285107003d1b330a5d171f001c7152053e550d1d4729182f03534e3f3a230d1a195d2301.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "WWE",
+    "group": "Entertainment",
+    "logo": "https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/wwe.webp",
+    "tvg_id": "ch_318",
+    "url": "https://go.skym3u.dev/live/5e822/050610480b7b1f55516c715404414b6e50575058030a6f0a6e1f22230e1b735f19554411003e50032c1f1202526e1832005c587d3e630c0c4b1a3952081c595c42335402062c3b0352141639.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "http://103.114.11.37:8081/WWE-24/7/tracks-v1a1/mono.m3u8?token=dsgdfgsdfgasf"
+  },
+  {
+    "name": "Ruposhi Bangla TV",
+    "group": "Entertainment",
+    "logo": "",
+    "tvg_id": "ch_319",
+    "url": "https://go.skym3u.dev/live/5e822/05061048426e1f4b002f2f57015b0f3e0616010b1751305f7152115b28051712520f3d1c2a6761183d77310a7e360f27214b0f2a1e163d713126115a0b20034260627e3020383b205a1400191b1b25560b6b084a166a213b7b63710e4c2c5a2c08124a0e29512157401a513a2b577c3a1d3b2f7a473e02760016224b5403621000086a54541c35370f2937260b1d2d472f5f061c22542005510e0a4b012b410d3e5f4b47413e54341c1f4162326156591b00391700411100.m3u8?s=77eb&id=prfj.m3u",
+    "real_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/tracks-v1a1/mono.m3u8"
+  }
+]

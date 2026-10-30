@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-10-30 11:56 AM (Local Time)
+# Last Updated: 2026-10-30 12:23 PM (Local Time)
 # Dedicated Sports Live Playlist
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="2TV Sport" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/2tv_sport.png",2TV Sport
@@ -64,6 +64,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="FIFA+" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png",FB | FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="FIFA+" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/fifa.webp",FIFA+
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="FIGHT NETWORK" tvg-name="FIGHT NETWORK" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/7607dd92-7305-4bab-886e-c38fe745fff7",FIGHT | FIGHT NETWOR
 https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
@@ -227,6 +230,18 @@ https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sony Sports2 HD" tvg-logo="https://i.imgur.com/ES4Aq69.png",Sony Sports2 HD
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/sonyten2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sony Ten Sports 1" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-ten-sports-1.webp",Sony Ten Sports 1
+http://103.135.253.32:8080/TEN-1/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sony Ten Sports 2" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-ten-sports-2.webp",Sony Ten Sports 2
+http://103.135.253.32:8080/TEN-2/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sony Ten Sports 3" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-ten-sports-3.webp",Sony Ten Sports 3
+http://103.135.253.32:8080/TEN-3/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sony Ten Sports 5" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/sony-ten-sports-5.webp",Sony Ten Sports 5
+http://103.135.253.32:8080/TEN-5/index.m3u8
+
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="speed sports 1" tvg-logo="https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e",speed sports 1
 https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
 
@@ -252,16 +267,16 @@ https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102508&u=ee5437a7-c
 https://sportsgrid-tribal.amagi.tv/playlistR432p.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="StarSports1.in" tvg-name="StarSports1.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/star_sports_1_hd.png",Star Sports 1 HD
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/sonyten5/tracks-v1a1/mono.m3u8
+http://103.135.253.32:8080/STAR-SPORTS-1-HD/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="StarSportsHindi.in" tvg-name="StarSportsHindi.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/star_sports_1_hindi_hd.png",Star Sports 1 Hindi HD
 https://starsportshindiii.pages.dev/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="StarSports2.in" tvg-name="StarSports2.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/star_sports_2_hd.png",Star Sports 2 HD
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8
+http://103.135.253.32:8080/STAR-SPORTS-2-HD/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 1" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/star_sports_select_1.png",Star Sports Select 1
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/starselect1/tracks-v1a1/mono.m3u8
+http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Star Sports Select 2" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/star_sports_select_2.png",Star Sports Select 2
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/starselect2/tracks-v1a1/mono.m3u8
@@ -273,7 +288,7 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 http://179.60.224.196:8000/play/a0i7/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="TSports.bd" tvg-name="TSports.bd" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/t_sports_hd.png",T Sports HD
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
+http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Tal Sport" tvg-logo="https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd",Tal Sport
 https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1784102522&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=a3506be66a1595e3d3572c6fc3547dc7
@@ -281,11 +296,17 @@ https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1784102522&u=ee5437a7-c16b-470
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Pickle TV" tvg-name="Pickle TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/63fba2fd-ea9b-485f-bc45-44b1eef221a5",TANNIS | Picle TV
 https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
 
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Ten Cricet" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ten-cricket.webp",Ten Cricet
+http://103.135.253.32:8080/TEN-CRECKET/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Ten Sports" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/ten-sports.webp",Ten Sports
+http://103.135.253.32:8080/Ten-Sports/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Tennis TV Classics" tvg-name="Tennis TV Classics" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ea15b263-636c-4536-9a75-bde70ab88423",TENNIS | Tennis TV Classics
 https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/tnt_sports_1.png",TNT Sports 1
-http://200.115.120.1:8000/play/ca040/index.m3u8
+https://tvsen5.aynaott.com/asdfadsf/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="TR Sport" tvg-logo="https://i.imgur.com/WpMA9kC.png",TR Sport
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
@@ -310,6 +331,9 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="TV Sport Plus" tvg-logo="https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488",TV Sport Plus
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="TYC Sports" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/tyc-sports.webp",TYC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Unbeaten.us@SD" tvg-name="Unbeaten.us@SD" tvg-logo="https://i.imgur.com/LmkNt3v.png",Unbeaten Sports Channel
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
