@@ -521,27 +521,27 @@ class ChannelNormalizer:
         gl = original_group.lower()
 
         if any(w in nl or w in gl for w in ["cricket", "football", "sports", "sport", "fifa", "ipl", "t sports"]):
-            return "⚽ Sports | Live & Cricket"
+            return "Sports | Live & Cricket"
         elif any(w in nl or w in gl for w in ["news", "khabar", "samachar", "somoy", "ekattor", "jamuna", "dbc"]):
             if any(w in nl or w in gl for w in ["india", "hindi", "aaj tak", "republic", "ndtv", "zee news"]):
-                return "🇮🇳 India | News"
-            return "🇧🇩 BD | News"
+                return "India | News"
+            return "BD | News"
         elif any(w in nl or w in gl for w in ["movie", "movies", "cinema", "film", "max", "pix"]):
-            return "🎬 Movies | Hindi & International"
+            return "Movies | Hindi & International"
         elif any(w in nl or w in gl for w in ["natok", "drama", "zee bangla", "star jalsha", "jalsha"]):
-            return "🇮🇳 India | Bengali (Kolkata)"
+            return "India | Bengali (Kolkata)"
         elif any(w in nl or w in gl for w in ["cartoon", "kids", "pogo", "nick", "duronto", "disney"]):
-            return "👶 Kids & Animation"
+            return "Kids & Animation"
         elif any(w in nl or w in gl for w in ["discovery", "animal planet", "nat geo", "history", "wild"]):
-            return "🌍 Documentary & Wildlife"
+            return "Documentary & Wildlife"
         elif any(w in nl or w in gl for w in ["islam", "quran", "sunnah", "makkah", "madinah", "peace tv", "religious"]):
-            return "🕌 Religious & Islamic"
+            return "Religious & Islamic"
         elif any(w in nl or w in gl for w in ["music", "gaan", "sangeet", "beats"]):
-            return "🎵 Music & Lifestyle"
+            return "Music & Lifestyle"
         elif any(w in nl or w in gl for w in ["bangla", "bd", "dhaka"]):
-            return "🇧🇩 BD | Entertainment"
+            return "BD | Entertainment"
         elif any(w in nl or w in gl for w in ["india", "hindi", "star", "zee", "colors", "sony"]):
-            return "🇮🇳 India | Entertainment & Hindi"
+            return "India | Entertainment & Hindi"
 
         return original_group or "General"
 
@@ -558,48 +558,48 @@ class ChannelNormalizer:
             if re.search(p, tl):
                 if "tnt" in tl:
                     break
-                return "1. BD Sports 🇧🇩"
+                return "1. BD Sports"
 
         # 3. BD News (Strictly verified BD news - placed right after BD Sports)
         for p in RE_BD_NEWS:
             if re.search(p, tl):
                 if any(re.search(e, tl) for e in RE_FOREIGN_NEWS_EXCLUDE):
                     continue
-                return "2. BD News & National 🇧🇩"
+                return "2. BD News & National"
 
         # 4. BD Entertainment & Drama (Strictly verified BD entertainment)
         for p in RE_BD_ENT:
             if re.search(p, tl):
                 if any(re.search(e, tl) for e in RE_FOREIGN_ENT_EXCLUDE):
                     continue
-                return "3. BD Entertainment & Drama 🇧🇩"
+                return "3. BD Entertainment & Drama"
 
         # 5. Kolkata & Indian Entertainment & Movies
         for p in RE_KOLKATA_AND_INDIAN_ENT:
             if re.search(p, tl):
-                return "4. Indian & Kolkata Entertainment & Movies 🎬"
+                return "4. Indian & Kolkata Entertainment & Movies"
 
         # 6. All Sports (Cricket, Football, Global Sports)
         for p in RE_ALL_SPORTS:
             if re.search(p, tl):
-                return "5. All Sports (Cricket, Football & HD) ⚽"
+                return "5. All Sports (Cricket, Football & HD)"
 
         # 7. Documentary & Wildlife
         for p in RE_DOCS:
             if re.search(p, tl):
-                return "6. Documentary & Wildlife 🌍"
+                return "6. Documentary & Wildlife"
 
         # 8. Music & Kids (Cartoons & Songs)
         for p in RE_KIDS_AND_MUSIC:
             if re.search(p, tl):
                 if "hmtv" in tl:
                     continue
-                return "7. Music & Kids (Cartoons & Songs) 🎵"
+                return "7. Music & Kids (Cartoons & Songs)"
 
         # 9. Islamic & Devotional
         for p in RE_ISLAMIC:
             if re.search(p, tl):
-                return "8. Islamic & Devotional 🕌"
+                return "8. Islamic & Devotional"
 
         return None
 
@@ -656,14 +656,14 @@ class ChannelNormalizer:
     def group_and_rank_curated(self, active_streams: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         """
         Builds the VIP Curated Channel list strictly following the user's categories:
-        1. BD Sports 🇧🇩
-        2. BD News & National 🇧🇩
-        3. BD Entertainment & Drama 🇧🇩
-        4. Indian & Kolkata Entertainment & Movies 🎬
-        5. All Sports (Cricket, Football & HD) ⚽
-        6. Documentary & Wildlife 🌍
-        7. Music & Kids (Cartoons & Songs) 🎵
-        8. Islamic & Devotional 🕌
+        1. BD Sports
+        2. BD News & National
+        3. BD Entertainment & Drama
+        4. Indian & Kolkata Entertainment & Movies
+        5. All Sports (Cricket, Football & HD)
+        6. Documentary & Wildlife
+        7. Music & Kids (Cartoons & Songs)
+        8. Islamic & Devotional
         """
         curated_buckets: Dict[str, Dict[str, Any]] = {}
 
