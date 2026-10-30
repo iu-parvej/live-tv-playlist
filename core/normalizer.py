@@ -5,6 +5,7 @@ deduplicates identical channels, and orders streams by response latency (lowest 
 Includes strict curated VIP filter for Bangladeshi, Indian Entertainment, All Sports, Docs, Music & Kids.
 """
 
+import os
 import re
 import json
 import logging
@@ -20,6 +21,8 @@ CLEAN_PATTERNS = [
     r'^\s*cr\s*\|\s*', r'^\s*mov\s*\|\s*', r'^\s*mu\s*\|\s*', r'^\s*mixer\s*\|\s*',
     r'^\s*bhoj\s*\|\s*', r'^\s*in\s*\|\s*', r'^\s*en\s*\|\s*',
     r'^\s*--?live\(?', r'\)?---?$',
+    r'^\s*\d+[\.\-_:]\s*',
+    r'\s*\[geo-bloc?k?e?d?\]',
     r'\s*\((?:server\s*\d+\s*[-:]\s*)?\d+ms.*?\)',
     r'\s*\((?:1080p|720p|576p|480p|hd|fhd|4k|sd|ads only)\)',
     r'\s*\[(?:1080p|720p|576p|480p|hd|fhd|4k|sd)\]',
@@ -117,15 +120,25 @@ RE_ISLAMIC = [
 ]
 
 class ChannelNormalizer:
-    def __init__(self, mapping_path: str = "config/channel_mapping.json", logo_db_path: str = "config/logo_database.json"):
+    def __init__(self, mapping_path: str = "config/channel_mapping.json", logo_db_path: str = "config/logo_database.json", logos_dir: str = "logos"):
         self.mapping_path = mapping_path
         self.logo_db_path = logo_db_path
+        self.logos_dir = logos_dir
         self.canonical_channels = []
         self.categories = []
         self.logo_exact = {}
         self.logo_patterns = []
+        self.local_logos = set()
+        self.load_local_logos()
         self.load_mapping()
         self.load_logo_db()
+
+    def load_local_logos(self):
+        try:
+            if os.path.isdir(self.logos_dir):
+                self.local_logos = set(os.listdir(self.logos_dir))
+        except Exception as e:
+            logger.warning(f"Could not load local logos: {e}")
 
     def load_mapping(self):
         try:
@@ -146,47 +159,324 @@ class ChannelNormalizer:
             logger.warning(f"Could not load logo database: {e}")
 
     def resolve_logo(self, name: str, current_logo: str) -> str:
-        # If current logo is valid and not a placeholder, keep it
-        is_placeholder = (
+        # 1. First priority: Local verified GitHub raw logo (100% reliable, no 429/404)
+        slug = re.sub(r'[^a-z0-9]+', '_', name.lower()).strip('_')
+        if f"{slug}.png" in self.local_logos:
+            return f"https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/{slug}.png"
+        if f"{slug}.jpg" in self.local_logos:
+            return f"https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/{slug}.jpg"
+
+        # 2. Check if current_logo is valid (reject placeholders, svg, and rate-limiting wikimedia)
+        is_invalid = (
             not current_logo or
             current_logo == "https://i.imgur.com/WpMA9kC.png" or
             "placeholder" in current_logo.lower() or
-            current_logo.endswith(".m3u8")
+            current_logo.endswith(".m3u8") or
+            current_logo.endswith(".svg") or
+            "upload.wikimedia.org" in current_logo.lower()
         )
-        if not is_placeholder:
+        if not is_invalid:
             return current_logo
 
-        # Check exact matches in logo db
+        # 3. Check exact matches in logo db
         for k, url in self.logo_exact.items():
-            if k.lower() == name.lower():
+            if k.lower() == name.lower() and not url.endswith('.svg') and "upload.wikimedia.org" not in url:
                 return url
 
-        # Check keyword patterns
+        # 4. Check keyword patterns
         nl = name.lower()
         for pat in self.logo_patterns:
             if pat["keyword"].lower() in nl:
-                return pat["logo"]
+                url = pat["logo"]
+                if not url.endswith('.svg') and "upload.wikimedia.org" not in url:
+                    return url
 
-        return current_logo or "https://i.imgur.com/WpMA9kC.png"
+        return current_logo or "https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/gazi_tv_hd.png"
 
     def clean_name(self, raw_name: str) -> str:
         name = raw_name
         for p in CLEAN_PATTERNS:
             name = re.sub(p, "", name, flags=re.IGNORECASE)
-        # Fix specific typos
-        if re.search(r'\bmaah\s*live\b', name, re.I):
-            name = "Makkah Live HD"
-        if re.search(r'\b157\.?\s*bein\b', name, re.I):
-            name = "beIN Sports Xtra HD"
-        if re.search(r'\b0\.\s*sonic\b', name, re.I):
-            name = "Sonic The Hedgehog"
-        if re.search(r'\b0\.\s*disney\s*jr\b', name, re.I):
-            name = "Disney Junior"
-        if re.search(r'\b0\.\s*disney\s*channel\b', name, re.I):
-            name = "Disney Channel"
-        if re.search(r'\b86\.?\s*sony\s*yay\b', name, re.I):
-            name = "Sony YAY HD"
-        return re.sub(r"\s+", " ", name).strip()
+
+        name = re.sub(r"\s+", " ", name).strip()
+        nl = name.lower()
+
+        # Strict Canonical Name Unification for Curated TV Experience
+        # 1. BD Sports & News
+        if re.search(r'\b(?:gazi\s*tv|gtv)\b', nl) and not re.search(r'garden|cgtv', nl):
+            return "Gazi TV HD"
+        if re.search(r'\bt[\s\-_]?sports\b', nl):
+            return "T Sports HD"
+        if re.search(r'\bsomoy\b', nl):
+            return "Somoy TV HD"
+        if re.search(r'\bjamuna\b', nl):
+            return "Jamuna TV HD"
+        if re.search(r'\b(?:ekattor|71\s*tv)\b', nl):
+            return "Ekattor TV HD"
+        if re.search(r'\bdbc\s*news\b', nl):
+            return "DBC News HD"
+        if re.search(r'\bchannel\s*24\b', nl):
+            return "Channel 24 HD"
+        if re.search(r'\bindependent\s*tv\b', nl):
+            return "Independent TV HD"
+        if re.search(r'\bnews\s*24\b', nl):
+            return "News 24 HD"
+        if re.search(r'\batn\s*news\b', nl):
+            return "ATN News HD"
+        if re.search(r'\bbtv\s*(?:chattogram|chittagong|ctg)\b', nl):
+            return "BTV Chittagong HD"
+        if re.search(r'\bbtv\s*world\b', nl):
+            return "BTV World HD"
+        if re.search(r'\bbtv\b', nl) and "world" not in nl:
+            return "BTV National HD"
+
+        # 2. BD Entertainment
+        if re.search(r'\bchannel\s*i\b', nl):
+            return "Channel i HD"
+        if re.search(r'\bntv\b', nl) and "telugu" not in nl:
+            return "NTV HD"
+        if re.search(r'\brtv\b', nl):
+            return "Rtv HD"
+        if re.search(r'\bbanglavision\b', nl):
+            return "Banglavision HD"
+        if re.search(r'\bmaasranga\b', nl):
+            return "Maasranga TV HD"
+        if re.search(r'\bdeepto\b', nl):
+            return "Deepto TV HD"
+        if re.search(r'\batn\s*bangla\b', nl):
+            return "ATN Bangla HD"
+        if re.search(r'\bnagorik\b', nl):
+            return "Nagorik TV HD"
+        if re.search(r'\bchannel\s*9\b', nl):
+            return "Channel 9 HD"
+        if re.search(r'\bboishakhi\b', nl):
+            return "Boishakhi TV HD"
+        if re.search(r'\bdesh\s*tv\b', nl):
+            return "Desh TV HD"
+        if re.search(r'\bbijoy\s*tv\b', nl):
+            return "Bijoy TV HD"
+        if re.search(r'\bbangla\s*tv\b', nl):
+            return "Bangla TV HD"
+        if re.search(r'\bananda\s*tv\b', nl):
+            return "Ananda TV HD"
+        if re.search(r'\basian\s*tv\b', nl):
+            return "Asian TV"
+        if re.search(r'\bmy\s*tv\b', nl):
+            return "MY TV HD"
+        if re.search(r'\bmohona\b', nl):
+            return "Mohona TV"
+        if re.search(r'\bsa\s*tv\b', nl):
+            return "SA TV"
+        if re.search(r'\bsananda\b', nl):
+            return "Sananda TV"
+        if re.search(r'\bmovie\s*bangla\b', nl):
+            return "Movie Bangla TV"
+
+        # 3. Kolkata & Indian Entertainment & Movies
+        if re.search(r'\bzee\s*bangla\s*sonar\b', nl):
+            return "Zee Bangla Sonar"
+        if re.search(r'\bzee\s*bangla\b', nl):
+            return "Zee Bangla HD"
+        if re.search(r'\bstar\s*jalsha\b', nl):
+            return "Star Jalsha HD"
+        if re.search(r'\bjalsha\s*movies\b', nl):
+            return "Jalsha Movies HD"
+        if re.search(r'\bcolors\s*bangla\s*cinema\b', nl):
+            return "Colors Bangla Cinema HD"
+        if re.search(r'\bcolors\s*bangla\b', nl):
+            return "Colors Bangla HD"
+        if re.search(r'\bsony\s*aath\b', nl):
+            return "Sony Aath"
+        if re.search(r'\baakash\s*aath\b', nl):
+            return "Aakash Aath"
+        if re.search(r'\bruposhi\s*bangla\b', nl):
+            return "Ruposhi Bangla"
+        if re.search(r'\bsangeet\s*bangla\b', nl):
+            return "Sangeet Bangla"
+        if re.search(r'\bdhoom\s*music\b', nl):
+            return "Dhoom Music"
+        if re.search(r'\bzee\s*tv\b', nl):
+            return "Zee TV HD"
+        if re.search(r'\bcolors\b', nl) and "cineplex" not in nl and "bangla" not in nl:
+            return "Colors HD"
+        if re.search(r'\b(?:sony\s*entertainment|set\s*india)\b', nl):
+            return "Sony Entertainment Television HD"
+        if re.search(r'\b(?:sony\s*sab|sab\s*tv)\b', nl):
+            return "Sony SAB HD"
+        if re.search(r'\bstar\s*plus\b', nl):
+            return "Star Plus HD"
+        if re.search(r'\bstar\s*bharat\b', nl):
+            return "Star Bharat HD"
+        if re.search(r'\b&tv\b', nl):
+            return "&TV HD"
+        if re.search(r'\bdangal\s*2\b', nl):
+            return "Dangal 2"
+        if re.search(r'\bdangal\b', nl):
+            return "Dangal TV"
+        if re.search(r'\bshemaroo\s*tv\b', nl):
+            return "Shemaroo TV"
+        if re.search(r'\bshemaroo\s*josh\b', nl):
+            return "Shemaroo Josh"
+        if re.search(r'\bshemaroo\s*umang\b', nl):
+            return "Shemaroo Umang"
+        if re.search(r'\bshemaroo\s*marathi\b', nl):
+            return "Shemaroo Marathi Bana"
+        if re.search(r'\bbig\s*magic\b', nl):
+            return "Big Magic"
+        if re.search(r'\bzee\s*cinema\b', nl):
+            return "Zee Cinema HD"
+        if re.search(r'\bsony\s*max\s*2\b', nl):
+            return "Sony MAX 2 HD"
+        if re.search(r'\bsony\s*max\b', nl):
+            return "Sony MAX HD"
+        if re.search(r'\bstar\s*gold\s*romance\b', nl):
+            return "Star Gold Romance"
+        if re.search(r'\bstar\s*gold\s*2\b', nl):
+            return "Star Gold 2 HD"
+        if re.search(r'\bstar\s*gold\b', nl):
+            return "Star Gold HD"
+        if re.search(r'\bcolors\s*cineplex\s*superhits\b', nl):
+            return "Colors Cineplex Superhits"
+        if re.search(r'\bcolors\s*cineplex\b', nl):
+            return "Colors Cineplex HD"
+        if re.search(r'\bsony\s*pix\b', nl):
+            return "Sony PIX HD"
+        if re.search(r'\b&pictures\b', nl):
+            return "&pictures HD"
+        if re.search(r'\bgoldmines\s*bollywood\b', nl):
+            return "Goldmines Bollywood"
+        if re.search(r'\bgoldmines\s*action\b', nl):
+            return "Goldmines Action"
+        if re.search(r'\bgoldmines\s*movies\b', nl):
+            return "Goldmines Movies"
+        if re.search(r'\bgoldmines\b', nl):
+            return "Goldmines"
+        if re.search(r'\bb4u\s*movies\b', nl):
+            return "B4U Movies"
+        if re.search(r'\bbhojpuri\s*cinema\b', nl):
+            return "Bhojpuri Cinema"
+        if re.search(r'\bfilamchi\b', nl):
+            return "Filamchi Bhojpuri"
+        if re.search(r'\bmanoranjan\s*grand\b', nl):
+            return "Manoranjan Grand"
+        if re.search(r'\bmanoranjan\s*movies\b', nl):
+            return "Manoranjan Movies"
+        if re.search(r'\bmanoranjan\b', nl):
+            return "Manoranjan TV"
+
+        # 4. Sports
+        if re.search(r'\bstar\s*sports\s*1\s*hindi\b', nl):
+            return "Star Sports 1 Hindi HD"
+        if re.search(r'\bstar\s*sports\s*1\b', nl) and "select" not in nl:
+            return "Star Sports 1 HD"
+        if re.search(r'\bstar\s*sports\s*2\b', nl) and "select" not in nl:
+            return "Star Sports 2 HD"
+        if re.search(r'\bstar\s*sports\s*select\s*1\b', nl):
+            return "Star Sports Select 1"
+        if re.search(r'\bstar\s*sports\s*select\s*2\b', nl):
+            return "Star Sports Select 2"
+        if re.search(r'\b(?:sony\s*sports\s*ten\s*1|sony\s*ten\s*1|ten\s*1)\b', nl):
+            return "Sony Sports Ten 1 HD"
+        if re.search(r'\b(?:sony\s*sports\s*ten\s*2|sony\s*ten\s*2|ten\s*2)\b', nl):
+            return "Sony Sports Ten 2 HD"
+        if re.search(r'\b(?:sony\s*sports\s*ten\s*3|sony\s*ten\s*3|ten\s*3)\b', nl):
+            return "Sony Sports Ten 3 HD"
+        if re.search(r'\b(?:sony\s*sports\s*ten\s*5|sony\s*ten\s*5|ten\s*5|sony\s*six)\b', nl):
+            return "Sony Sports Ten 5 HD"
+        if re.search(r'\bwillow\b', nl):
+            return "Willow TV HD"
+        if re.search(r'\ba\s*sports\b', nl):
+            return "A Sports HD"
+        if re.search(r'\bptv\s*sports\b', nl):
+            return "PTV Sports HD"
+        if re.search(r'\bbein\s*sports?\s*xtra\b', nl) or "157" in nl:
+            return "beIN Sports Xtra HD"
+        if re.search(r'\bbein\s*sports?\b', nl):
+            return "beIN Sports HD"
+        if re.search(r'\bdd\s*sports\b', nl):
+            return "DD Sports"
+        if re.search(r'\bdsports\b', nl) or "1sports" in nl:
+            return "DSPORTS 1"
+        if re.search(r'\bsky\s*sports\s*main\b', nl):
+            return "Sky Sports Main Event"
+        if re.search(r'\bsky\s*sports\s*cricket\b', nl):
+            return "Sky Sports Cricket"
+        if re.search(r'\bsky\s*sports\s*premier\b', nl):
+            return "Sky Sports Premier League"
+        if re.search(r'\btnt\s*sports\b', nl):
+            return "TNT Sports 1"
+        if re.search(r'\beurosport\b', nl):
+            return "Eurosport"
+
+        # 5. Docs & Wildlife
+        if re.search(r'\bdiscovery\s*channel\b', nl) or (re.search(r'\bdiscovery\b', nl) and not any(w in nl for w in ["kids", "ids", "science", "turbo", "family"])):
+            return "Discovery Channel HD"
+        if re.search(r'\bdiscovery\s*(?:ids|kids)\b', nl):
+            return "Discovery Kids Hindi"
+        if re.search(r'\bdiscovery\s*science\b', nl):
+            return "Discovery Science HD"
+        if re.search(r'\bdiscovery\s*turbo\b', nl):
+            return "Discovery Turbo"
+        if re.search(r'\banimal\s*planet\b', nl):
+            return "Animal Planet HD"
+        if re.search(r'\bnational\s*geographic\b|\bnat\s*geo\b', nl) and "wild" not in nl:
+            return "National Geographic HD"
+        if re.search(r'\bnat\s*geo\s*wild\b', nl):
+            return "Nat Geo Wild HD"
+        if re.search(r'\bhistory\s*tv18\b', nl):
+            return "History TV18 HD"
+        if re.search(r'\btlc\b', nl):
+            return "TLC HD"
+        if re.search(r'\bsony\s*bbc\s*earth\b', nl):
+            return "Sony BBC Earth HD"
+        if re.search(r'\binvestigation\s*discovery\b', nl):
+            return "Investigation Discovery HD"
+        if re.search(r'\binwild\b', nl):
+            return "InWild HD"
+
+        # 6. Kids & Music
+        if re.search(r'\bduronto\b', nl):
+            return "Duronto TV HD"
+        if re.search(r'\bcartoon\s*network\b', nl):
+            return "Cartoon Network HD"
+        if re.search(r'\bnickelodeon\b|\bnick\b', nl) and "sonic" not in nl:
+            return "Nickelodeon HD"
+        if re.search(r'\bsony\s*yay\b', nl):
+            return "Sony YAY HD"
+        if re.search(r'\bdisney\s*(?:jr|junior)\b', nl):
+            return "Disney Junior"
+        if re.search(r'\bdisney\s*channel\b|\bdisney\b', nl):
+            return "Disney Channel HD"
+        if re.search(r'\bsonic\b', nl):
+            return "Sonic The Hedgehog"
+        if re.search(r'\btrace\s*urban\b', nl):
+            return "Trace Urban"
+        if re.search(r'\b9xm\b', nl):
+            return "9XM"
+        if re.search(r'\bmtv\b', nl) and "club" not in nl:
+            return "MTV India HD"
+        if re.search(r'\bmastiii\b', nl):
+            return "Mastiii"
+        if re.search(r'\bb4u\s*music\b', nl):
+            return "B4U Music"
+        if re.search(r'\bgaan\s*bangla\b', nl):
+            return "Gaan Bangla HD"
+
+        # 7. Islamic
+        if re.search(r'\b(?:makkah|maah)\s*live\b', nl):
+            return "Makkah Live HD"
+        if re.search(r'\bmadinah\s*live\b', nl):
+            return "Madinah Live HD"
+        if re.search(r'\bpeace\s*tv\s*bangla\b', nl):
+            return "Peace TV Bangla"
+        if re.search(r'\bpeace\s*tv\s*english\b', nl):
+            return "Peace TV English"
+        if re.search(r'\bpeace\s*tv\s*urdu\b', nl):
+            return "Peace TV Urdu"
+        if re.search(r'\b(?:al\s*quran|bahrain\s*quran|quran\s*radiotv|quran)\b', nl) and "radio" not in nl:
+            return "Al Quran TV"
+
+        return name
 
     def find_canonical(self, cleaned_name: str) -> Optional[Dict[str, Any]]:
         norm_input = re.sub(r"[^a-zA-Z0-9\u0980-\u09FF]", "", cleaned_name.lower())

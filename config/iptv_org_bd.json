@@ -1,0 +1,1383 @@
+[
+  {
+    "id": "ABTV.bd",
+    "name": "AB TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "AlDawahTV.bd",
+    "name": "Al Dawah TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "religious"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "AnandaTV.bd",
+    "name": "Ananda TV",
+    "alt_names": [
+      "আনন্দ টিভি"
+    ],
+    "network": null,
+    "owners": [
+      "ATV Limited"
+    ],
+    "country": "BD",
+    "categories": [
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": "2018-03-11",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://anandatv.tv/"
+  },
+  {
+    "id": "AsianTV.bd",
+    "name": "Asian TV",
+    "alt_names": [
+      "এশিয়ান টিভি"
+    ],
+    "network": null,
+    "owners": [
+      "Asian Group of Industries"
+    ],
+    "country": "BD",
+    "categories": [
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": "2013-01-18",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.asiantv.com.bd/"
+  },
+  {
+    "id": "ATNBangla.bd",
+    "name": "ATN Bangla",
+    "alt_names": [
+      "এটিএন বাংলা"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "1997-07-16",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://atnbangla.tv/"
+  },
+  {
+    "id": "ATNIslamicTV.bd",
+    "name": "ATN Islamic TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "religious"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "ATNMusic.bd",
+    "name": "ATN Music",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Multimedia Production Company"
+    ],
+    "country": "BD",
+    "categories": [
+      "music"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://atnmusic.tv/"
+  },
+  {
+    "id": "ATNNews.bd",
+    "name": "ATN News",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Multimedia Production Company"
+    ],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": "2010-06-07",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.atnnewstv.com/"
+  },
+  {
+    "id": "B24C.bd",
+    "name": "B24C",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "Bangla21TV.bd",
+    "name": "Bangla21 TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://bangla21.tv/"
+  },
+  {
+    "id": "BanglaTV.bd",
+    "name": "Bangla TV",
+    "alt_names": [
+      "যোগাযোগ"
+    ],
+    "network": null,
+    "owners": [
+      "Feroze Khan"
+    ],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "2017-05-19",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://banglatv.tv/"
+  },
+  {
+    "id": "BanglaTVEurope.bd",
+    "name": "Bangla TV Europe",
+    "alt_names": [
+      "বাংলা টিভি"
+    ],
+    "network": null,
+    "owners": [
+      "Feroze Khan"
+    ],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://banglatv.tv/"
+  },
+  {
+    "id": "BanglaVision.bd",
+    "name": "Bangla Vision",
+    "alt_names": [
+      "যোগাযোগ"
+    ],
+    "network": null,
+    "owners": [
+      "Bangla TV"
+    ],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.bvnews24.com/"
+  },
+  {
+    "id": "BayannoTV.bd",
+    "name": "Bayanno TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://bayanno.com/"
+  },
+  {
+    "id": "BijoyTV.bd",
+    "name": "Bijoy TV",
+    "alt_names": [
+      "বিজয় টিভি"
+    ],
+    "network": "COAB",
+    "owners": [
+      "Bijoy TV Limited"
+    ],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": "2011-12-16",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://bijoy.tv/"
+  },
+  {
+    "id": "BoishakhiTV.bd",
+    "name": "Boishakhi TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://boishakhionline.com/"
+  },
+  {
+    "id": "BoishakhiTVPlus.bd",
+    "name": "Boishakhi TV Plus",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "BTVChattogram.bd",
+    "name": "BTV Chattogram",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://btv.portal.gov.bd/"
+  },
+  {
+    "id": "BTVChittagong.bd",
+    "name": "BTV Chittagong",
+    "alt_names": [
+      "বাংলাদেশ টেলিভিশন চট্টগ্রাম কেন্দ্র"
+    ],
+    "network": null,
+    "owners": [
+      "Government of Bangladesh"
+    ],
+    "country": "BD",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": "1996-12-19",
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "BTVNational.bd",
+    "name": "BTV National",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://btv.portal.gov.bd/"
+  },
+  {
+    "id": "BTVNews.bd",
+    "name": "BTV News",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Government of the People's Republic of Bangladesh"
+    ],
+    "country": "BD",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://btv.portal.gov.bd/"
+  },
+  {
+    "id": "BTVWorld.bd",
+    "name": "BTV World",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://btv.portal.gov.bd/site/page/b4019b08-33a6-4d3a-859a-53c77f522942/-"
+  },
+  {
+    "id": "Channel1News.bd",
+    "name": "Channel 1 News",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "Channel24.bd",
+    "name": "Channel 24",
+    "alt_names": [
+      "চ্যানেল 24"
+    ],
+    "network": null,
+    "owners": [
+      "Times Media"
+    ],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.channel24bd.tv/"
+  },
+  {
+    "id": "Channel9.bd",
+    "name": "Channel 9",
+    "alt_names": [
+      "চ্যানেল নাইন"
+    ],
+    "network": null,
+    "owners": [
+      "Virgo Media Limited"
+    ],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "2012-01-30",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.channelninebd.tv/"
+  },
+  {
+    "id": "ChannelA1.bd",
+    "name": "Channel A1",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://channela1.com/"
+  },
+  {
+    "id": "ChannelI.bd",
+    "name": "Channel I",
+    "alt_names": [
+      "চ্যানেল আই"
+    ],
+    "network": null,
+    "owners": [
+      "Impress Group"
+    ],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "1995-10-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.channelionline.com/"
+  },
+  {
+    "id": "ChannelS.bd",
+    "name": "Channel S",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Chs.Tv Limited"
+    ],
+    "country": "BD",
+    "categories": [
+      "culture"
+    ],
+    "is_nsfw": false,
+    "launched": "2004-12-16",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.channels.com.bd/"
+  },
+  {
+    "id": "ChannelT1.bd",
+    "name": "Channel T1",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "CNNBanglaTV.bd",
+    "name": "CNN Bangla TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": "2021-01-05",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://cnnbangla.com.bd/"
+  },
+  {
+    "id": "DBCNews.bd",
+    "name": "DBC News",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Dhaka Bangla Media & Communication Ltd."
+    ],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-09-21",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://dbcnews.tv/"
+  },
+  {
+    "id": "DeeptoTV.bd",
+    "name": "Deepto TV",
+    "alt_names": [
+      "দীপ্ত টিভি"
+    ],
+    "network": null,
+    "owners": [
+      "Kazi Media Limited"
+    ],
+    "country": "BD",
+    "categories": [
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": "2015-11-18",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.deepto.tv/"
+  },
+  {
+    "id": "DeshTV.bd",
+    "name": "Desh TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Karnaphuli Group"
+    ],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": "2009-03-26",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.desh.tv/"
+  },
+  {
+    "id": "DurontoTV.bd",
+    "name": "Duronto TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Barind Media Limited"
+    ],
+    "country": "BD",
+    "categories": [
+      "kids"
+    ],
+    "is_nsfw": false,
+    "launched": "2017-10-05",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.duronto.tv/"
+  },
+  {
+    "id": "EkattorTV.bd",
+    "name": "Ekattor TV",
+    "alt_names": [
+      "একাত্তর"
+    ],
+    "network": null,
+    "owners": [
+      "Meghna Group of Industries"
+    ],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": "2012-06-21",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://ekattor.tv/"
+  },
+  {
+    "id": "EkhonTV.bd",
+    "name": "Ekhon TV",
+    "alt_names": [
+      "এখন"
+    ],
+    "network": null,
+    "owners": [
+      "City Group"
+    ],
+    "country": "BD",
+    "categories": [
+      "business"
+    ],
+    "is_nsfw": false,
+    "launched": "2022-06-09",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.ekhon.tv/"
+  },
+  {
+    "id": "EkusheyTV.bd",
+    "name": "Ekushey TV",
+    "alt_names": [
+      "একুশে টেলিভিশন"
+    ],
+    "network": null,
+    "owners": [
+      "S. Alam Group of Industries"
+    ],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": "2000-04-14",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.ekushey-tv.com/"
+  },
+  {
+    "id": "ETenTV.bd",
+    "name": "E Ten TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://etentvbd.com/"
+  },
+  {
+    "id": "FalguniTV.bd",
+    "name": "Falguni TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "GaanBangla.bd",
+    "name": "Gaan Bangla",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "One More Zero Group"
+    ],
+    "country": "BD",
+    "categories": [
+      "music"
+    ],
+    "is_nsfw": false,
+    "launched": "2013-12-16",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.gaanbangla.tv/"
+  },
+  {
+    "id": "GaziTV.bd",
+    "name": "Gazi TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Gazi Group"
+    ],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "2012-06-12",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://gazitv.com/"
+  },
+  {
+    "id": "GlobalTelevision.bd",
+    "name": "Global Television",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Globe Multimedia Limited"
+    ],
+    "country": "BD",
+    "categories": [
+      "entertainment",
+      "music"
+    ],
+    "is_nsfw": false,
+    "launched": "2022-06-30",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.globaltvbd.com/"
+  },
+  {
+    "id": "GreenTV.bd",
+    "name": "Green TV",
+    "alt_names": [
+      "গ্রিন টিভি"
+    ],
+    "network": null,
+    "owners": [
+      "Green Multimedia Ltd"
+    ],
+    "country": "BD",
+    "categories": [
+      "family"
+    ],
+    "is_nsfw": false,
+    "launched": "2023-05-19",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://greentelevision.tv/"
+  },
+  {
+    "id": "HerNetTV.bd",
+    "name": "HerNet TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "lifestyle"
+    ],
+    "is_nsfw": false,
+    "launched": "2019-07-22",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://hernet.tv/"
+  },
+  {
+    "id": "IndependentTV.bd",
+    "name": "Independent TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Independent Television Studio"
+    ],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://independent24.com/"
+  },
+  {
+    "id": "JagoNews24.bd",
+    "name": "Jago News 24",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.jagonews24.com/"
+  },
+  {
+    "id": "JagoroniTV.bd",
+    "name": "Jagoroni TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://jagoroni.tv/"
+  },
+  {
+    "id": "JamunaTV.bd",
+    "name": "Jamuna TV",
+    "alt_names": [
+      "যমুনা টেলিভিশন"
+    ],
+    "network": null,
+    "owners": [
+      "Jamuna Group"
+    ],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": "2014-04-05",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.jamuna.tv/"
+  },
+  {
+    "id": "MaasrangaTV.bd",
+    "name": "Maasranga TV",
+    "alt_names": [
+      "মাছরাঙা টেলিভিশন"
+    ],
+    "network": null,
+    "owners": [
+      "Square Group"
+    ],
+    "country": "BD",
+    "categories": [
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": "2011-07-30",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://maasranga.tv/"
+  },
+  {
+    "id": "MadaniChannelBangla.bd",
+    "name": "Madani Channel Bangla",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Dawat-e-Islami"
+    ],
+    "country": "BD",
+    "categories": [
+      "religious"
+    ],
+    "is_nsfw": false,
+    "launched": "2009-01-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://madanichannelbangla.tv/"
+  },
+  {
+    "id": "MakkahLive.bd",
+    "name": "Makkah Live",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "religious"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.jagobd.com/makkahlive"
+  },
+  {
+    "id": "MatribhumiTV.bd",
+    "name": "Matribhumi TV",
+    "alt_names": [
+      "মাতৃভূমি টিভি"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "MCTV.bd",
+    "name": "MC TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://mctvbd.com/"
+  },
+  {
+    "id": "MedinaLive.bd",
+    "name": "Medina Live",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "religious"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.jagobd.com/medinalive"
+  },
+  {
+    "id": "MohonaTV.bd",
+    "name": "Mohona TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Mohona Television Limited"
+    ],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "2010-11-11",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.mohona.tv/"
+  },
+  {
+    "id": "MovieBangla.bd",
+    "name": "Movie Bangla",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "movies"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://moviebangla.tv/"
+  },
+  {
+    "id": "MyTV.bd",
+    "name": "My TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "VM International Limited"
+    ],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "2010-04-15",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://mytvbd.tv/"
+  },
+  {
+    "id": "NagorikTV.bd",
+    "name": "Nagorik TV",
+    "alt_names": [
+      "নাগরিক"
+    ],
+    "network": null,
+    "owners": [
+      "Jadoo Media Limited"
+    ],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "2018-03-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://nagorik.com/"
+  },
+  {
+    "id": "NANTV.bd",
+    "name": "NAN TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "News21BanglaTV.bd",
+    "name": "News 21 Bangla TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": "2017-01-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://news21bangla.tv/"
+  },
+  {
+    "id": "News24.bd",
+    "name": "News 24",
+    "alt_names": [
+      "নিউজ টোয়েন্টিফোর"
+    ],
+    "network": null,
+    "owners": [
+      "East West Media Group"
+    ],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.news24bd.tv/"
+  },
+  {
+    "id": "NexusTV.bd",
+    "name": "Nexus TV",
+    "alt_names": [
+      "নেক্সাস টেলিভিশন"
+    ],
+    "network": null,
+    "owners": [
+      "S. Alam Group of Industries"
+    ],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "2021-07-30",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.nexusbd.tv/"
+  },
+  {
+    "id": "NokshiTV.bd",
+    "name": "Nokshi TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": "2015-08-24",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://nokshitv.com/"
+  },
+  {
+    "id": "NTV.bd",
+    "name": "NTV",
+    "alt_names": [
+      "এনটিভি"
+    ],
+    "network": null,
+    "owners": [
+      "International Television Channel Ltd"
+    ],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "2003-07-02",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.ntvbd.com/"
+  },
+  {
+    "id": "NTVEurope.bd",
+    "name": "NTV Europe",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "International Television Channel Ltd"
+    ],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "2006-08-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://europentv.ntvbd.com/"
+  },
+  {
+    "id": "PanvisionTV.bd",
+    "name": "Panvision TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "religious"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://main.panvision.tv/"
+  },
+  {
+    "id": "QTVBangla.bd",
+    "name": "QTV Bangla",
+    "alt_names": [
+      "Quality Television"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "RajdhaniTV.bd",
+    "name": "Rajdhani TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://rajdhani.tv/"
+  },
+  {
+    "id": "RTV.bd",
+    "name": "RTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.rtvonline.com/"
+  },
+  {
+    "id": "RTVMusic.bd",
+    "name": "RTV Music",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "music"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "RupashiBanglaTV.bd",
+    "name": "Rupashi Bangla TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://rupashibangla.tv/"
+  },
+  {
+    "id": "SangsadTV.bd",
+    "name": "Sangsad TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "legislative"
+    ],
+    "is_nsfw": false,
+    "launched": "2011-01-25",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.parliament.gov.bd/index.php/en/medias/video-gallery/41-media-category/89-parliament-tv"
+  },
+  {
+    "id": "SATV.bd",
+    "name": "SA TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "SA Group"
+    ],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "2013-01-19",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.satv.tv/"
+  },
+  {
+    "id": "SomoyNewsTV.bd",
+    "name": "Somoy News TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.somoynews.tv/"
+  },
+  {
+    "id": "StarNews.bd",
+    "name": "Star News",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Nabil Group of Industries"
+    ],
+    "country": "BD",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://starnews.com.bd/"
+  },
+  {
+    "id": "TSports.bd",
+    "name": "T Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "East West Media Group"
+    ],
+    "country": "BD",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "2020-11-09",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.tsports.com.bd/"
+  },
+  {
+    "id": "VarendraTV.bd",
+    "name": "Varendra TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "VOICETV.bd",
+    "name": "VOICE TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "VoktaTV.bd",
+    "name": "Vokta TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "BD",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vokta.tv/"
+  }
+]
