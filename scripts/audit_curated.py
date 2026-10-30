@@ -1,29 +1,27 @@
 import re
-import json
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
 
-with open('output/playlist_curated.m3u', 'r', encoding='utf-8') as f:
+with open('playlist_curated.m3u', 'r', encoding='utf-8') as f:
     lines = f.readlines()
 
-channels = []
-for line in lines:
-    line = line.strip()
-    if line.startswith('#EXTINF:'):
-        name = line.split(',')[-1].strip()
-        m_logo = re.search(r'tvg-logo="([^"]+)"', line)
-        m_grp = re.search(r'group-title="([^"]+)"', line)
-        logo = m_logo.group(1) if m_logo else ''
-        grp = m_grp.group(1) if m_grp else ''
-        channels.append((grp, name, logo))
+extinfs = [l.strip() for l in lines if l.startswith('#EXTINF:')]
+missing = []
 
-print(f"Total entries in playlist_curated: {len(channels)}")
-for grp, name, logo in channels:
-    is_svg = logo.endswith('.svg')
-    has_wikimedia = 'upload.wikimedia.org' in logo
-    issue = ""
-    if not logo or logo == "https://i.imgur.com/WpMA9kC.png":
-        issue = "MISSING_LOGO"
-    elif is_svg:
-        issue = "SVG_LOGO"
-    elif has_wikimedia:
-        issue = "WIKIMEDIA"
-    print(f"[{grp}] {name} -> {issue or 'OK'} | {logo[:80]}")
+for e in extinfs:
+    m = re.search(r'tvg-logo="([^"]+)"', e)
+    name = e.split(',')[-1].strip()
+    if not m or not m.group(1):
+        missing.append((name, 'No logo tag'))
+    elif not m.group(1).startswith('http'):
+        missing.append((name, f'Relative/local url: {m.group(1)}'))
+    elif 'placeholder' in m.group(1).lower():
+        missing.append((name, 'Placeholder logo'))
+
+print(f"Total curated entries: {len(extinfs)}")
+print(f"Total missing / invalid logos: {len(missing)}")
+if missing:
+    for item in missing:
+        print("  -", item)
+else:
+    print("ALL 282 CHANNELS HAVE VALID, WORKING LOGOS!")

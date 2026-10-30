@@ -26,9 +26,10 @@ CLEAN_PATTERNS = [
     r'\s*\((?:server\s*\d+\s*[-:]\s*)?\d+ms.*?\)',
     r'\s*\((?:1080p|720p|576p|480p|hd|fhd|4k|sd|ads only)\)',
     r'\s*\[(?:1080p|720p|576p|480p|hd|fhd|4k|sd)\]',
-    r'\s*\|\s*(?:bdix|1080p|720p|hd|fhd|sd|4k)',
-    r'[\u2700-\u27BF]|[\uE000-\uF8FF]|\uD83C[\uDC00-\uDFFF]|\uD83D[\uDC00-\uDFFF]|[\u2011-\u26FF]|\uD83E[\uDD10-\uDDFF]'
+    r'\s*\|\s*(?:bdix|1080p|720p|hd|fhd|sd|4k)'
 ]
+
+EMOJI_PATTERN = r'[\u2700-\u27BF]|[\uE000-\uF8FF]|[\U0001F300-\U0001F9FF]|[\u2600-\u26FF]'
 
 # Strict RegEx Filters for Curated VIP Playlist
 RE_INDIAN_NEWS = [
@@ -61,7 +62,7 @@ RE_FOREIGN_NEWS_EXCLUDE = [
 
 RE_BD_ENT = [
     r'\bchannel\s*i\b', r'\bntv(?:\s*hd|\s*bd)?\b', r'\brtv(?:\s*hd|\s*bd)?\b',
-    r'\bbanglavision\b', r'\bmaasranga\b', r'\bdeepto\b', r'\batn\s*bangla\b',
+    r'\bbangla\s*vision\b', r'\bmaasranga\b', r'\bdeepto\b', r'\batn\s*bangla\b',
     r'\bnagorik\b', r'\bchannel\s*9\b', r'\bboishakhi\b', r'\bdesh\s*tv\b',
     r'\bbijoy\s*tv\b', r'\bbangla\s*tv\b', r'\bananda\s*tv\b', r'\bmohona\b',
     r'\bsa\s*tv\b', r'\bmy\s*tv(?:\s*hd|\s*bd)?\b', r'\basian\s*tv\b', r'\bsananda\s*tv\b',
@@ -96,23 +97,24 @@ RE_ALL_SPORTS = [
     r'\bbein\s*sports?\b', r'\bsky\s*sports?\b', r'\btnt\s*sports?\b', r'\bsupersport\b',
     r'\beurosport\b', r'\bfox\s*sports?\b', r'\bespn\b', r'\bdazn\b', r'\bdd\s*sports\b',
     r'\bdsports\b', r'\bcricket\b', r'\bfootball\b', r'\b2tv\s*sport\b', r'\bbahrain\s*sports\b',
-    r'\bjordan\s*sports\b', r'\bmax\s*sport\b', r'\bpremier\s*sports\b', r'\bpremier\s*league\b'
+    r'\bjordan\s*sports\b', r'\bmax\s*sport\b', r'\bpremier\s*sports\b', r'\bpremier\s*league\b',
+    r'\bkabaddi\b'
 ]
 
 RE_DOCS = [
-    r'\bdiscovery\b', r'\banimal\s*planet\b', r'\bnational\s*geographic\b', r'\bnat\s*geo\b',
+    r'\bdiscovery\b(?!\s*kids)', r'\banimal\s*planet\b', r'\bnational\s*geographic\b', r'\bnat\s*geo\b',
     r'\bhistory\s*tv18\b', r'\bhistory\b', r'\btlc\b', r'\binvestigation\s*discovery\b',
     r'\bdiscovery\s*science\b', r'\bdiscovery\s*turbo\b', r'\bsony\s*bbc\s*earth\b',
     r'\breal\s*wild\b', r'\bwild\s*earth\b', r'\bwild\s*planet\b', r'\bwild\s*nature\b',
-    r'\bautentic\s*history\b', r'\blove\s*nature\b', r'\binwild\b'
+    r'\bautentic\s*history\b', r'\blove\s*nature\b', r'\binwild\b', r'\bdocubay\b'
 ]
 
 RE_KIDS_AND_MUSIC = [
     r'\bduronto\b', r'\bcartoon\s*network\b', r'\bnickelodeon\b', r'\bnick\b', r'\bpogo\b',
-    r'\bdisney\b', r'\bsony\s*yay\b', r'\bhungama\b', r'\bsonic\b',
+    r'\bdisney\b', r'\bsony\s*yay\b', r'\bhungama\b', r'\bsonic\b', r'\bdiscovery\s*kids\b',
     r'\bgaan\s*bangla\b', r'\b9xm\b', r'\bmtv\b', r'\bb4u\s*music\b', r'\bmastiii\b',
     r'\bzing\b', r'\btrace\s*urban\b', r'\bdeluxe\s*music\b', r'\bclub\s*mtv\b',
-    r'\bmtunes\b', r'\bsangeet\s*bangla\b'
+    r'\bmtunes\b', r'\bsangeet\s*bangla\b', r'\bjungle\s*book\b', r'\bgreen\s*gold\b', r'\b9x\s*jalwa\b'
 ]
 
 RE_ISLAMIC = [
@@ -161,10 +163,21 @@ class ChannelNormalizer:
     def resolve_logo(self, name: str, current_logo: str) -> str:
         # 1. First priority: Local verified GitHub raw logo (100% reliable, no 429/404)
         slug = re.sub(r'[^a-z0-9]+', '_', name.lower()).strip('_')
-        if f"{slug}.png" in self.local_logos:
-            return f"https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/{slug}.png"
-        if f"{slug}.jpg" in self.local_logos:
-            return f"https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/{slug}.jpg"
+        for ext in ['png', 'jpg']:
+            if f"{slug}.{ext}" in self.local_logos:
+                return f"https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/{slug}.{ext}"
+
+        # 1a. Strip trailing channel index (_1, _2, _3...)
+        slug_no_num = re.sub(r'_\d+$', '', slug)
+        for ext in ['png', 'jpg']:
+            if f"{slug_no_num}.{ext}" in self.local_logos:
+                return f"https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/{slug_no_num}.{ext}"
+
+        # 1b. Strip resolution / type suffixes (_hd, _fhd, _sd, _4k, _tv)
+        slug_base = re.sub(r'_(?:hd|fhd|sd|4k|tv)$', '', slug_no_num)
+        for ext in ['png', 'jpg']:
+            if f"{slug_base}.{ext}" in self.local_logos:
+                return f"https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/{slug_base}.{ext}"
 
         # 2. Check if current_logo is valid (reject placeholders, svg, and rate-limiting wikimedia)
         is_invalid = (
@@ -197,6 +210,7 @@ class ChannelNormalizer:
         name = raw_name
         for p in CLEAN_PATTERNS:
             name = re.sub(p, "", name, flags=re.IGNORECASE)
+        name = re.sub(EMOJI_PATTERN, "", name)
 
         name = re.sub(r"\s+", " ", name).strip()
         nl = name.lower()
@@ -237,7 +251,7 @@ class ChannelNormalizer:
             return "NTV HD"
         if re.search(r'\brtv\b', nl):
             return "Rtv HD"
-        if re.search(r'\bbanglavision\b', nl):
+        if re.search(r'\bbangla\s*vision\b', nl):
             return "Banglavision HD"
         if re.search(r'\bmaasranga\b', nl):
             return "Maasranga TV HD"
@@ -407,12 +421,16 @@ class ChannelNormalizer:
             return "TNT Sports 1"
         if re.search(r'\beurosport\b', nl):
             return "Eurosport"
+        if re.search(r'\bkabaddi\b', nl):
+            return "Kabaddi 24x7"
 
         # 5. Docs & Wildlife
-        if re.search(r'\bdiscovery\s*channel\b', nl) or (re.search(r'\bdiscovery\b', nl) and not any(w in nl for w in ["kids", "ids", "science", "turbo", "family"])):
+        if re.search(r'\binvestigation\s*discovery\b', nl):
+            return "Investigation Discovery HD"
+        if re.search(r'\bdiscovery\s*channel\b', nl) or (re.search(r'\bdiscovery\b', nl) and not any(w in nl for w in ["kids", "ids", "science", "turbo", "family", "investigation"])):
             return "Discovery Channel HD"
         if re.search(r'\bdiscovery\s*(?:ids|kids)\b', nl):
-            return "Discovery Kids Hindi"
+            return "Discovery Kids"
         if re.search(r'\bdiscovery\s*science\b', nl):
             return "Discovery Science HD"
         if re.search(r'\bdiscovery\s*turbo\b', nl):
@@ -433,12 +451,20 @@ class ChannelNormalizer:
             return "Investigation Discovery HD"
         if re.search(r'\binwild\b', nl):
             return "InWild HD"
+        if re.search(r'\bdocubay\b', nl):
+            return "DocuBay TV"
 
         # 6. Kids & Music
         if re.search(r'\bduronto\b', nl):
             return "Duronto TV HD"
         if re.search(r'\bcartoon\s*network\b', nl):
             return "Cartoon Network HD"
+        if re.search(r'\bjungle\s*book\b', nl):
+            return "The Jungle Book"
+        if re.search(r'\bgreen\s*gold\b', nl):
+            return "Green Gold TV"
+        if re.search(r'\b9x\s*jalwa\b', nl):
+            return "9X Jalwa"
         if re.search(r'\bnickelodeon\b|\bnick\b', nl) and "sonic" not in nl:
             return "Nickelodeon HD"
         if re.search(r'\bsony\s*yay\b', nl):
@@ -680,13 +706,26 @@ class ChannelNormalizer:
         for bucket in curated_buckets.values():
             # Resolve logo to ensure no placeholder or missing logo remains
             bucket["logo"] = self.resolve_logo(bucket["name"], bucket["logo"])
+            
+            # Deduplicate streams by URL
+            seen_u = set()
+            uniq_streams = []
+            for s in bucket["streams"]:
+                u = s.get("url", "").strip()
+                if u and u.lower() not in seen_u:
+                    seen_u.add(u.lower())
+                    uniq_streams.append(s)
+
             # Sort streams by latency ascending (fastest first)
-            bucket["streams"].sort(key=lambda x: x.get("latency_ms", 9999))
-            # Keep up to 4 streams for sports channels (e.g. T Sports Server 1, 2, 3...), 2 for others
+            uniq_streams.sort(key=lambda x: x.get("latency_ms", 9999))
+
+            # Keep up to 4 streams for sports channels, up to 3 for BD channels, 2 for others
             if "sports" in bucket["category"].lower() or "t sports" in bucket["name"].lower():
-                bucket["streams"] = bucket["streams"][:4]
+                bucket["streams"] = uniq_streams[:4]
+            elif "bd " in bucket["category"].lower():
+                bucket["streams"] = uniq_streams[:3]
             else:
-                bucket["streams"] = bucket["streams"][:2]
+                bucket["streams"] = uniq_streams[:2]
             results.append(bucket)
 
         # Sort strictly by category numbering: 1., 2., 3., 4., 5., 6., 7., 8.

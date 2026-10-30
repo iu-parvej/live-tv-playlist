@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-10-30 12:23 PM (Local Time)
+# Last Updated: 2026-10-30 12:42 PM (Local Time)
 # Dedicated Sports Live Playlist
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="2TV Sport" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/2tv_sport.png",2TV Sport
@@ -225,7 +225,7 @@ http://cdntv.online/low/9mlxywika2/1021.m3u8
 http://cdntv.online/low/9mlxywika2/1022.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="SonyTen1.in" tvg-name="SonyTen1.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/sony_sports_ten_1_hd.png",Sony Sports Ten 1 HD
-https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
+https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Sony Sports2 HD" tvg-logo="https://i.imgur.com/ES4Aq69.png",Sony Sports2 HD
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/sonyten2/tracks-v1a1/mono.m3u8
@@ -364,3 +364,9 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="ZIGGO SPORT LIVE" tvg-logo="https://i.imgur.com/WpMA9kC.png",ZIGGO SPORT LIVE
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Football & International" tvg-id="SonyTen2.in" tvg-name="SonyTen2.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/sony_sports_ten_2_hd.png",Sony Sports Ten 2 HD
+https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports | Football & International" tvg-id="SonyTen5.in" tvg-name="SonyTen5.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/sony_sports_ten_5_hd.png",Sony Sports Ten 5 HD
+https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8

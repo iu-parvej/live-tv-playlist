@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-10-30 12:23 PM (Local Time)
+# Last Updated: 2026-10-30 12:42 PM (Local Time)
 # BDIX Ultra Low Latency Channels (<90ms)
 
 #EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="6 TV Telugu (89ms)" tvg-logo="https://i.imgur.com/l3EcRnZ.png",6 TV Telugu (89ms)
@@ -509,7 +509,7 @@ http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 #EXTINF:-1 group-title="👶 Kids & Animation" tvg-id="6aa7469a-89a8-4c46-a141-90fe1fff7893" tvg-name="6aa7469a-89a8-4c46-a141-90fe1fff7893" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/discovery_family.png",Discovery Family (65ms)
 https://tvsen5.aynaott.com/discoveryfamily/index.m3u8?e=1784102581&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7551ec4daacd3d773ab2a992615f1f6c
 
-#EXTINF:-1 group-title="👶 Kids & Animation" tvg-id="DiscoveryKids.in" tvg-name="DiscoveryKids.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/discovery_kids_hindi.png",Discovery Kids Hindi (44ms)
+#EXTINF:-1 group-title="👶 Kids & Animation" tvg-id="DiscoveryKids.in" tvg-name="DiscoveryKids.in" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/discovery_kids.png",Discovery Kids (44ms)
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 
 #EXTINF:-1 group-title="👶 Kids & Animation" tvg-name="Disney Channel HD (71ms)" tvg-logo="https://raw.githubusercontent.com/iu-parvej/live-tv-playlist/main/logos/disney_channel_hd.png",Disney Channel HD (71ms)

@@ -142,7 +142,9 @@ class PlaylistGenerator:
 
         # --- Build Curated VIP Playlist ---
         # Curated VIP is designed for pristine living-room TV viewing:
-        # 1 clean tile per channel using the fastest verified stream, with no technical clutter in titles.
+        # Clean channel titles with official logos and zero technical clutter.
+        # When a channel has multiple working backup streams, they are labeled
+        # as "Channel 1", "Channel 2" with the exact same verified logo.
         if curated_channels:
             for ch in curated_channels:
                 name = ch["name"]
@@ -153,12 +155,20 @@ class PlaylistGenerator:
                 if not streams:
                     continue
 
-                best = streams[0]
-                curated_lines.append(self._format_extinf(name, cat, logo, tvg_id))
-                if "User-Agent" in best.get("headers", {}):
-                    curated_lines.append(f'#EXTVLCOPT:http-user-agent={best["headers"]["User-Agent"]}')
-                curated_lines.append(best["url"])
-                curated_lines.append("")
+                if len(streams) == 1:
+                    curated_lines.append(self._format_extinf(name, cat, logo, tvg_id))
+                    if "User-Agent" in streams[0].get("headers", {}):
+                        curated_lines.append(f'#EXTVLCOPT:http-user-agent={streams[0]["headers"]["User-Agent"]}')
+                    curated_lines.append(streams[0]["url"])
+                    curated_lines.append("")
+                else:
+                    for idx, s in enumerate(streams):
+                        numbered_name = f"{name} {idx + 1}"
+                        curated_lines.append(self._format_extinf(numbered_name, cat, logo, tvg_id))
+                        if "User-Agent" in s.get("headers", {}):
+                            curated_lines.append(f'#EXTVLCOPT:http-user-agent={s["headers"]["User-Agent"]}')
+                        curated_lines.append(s["url"])
+                        curated_lines.append("")
 
         # Write files
         primary_path = os.path.join(self.output_dir, "playlist.m3u")
