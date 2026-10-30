@@ -244,34 +244,34 @@ class ChannelNormalizer:
                     break
                 return "1. BD Sports 🇧🇩"
 
-        # 3. BD News (Strictly verified BD news)
+        # 3. BD News (Strictly verified BD news - placed right after BD Sports)
         for p in RE_BD_NEWS:
             if re.search(p, tl):
                 if any(re.search(e, tl) for e in RE_FOREIGN_NEWS_EXCLUDE):
                     continue
-                return "5. BD News & National 🇧🇩"
+                return "2. BD News & National 🇧🇩"
 
         # 4. BD Entertainment & Drama (Strictly verified BD entertainment)
         for p in RE_BD_ENT:
             if re.search(p, tl):
                 if any(re.search(e, tl) for e in RE_FOREIGN_ENT_EXCLUDE):
                     continue
-                return "6. BD Entertainment & Drama 🇧🇩"
+                return "3. BD Entertainment & Drama 🇧🇩"
 
         # 5. Kolkata & Indian Entertainment & Movies
         for p in RE_KOLKATA_AND_INDIAN_ENT:
             if re.search(p, tl):
-                return "2. Indian & Kolkata Entertainment & Movies 🎬"
+                return "4. Indian & Kolkata Entertainment & Movies 🎬"
 
         # 6. All Sports (Cricket, Football, Global Sports)
         for p in RE_ALL_SPORTS:
             if re.search(p, tl):
-                return "3. All Sports (Cricket, Football & HD) ⚽"
+                return "5. All Sports (Cricket, Football & HD) ⚽"
 
         # 7. Documentary & Wildlife
         for p in RE_DOCS:
             if re.search(p, tl):
-                return "4. Documentary & Wildlife 🌍"
+                return "6. Documentary & Wildlife 🌍"
 
         # 8. Music & Kids (Cartoons & Songs)
         for p in RE_KIDS_AND_MUSIC:
@@ -341,11 +341,11 @@ class ChannelNormalizer:
         """
         Builds the VIP Curated Channel list strictly following the user's categories:
         1. BD Sports 🇧🇩
-        2. Indian & Kolkata Entertainment & Movies 🎬
-        3. All Sports (Cricket, Football & HD) ⚽
-        4. Documentary & Wildlife 🌍
-        5. BD News & National 🇧🇩
-        6. BD Entertainment & Drama 🇧🇩
+        2. BD News & National 🇧🇩
+        3. BD Entertainment & Drama 🇧🇩
+        4. Indian & Kolkata Entertainment & Movies 🎬
+        5. All Sports (Cricket, Football & HD) ⚽
+        6. Documentary & Wildlife 🌍
         7. Music & Kids (Cartoons & Songs) 🎵
         8. Islamic & Devotional 🕌
         """
@@ -392,8 +392,11 @@ class ChannelNormalizer:
             bucket["logo"] = self.resolve_logo(bucket["name"], bucket["logo"])
             # Sort streams by latency ascending (fastest first)
             bucket["streams"].sort(key=lambda x: x.get("latency_ms", 9999))
-            # Take the best 2 streams (primary + backup)
-            bucket["streams"] = bucket["streams"][:2]
+            # Keep up to 4 streams for sports channels (e.g. T Sports Server 1, 2, 3...), 2 for others
+            if "sports" in bucket["category"].lower() or "t sports" in bucket["name"].lower():
+                bucket["streams"] = bucket["streams"][:4]
+            else:
+                bucket["streams"] = bucket["streams"][:2]
             results.append(bucket)
 
         # Sort strictly by category numbering: 1., 2., 3., 4., 5., 6., 7., 8.

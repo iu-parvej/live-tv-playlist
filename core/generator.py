@@ -150,13 +150,27 @@ class PlaylistGenerator:
                 streams = ch.get("streams", [])
                 if not streams:
                     continue
-                # Best stream
-                best = streams[0]
-                curated_lines.append(self._format_extinf(name, cat, logo, tvg_id))
-                if "User-Agent" in best.get("headers", {}):
-                    curated_lines.append(f'#EXTVLCOPT:http-user-agent={best["headers"]["User-Agent"]}')
-                curated_lines.append(best["url"])
-                curated_lines.append("")
+
+                # If channel has multiple servers (especially live sports like T Sports / GTV),
+                # provide numbered servers so users can switch seamlessly in IPTV apps.
+                if len(streams) > 1:
+                    for idx, s in enumerate(streams, 1):
+                        lat = s.get("latency_ms", 0)
+                        is_bdix = s.get("is_bdix", False)
+                        bdix_tag = " [BDIX]" if is_bdix else ""
+                        srv_name = f"{name} (Server {idx} - {lat}ms{bdix_tag})"
+                        curated_lines.append(self._format_extinf(srv_name, cat, logo, tvg_id))
+                        if "User-Agent" in s.get("headers", {}):
+                            curated_lines.append(f'#EXTVLCOPT:http-user-agent={s["headers"]["User-Agent"]}')
+                        curated_lines.append(s["url"])
+                        curated_lines.append("")
+                else:
+                    best = streams[0]
+                    curated_lines.append(self._format_extinf(name, cat, logo, tvg_id))
+                    if "User-Agent" in best.get("headers", {}):
+                        curated_lines.append(f'#EXTVLCOPT:http-user-agent={best["headers"]["User-Agent"]}')
+                    curated_lines.append(best["url"])
+                    curated_lines.append("")
 
         # Write files
         primary_path = os.path.join(self.output_dir, "playlist.m3u")

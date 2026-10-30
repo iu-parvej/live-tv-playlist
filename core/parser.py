@@ -129,5 +129,23 @@ class PlaylistParser:
                     new_count += 1
             logger.info(f" -> {name}: Found {len(parsed)} streams ({new_count} new unique)")
 
+        # Load extra curated candidate streams (e.g. T Sports, GTV, BDIX sports)
+        import os
+        extra_path = "config/extra_streams.json"
+        if os.path.exists(extra_path):
+            try:
+                with open(extra_path, "r", encoding="utf-8") as f:
+                    extra_items = json.load(f)
+                    extra_added = 0
+                    for item in extra_items:
+                        u = item.get("url")
+                        if u and u not in seen_urls:
+                            seen_urls.add(u)
+                            all_streams.append(item)
+                            extra_added += 1
+                    logger.info(f"Added {extra_added} extra targeted candidate streams from {extra_path}.")
+            except Exception as e:
+                logger.warning(f"Could not load extra streams: {e}")
+
         logger.info(f"Total aggregated unique streams ready for testing: {len(all_streams)}")
         return all_streams

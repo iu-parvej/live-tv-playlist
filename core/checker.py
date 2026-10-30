@@ -81,8 +81,8 @@ class StreamChecker:
                         chunk_str = chunk.decode("utf-8", errors="ignore").lower()
                         ct = resp.headers.get("Content-Type", "").lower()
 
-                        # Rejection criteria: HTML ISP block / 404 landing pages
-                        if "<!doctype html" in chunk_str or "<html" in chunk_str or "<body" in chunk_str:
+                        # Rejection criteria: HTML ISP block / 404 landing pages / Cloudflare error pages
+                        if "<!doctype html" in chunk_str or "<html" in chunk_str or "<body" in chunk_str or "error code: 52" in chunk_str:
                             res = (False, latency_ms, "ISP/Web Page Block", item)
                         elif (
                             "#extm3u" in chunk_str or

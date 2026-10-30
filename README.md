@@ -59,11 +59,11 @@ Free public IPTV playlists contain thousands of channels, but **only 20% to 35% 
 
 In the Curated VIP playlist, channels appear in this exact order:
 1. `1. BD Sports 🇧🇩` (T Sports, GTV / Gazi TV)
-2. `2. Indian & Kolkata Entertainment & Movies 🎬` (Zee Bangla, Star Jalsha, Jalsha Movies, Colors Bangla, Sony SAB, Star Plus, Zee Cinema, Sony MAX, Goldmines, Filamchi, Bhojpuri Cinema)
-3. `3. All Sports (Cricket, Football & HD) ⚽` (Star Sports, Sony Sports Ten 1/2/3/5, Willow TV, A Sports, beIN Sports, Sky Sports, TNT, SuperSport)
-4. `4. Documentary & Wildlife 🌍` (Discovery HD, Animal Planet HD, Nat Geo, History TV18, TLC, Real Wild)
-5. `5. BD News & National 🇧🇩` (Somoy, Jamuna, DBC, Ekattor, Channel 24, Independent, BTV, ATN News)
-6. `6. BD Entertainment & Drama 🇧🇩` (Channel i, NTV, Rtv, Banglavision, Maasranga, Deepto, ATN Bangla, Nagorik)
+2. `2. BD News & National 🇧🇩` (Somoy, Jamuna, DBC, Ekattor, Channel 24, Independent, BTV, ATN News, News 24)
+3. `3. BD Entertainment & Drama 🇧🇩` (Channel i, NTV, Rtv, Banglavision, Maasranga, Deepto, ATN Bangla, Nagorik)
+4. `4. Indian & Kolkata Entertainment & Movies 🎬` (Zee Bangla, Star Jalsha, Jalsha Movies, Colors Bangla, Sony SAB, Star Plus, Zee Cinema, Sony MAX, Goldmines, Filamchi, Bhojpuri Cinema)
+5. `5. All Sports (Cricket, Football & HD) ⚽` (Star Sports, Sony Sports Ten 1/2/3/5, Willow TV, A Sports, beIN Sports, Sky Sports, TNT, SuperSport)
+6. `6. Documentary & Wildlife 🌍` (Discovery HD, Animal Planet HD, Nat Geo, History TV18, TLC, Real Wild)
 7. `7. Music & Kids (Cartoons & Songs) 🎵` (Duronto TV, Cartoon Network, Nick, Pogo, Gaan Bangla, 9XM, MTV, B4U Music, Mastiii)
 8. `8. Islamic & Devotional 🕌` (Makkah Live HD, Madinah Live HD, Peace TV Bangla, Quran TV)
 
