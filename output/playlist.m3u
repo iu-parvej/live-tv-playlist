@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-10-30 11:16 AM (Local Time)
+# Last Updated: 2026-10-30 11:18 AM (Local Time)
 # Optimized for Android IPTV Pro / Televizo / TiviMate
 # Total Active Channels: 1578
 
@@ -1038,6 +1038,9 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="RupasiBangla.in" tvg-name="RupasiBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Ruposhi_Bangla_new.jpeg",Enter TV
 https://live1.entertv.com.bd/entertv/index.m3u8
 
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Enter10 Bangla" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLCSvEmAvqf0bXOPUrlifqT-jejbZcRnqHlfPvhBTvYGxMy1mbIr527uZz5qKJyMcDt8RyH8z_3zrNNcS80bs_IDGl2SvsxQfaKVjk7L55blRjuI5z-koVFxYccyYpU1ZnHDH9dmAASP227AADBF9RrnzXyL1C83gOmExVccG-xBnqIzaOwokZTuKGhw/s1080/1000021570.png",Enter10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
 #EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="enter10bangla.in" tvg-name="enter10bangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg",Enter10 Bangla HD
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 
@@ -1149,7 +1152,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Sananda TV" tvg-logo="https://i.imgur.com/WpMA9kC.png",Sananda TV
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Sananda TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha.png",Sananda TV
 http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="dba3bf51-175c-4815-9754-5e727e5d6250" tvg-name="dba3bf51-175c-4815-9754-5e727e5d6250" tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc",Thiana
@@ -1273,7 +1276,6 @@ https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1784102513&u=ee5437a7-c16b-47
 https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/ts-eu-w1-n2/playlist/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="GaziTV.bd" tvg-name="GaziTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Gazi_TV_logo.svg/330px-Gazi_TV_logo.svg.png",Gazi TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="Golf Channel" tvg-logo="https://s3.aynaott.com/storage/edb73991516696dfd53efbd32d80ca58",Golf Channel
@@ -1456,7 +1458,7 @@ https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/st
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Strongman Champions League" tvg-name="Strongman Champions League" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001089_20250107T153921SQUARE.png",Strongman Champions League
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/playlist.m3u8?ads.wurl_channel=1102&ads.wurl_name=StrongmanChampionsLeague&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="SY SPORT LALIGA" tvg-logo="https://i.imgur.com/WpMA9kC.png",SY SPORT LALIGA
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="SY SPORT LALIGA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png",SY SPORT LALIGA
 http://179.60.224.196:8000/play/a0i7/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="TSports.bd" tvg-name="TSports.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/T_Sports_logo.svg/330px-T_Sports_logo.svg.png",T Sports HD
@@ -1686,6 +1688,9 @@ https://epiconvh.akamaized.net/live/epic/master.m3u8
 
 #EXTINF:-1 group-title="🇮🇳 India | Entertainment & Hindi" tvg-id="FilamchiBhojpuri.in@SD" tvg-name="FilamchiBhojpuri.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Filamchi_Bhojpuri_new.png",Filamchi Bhojpuri
 https://epiconvh.akamaized.net/live/filamchi/master.m3u8
+
+#EXTINF:-1 group-title="🇮🇳 India | Entertainment & Hindi" tvg-name="G-Series" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRVFdWp9xwlb_aBt92V8P8V52hyphenhyphen0Kn2Qz8ge4cbaijlKQdH86RXexTJrvskKsSVMrLbDaLsRwFSK7VdFzdYd9u2FhdHs6o3erPlx9NehopiqcH2tK9ApMNlavhZYLVx2WhpUhpm0efu4OxgVDTYTIZeBi59t5bK9kJHEKtfgoSzC2lNVABB2TMvbiB1w/s600/Nur_20251219_134007_0000.png",G-Series
+https://vods2.aynaott.com/gseriesDrama/index.m3u8
 
 #EXTINF:-1 group-title="🇮🇳 India | Entertainment & Hindi" tvg-id="Goldmines.in" tvg-name="Goldmines.in" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png",Goldmines
 https://streams.tangotv.in/GOLDMINES/ORIGIN/tracks-v1a1/mono.m3u8
@@ -1917,12 +1922,6 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-id="ColorsBangla.in" tvg-name="ColorsBangla.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Colors_Bangla_logo.svg/330px-Colors_Bangla_logo.svg.png",Colors Bangla HD
 http://103.172.29.30:9991/stream/channelid/1759751142
-
-#EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-name="Enter10 Bangla" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLCSvEmAvqf0bXOPUrlifqT-jejbZcRnqHlfPvhBTvYGxMy1mbIr527uZz5qKJyMcDt8RyH8z_3zrNNcS80bs_IDGl2SvsxQfaKVjk7L55blRjuI5z-koVFxYccyYpU1ZnHDH9dmAASP227AADBF9RrnzXyL1C83gOmExVccG-xBnqIzaOwokZTuKGhw/s1080/1000021570.png",Enter10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-
-#EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-name="G-Series" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRVFdWp9xwlb_aBt92V8P8V52hyphenhyphen0Kn2Qz8ge4cbaijlKQdH86RXexTJrvskKsSVMrLbDaLsRwFSK7VdFzdYd9u2FhdHs6o3erPlx9NehopiqcH2tK9ApMNlavhZYLVx2WhpUhpm0efu4OxgVDTYTIZeBi59t5bK9kJHEKtfgoSzC2lNVABB2TMvbiB1w/s600/Nur_20251219_134007_0000.png",G-Series
-https://vods2.aynaott.com/gseriesDrama/index.m3u8
 
 #EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-id="JalshaMovies.in" tvg-name="JalshaMovies.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Jalsha_Movies_logo.svg/330px-Jalsha_Movies_logo.svg.png",Jalsha Movies HD
 http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8

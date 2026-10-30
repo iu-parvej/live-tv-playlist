@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-10-30 11:16 AM (Local Time)
+# Last Updated: 2026-10-30 11:18 AM (Local Time)
 # Dedicated Sports Live Playlist
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="2TV Sport" tvg-logo="https://i.imgur.com/FJBL6zI.png",2TV Sport
@@ -284,7 +284,7 @@ https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/st
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="Strongman Champions League" tvg-name="Strongman Champions League" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001089_20250107T153921SQUARE.png",Strongman Champions League
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/playlist.m3u8?ads.wurl_channel=1102&ads.wurl_name=StrongmanChampionsLeague&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="SY SPORT LALIGA" tvg-logo="https://i.imgur.com/WpMA9kC.png",SY SPORT LALIGA
+#EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-name="SY SPORT LALIGA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png",SY SPORT LALIGA
 http://179.60.224.196:8000/play/a0i7/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Sports | Live & Cricket" tvg-id="TSports.bd" tvg-name="TSports.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/T_Sports_logo.svg/330px-T_Sports_logo.svg.png",T Sports HD

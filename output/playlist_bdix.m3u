@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-10-30 11:16 AM (Local Time)
+# Last Updated: 2026-10-30 11:18 AM (Local Time)
 # BDIX Ultra Low Latency Channels (<90ms)
 
 #EXTINF:-1 group-title="🇧🇩 BD | News" tvg-name="6 TV Telugu (89ms)" tvg-logo="https://i.imgur.com/l3EcRnZ.png",6 TV Telugu (89ms)
@@ -152,6 +152,9 @@ https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 #EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="0579659b-2854-40d1-ad6a-69b70641ad17" tvg-name="0579659b-2854-40d1-ad6a-69b70641ad17" tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc",Ehon TV (37ms)
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Enter10 Bangla (83ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLCSvEmAvqf0bXOPUrlifqT-jejbZcRnqHlfPvhBTvYGxMy1mbIr527uZz5qKJyMcDt8RyH8z_3zrNNcS80bs_IDGl2SvsxQfaKVjk7L55blRjuI5z-koVFxYccyYpU1ZnHDH9dmAASP227AADBF9RrnzXyL1C83gOmExVccG-xBnqIzaOwokZTuKGhw/s1080/1000021570.png",Enter10 Bangla (83ms)
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
 #EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="enter10bangla.in" tvg-name="enter10bangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg",Enter10 Bangla HD (85ms)
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 
@@ -215,7 +218,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3",SA TV (43ms)
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 
-#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Sananda TV (28ms)" tvg-logo="https://i.imgur.com/WpMA9kC.png",Sananda TV (28ms)
+#EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-name="Sananda TV (28ms)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha.png",Sananda TV (28ms)
 http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="🇧🇩 BD | Entertainment" tvg-id="TIKANA TV" tvg-name="TIKANA TV" tvg-logo="https://yt3.googleusercontent.com/AbXfwy0BwAB4yjwV4gkMmSZizuTv30M9kZjO7V33LLvpy7CRVxK523zdvnZ3oTMtanUf9tHe=s900-c-k-c0x00ffffff-no-rj",TIANA TV (504ms)
@@ -326,6 +329,9 @@ https://tvsen6.aynaott.com/uS9QwrbB/index.m3u8?e=1784102594&u=ee5437a7-c16b-4700
 #EXTINF:-1 group-title="🇮🇳 India | Entertainment & Hindi" tvg-id="31e02282-4cac-4747-ac93-bd74be3c78d5" tvg-name="31e02282-4cac-4747-ac93-bd74be3c78d5" tvg-logo="https://s3.aynaott.com/storage/67b12df982bbb07b6a5af35d691dbb54",Dangal 2 (65ms)
 https://tvsen6.aynaott.com/U8SSRsqP/index.m3u8?e=1784102594&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=e51e1a1419a8e13a78b319b915184125
 
+#EXTINF:-1 group-title="🇮🇳 India | Entertainment & Hindi" tvg-name="G-Series (40ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRVFdWp9xwlb_aBt92V8P8V52hyphenhyphen0Kn2Qz8ge4cbaijlKQdH86RXexTJrvskKsSVMrLbDaLsRwFSK7VdFzdYd9u2FhdHs6o3erPlx9NehopiqcH2tK9ApMNlavhZYLVx2WhpUhpm0efu4OxgVDTYTIZeBi59t5bK9kJHEKtfgoSzC2lNVABB2TMvbiB1w/s600/Nur_20251219_134007_0000.png",G-Series (40ms)
+https://vods2.aynaott.com/gseriesDrama/index.m3u8
+
 #EXTINF:-1 group-title="🇮🇳 India | Entertainment & Hindi" tvg-id="b80579f2-22d3-4b12-881e-60139810a791" tvg-name="b80579f2-22d3-4b12-881e-60139810a791" tvg-logo="https://s3.aynaott.com/storage/e92e9e2fb70909f3dd30a8d89e644119",Goldmines Bollywood (65ms)
 https://tvsen6.aynaott.com/55xNrLdf/index.m3u8?e=1784102593&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=bdf9e0d52656d2f220337254a719a208
 
@@ -364,12 +370,6 @@ https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u
 
 #EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-id="ColorsBangla.in" tvg-name="ColorsBangla.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Colors_Bangla_logo.svg/330px-Colors_Bangla_logo.svg.png",Colors Bangla HD (36ms)
 http://103.172.29.30:9991/stream/channelid/1759751142
-
-#EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-name="Enter10 Bangla (83ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLCSvEmAvqf0bXOPUrlifqT-jejbZcRnqHlfPvhBTvYGxMy1mbIr527uZz5qKJyMcDt8RyH8z_3zrNNcS80bs_IDGl2SvsxQfaKVjk7L55blRjuI5z-koVFxYccyYpU1ZnHDH9dmAASP227AADBF9RrnzXyL1C83gOmExVccG-xBnqIzaOwokZTuKGhw/s1080/1000021570.png",Enter10 Bangla (83ms)
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-
-#EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-name="G-Series (40ms)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRVFdWp9xwlb_aBt92V8P8V52hyphenhyphen0Kn2Qz8ge4cbaijlKQdH86RXexTJrvskKsSVMrLbDaLsRwFSK7VdFzdYd9u2FhdHs6o3erPlx9NehopiqcH2tK9ApMNlavhZYLVx2WhpUhpm0efu4OxgVDTYTIZeBi59t5bK9kJHEKtfgoSzC2lNVABB2TMvbiB1w/s600/Nur_20251219_134007_0000.png",G-Series (40ms)
-https://vods2.aynaott.com/gseriesDrama/index.m3u8
 
 #EXTINF:-1 group-title="🇮🇳 India | Bengali (Kolkata)" tvg-id="JalshaMovies.in" tvg-name="JalshaMovies.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Jalsha_Movies_logo.svg/330px-Jalsha_Movies_logo.svg.png",Jalsha Movies HD (40ms)
 http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
