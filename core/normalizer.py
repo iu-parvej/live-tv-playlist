@@ -33,11 +33,18 @@ EMOJI_PATTERN = r'[\u2700-\u27BF]|[\uE000-\uF8FF]|[\U0001F300-\U0001F9FF]|[\u260
 
 # Strict RegEx Filters for Curated VIP Playlist
 RE_INDIAN_NEWS = [
-    r'\baaj\s*tak\b', r'\babp\b', r'\bindia\s*tv\b', r'\brepublic\b', r'\bndtv\b',
+    r'\baaj\s*tak\b', r'\babp\b', r'\bindia\s*tv\b', r'\brepublic\b',
     r'\bzee\s*(?:news|24|hindustan|bharat)\b', r'\bnews\s*18\b', r'\btv9\b',
-    r'\bdd\s*news\b', r'\bwion\b', r'\bsansad\b', r'\bnews\s*nation\b', r'\bindia\s*today\b',
+    r'\bdd\s*news\b', r'\bsansad\b', r'\bnews\s*nation\b', r'\bindia\s*today\b',
     r'\btimes\s*now\b', r'\bmirror\s*now\b', r'\bcnbc\s*awaz\b', r'\bkhabar\b', r'\bsamachar\b',
     r'\bpratham\s*khabar\b', r'\bkalash\s*news\b', r'\bchhattisgarh\b', r'\bmp\s*&\b'
+]
+
+RE_GLOBAL_NEWS = [
+    r'\bbbc\s*news\b', r'\bbbc\s*world\b', r'\bcnn\b', r'\bal\s*jazeera\b',
+    r'\bbloomberg\b', r'\bcnbc\b', r'\bsky\s*news\b', r'\beuronews\b',
+    r'\bfox\s*news\b', r'\babc\s*news\b', r'\bcna\b', r'\bwion\b',
+    r'\bndtv\b'
 ]
 
 RE_BD_SPORTS = [
@@ -47,7 +54,7 @@ RE_BD_SPORTS = [
 
 RE_BD_NEWS = [
     r'\bsomoy\b', r'\bjamuna\b', r'\bdbc\s*news\b', r'\b(?:ekattor|71\s*tv)\b',
-    r'\bchannel\s*24\b', r'\bindependent\s*tv\b', r'\batn\s*news\b',
+    r'\bchannel\s*24\b', r'\bindependent(?:\s*tv)?\b', r'\batn\s*news\b',
     r'\bbtv(?:\s*national|\s*world|\s*chattogram|\s*chittagong|\s*ctg|\s*hd)?\b',
     r'\bsangsad\b', r'\bjago\s*news\b', r'\bnews\s*21\s*bangla\b',
     r'\bnews\s*24(?:\s*hd|\s*bd|\s*television)\b'
@@ -66,7 +73,7 @@ RE_BD_ENT = [
     r'\bnagorik\b', r'\bchannel\s*9\b', r'\bboishakhi\b', r'\bdesh\s*tv\b',
     r'\bbijoy\s*tv\b', r'\bbangla\s*tv\b', r'\bananda\s*tv\b', r'\bmohona\b',
     r'\bsa\s*tv\b', r'\bmy\s*tv(?:\s*hd|\s*bd)?\b', r'\basian\s*tv\b', r'\bsananda\s*tv\b',
-    r'\bmovie\s*bangla\b'
+    r'\bmovie\s*bangla\b', r'\bnexus\s*tv\b', r'\btikana\s*tv\b', r'\bayna\s*tv\b'
 ]
 
 RE_FOREIGN_ENT_EXCLUDE = [
@@ -79,16 +86,19 @@ RE_KOLKATA_AND_INDIAN_ENT = [
     # Kolkata / Bangla
     r'\bzee\s*bangla\b', r'\bstar\s*jalsha\b', r'\bjalsha\s*movies\b', r'\bcolors\s*bangla\b',
     r'\bsony\s*aath\b', r'\baakash\s*aath\b', r'\bruposhi\s*bangla\b', r'\bdhoom\s*music\b',
-    r'\bsangeet\s*bangla\b',
+    r'\bsangeet\s*bangla\b', r'\bkolkata\s*tv\b', r'\benter\s*10\s*bangla\b', r'\bsun\s*bangla\b',
     # Hindi Entertainment
     r'\bstar\s*plus\b', r'\bsony\s*sab\b', r'\bsab\s*tv\b', r'\bzee\s*tv\b', r'\bcolors\s*hd\b',
     r'\bcolors\s*tv\b', r'\bsony\s*entertainment\b', r'\bset\s*india\b', r'\bstar\s*bharat\b',
     r'\b&tv\b', r'\bdangal\b', r'\bshemaroo\b', r'\bbig\s*magic\b', r'\bishara\b',
-    # Movies (Hindi, South Dubbed, Regional)
+    # Movies (Hindi, South Dubbed, Regional, English)
     r'\bstar\s*gold\b', r'\bsony\s*max\b', r'\bzee\s*cinema\b', r'\bcolors\s*cineplex\b',
-    r'\bsony\s*pix\b', r'\bzee\s*bollywood\b', r'\b&pictures\b', r'\bgoldmines\b',
+    r'\bsony\s*pix\b', r'\bzee\s*bollywood\b', r'(?:^|\W)&+\s*pictures?\b', r'\bgoldmines\b',
     r'\bb4u\s*movies\b', r'\bbhojpuri\s*cinema\b', r'\bfilamchi\b', r'\bmanoranjan\b',
-    r'\bdhinchaak\b', r'\bcinema\s*tv\b', r'\bbflix\b', r'\bmovie\s*plus\b', r'\bshubh\s*cinema\b'
+    r'\bdhinchaak\b', r'\bcinema\s*tv\b', r'\bbflix\b', r'\bmovie\s*plus\b', r'\bshubh\s*cinema\b',
+    r'\bmix\s*tv\b', r'\bepix\b', r'\bstar\s*movies\b', r'\bmovies\s*now\b', r'\bsnb\s*cinema\b',
+    r'\bcircle\b', r'\bhbo\b', r'\brakuten\b', r'\bbollygold\b', r'\bsony\s*wah\b',
+    r'\bbollywood\s*old\b', r'\bfox\b(?!\s*news|\s*sports|\s*cricket)', r'\btbs\b', r'\bhindi\s*movie\s*classic\b', r'\bamc\b'
 ]
 
 RE_ALL_SPORTS = [
@@ -98,7 +108,8 @@ RE_ALL_SPORTS = [
     r'\beurosport\b', r'\bfox\s*sports?\b', r'\bespn\b', r'\bdazn\b', r'\bdd\s*sports\b',
     r'\bdsports\b', r'\bcricket\b', r'\bfootball\b', r'\b2tv\s*sport\b', r'\bbahrain\s*sports\b',
     r'\bjordan\s*sports\b', r'\bmax\s*sport\b', r'\bpremier\s*sports\b', r'\bpremier\s*league\b',
-    r'\bkabaddi\b'
+    r'\bkabaddi\b', r'\bred\s*bull\b', r'\bgolf\b', r'\breal\s*madrid\b', r'\btennis\b',
+    r'\bhorse\b', r'\bhunt\b', r'\bcricbuzz\b', r'\bten\s*sports\b'
 ]
 
 RE_DOCS = [
@@ -106,15 +117,21 @@ RE_DOCS = [
     r'\bhistory\s*tv18\b', r'\bhistory\b', r'\btlc\b', r'\binvestigation\s*discovery\b',
     r'\bdiscovery\s*science\b', r'\bdiscovery\s*turbo\b', r'\bsony\s*bbc\s*earth\b',
     r'\breal\s*wild\b', r'\bwild\s*earth\b', r'\bwild\s*planet\b', r'\bwild\s*nature\b',
-    r'\bautentic\s*history\b', r'\blove\s*nature\b', r'\binwild\b', r'\bdocubay\b'
+    r'\bautentic\s*history\b', r'\blove\s*nature\b', r'\binwild\b', r'\bdocubay\b',
+    r'\bcgtn(?:\s*doc|\s*documentary)?\b', r'\btravel\b', r'\bastro\s*science\b', r'\bbbc\s*earth\b', r'\bfood\b', r'\bcooking\b'
 ]
 
 RE_KIDS_AND_MUSIC = [
     r'\bduronto\b', r'\bcartoon\s*network\b', r'\bnickelodeon\b', r'\bnick\b', r'\bpogo\b',
     r'\bdisney\b', r'\bsony\s*yay\b', r'\bhungama\b', r'\bsonic\b', r'\bdiscovery\s*kids\b',
+    r'\bmr\s*bean\b', r'\blego\b', r'\btom\s*(?:and|&)\s*jerry\b', r'\bgopal\s*bhar\b',
+    r'\bmotu\s*patlu\b', r'\bbatul\b', r'\bbantul\b', r'\boggy\b',
     r'\bgaan\s*bangla\b', r'\b9xm\b', r'\bmtv\b', r'\bb4u\s*music\b', r'\bmastiii\b',
     r'\bzing\b', r'\btrace\s*urban\b', r'\bdeluxe\s*music\b', r'\bclub\s*mtv\b',
-    r'\bmtunes\b', r'\bsangeet\s*bangla\b', r'\bjungle\s*book\b', r'\bgreen\s*gold\b', r'\b9x\s*jalwa\b'
+    r'\bmtunes\b', r'\bsangeet\s*bangla\b', r'\bjungle\s*book\b', r'\bgreen\s*gold\b', r'\b9x\s*jalwa\b',
+    r'\bmusic\s*india\b', r'\b7s\s*music\b', r'\byrf\b', r'\bxite\b', r'\btabbar\b',
+    r'\binsync\b', r'\bsangeet\s*bhojpuri\b', r'\bhindi\s*hits\b', r'\bepic\s*music\b',
+    r'\bpunjabi\s*music\b', r'\bjhakaas\b', r'\btashan\b', r'\bmusic\s*bangla\b'
 ]
 
 RE_ISLAMIC = [
@@ -131,9 +148,35 @@ class ChannelNormalizer:
         self.logo_exact = {}
         self.logo_patterns = []
         self.local_logos = set()
+        self.curated_blacklist = set()
         self.load_local_logos()
         self.load_mapping()
         self.load_logo_db()
+        self.load_curated_blacklist()
+
+    def load_curated_blacklist(self, blacklist_path: str = "config/curated_blacklist.json"):
+        try:
+            if os.path.exists(blacklist_path):
+                with open(blacklist_path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                    for item in data.get("blacklist", []):
+                        slug = re.sub(r'[^a-z0-9]+', '', item.lower())
+                        slug_no_hd = re.sub(r'(?:hd|fhd|sd|4k|tv)$', '', slug)
+                        self.curated_blacklist.add(slug)
+                        if slug_no_hd:
+                            self.curated_blacklist.add(slug_no_hd)
+        except Exception as e:
+            logger.warning(f"Could not load curated blacklist: {e}")
+
+    def is_blacklisted(self, name: str) -> bool:
+        if not name:
+            return False
+        norm = re.sub(r'[^a-z0-9]+', '', name.lower())
+        norm_no_hd = re.sub(r'(?:hd|fhd|sd|4k|tv)$', '', norm)
+        norm_base = re.sub(r'\d+$', '', norm_no_hd)
+        return (norm in self.curated_blacklist or 
+                norm_no_hd in self.curated_blacklist or 
+                norm_base in self.curated_blacklist)
 
     def load_local_logos(self):
         try:
@@ -231,7 +274,7 @@ class ChannelNormalizer:
             return "DBC News HD"
         if re.search(r'\bchannel\s*24\b', nl):
             return "Channel 24 HD"
-        if re.search(r'\bindependent\s*tv\b', nl):
+        if re.search(r'\bindependent(?:\s*tv)?\b', nl):
             return "Independent TV HD"
         if re.search(r'\bnews\s*24\b', nl):
             return "News 24 HD"
@@ -285,6 +328,12 @@ class ChannelNormalizer:
             return "Sananda TV"
         if re.search(r'\bmovie\s*bangla\b', nl):
             return "Movie Bangla TV"
+        if re.search(r'\bnexus\s*tv\b', nl):
+            return "Nexus TV HD"
+        if re.search(r'\btikana\s*tv\b', nl):
+            return "Tikana TV HD"
+        if re.search(r'\bayna\s*tv\b', nl):
+            return "Ayna TV HD"
 
         # 3. Kolkata & Indian Entertainment & Movies
         if re.search(r'\bzee\s*bangla\s*sonar\b', nl):
@@ -299,8 +348,8 @@ class ChannelNormalizer:
             return "Colors Bangla Cinema HD"
         if re.search(r'\bcolors\s*bangla\b', nl):
             return "Colors Bangla HD"
-        if re.search(r'\bsony\s*aath\b', nl):
-            return "Sony Aath"
+        if re.search(r'\bsony\s*a*tth?\b', nl):
+            return "Sony Aath HD"
         if re.search(r'\baakash\s*aath\b', nl):
             return "Aakash Aath"
         if re.search(r'\bruposhi\s*bangla\b', nl):
@@ -353,9 +402,9 @@ class ChannelNormalizer:
             return "Colors Cineplex Superhits"
         if re.search(r'\bcolors\s*cineplex\b', nl):
             return "Colors Cineplex HD"
-        if re.search(r'\bsony\s*pix\b', nl):
+        if re.search(r'\b(?:sony\s*)?pix\b', nl):
             return "Sony PIX HD"
-        if re.search(r'\b&pictures\b', nl):
+        if re.search(r'(?:^|\W)&+\s*pictures?\b', nl) or "&picture" in nl.replace(" ", ""):
             return "&pictures HD"
         if re.search(r'\bgoldmines\s*bollywood\b', nl):
             return "Goldmines Bollywood"
@@ -371,6 +420,46 @@ class ChannelNormalizer:
             return "Bhojpuri Cinema"
         if re.search(r'\bfilamchi\b', nl):
             return "Filamchi Bhojpuri"
+        if re.search(r'\bmix\s*tv\b', nl):
+            return "MIX TV HD"
+        if re.search(r'\bepix\b', nl):
+            return "EPIX TV HD"
+        if re.search(r'\bhindi\s*movie\s*classic\b', nl):
+            return "Hindi Movie Classic"
+        if re.search(r'\bamc\b', nl):
+            return "AMC HD"
+        if re.search(r'\bstar\s*movies\s*select\b', nl):
+            return "Star Movies Select HD"
+        if re.search(r'\bstar\s*movies\b', nl):
+            return "Star Movies HD"
+        if re.search(r'\bmovies\s*now\b', nl):
+            return "Movies Now HD"
+        if re.search(r'\bsnb\s*cinema\b', nl):
+            return "SNB Cinema"
+        if re.search(r'\bcircle\b', nl):
+            return "Circle TV"
+        if re.search(r'\bhbo\s*signature\b', nl):
+            return "HBO Signature"
+        if re.search(r'\bhbo\b', nl):
+            return "HBO HD"
+        if re.search(r'\brakuten\b', nl):
+            return "Rakuten Movies"
+        if re.search(r'\bbollygold\b', nl):
+            return "Bollygold"
+        if re.search(r'\bsony\s*wah\b', nl):
+            return "Sony Wah"
+        if re.search(r'\bbollywood\s*old\b', nl):
+            return "Bollywood Classic Hits"
+        if re.search(r'\bfox\b', nl) and not any(w in nl for w in ["news", "sports", "cricket"]):
+            return "Fox HD"
+        if re.search(r'\btbs\b', nl):
+            return "TBS HD"
+        if re.search(r'\bkolkata\s*tv\b', nl):
+            return "Kolkata TV"
+        if re.search(r'\benter\s*10\s*bangla\b', nl):
+            return "Enterr10 Bangla HD"
+        if re.search(r'\bsun\s*bangla\b', nl):
+            return "Sun Bangla HD"
         if re.search(r'\bmanoranjan\s*grand\b', nl):
             return "Manoranjan Grand"
         if re.search(r'\bmanoranjan\s*movies\b', nl):
@@ -423,6 +512,24 @@ class ChannelNormalizer:
             return "Eurosport"
         if re.search(r'\bkabaddi\b', nl):
             return "Kabaddi 24x7"
+        if re.search(r'\bred\s*bull\b', nl):
+            return "Red Bull TV HD"
+        if re.search(r'\bstar\s*sports\s*select\b', nl):
+            return "Star Sports Select 1 HD"
+        if re.search(r'\bgolf\b', nl):
+            return "Golf Channel HD"
+        if re.search(r'\bten\s*sports\b', nl):
+            return "Ten Sports HD"
+        if re.search(r'\breal\s*madrid\b', nl):
+            return "Real Madrid TV HD"
+        if re.search(r'\btennis\b', nl):
+            return "Tennis TV Classics"
+        if re.search(r'\bhorse\b', nl):
+            return "Horse and Country HD"
+        if re.search(r'\bhunt\b', nl):
+            return "Hunt Fish TV"
+        if re.search(r'\bcricbuzz\b', nl):
+            return "Cricbuzz Live"
 
         # 5. Docs & Wildlife
         if re.search(r'\binvestigation\s*discovery\b', nl):
@@ -447,8 +554,18 @@ class ChannelNormalizer:
             return "TLC HD"
         if re.search(r'\bsony\s*bbc\s*earth\b', nl):
             return "Sony BBC Earth HD"
-        if re.search(r'\binvestigation\s*discovery\b', nl):
-            return "Investigation Discovery HD"
+        if re.search(r'\bbbc\s*earth\b', nl):
+            return "BBC Earth HD"
+        if re.search(r'\bcgtn(?:\s*doc|\s*documentary)?\b', nl):
+            return "CGTN Documentary HD"
+        if re.search(r'\btravel\b', nl):
+            return "Travel Channel HD"
+        if re.search(r'\bastro\s*science\b', nl):
+            return "Astroscience TV"
+        if re.search(r'\bfood\b', nl):
+            return "Food Network HD"
+        if re.search(r'\bcooking\b', nl):
+            return "Cooking TV"
         if re.search(r'\binwild\b', nl):
             return "InWild HD"
         if re.search(r'\bdocubay\b', nl):
@@ -465,8 +582,22 @@ class ChannelNormalizer:
             return "Green Gold TV"
         if re.search(r'\b9x\s*jalwa\b', nl):
             return "9X Jalwa"
-        if re.search(r'\bnickelodeon\b|\bnick\b', nl) and "sonic" not in nl:
+        if re.search(r'\bnick(?:elodeon|lodean)?\b', nl) and "sonic" not in nl:
             return "Nickelodeon HD"
+        if re.search(r'\bmr\s*bean\b', nl):
+            return "Mr Bean Animated"
+        if re.search(r'\blego\b', nl):
+            return "Lego Channel"
+        if re.search(r'\btom\s*(?:and|&)\s*jerry\b', nl):
+            return "Tom and Jerry"
+        if re.search(r'\bgopal\s*bhar\b', nl):
+            return "Gopal Bhar"
+        if re.search(r'\bmotu\s*patlu\b', nl):
+            return "Motu Patlu"
+        if re.search(r'\bbat?ul\b', nl):
+            return "Bantul The Great"
+        if re.search(r'\boggy\b', nl):
+            return "Oggy and the Cockroaches"
         if re.search(r'\bsony\s*yay\b', nl):
             return "Sony YAY HD"
         if re.search(r'\bdisney\s*(?:jr|junior)\b', nl):
@@ -487,9 +618,35 @@ class ChannelNormalizer:
             return "B4U Music"
         if re.search(r'\bgaan\s*bangla\b', nl):
             return "Gaan Bangla HD"
+        if re.search(r'\bmusic\s*india\b', nl):
+            return "Music India"
+        if re.search(r'\b7s\s*music\b', nl):
+            return "7S Music"
+        if re.search(r'\byrf\b', nl):
+            return "YRF Music HD"
+        if re.search(r'\bxite\b', nl):
+            return "XITE Hits"
+        if re.search(r'\btabbar\b', nl):
+            return "Tabbar Hits"
+        if re.search(r'\binsync\b', nl):
+            return "Insync TV"
+        if re.search(r'\bsangeet\s*bhojpuri\b', nl):
+            return "Sangeet Bhojpuri"
+        if re.search(r'\bhindi\s*hits\b', nl):
+            return "Hindi Hits HD"
+        if re.search(r'\bepic\s*music\b', nl):
+            return "Epic Music"
+        if re.search(r'\bpunjabi\s*music\b', nl):
+            return "Punjabi Music HD"
+        if re.search(r'\bjhakaas\b', nl):
+            return "9X Jhakaas"
+        if re.search(r'\btashan\b', nl):
+            return "9X Tashan"
+        if re.search(r'\bmusic\s*bangla\b', nl):
+            return "Music Bangla"
 
         # 7. Islamic
-        if re.search(r'\b(?:makkah|maah)\s*live\b', nl):
+        if re.search(r'\b(?:makkah|maah)(?:\s*live|\s*tv)?\b', nl):
             return "Makkah Live HD"
         if re.search(r'\bmadinah\s*live\b', nl):
             return "Madinah Live HD"
@@ -501,6 +658,50 @@ class ChannelNormalizer:
             return "Peace TV Urdu"
         if re.search(r'\b(?:al\s*quran|bahrain\s*quran|quran\s*radiotv|quran)\b', nl) and "radio" not in nl:
             return "Al Quran TV"
+
+        # 8. International & Global News
+        if re.search(r'\bbbc\s*world\s*service\b', nl):
+            return "BBC World Service"
+        if re.search(r'\bbbc\s*news\b|\bbbc\s*world\b', nl):
+            return "BBC News HD"
+        if re.search(r'\bcnn\s*international\b', nl):
+            return "CNN International HD"
+        if re.search(r'\bcnn\b', nl):
+            return "CNN HD"
+        if re.search(r'\bbloomberg\s*asia\b', nl):
+            return "Bloomberg Asia"
+        if re.search(r'\bbloomberg\s*originals\b', nl):
+            return "Bloomberg Originals"
+        if re.search(r'\bbloomberg\s*tv\s*live\b', nl):
+            return "Bloomberg TV Live Event"
+        if re.search(r'\bbloomberg\b', nl):
+            return "Bloomberg TV HD"
+        if re.search(r'\bal\s*jazeera\s*mubasher\b', nl):
+            return "Al Jazeera Mubasher"
+        if re.search(r'\bal\s*jazeera\b', nl):
+            return "Al Jazeera English HD"
+        if re.search(r'\beuronews\s*english\b', nl):
+            return "Euronews English"
+        if re.search(r'\beuronews\b', nl):
+            return "Euronews HD"
+        if re.search(r'\bsky\s*news\b', nl):
+            return "Sky News HD"
+        if re.search(r'\bfox\s*news\b', nl):
+            return "Fox News HD"
+        if re.search(r'\babc\s*news\b', nl):
+            return "ABC News Live HD"
+        if re.search(r'\bcna\b', nl):
+            return "CNA HD"
+        if re.search(r'\bwion\b', nl):
+            return "WION News HD"
+        if re.search(r'\bndtv\s*india\b', nl):
+            return "NDTV India HD"
+        if re.search(r'\bndtv\b', nl):
+            return "NDTV 24x7 HD"
+        if re.search(r'\bcnbc\s*tv\b', nl):
+            return "CNBC TV18 HD"
+        if re.search(r'\bcnbc\b', nl) and "awaz" not in nl:
+            return "CNBC HD"
 
         return name
 
@@ -546,59 +747,69 @@ class ChannelNormalizer:
         return original_group or "General"
 
     def classify_curated(self, title: str, group: str) -> Optional[str]:
-        tl = title.lower()
+        cleaned = self.clean_name(title)
+        if self.is_blacklisted(title) or self.is_blacklisted(cleaned):
+            return None
 
-        # 1. Exclude Indian News
+        tl = title.lower()
+        cl = cleaned.lower()
+
+        # 1. Global / International News (Strictly verified international news)
+        for p in RE_GLOBAL_NEWS:
+            if re.search(p, tl) or re.search(p, cl):
+                return "9. International & Global News"
+
+        # 2. Exclude Indian News
         for p in RE_INDIAN_NEWS:
-            if re.search(p, tl):
+            if re.search(p, tl) or re.search(p, cl):
                 return None
 
-        # 2. BD Sports
+        # 3. BD Sports
         for p in RE_BD_SPORTS:
-            if re.search(p, tl):
+            if re.search(p, tl) or re.search(p, cl):
                 if "tnt" in tl:
                     break
                 return "1. BD Sports"
 
-        # 3. BD News (Strictly verified BD news - placed right after BD Sports)
+        # 4. BD News (Strictly verified BD news - placed right after BD Sports)
         for p in RE_BD_NEWS:
-            if re.search(p, tl):
+            if re.search(p, tl) or re.search(p, cl):
                 if any(re.search(e, tl) for e in RE_FOREIGN_NEWS_EXCLUDE):
                     continue
                 return "2. BD News & National"
 
-        # 4. BD Entertainment & Drama (Strictly verified BD entertainment)
+        # 5. BD Entertainment & Drama (Strictly verified BD entertainment)
         for p in RE_BD_ENT:
-            if re.search(p, tl):
+            if re.search(p, tl) or re.search(p, cl):
                 if any(re.search(e, tl) for e in RE_FOREIGN_ENT_EXCLUDE):
                     continue
                 return "3. BD Entertainment & Drama"
 
-        # 5. Kolkata & Indian Entertainment & Movies
+        # 6. Kolkata & Indian Entertainment & Movies
         for p in RE_KOLKATA_AND_INDIAN_ENT:
-            if re.search(p, tl):
+            if re.search(p, tl) or re.search(p, cl):
                 return "4. Indian & Kolkata Entertainment & Movies"
 
-        # 6. All Sports (Cricket, Football, Global Sports)
+        # 7. All Sports (Cricket, Football, Global Sports)
         for p in RE_ALL_SPORTS:
-            if re.search(p, tl):
+            if re.search(p, tl) or re.search(p, cl):
                 return "5. All Sports (Cricket, Football & HD)"
 
-        # 7. Documentary & Wildlife
+        # 8. Documentary & Wildlife
         for p in RE_DOCS:
-            if re.search(p, tl):
+            if re.search(p, tl) or re.search(p, cl):
                 return "6. Documentary & Wildlife"
 
-        # 8. Music & Kids (Cartoons & Songs)
+        # 9. Music & Kids (Cartoons & Songs)
         for p in RE_KIDS_AND_MUSIC:
-            if re.search(p, tl):
+            if re.search(p, tl) or re.search(p, cl):
                 if "hmtv" in tl:
                     continue
                 return "7. Music & Kids (Cartoons & Songs)"
 
-        # 9. Islamic & Devotional
+        # 10. Islamic & Devotional
         for p in RE_ISLAMIC:
-            if re.search(p, tl):
+            if re.search(p, tl) or re.search(p, cl):
                 return "8. Islamic & Devotional"
 
         return None
