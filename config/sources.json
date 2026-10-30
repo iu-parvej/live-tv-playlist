@@ -1,19 +1,31 @@
 {
   "sources": [
     {
-      "name": "SkyM3U Curated VIP 🚀",
+      "name": "SkyM3U Curated VIP (prfj)",
       "url": "https://go.skym3u.dev/prfj.m3u?s=77eb",
       "enabled": true,
       "priority": 1
     },
     {
-      "name": "TechEasyLife 👑",
+      "name": "SkyM3U AynaOTT BD Live (oaiu)",
+      "url": "https://go.skym3u.dev/oaiu.m3u?s=17f3",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "name": "SkyM3U Indian & Global Hub (3pks)",
+      "url": "https://go.skym3u.dev/3pks.m3u?s=54ea",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "name": "TechEasyLife",
       "url": "https://raw.githubusercontent.com/Monjil404/livetv/refs/heads/main/pro",
       "enabled": true,
       "priority": 1
     },
     {
-      "name": "Sports ⚽",
+      "name": "Sports",
       "url": "https://raw.githubusercontent.com/Monjil404/TVspo/refs/heads/main/tvs",
       "enabled": true,
       "priority": 1
