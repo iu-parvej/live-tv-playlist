@@ -9,3 +9,14 @@ scripts/parse_sources.py
 
 temp/
 
+# Android TV app build artifacts
+android-tv-app/tv-app/.gradle/
+android-tv-app/tv-app/build/
+android-tv-app/tv-app/app/build/
+android-tv-app/tv-app/**/build/
+android-tv-app/tv-app/local.properties
+android-tv-app/tv-app/.idea/
+*.iml
+*.keystore
+*.jks
+

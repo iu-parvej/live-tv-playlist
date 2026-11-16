@@ -145,3 +145,13 @@ D:\Website\Live TV Playlist\
 ├── setup_scheduler.bat       # Daily automated scheduler
 └── requirements.txt
 ```
+
+---
+
+## 📱 Native Android TV App (`android-tv-app/`)
+
+This repository also includes **Live TV**, a custom native Kotlin + Jetpack Compose + Media3 (ExoPlayer) Android TV player built specifically for these playlists:
+
+* **Download Ready APK:** [`android-tv-app/releases/LiveTV-v1.0.0.apk`](android-tv-app/releases/LiveTV-v1.0.0.apk) (`3.06 MB`, Android 6.0+ / Android TV / Xiaomi Mi Box / Fire TV)
+* **Source & Documentation:** [`android-tv-app/README.md`](android-tv-app/README.md)
+* **Key Features:** Pre-loaded with all 5 GitHub playlists, instant conditional `ETag` sync on launch, zero-delay sports playback start, automatic failover across all backup links + mid-stream freeze recovery, auto-skip to next channel if all links fail, Retro Light (default) & Midnight Dark themes, and full Xiaomi Mi Box / Android TV remote support.
